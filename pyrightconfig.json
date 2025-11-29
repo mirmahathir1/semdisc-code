@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "backend/all_datalakes",
+    "backend/__pycache__",
+    "chpc/logs",
+    "chrome-linux",
+    "data_archive",
+    "data_downloader",
+    "env",
+    "frontend2/node_modules",
+    "misc",
+    ".git",
+    "llm_outputs",
+    "semdiscenv"
+  ],
+  "typeCheckingMode": "off"
+}
