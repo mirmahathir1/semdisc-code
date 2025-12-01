@@ -1,0 +1,5 @@
+id,name,type
+4,CHEBI definition,STRING
+3,Human and mouse protein kinases: classification and index,STRING
+1,IUPHAR_TARGET_TYPE,STRING
+2,IUPHAR_TARGET_FAMILY,STRING

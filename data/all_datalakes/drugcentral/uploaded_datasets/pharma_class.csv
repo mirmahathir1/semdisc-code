@@ -1,0 +1,1001 @@
+id,struct_id,type,name,class_code,source
+501898,1108,PA,Respiratory System Agents,D019141,MeSH
+506574,1045,PA,Antineoplastic Agents,D000970,MeSH
+510747,1523,PA,Analgesics,D000700,MeSH
+510141,26,PA,Immunologic Factors,D007155,MeSH
+491443,644,EPC,Phosphodiesterase 3 Inhibitor,N0000175598,FDA
+509630,1567,PA,Protective Agents,D020011,MeSH
+494378,1152,has role,Xenobiotic,CHEBI:35703,CHEBI
+511574,5580,PA,Antiparasitic Agents,D000977,MeSH
+494143,842,has role,anti-tussive,CHEBI:51177,CHEBI
+513450,2639,PA,Antipsychotic Agents,D014150,MeSH
+494577,5002,has role,antidiabetic,CHEBI:35526,CHEBI
+513685,2739,PA,Noxae,D009676,MeSH
+495123,2052,has role,nicotinic antagonists,CHEBI:48878,CHEBI
+506906,2544,PA,Angiogenesis Inhibitors,D020533,MeSH
+515106,4781,PA,Micronutrients,D018977,MeSH
+513434,2633,PA,Central Nervous System Agents,D002491,MeSH
+509120,1012,PA,Antimetabolites,D000963,MeSH
+497472,1271,has role,fundamental metabolites,CHEBI:78675,CHEBI
+491959,2429,EPC,Monoamine Oxidase Type B Inhibitor,N0000175762,FDA
+492132,2097,EPC,Glycosaminoglycan,N0000175837,FDA
+492576,4898,MoA,Cytochrome P450 3A4 Inhibitors,N0000182141,FDA
+499930,2714,has role,hepatoprotective agents,CHEBI:62868,CHEBI
+490348,5432,PE,Decreased GnRH Secretion,N0000008638,FDA
+496832,1918,has role,vasodilator agents,CHEBI:35620,CHEBI
+489584,547,CS,Cephalosporins,M0003827,FDA
+502770,1597,PA,Sensory System Agents,D018689,MeSH
+500204,376,has role,antineoplastic agents,CHEBI:35610,CHEBI
+498466,2102,has role,artificial blood,CHEBI:38849,CHEBI
+512314,2130,PA,Hematologic Agents,D006401,MeSH
+508240,354,PA,Anti-Inflammatory Agents,D000893,MeSH
+505478,732,PA,Antidiuretic Hormone Receptor Antagonists,D065092,MeSH
+489539,441,CS,Barbiturates,M0002177,FDA
+511568,1830,PA,Tranquilizing Agents,D014149,MeSH
+499208,1619,has role,antiprotozoal drugs,CHEBI:35820,CHEBI
+495585,2512,has role,allergenic drug,CHEBI:88188,CHEBI
+503436,4645,PA,Dermatologic Agents,D003879,MeSH
+496256,4617,has role,antioxidants,CHEBI:22586,CHEBI
+514950,832,PA,Neurotransmitter Agents,D018377,MeSH
+495870,2861,has role,antimetabolite,CHEBI:35221,CHEBI
+511985,1993,PA,Antidepressive Agents,D000928,MeSH
+509150,779,PA,Hormone Antagonists,D006727,MeSH
+509078,756,PA,Natriuretic Agents,D045283,MeSH
+505137,310,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+498974,1813,has role,Escherichia coli metabolites,CHEBI:76971,CHEBI
+494639,4,has role,amphiphiles,CHEBI:59941,CHEBI
+490351,2862,PE,Decreased Leukotriene Production,N0000008683,FDA
+508787,4662,PA,Lipid Regulating Agents,D057847,MeSH
+499281,659,has role,topoisomerase IV inhibitors,CHEBI:53559,CHEBI
+492080,5030,EPC,Hydrolytic Lysosomal Glycogen-specific Enzyme,N0000175821,FDA
+507519,2872,PA,Calcium Channel Blockers,D002121,MeSH
+505595,674,PA,Membrane Transport Modulators,D049990,MeSH
+501387,2647,PA,Antimetabolites,D000963,MeSH
+500671,279,has role,antibacterial drugs,CHEBI:36047,CHEBI
+508150,301,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+497222,4267,has role,plant metabolites,CHEBI:76924,CHEBI
+501713,1165,PA,"Anti-Inflammatory Agents, Non-Steroidal",D000894,MeSH
+511940,1971,PA,"Antidepressive Agents, Tricyclic",D000929,MeSH
+489629,2105,CS,Ergot Alkaloids,M0007656,FDA
+512812,2303,PA,Adrenergic Agents,D018663,MeSH
+491822,1529,EPC,Nonsteroidal Anti-inflammatory Drug,N0000175722,FDA
+499831,4802,has role,anticoronaviral drug,CHEBI:149553,CHEBI
+514565,2998,PA,Anti-Infective Agents,D000890,MeSH
+489479,1103,CS,"Anti-Inflammatory Agents, Non-Steroidal",M0001335,FDA
+513941,5644,PA,Hypnotics and Sedatives,D006993,MeSH
+496072,3639,has role,Mus musculus metabolites,CHEBI:75771,CHEBI
+494635,3313,has role,anti-asthmatic agents,CHEBI:65023,CHEBI
+490465,1539,MoA,Nucleoside Reverse Transcriptase Inhibitors,N0000009947,FDA
+492714,1601,MoA,P-Glycoprotein Inhibitors,N0000185503,FDA
+514967,2351,PA,Estrogen Receptor Modulators,D020847,MeSH
+505586,833,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+512795,2293,PA,Muscarinic Antagonists,D018727,MeSH
+493701,332,has role,diuretics,CHEBI:35498,CHEBI
+510465,1384,PA,Cardiovascular Agents,D002317,MeSH
+499821,4528,has role,reducer,CHEBI:63247,CHEBI
+494131,3920,has role,glucocorticoid receptor agonists,CHEBI:63562,CHEBI
+494458,1245,has role,Prodrugs,CHEBI:50266,CHEBI
+507026,2597,PA,Antifungal Agents,D000935,MeSH
+508990,719,PA,"Anti-Infective Agents, Local",D000891,MeSH
+489608,1142,CS,Dihydropyridines,M0006414,FDA
+493122,5244,MoA,UGT1A1 Inhibitors,N0000191272,FDA
+494727,1626,has role,acetylcholinesterase inhibitors,CHEBI:38462,CHEBI
+506659,4380,PA,Psychotropic Drugs,D011619,MeSH
+507959,5557,PA,Anti-Infective Agents,D000890,MeSH
+492308,66,EPC,Antidote for Acetaminophen Overdose,N0000175961,FDA
+498666,1399,has role,antimetabolite,CHEBI:35221,CHEBI
+494223,928,has role,NF-kappaB inhibitors,CHEBI:73240,CHEBI
+492692,5379,MoA,P-Glycoprotein Inhibitors,N0000185503,FDA
+491938,2152,EPC,Anti-epileptic Agent,N0000175753,FDA
+507492,2046,PA,Serotonin Agents,D018490,MeSH
+500289,959,has role,anti-tussive,CHEBI:51177,CHEBI
+499758,4317,has role,antiseptics,CHEBI:48218,CHEBI
+506347,2553,PA,Enzyme Inhibitors,D004791,MeSH
+498741,4626,has role,explosive compounds,CHEBI:63490,CHEBI
+507023,1556,PA,Hormone Antagonists,D006727,MeSH
+503928,2817,PA,Antineoplastic Agents,D000970,MeSH
+493037,4184,MoA,Phenylalanine Hydroxylase Activators,N0000190482,FDA
+494236,949,has role,EC 4.2.1.1 inhibitor,CHEBI:23018,CHEBI
+506734,2255,PA,Anticonvulsants,D000927,MeSH
+496792,4189,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+515060,2001,PA,Antiviral Agents,D000998,MeSH
+504680,2290,PA,Sensory System Agents,D018689,MeSH
+491747,5220,EPC,Opioid Antagonist,N0000175691,FDA
+495476,2389,has role,alpha-adrenergic receptor blockaders,CHEBI:37890,CHEBI
+514609,2491,PA,Peripheral Nervous System Agents,D018373,MeSH
+491016,4249,EPC,Antiseptic,N0000175486,FDA
+494505,1364,has role,acaricides,CHEBI:22153,CHEBI
+507073,210,PA,Aromatase Inhibitors,D047072,MeSH
+496150,1106,has role,antilipemic drugs,CHEBI:35679,CHEBI
+514648,1513,PA,Antifungal Agents,D000935,MeSH
+500634,5304,has role,SMO receptor antagonists,CHEBI:66908,CHEBI
+514127,1805,PA,Contraceptive Agents,D003270,MeSH
+511265,1732,PA,Neurotransmitter Agents,D018377,MeSH
+502002,446,PA,Diuretics,D004232,MeSH
+498483,4730,has role,pyrethroid ester insecticides,CHEBI:39116,CHEBI
+507299,179,PA,Central Nervous System Depressants,D002492,MeSH
+508825,659,PA,Anti-Bacterial Agents,D000900,MeSH
+509998,1109,PA,Hypnotics and Sedatives,D006993,MeSH
+505755,1566,PA,Histamine H1 Antagonists,D006634,MeSH
+509294,824,PA,Hormones,D006728,MeSH
+500667,171,has role,non-steroidal anti-inflammatory agent,CHEBI:35475,CHEBI
+502663,4067,PA,Hormones,D006728,MeSH
+510977,1626,PA,Enzyme Inhibitors,D004791,MeSH
+495717,2686,has role,local anesthetics,CHEBI:36333,CHEBI
+503085,607,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+503493,239,PA,Hematologic Agents,D006401,MeSH
+513808,2774,PA,Peripheral Nervous System Agents,D018373,MeSH
+498223,2827,has role,antineoplastic agents,CHEBI:35610,CHEBI
+504742,4186,PA,Immunosuppressive Agents,D007166,MeSH
+490393,1429,PE,Increased Cytokine Activity,N0000009267,FDA
+507927,191,PA,Membrane Transport Modulators,D049990,MeSH
+503592,98,PA,"Muscle Relaxants, Central",D009125,MeSH
+509894,1073,PA,Anti-Bacterial Agents,D000900,MeSH
+490817,419,MoA,Corticosteroid Hormone Receptor Agonists,N0000175450,FDA
+491432,2743,EPC,Nucleoside Metabolic Inhibitor,N0000175595,FDA
+508605,3083,PA,"Anti-Infective Agents, Local",D000891,MeSH
+499122,391,has role,antineoplastic agents,CHEBI:35610,CHEBI
+506775,1986,PA,Histamine Antagonists,D006633,MeSH
+502010,1106,PA,Lipid Regulating Agents,D057847,MeSH
+496048,3864,has role,platelet aggregation inhibitors,CHEBI:50427,CHEBI
+496334,3281,has role,biological marker,CHEBI:59163,CHEBI
+505863,4300,PA,Antiviral Agents,D000998,MeSH
+507501,2572,PA,Anti-Infective Agents,D000890,MeSH
+513597,2717,PA,Serotonin Agents,D018490,MeSH
+505673,4623,PA,Pesticides,D010575,MeSH
+495383,2277,has role,bactericides,CHEBI:33282,CHEBI
+493404,5735,EPC,Neonatal Fc Receptor Blocker,N0000194004,FDA
+511326,1752,PA,Central Nervous System Agents,D002491,MeSH
+498833,228,has role,Dopamine receptor agonist,CHEBI:51065,CHEBI
+510460,1383,PA,Anti-Infective Agents,D000890,MeSH
+490805,4823,MoA,Neuraminidase Inhibitors,N0000175436,FDA
+503948,4270,PA,Sunscreening Agents,D013473,MeSH
+492260,669,EPC,beta Lactamase Inhibitor,N0000175930,FDA
+500435,5572,has role,antibacterial drugs,CHEBI:36047,CHEBI
+510927,3329,PA,Anti-Bacterial Agents,D000900,MeSH
+509855,1056,PA,GABA Modulators,D018757,MeSH
+514344,1230,PA,Antidepressive Agents,D000928,MeSH
+493309,2579,MoA,Serotonin 4 Receptor Agonists,N0000193870,FDA
+507804,137,PA,Sympatholytics,D013565,MeSH
+514145,1942,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+494191,4601,has role,TrkB receptor agonist,CHEBI:140489,CHEBI
+513543,2699,PA,Anti-Inflammatory Agents,D000893,MeSH
+506776,1986,PA,Histamine H1 Antagonists,D006634,MeSH
+494491,1342,has role,sympatholytic drug,CHEBI:66991,CHEBI
+492500,5384,MoA,Cytochrome P450 2D6 Inhibitors,N0000182137,FDA
+504703,1873,PA,Membrane Transport Modulators,D049990,MeSH
+498181,2595,has role,anti-pyretic,CHEBI:35493,CHEBI
+492359,30,EPC,Photoactivated Radical Generator,N0000175984,FDA
+508502,496,PA,Anti-Dyskinesia Agents,D018726,MeSH
+492569,1187,MoA,Cytochrome P450 3A4 Inhibitors,N0000182141,FDA
+491177,1343,EPC,Central alpha-2 Adrenergic Agonist,N0000175554,FDA
+507897,180,PA,Adrenergic Agents,D018663,MeSH
+508818,654,PA,Membrane Transport Modulators,D049990,MeSH
+509786,922,PA,Peripheral Nervous System Agents,D018373,MeSH
+494722,1621,has role,Dopamine receptor agonist,CHEBI:51065,CHEBI
+497207,4277,has role,trace elements,CHEBI:27027,CHEBI
+505404,3407,PA,Central Nervous System Depressants,D002492,MeSH
+513289,2561,PA,Selective Estrogen Receptor Modulators,D020845,MeSH
+494590,1482,has role,Prodrugs,CHEBI:50266,CHEBI
+509019,723,PA,Peripheral Nervous System Agents,D018373,MeSH
+514139,1142,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+499606,737,has role,human xenobiotic metabolites,CHEBI:76967,CHEBI
+512066,2027,PA,Cardiovascular Agents,D002317,MeSH
+497896,4376,has role,antifungal agents,CHEBI:35718,CHEBI
+490798,5348,EPC,Pleuromutilin Antibacterial,N0000175434,FDA
+501098,5318,PA,Adenosine Deaminase Inhibitors,D058892,MeSH
+506935,2827,PA,Antineoplastic Agents,D000970,MeSH
+510572,1421,PA,"Antineoplastic Agents, Alkylating",D018906,MeSH
+513818,2781,PA,Neuromuscular Nondepolarizing Agents,D003473,MeSH
+510053,1155,PA,Reproductive Control Agents,D012102,MeSH
+501110,5708,PA,Hypoglycemic Agents,D007004,MeSH
+503796,4055,PA,Antirheumatic Agents,D018501,MeSH
+512671,2258,PA,Cardiotonic Agents,D002316,MeSH
+489849,786,CS,Anthracyclines,M0028312,FDA
+508255,351,PA,Respiratory System Agents,D019141,MeSH
+494969,1765,has role,antidote to opioid overdose,CHEBI:90755,CHEBI
+506844,1982,PA,Central Nervous System Agents,D002491,MeSH
+497965,1228,has role,anti-asthmatic drugs,CHEBI:49167,CHEBI
+503615,120,PA,Peripheral Nervous System Agents,D018373,MeSH
+498944,2138,has role,anticoagulants,CHEBI:50249,CHEBI
+495358,2268,has role,uricosuric drugs,CHEBI:35841,CHEBI
+509496,901,PA,Central Nervous System Agents,D002491,MeSH
+492811,3601,EPC,Standardized Chemical Allergen,N0000185508,FDA
+497089,4260,has role,agricultural chemicals,CHEBI:33286,CHEBI
+493633,229,has role,ophthalmology drugs,CHEBI:66981,CHEBI
+513193,2517,PA,"Anti-Infective Agents, Urinary",D000892,MeSH
+492409,1942,PE,Decreased Blood Pressure,N0000178477,FDA
+513713,2742,PA,Central Nervous System Agents,D002491,MeSH
+492914,4875,MoA,Organic Anion Transporting Polypeptide 1B3 Inhibitors,N0000190108,FDA
+510015,5537,PA,Sensory System Agents,D018689,MeSH
+506205,4301,PA,Indicators and Reagents,D007202,MeSH
+511653,1877,PA,Narcotic Antagonists,D009292,MeSH
+496224,3379,has role,Mus musculus metabolites,CHEBI:75771,CHEBI
+511349,1754,PA,Anesthetics,D000777,MeSH
+513202,2511,PA,Leprostatic Agents,D007917,MeSH
+496758,1907,has role,Escherichia coli metabolites,CHEBI:76971,CHEBI
+503902,3584,PA,Adrenergic alpha-1 Receptor Antagonists,D058668,MeSH
+508137,3013,PA,Central Nervous System Stimulants,D000697,MeSH
+504394,2563,PA,Serotonin Receptor Agonists,D017366,MeSH
+489476,568,CS,"Anti-Inflammatory Agents, Non-Steroidal",M0001335,FDA
+503199,3219,PA,Anticarcinogenic Agents,D016588,MeSH
+502321,1526,PA,Excitatory Amino Acid Antagonists,D018691,MeSH
+494042,5667,has role,agricultural chemicals,CHEBI:33286,CHEBI
+496901,3323,has role,algal metabolites,CHEBI:84735,CHEBI
+492266,276,EPC,Macrolide Antimicrobial,N0000175935,FDA
+494047,749,has role,central nervous system depressants,CHEBI:35488,CHEBI
+491220,4633,EPC,Alkylating Drug,N0000175558,FDA
+513327,2607,PA,Hormones,D006728,MeSH
+490484,1049,PE,Decreased Sebaceous Gland Activity,N0000009982,FDA
+503819,4467,PA,Adrenergic Agents,D018663,MeSH
+512057,2024,PA,Enzyme Inhibitors,D004791,MeSH
+493547,114,has role,intravenous anesthetics,CHEBI:38877,CHEBI
+512921,2346,PA,Muscarinic Antagonists,D018727,MeSH
+513814,2781,PA,Cholinergic Agents,D018678,MeSH
+497260,1550,has role,fundamental metabolites,CHEBI:78675,CHEBI
+507785,132,PA,Peripheral Nervous System Agents,D018373,MeSH
+493617,205,has role,vasodilator agents,CHEBI:35620,CHEBI
+504713,2164,PA,Immunologic Factors,D007155,MeSH
+491849,195,PE,Central Nervous System Stimulation,N0000175729,FDA
+503863,4562,PA,Central Nervous System Agents,D002491,MeSH
+499055,1796,has role,H1 receptor antagonists,CHEBI:37955,CHEBI
+512132,2042,PA,Reproductive Control Agents,D012102,MeSH
+492962,5709,MoA,Breast Cancer Resistance Protein Inhibitors,N0000190113,FDA
+499098,962,has role,hypnotics,CHEBI:35717,CHEBI
+514398,2239,PA,Lipid Regulating Agents,D057847,MeSH
+498901,1598,has role,antineoplastic agents,CHEBI:35610,CHEBI
+510444,1372,PA,Anti-Asthmatic Agents,D018927,MeSH
+513707,2741,PA,Dopamine Antagonists,D018492,MeSH
+512262,3428,PA,GABA Agents,D018682,MeSH
+494642,2388,has role,sympathomimetic,CHEBI:35524,CHEBI
+503097,607,PA,Sensory System Agents,D018689,MeSH
+505966,4634,PA,Immunologic Factors,D007155,MeSH
+492317,2843,PE,Increased Prothrombin Activity,N0000175965,FDA
+500314,897,has role,vasodilator agents,CHEBI:35620,CHEBI
+498088,2014,has role,geroprotectors,CHEBI:176497,CHEBI
+496736,1906,has role,Escherichia coli metabolites,CHEBI:76971,CHEBI
+503538,2595,PA,Sensory System Agents,D018689,MeSH
+498967,1805,has role,synthetic oral contraceptives,CHEBI:49326,CHEBI
+505986,940,PA,Antiviral Agents,D000998,MeSH
+510806,894,PA,Adrenergic beta-Antagonists,D000319,MeSH
+503636,2043,PA,Neurotransmitter Agents,D018377,MeSH
+490782,242,EPC,Atypical Antipsychotic,N0000175430,FDA
+499634,776,has role,Prodrugs,CHEBI:50266,CHEBI
+498560,825,has role,adrenergic agents,CHEBI:37962,CHEBI
+508244,352,PA,Glucocorticoids,D005938,MeSH
+499385,1189,has role,immunosuppressive agents,CHEBI:35705,CHEBI
+502132,2175,PA,Psychotropic Drugs,D011619,MeSH
+497060,1316,has role,geroprotectors,CHEBI:176497,CHEBI
+509932,5536,PA,Coccidiostats,D003049,MeSH
+514791,2707,PA,Topoisomerase Inhibitors,D059003,MeSH
+506456,4978,PA,Gastrointestinal Agents,D005765,MeSH
+493170,5222,EPC,Poly(ADP-Ribose) Polymerase Inhibitor,N0000191623,FDA
+506069,5143,PA,Enzyme Inhibitors,D004791,MeSH
+493123,5288,MoA,UGT2B7 Inhibitors,N0000191273,FDA
+502846,4354,PA,Insecticides,D007306,MeSH
+506319,5139,PA,Antiviral Agents,D000998,MeSH
+511741,1910,PA,Adrenergic Antagonists,D018674,MeSH
+508710,616,PA,Histamine Agents,D018494,MeSH
+512454,2172,PA,Dopamine Antagonists,D018492,MeSH
+500629,5343,has role,antineoplastic agents,CHEBI:35610,CHEBI
+514790,2707,PA,Topoisomerase I Inhibitors,D059004,MeSH
+506867,2589,PA,"Antineoplastic Agents, Alkylating",D018906,MeSH
+503280,104,PA,Anthelmintics,D000871,MeSH
+508905,2204,PA,Lipid Regulating Agents,D057847,MeSH
+514009,1708,PA,Nucleic Acid Synthesis Inhibitors,D019384,MeSH
+494272,1001,has role,antiinfective agents,CHEBI:35441,CHEBI
+505431,784,PA,Urological Agents,D064804,MeSH
+507612,4964,PA,Immunotoxins,D000922,MeSH
+508463,488,PA,Cardiovascular Agents,D002317,MeSH
+495788,2742,has role,anticoronaviral drug,CHEBI:149553,CHEBI
+508204,329,PA,Sympathomimetics,D013566,MeSH
+499827,2590,has role,antineoplastic agents,CHEBI:35610,CHEBI
+491297,1204,EPC,Corticosteroid,N0000175576,FDA
+497181,4347,has role,epitope role,CHEBI:53000,CHEBI
+501938,2199,PA,Adrenergic Agents,D018663,MeSH
+511768,1921,PA,Cardiovascular Agents,D002317,MeSH
+513680,3631,PA,Fatty Acid Synthesis Inhibitors,D054872,MeSH
+492000,5148,EPC,Surfactant,N0000175778,FDA
+495263,2243,has role,drug metabolites,CHEBI:49103,CHEBI
+493009,4172,MoA,Cytochrome P450 3A5 Inhibitors,N0000190115,FDA
+497968,4247,has role,antibacterial drugs,CHEBI:36047,CHEBI
+495282,2247,has role,immunosuppressive agents,CHEBI:35705,CHEBI
+500136,1197,has role,inhibitors of type II topoisomerase,CHEBI:50750,CHEBI
+499463,247,has role,antineoplastic agents,CHEBI:35610,CHEBI
+502513,5545,PA,"Anti-Inflammatory Agents, Non-Steroidal",D000894,MeSH
+507520,2872,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+509865,4497,PA,Estrogens,D004967,MeSH
+501297,2454,PA,Expectorants,D005100,MeSH
+509117,771,PA,Anti-Infective Agents,D000890,MeSH
+495767,3624,has role,pharmaceutical fungicide,CHEBI:86327,CHEBI
+499422,2486,has role,Chelating agent,CHEBI:38161,CHEBI
+509403,5523,PA,Pesticides,D010575,MeSH
+496025,2414,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+492542,5414,MoA,Cytochrome P450 2C19 Inhibitors,N0000182140,FDA
+502371,528,PA,Anti-Bacterial Agents,D000900,MeSH
+498107,2209,has role,antibacterial drugs,CHEBI:36047,CHEBI
+497281,4478,has role,algal metabolites,CHEBI:84735,CHEBI
+499212,2498,has role,antibacterial drugs,CHEBI:36047,CHEBI
+502093,2603,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+512246,2096,PA,Peripheral Nervous System Agents,D018373,MeSH
+507133,1236,PA,Antithrombins,D000991,MeSH
+490299,5057,Chemical/Ingredient,Insulin,N0000004931,FDA
+493059,5202,EPC,Janus Kinase Inhibitor,N0000190858,FDA
+495652,2598,has role,antidiabetic,CHEBI:35526,CHEBI
+497822,4531,has role,adstringent,CHEBI:74783,CHEBI
+493137,4678,EPC,Lipoglycopeptide Antibacterial,N0000191281,FDA
+501900,4503,PA,Coloring Agents,D004396,MeSH
+494469,1301,has role,antidiabetic,CHEBI:35526,CHEBI
+497279,4478,has role,solvents,CHEBI:46787,CHEBI
+505132,1086,PA,Histamine Agents,D018494,MeSH
+503441,2971,PA,Sequestering Agents,D064449,MeSH
+511225,1725,PA,Hypoglycemic Agents,D007004,MeSH
+506710,4299,PA,Enzyme Inhibitors,D004791,MeSH
+498163,2537,has role,neuroleptics,CHEBI:35476,CHEBI
+506961,522,PA,Cardiovascular Agents,D002317,MeSH
+491390,341,EPC,Histamine-1 Receptor Antagonist,N0000175587,FDA
+499861,5542,has role,antineoplastic agents,CHEBI:35610,CHEBI
+494568,5559,has role,environmental contaminants,CHEBI:78298,CHEBI
+508144,298,PA,Muscarinic Antagonists,D018727,MeSH
+495423,2308,has role,antioxidants,CHEBI:22586,CHEBI
+489995,4229,MoA,Prostaglandin Receptor Agonists,N0000000106,FDA
+512881,2331,PA,Histamine Agents,D018494,MeSH
+492350,385,EPC,Anti-coagulant,N0000175980,FDA
+495414,2298,has role,muscarinic antagonists,CHEBI:48876,CHEBI
+493702,332,has role,antihypertensive drugs,CHEBI:35674,CHEBI
+508146,298,PA,Parasympatholytics,D010276,MeSH
+510809,1531,PA,Cardiovascular Agents,D002317,MeSH
+493116,4399,MoA,UGT1A1 Inhibitors,N0000191272,FDA
+495417,2303,has role,vasodilator agents,CHEBI:35620,CHEBI
+491101,1624,EXT,Methylated Sulfonamides,N0000175512,FDA
+514623,5162,PA,Cardiovascular Agents,D002317,MeSH
+507306,2541,PA,Psychotropic Drugs,D011619,MeSH
+505074,2322,PA,Central Nervous System Agents,D002491,MeSH
+506212,4896,PA,Hypoglycemic Agents,D007004,MeSH
+495151,2105,has role,Dopamine receptor agonist,CHEBI:51065,CHEBI
+498822,3630,has role,Xenobiotic,CHEBI:35703,CHEBI
+489512,5385,CS,"Antibodies, Monoclonal",M0001357,FDA
+506549,2809,PA,Enzyme Inhibitors,D004791,MeSH
+508085,25,PA,Antimetabolites,D000963,MeSH
+513710,2741,PA,Tranquilizing Agents,D014149,MeSH
+490336,1125,PE,Decreased Cholesterol Absorption,N0000008553,FDA
+495292,2248,has role,environmental contaminants,CHEBI:78298,CHEBI
+496415,664,has role,neuroprotective agents,CHEBI:63726,CHEBI
+515116,1402,PA,Cholinergic Antagonists,D018680,MeSH
+495187,2149,has role,sympathomimetic,CHEBI:35524,CHEBI
+510936,1620,PA,"Contraceptives, Oral, Synthetic",D003280,MeSH
+491129,1055,EPC,Proton Pump Inhibitor,N0000175525,FDA
+514684,358,PA,Peripheral Nervous System Agents,D018373,MeSH
+510725,1510,PA,Vasodilator Agents,D014665,MeSH
+514980,1529,PA,Anti-Inflammatory Agents,D000893,MeSH
+509465,888,PA,Dopamine Agents,D015259,MeSH
+514828,1610,PA,Antihypertensive Agents,D000959,MeSH
+502915,3139,PA,Hormones,D006728,MeSH
+493539,105,has role,beta-adrenergic agonists,CHEBI:35522,CHEBI
+507291,179,PA,Antidepressive Agents,D000928,MeSH
+508740,624,PA,Antiprotozoal Agents,D000981,MeSH
+503099,42,PA,Central Nervous System Depressants,D002492,MeSH
+505511,2214,PA,Anticholesteremic Agents,D000924,MeSH
+493328,5442,MoA,Cyclin-dependent Kinase 6 Inhibitors,N0000193922,FDA
+502837,2718,PA,Alkylating Agents,D000477,MeSH
+505701,1985,PA,Angiotensin II Type 1 Receptor Blockers,D047228,MeSH
+510310,4138,PA,Anti-Infective Agents,D000890,MeSH
+490578,2236,MoA,Amylin Agonists,N0000020064,FDA
+512845,2320,PA,Membrane Transport Modulators,D049990,MeSH
+510631,3306,PA,Diagnostic Uses of Chemicals,D064907,MeSH
+506307,395,PA,Adrenergic alpha-2 Receptor Agonists,D058647,MeSH
+509323,841,PA,Membrane Transport Modulators,D049990,MeSH
+491212,1647,EPC,Alkylating Drug,N0000175558,FDA
+506310,395,PA,Cardiovascular Agents,D002317,MeSH
+511772,1922,PA,Cardiovascular Agents,D002317,MeSH
+513338,2610,PA,Central Nervous System Agents,D002491,MeSH
+496416,664,has role,Mus musculus metabolites,CHEBI:75771,CHEBI
+489448,2265,CS,Amides,M0000897,FDA
+501920,2213,PA,Analgesics,D000700,MeSH
+507046,2870,PA,GABA Agents,D018682,MeSH
+499941,4781,has role,protein-tyrosine-phosphatase inhibitors,CHEBI:35608,CHEBI
+489529,1800,CS,Azoles,M0002083,FDA
+501927,3482,PA,Estrogens,D004967,MeSH
+498508,124,has role,gout suppressants,CHEBI:35845,CHEBI
+511386,1767,PA,Membrane Transport Modulators,D049990,MeSH
+509436,875,PA,Noxae,D009676,MeSH
+506320,5139,PA,Immunologic Factors,D007155,MeSH
+501892,1108,PA,Bronchodilator Agents,D001993,MeSH
+501420,4606,PA,Anti-Inflammatory Agents,D000893,MeSH
+504474,3376,PA,Nootropic Agents,D018697,MeSH
+501074,5353,PA,Antineoplastic Agents,D000970,MeSH
+505496,102,PA,Antineoplastic Agents,D000970,MeSH
+505089,1178,PA,Sensory System Agents,D018689,MeSH
+509495,901,PA,Antiemetics,D000932,MeSH
+512149,2055,PA,Micronutrients,D018977,MeSH
+504490,1987,PA,Cardiotonic Agents,D002316,MeSH
+498147,4502,has role,adstringent,CHEBI:74783,CHEBI
+489814,1981,CS,Quinolones,M0023650,FDA
+492193,30,EPC,Psoralen,N0000175879,FDA
+502144,2782,PA,Adrenergic Agonists,D000322,MeSH
+514792,2382,PA,Anticonvulsants,D000927,MeSH
+511230,1728,PA,Antitussive Agents,D000996,MeSH
+504888,385,PA,Protease Inhibitors,D011480,MeSH
+501668,2045,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+505470,5026,PA,Antineoplastic Agents,D000970,MeSH
+510103,1200,PA,Histamine Antagonists,D006633,MeSH
+513371,2616,PA,Teratogens,D013723,MeSH
+500551,1772,has role,anti-inflammatory agents,CHEBI:67079,CHEBI
+491333,353,EPC,Corticosteroid,N0000175576,FDA
+513962,2863,PA,Neurotransmitter Agents,D018377,MeSH
+510512,1395,PA,Antiparasitic Agents,D000977,MeSH
+499516,1783,has role,antihypertensive drugs,CHEBI:35674,CHEBI
+500394,256,has role,adrenergic uptake inhibitors,CHEBI:35640,CHEBI
+503128,2668,PA,Central Nervous System Depressants,D002492,MeSH
+513467,4258,PA,"Anti-Infective Agents, Local",D000891,MeSH
+489427,4648,CS,Allergens,M0000728,FDA
+513861,2811,PA,Nicotinic Antagonists,D018733,MeSH
+506942,1676,PA,Analgesics,D000700,MeSH
+511442,1775,PA,Serotonin Agents,D018490,MeSH
+513269,3577,PA,Sympathomimetics,D013566,MeSH
+506720,2716,PA,Antihypertensive Agents,D000959,MeSH
+509527,4651,PA,Indicators and Reagents,D007202,MeSH
+514263,2552,PA,Calcineurin Inhibitors,D065095,MeSH
+490560,4917,MoA,VEGFR2 Inhibitors,N0000020032,FDA
+504345,1631,PA,Calcium Channel Blockers,D002121,MeSH
+505244,1836,PA,Leukotriene Antagonists,D020024,MeSH
+496968,1389,has role,anti-allergic drugs,CHEBI:50857,CHEBI
+502460,2003,PA,Peripheral Nervous System Agents,D018373,MeSH
+509778,1028,PA,Bronchodilator Agents,D001993,MeSH
+510018,4648,PA,Anti-Infective Agents,D000890,MeSH
+501388,2647,PA,Hypolipidemic Agents,D000960,MeSH
+513213,5622,PA,Anti-Infective Agents,D000890,MeSH
+508793,4662,PA,Lipotropic Agents,D008082,MeSH
+501102,5412,PA,Antineoplastic Agents,D000970,MeSH
+504619,1864,PA,Anti-Bacterial Agents,D000900,MeSH
+490357,708,PE,Decreased Platelet Aggregation,N0000008832,FDA
+498480,4359,has role,tyrosine kinase inhibitors,CHEBI:38637,CHEBI
+506344,2808,PA,Nicotinic Agonists,D018722,MeSH
+490101,2210,MoA,Cyclooxygenase Inhibitors,N0000000160,FDA
+501090,5360,PA,Central Nervous System Depressants,D002492,MeSH
+505711,4334,PA,Estrogen Receptor Modulators,D020847,MeSH
+497274,4251,has role,macronutrients,CHEBI:33937,CHEBI
+507189,460,PA,Neurotransmitter Agents,D018377,MeSH
+489669,1920,CS,Nicotine,M0014836,FDA
+512776,3761,PA,Histamine Antagonists,D006633,MeSH
+507805,138,PA,Cardiovascular Agents,D002317,MeSH
+493347,5414,MoA,Farnesyltransferase Inhibitors,N0000193939,FDA
+498530,4138,has role,bactericides,CHEBI:33282,CHEBI
+512779,2286,PA,Histamine H1 Antagonists,D006634,MeSH
+499439,2968,has role,contraceptive drugs,CHEBI:49323,CHEBI
+507778,990,PA,Ornithine Decarboxylase Inhibitors,D065108,MeSH
+507433,1286,PA,Enzyme Inhibitors,D004791,MeSH
+499009,2720,has role,human blood serum metabolites,CHEBI:85234,CHEBI
+496110,4140,has role,Mus musculus metabolites,CHEBI:75771,CHEBI
+514851,2445,PA,Hypolipidemic Agents,D000960,MeSH
+498957,4112,has role,antiarrhythmic agent,CHEBI:38070,CHEBI
+502227,2451,PA,Intercalating Agents,D007364,MeSH
+496886,3113,has role,Daphnia magna metabolites,CHEBI:83056,CHEBI
+504127,115,PA,Adrenergic alpha-1 Receptor Antagonists,D058668,MeSH
+502948,495,PA,Reproductive Control Agents,D012102,MeSH
+501921,2213,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+490359,1040,PE,Decreased Platelet Aggregation,N0000008832,FDA
+515159,839,PA,Topoisomerase Inhibitors,D059003,MeSH
+495019,1922,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+505276,1120,PA,Enzyme Inhibitors,D004791,MeSH
+491262,1960,EPC,Catecholamine,N0000175570,FDA
+498326,2401,has role,antineoplastic agents,CHEBI:35610,CHEBI
+500891,54,has role,analgesic,CHEBI:35480,CHEBI
+493414,5397,EPC,CD19-directed Cytolytic Antibody,N0000194013,FDA
+503650,2456,PA,Anti-Ulcer Agents,D000897,MeSH
+507069,2816,PA,Photosensitizing Agents,D017319,MeSH
+509574,4659,PA,Sensory System Agents,D018689,MeSH
+496604,4254,has role,trace elements,CHEBI:27027,CHEBI
+494847,1764,has role,geroprotectors,CHEBI:176497,CHEBI
+501236,1828,PA,Antirheumatic Agents,D018501,MeSH
+503696,5543,PA,Anti-Infective Agents,D000890,MeSH
+493918,594,has role,anti-anxiety agents,CHEBI:35474,CHEBI
+508218,3881,PA,Anti-Inflammatory Agents,D000893,MeSH
+505580,5006,PA,Neurotransmitter Agents,D018377,MeSH
+493224,4961,EPC,Anthrax Protective Antigen-directed Antibody,N0000192703,FDA
+501566,2018,PA,Respiratory System Agents,D019141,MeSH
+497725,4664,has role,algal metabolites,CHEBI:84735,CHEBI
+514140,1142,PA,Cardiovascular Agents,D002317,MeSH
+510044,1154,PA,Sensory System Agents,D018689,MeSH
+498432,4757,has role,plant metabolites,CHEBI:76924,CHEBI
+496436,1058,has role,geroprotectors,CHEBI:176497,CHEBI
+499922,4536,has role,antinematodal drugs,CHEBI:35444,CHEBI
+497962,1208,has role,anti-inflammatory drugs,CHEBI:35472,CHEBI
+512049,2015,PA,Hypnotics and Sedatives,D006993,MeSH
+496323,1076,has role,N-methyl-D-aspartate receptor antagonists,CHEBI:60643,CHEBI
+515089,1601,PA,Antiviral Agents,D000998,MeSH
+492481,5446,EPC,Sphingosine 1-phosphate Receptor Modulator,N0000181816,FDA
+502766,1597,PA,Anti-Inflammatory Agents,D000893,MeSH
+511939,1971,PA,Antidepressive Agents,D000928,MeSH
+510186,1217,PA,Hormones,D006728,MeSH
+512978,2377,PA,Leprostatic Agents,D007917,MeSH
+501410,499,PA,Histamine Agents,D018494,MeSH
+494773,4788,has role,antiseptics,CHEBI:48218,CHEBI
+510213,1222,PA,Central Nervous System Agents,D002491,MeSH
+512051,2015,PA,Psychotropic Drugs,D011619,MeSH
+505059,2995,PA,Fibrinolytic Agents,D005343,MeSH
+506677,4175,PA,Hormones,D006728,MeSH
+494448,1230,has role,anti-anxiety agents,CHEBI:35474,CHEBI
+500138,1197,has role,environmental contaminants,CHEBI:78298,CHEBI
+493354,5376,EPC,SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor,N0000193948,FDA
+498827,647,has role,P450 inhibitors,CHEBI:50183,CHEBI
+491539,622,EPC,Sulfonylurea,N0000175608,FDA
+511161,1696,PA,GABA Agents,D018682,MeSH
+505837,1220,PA,"Anti-Inflammatory Agents, Non-Steroidal",D000894,MeSH
+490000,1053,MoA,Serotonin Uptake Inhibitors,N0000000109,FDA
+514441,2273,PA,Respiratory System Agents,D019141,MeSH
+506711,4299,PA,Metabolic Side Effects of Drugs and Substances,D065606,MeSH
+498253,3035,has role,adstringent,CHEBI:74783,CHEBI
+510264,1257,PA,"Anti-Infective Agents, Local",D000891,MeSH
+494365,1122,has role,environmental contaminants,CHEBI:78298,CHEBI
+499708,2589,has role,Prodrugs,CHEBI:50266,CHEBI
+492068,1992,MoA,Serotonin 3 Receptor Antagonists,N0000175817,FDA
+511600,1858,PA,Diuretics,D004232,MeSH
+496235,3602,has role,Escherichia coli metabolites,CHEBI:76971,CHEBI
+512842,2320,PA,Antidepressive Agents,D000928,MeSH
+491675,5070,EPC,Asparagine-specific Enzyme,N0000175669,FDA
+508971,5664,PA,Antiparasitic Agents,D000977,MeSH
+511327,1752,PA,Central Nervous System Depressants,D002492,MeSH
+494521,1392,has role,antihypertensive drugs,CHEBI:35674,CHEBI
+504300,1594,PA,Topoisomerase Inhibitors,D059003,MeSH
+492435,851,EPC,Radiographic Contrast Agent,N0000180185,FDA
+492421,2172,EPC,Typical Antipsychotic,N0000180182,FDA
+495839,2815,has role,quinoline oxidase inhibitors,CHEBI:62872,CHEBI
+509356,852,PA,Central Nervous System Depressants,D002492,MeSH
+514496,380,PA,Sympatholytics,D013565,MeSH
+499434,2706,has role,anticonvulsants,CHEBI:35623,CHEBI
+496989,4213,has role,allergenic drug,CHEBI:88188,CHEBI
+495309,2251,has role,Xenobiotic,CHEBI:35703,CHEBI
+494765,1690,has role,antispasmodics,CHEBI:53784,CHEBI
+513253,2546,PA,Sensory System Agents,D018689,MeSH
+504706,1349,PA,Cardiovascular Agents,D002317,MeSH
+505072,5528,PA,Psychotropic Drugs,D011619,MeSH
+494411,1209,has role,allergenic drug,CHEBI:88188,CHEBI
+501017,5383,PA,Sphingosine 1 Phosphate Receptor Modulators,D000081243,MeSH
+507539,2648,PA,Neurotransmitter Agents,D018377,MeSH
+508657,600,PA,Androgen Antagonists,D000726,MeSH
+490188,2282,MoA,Dihydrofolate Reductase Inhibitors,N0000000191,FDA
+507941,195,PA,Dopamine Agents,D015259,MeSH
+493561,144,has role,Dopamine receptor agonist,CHEBI:51065,CHEBI
+500886,2716,has role,Prodrugs,CHEBI:50266,CHEBI
+489434,4064,CS,Allergens,M0000728,FDA
+513947,4604,PA,Flavoring Agents,D005421,MeSH
+490576,2798,MoA,DNA Polymerase Inhibitors,N0000020060,FDA
+499806,1810,has role,antineoplastic agents,CHEBI:35610,CHEBI
+502143,2782,PA,Adrenergic Agents,D018663,MeSH
+510667,1491,PA,Adrenergic beta-Agonists,D000318,MeSH
+503130,2668,PA,Peripheral Nervous System Agents,D018373,MeSH
+490010,2073,MoA,Folic Acid Metabolism Inhibitors,N0000000111,FDA
+513228,2534,PA,Antirheumatic Agents,D018501,MeSH
+503117,1350,PA,Antiprotozoal Agents,D000981,MeSH
+499102,962,has role,anti-allergic drugs,CHEBI:50857,CHEBI
+498949,1576,has role,"3,5-cyclic nucleoside monophosphate phosphodiesterase inhibitors",CHEBI:50568,CHEBI
+498123,4694,has role,food anti-caking agent,CHEBI:77965,CHEBI
+491947,496,MoA,DOPA Decarboxylase Inhibitors,N0000175755,FDA
+492311,2486,MoA,Lead Chelating Activity,N0000175962,FDA
+505267,200,PA,Viral Protease Inhibitors,D000084762,MeSH
+510016,1116,PA,Dermatologic Agents,D003879,MeSH
+506477,2392,PA,Neuroprotective Agents,D018696,MeSH
+509575,741,PA,Anti-Allergic Agents,D018926,MeSH
+491751,1765,EPC,Opioid Antagonist,N0000175691,FDA
+489531,3408,CS,Azoles,M0002083,FDA
+508985,711,PA,Neurotransmitter Agents,D018377,MeSH
+498540,2561,has role,oestrogen antagonist,CHEBI:50837,CHEBI
+507329,4259,PA,Pesticides,D010575,MeSH
+504031,2866,PA,Protease Inhibitors,D011480,MeSH
+501378,1853,PA,Parasympatholytics,D010276,MeSH
+492781,4678,MoA,Cytochrome P450 3A4 Inducers,N0000185506,FDA
+489766,2872,CS,Sulfonamides,M0020790,FDA
+507454,4336,PA,Neuromuscular Agents,D009465,MeSH
+497002,4569,has role,anti-inflammatory drugs,CHEBI:35472,CHEBI
+511060,1654,PA,"Muscle Relaxants, Central",D009125,MeSH
+496464,1064,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+504409,3848,PA,Cholinesterase Inhibitors,D002800,MeSH
+510695,4576,PA,Anti-Infective Agents,D000890,MeSH
+502292,2714,PA,"Anti-Inflammatory Agents, Non-Steroidal",D000894,MeSH
+493048,2609,MoA,Vesicular Monoamine Transporter 2 Inhibitors,N0000190855,FDA
+499800,2263,has role,muscle relaxants,CHEBI:51371,CHEBI
+511075,1659,PA,"Contraceptive Agents, Hormonal",D000080066,MeSH
+503056,1405,PA,Dopamine Agonists,D018491,MeSH
+495085,1999,has role,muscarinic antagonists,CHEBI:48876,CHEBI
+495133,2067,has role,anthelmintics,CHEBI:35443,CHEBI
+498239,4290,has role,anaesthetic,CHEBI:38867,CHEBI
+502739,229,PA,Adrenergic Agents,D018663,MeSH
+510193,1218,PA,Neurotransmitter Agents,D018377,MeSH
+503633,2043,PA,Hematologic Agents,D006401,MeSH
+497861,644,has role,neuroprotective agents,CHEBI:63726,CHEBI
+507357,3642,PA,Dipeptidyl-Peptidase IV Inhibitors,D054873,MeSH
+497196,938,has role,beta-adrenergic agonists,CHEBI:35522,CHEBI
+497652,66,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+497290,4128,has role,Daphnia magna metabolites,CHEBI:83056,CHEBI
+494405,1201,has role,immunosuppressive agents,CHEBI:35705,CHEBI
+505152,2857,PA,Neurotransmitter Agents,D018377,MeSH
+501716,1165,PA,Sensory System Agents,D018689,MeSH
+495604,2527,has role,environmental contaminants,CHEBI:78298,CHEBI
+513518,4061,PA,Neurotransmitter Agents,D018377,MeSH
+506856,1282,PA,Antineoplastic Agents,D000970,MeSH
+502151,847,PA,Analgesics,D000700,MeSH
+510713,1505,PA,Cardiovascular Agents,D002317,MeSH
+502701,2810,PA,Natriuretic Agents,D045283,MeSH
+503279,3582,PA,Antiviral Agents,D000998,MeSH
+502026,2746,PA,Antineoplastic Agents,D000970,MeSH
+514724,2422,PA,Cytochrome P-450 CYP3A Inhibitors,D065692,MeSH
+510528,1400,PA,Histamine Antagonists,D006633,MeSH
+512440,2166,PA,Cholinergic Agonists,D018679,MeSH
+496055,912,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+492631,5201,MoA,Phosphodiesterase 4 Inhibitors,N0000182960,FDA
+491644,1559,MoA,Gonadotropin Releasing Hormone Receptor Agonists,N0000175654,FDA
+509943,3196,PA,Central Nervous System Agents,D002491,MeSH
+513334,2609,PA,Neurotransmitter Agents,D018377,MeSH
+491379,5710,EPC,Estrogen Receptor Antagonist,N0000175582,FDA
+509650,956,PA,Histamine Agents,D018494,MeSH
+514275,760,PA,Antirheumatic Agents,D018501,MeSH
+497009,5193,has role,anti-asthmatic drugs,CHEBI:49167,CHEBI
+503285,5115,PA,Antineoplastic Agents,D000970,MeSH
+510463,1383,PA,Schistosomicides,D012556,MeSH
+496462,1064,has role,quinoline oxidase inhibitors,CHEBI:62872,CHEBI
+508270,362,PA,Antimetabolites,D000963,MeSH
+505902,5573,PA,Peripheral Nervous System Agents,D018373,MeSH
+493108,5062,MoA,Cytochrome P450 1A2 Inducers,N0000191266,FDA
+509562,924,PA,Enzyme Inhibitors,D004791,MeSH
+493654,271,has role,bronchodilator,CHEBI:35523,CHEBI
+511701,4108,PA,Nucleic Acid Synthesis Inhibitors,D019384,MeSH
+510992,1633,PA,"Antineoplastic Agents, Alkylating",D018906,MeSH
+491817,1154,EPC,Nonsteroidal Anti-inflammatory Drug,N0000175722,FDA
+512970,2377,PA,"Antibiotics, Antitubercular",D000904,MeSH
+498783,865,has role,environmental contaminants,CHEBI:78298,CHEBI
+494282,1001,has role,antiamoebic drugs,CHEBI:171664,CHEBI
+496246,4368,has role,nicotinamide deaminase inhibitors,CHEBI:84264,CHEBI
+495313,2251,has role,environmental contaminants,CHEBI:78298,CHEBI
+503300,2814,PA,Psychotropic Drugs,D011619,MeSH
+498393,3574,has role,adenosine A1 receptor antagonists,CHEBI:63957,CHEBI
+502702,2810,PA,Vasoconstrictor Agents,D014662,MeSH
+508019,228,PA,Gastrointestinal Agents,D005765,MeSH
+509125,770,PA,Antiviral Agents,D000998,MeSH
+507566,1808,PA,Sensory System Agents,D018689,MeSH
+496569,3347,has role,plant metabolites,CHEBI:76924,CHEBI
+495022,1937,has role,cardiovascular agent,CHEBI:35554,CHEBI
+494407,1209,has role,antidepressants,CHEBI:35469,CHEBI
+490025,2239,MoA,Hydroxymethylglutaryl-CoA Reductase Inhibitors,N0000000121,FDA
+514527,2709,PA,"Antineoplastic Agents, Hormonal",D018931,MeSH
+511260,1732,PA,Central Nervous System Agents,D002491,MeSH
+490569,5267,MoA,Glucagon-like Peptide-1 (GLP-1) Agonists,N0000020058,FDA
+494195,916,has role,local anesthetics,CHEBI:36333,CHEBI
+503136,1964,PA,"Contraceptive Agents, Female",D003271,MeSH
+511280,1738,PA,Neurotransmitter Agents,D018377,MeSH
+514481,1992,PA,Dermatologic Agents,D003879,MeSH
+510648,1478,PA,Central Nervous System Agents,D002491,MeSH
+498310,1108,has role,anticholesteremic drugs,CHEBI:35821,CHEBI
+507507,3021,PA,Radiation-Sensitizing Agents,D011838,MeSH
+497254,4481,has role,ASMT inhibitor,CHEBI:71178,CHEBI
+491826,1883,EPC,Nonsteroidal Anti-inflammatory Drug,N0000175722,FDA
+505445,5533,PA,Antiparasitic Agents,D000977,MeSH
+508811,645,PA,Neurotransmitter Agents,D018377,MeSH
+509829,1043,PA,Vasoconstrictor Agents,D014662,MeSH
+506979,1255,PA,"Antineoplastic Agents, Hormonal",D018931,MeSH
+512036,2009,PA,Anthelmintics,D000871,MeSH
+512173,2065,PA,Enzyme Inhibitors,D004791,MeSH
+492948,5080,MoA,Breast Cancer Resistance Protein Inhibitors,N0000190113,FDA
+508376,437,PA,Tranquilizing Agents,D014149,MeSH
+504769,992,PA,Natriuretic Agents,D045283,MeSH
+500334,2502,has role,ligands,CHEBI:52214,CHEBI
+492028,4898,EPC,Substance P/Neurokinin-1 Receptor Antagonist,N0000175786,FDA
+514047,1414,PA,Antineoplastic Agents,D000970,MeSH
+495699,2656,has role,antibacterial drugs,CHEBI:36047,CHEBI
+490531,5379,MoA,Tyrosine Kinase Inhibitors,N0000020001,FDA
+494842,1763,has role,fluorochromes,CHEBI:51217,CHEBI
+494542,1409,has role,non-steroidal anti-inflammatory agent,CHEBI:35475,CHEBI
+495078,1055,has role,anticonvulsants,CHEBI:35623,CHEBI
+514379,1007,PA,Cardiovascular Agents,D002317,MeSH
+501593,4612,PA,Hematologic Agents,D006401,MeSH
+515039,3184,PA,Neurotransmitter Agents,D018377,MeSH
+502294,2714,PA,Calcium Channel Blockers,D002121,MeSH
+499524,2670,has role,hepatoprotective agents,CHEBI:62868,CHEBI
+508872,694,PA,Anticholesteremic Agents,D000924,MeSH
+509051,5667,PA,Cholinesterase Inhibitors,D002800,MeSH
+504493,1987,PA,Phosphodiesterase 3 Inhibitors,D058987,MeSH
+515184,2846,PA,Cytochrome P-450 Enzyme Inhibitors,D065607,MeSH
+514249,1842,PA,Anti-Arrhythmia Agents,D000889,MeSH
+492808,1766,EPC,Standardized Chemical Allergen,N0000185508,FDA
+513515,4061,PA,Anti-Arrhythmia Agents,D000889,MeSH
+490974,4247,EPC,Aminoglycoside Antibacterial,N0000175477,FDA
+495438,2337,has role,serotonin antagonists,CHEBI:48279,CHEBI
+499940,4781,has role,fertilizers,CHEBI:33287,CHEBI
+507831,146,PA,Cholinesterase Inhibitors,D002800,MeSH
+505560,2397,PA,Sensory System Agents,D018689,MeSH
+500105,4899,has role,antiviral drugs,CHEBI:36044,CHEBI
+500804,518,has role,cyclooxygenase inhibitors,CHEBI:35544,CHEBI
+498541,2561,has role,quinoline oxidase inhibitors,CHEBI:62872,CHEBI
+506633,4143,PA,Viral Protease Inhibitors,D000084762,MeSH
+496105,4120,has role,O-acetyl-L-homoserine sulfhydrolase inhibitor,CHEBI:77089,CHEBI
+514619,1587,PA,Enzyme Inhibitors,D004791,MeSH
+504106,1245,PA,Protease Inhibitors,D011480,MeSH
+512340,3439,PA,Indicators and Reagents,D007202,MeSH
+502923,1439,PA,Cyclooxygenase Inhibitors,D016861,MeSH
+490210,4577,MoA,Radiopharmaceutical Activity,N0000000205,FDA
+491799,1395,EPC,Antirheumatic Agent,N0000175713,FDA
+489888,1061,CS,Estradiol Congeners,M0447348,FDA
+507622,4990,PA,"Antineoplastic Agents, Immunological",D000074322,MeSH
+489986,4864,MoA,Norepinephrine Uptake Inhibitors,N0000000102,FDA
+501167,5520,PA,Protease Inhibitors,D011480,MeSH
+511599,1858,PA,Cardiovascular Agents,D002317,MeSH
+496397,3103,has role,Escherichia coli metabolites,CHEBI:76971,CHEBI
+507184,460,PA,Anti-Dyskinesia Agents,D018726,MeSH
+500404,4281,has role,laxante,CHEBI:50503,CHEBI
+491100,1624,EPC,Methylated Sulfonamide Antibacterial,N0000175511,FDA
+492909,5154,MoA,Organic Anion Transporting Polypeptide 1B1 Inhibitors,N0000190107,FDA
+498543,824,has role,antineoplastic agents,CHEBI:35610,CHEBI
+507198,4185,PA,Protein Kinase Inhibitors,D047428,MeSH
+494406,1201,has role,anti-asthmatic drugs,CHEBI:49167,CHEBI
+490749,674,EPC,Dihydropyridine Calcium Channel Blocker,N0000175421,FDA
+506081,4881,PA,Orexin Receptor Antagonists,D000068796,MeSH
+500592,4738,has role,surfactant,CHEBI:35195,CHEBI
+504655,583,PA,Reproductive Control Agents,D012102,MeSH
+492163,5088,MoA,CD2-directed Antibody Interactions,N0000175857,FDA
+512217,2087,PA,Vasodilator Agents,D014665,MeSH
+503427,2596,PA,Antineoplastic Agents,D000970,MeSH
+506345,2808,PA,Smoking Cessation Agents,D000077444,MeSH
+508275,373,PA,Vitamins,D014815,MeSH
+514923,2446,PA,Antineoplastic Agents,D000970,MeSH
+495614,2546,has role,non-steroidal anti-inflammatory agent,CHEBI:35475,CHEBI
+510414,1358,PA,Anticoagulants,D000925,MeSH
+503459,2463,PA,Enzyme Inhibitors,D004791,MeSH
+513374,2618,PA,Cardiovascular Agents,D002317,MeSH
+510410,1356,PA,Central Nervous System Depressants,D002492,MeSH
+497554,281,has role,geroprotectors,CHEBI:176497,CHEBI
+509033,726,PA,Gout Suppressants,D006074,MeSH
+501181,5402,PA,Noxae,D009676,MeSH
+493067,5493,MoA,Orexin Receptor Antagonists,N0000190998,FDA
+509359,852,PA,Gastrointestinal Agents,D005765,MeSH
+509176,788,PA,Peripheral Nervous System Agents,D018373,MeSH
+497928,1035,has role,mucolytics,CHEBI:77034,CHEBI
+500426,3071,has role,antibacterial drugs,CHEBI:36047,CHEBI
+492316,2847,MoA,Vitamin K Inhibitors,N0000175964,FDA
+492908,5714,MoA,Organic Anion Transporting Polypeptide 1B1 Inhibitors,N0000190107,FDA
+499768,212,has role,antimetabolite,CHEBI:35221,CHEBI
+509014,723,PA,Dopamine Agents,D015259,MeSH
+503484,3282,PA,Noxae,D009676,MeSH
+494430,1218,has role,anticonvulsants,CHEBI:35623,CHEBI
+507788,136,PA,Central Nervous System Agents,D002491,MeSH
+509442,880,PA,Anti-Inflammatory Agents,D000893,MeSH
+498055,1776,has role,allergenic drug,CHEBI:88188,CHEBI
+512458,2176,PA,Adrenergic Agents,D018663,MeSH
+499177,129,has role,serotonin antagonists,CHEBI:48279,CHEBI
+514811,4266,PA,Anti-Infective Agents,D000890,MeSH
+501860,1201,PA,Anti-Inflammatory Agents,D000893,MeSH
+511954,3391,PA,"Anti-Infective Agents, Local",D000891,MeSH
+503114,1350,PA,Anti-Infective Agents,D000890,MeSH
+504265,2356,PA,Protease Inhibitors,D011480,MeSH
+495924,2155,has role,nutrients,CHEBI:33284,CHEBI
+505339,2124,PA,Anti-Infective Agents,D000890,MeSH
+508969,4397,PA,Tranquilizing Agents,D014149,MeSH
+509390,863,PA,Antiparasitic Agents,D000977,MeSH
+497125,3229,has role,pH control agents,CHEBI:64049,CHEBI
+515070,258,PA,Enzyme Inhibitors,D004791,MeSH
+512647,3488,PA,Glucocorticoids,D005938,MeSH
+506052,5368,PA,Peripheral Nervous System Agents,D018373,MeSH
+499564,1118,has role,mTOR inhibitors,CHEBI:68481,CHEBI
+504773,3154,PA,Central Nervous System Agents,D002491,MeSH
+491558,2825,EPC,Vinca Alkaloid,N0000175612,FDA
+502016,2206,PA,Central Nervous System Agents,D002491,MeSH
+512607,2249,PA,Anti-Inflammatory Agents,D000893,MeSH
+490993,607,EPC,Antimalarial,N0000175482,FDA
+494215,926,has role,antiarrhythmic agent,CHEBI:38070,CHEBI
+504215,2343,PA,Natriuretic Agents,D045283,MeSH
+493793,432,has role,adrenergic blockers,CHEBI:37887,CHEBI
+498754,4607,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+505271,4151,PA,Adrenergic alpha-Antagonists,D000317,MeSH
+512682,77,PA,Anti-Inflammatory Agents,D000893,MeSH
+493186,5016,MoA,PCSK9 Inhibitors,N0000191730,FDA
+493890,542,has role,antibacterial drugs,CHEBI:36047,CHEBI
+504328,2408,PA,Histamine Agents,D018494,MeSH
+511844,1948,PA,Vasodilator Agents,D014665,MeSH
+513246,2546,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+512044,2015,PA,Anti-Anxiety Agents,D014151,MeSH
+496784,4125,has role,algal metabolites,CHEBI:84735,CHEBI
+498570,827,has role,anti-inflammatory drugs,CHEBI:35472,CHEBI
+490207,4301,MoA,Radiopharmaceutical Activity,N0000000205,FDA
+495343,4451,has role,anti-allergic drugs,CHEBI:50857,CHEBI
+513021,2424,PA,Central Nervous System Agents,D002491,MeSH
+498406,27,has role,antimetabolite,CHEBI:35221,CHEBI
+502358,1141,PA,"Analgesics, Non-Narcotic",D018712,MeSH
+501103,5377,PA,Anti-Infective Agents,D000890,MeSH
+502279,2787,PA,Anti-HIV Agents,D019380,MeSH
+514098,1508,PA,Teratogens,D013723,MeSH
+501010,5376,PA,Antimetabolites,D000963,MeSH
+510379,3952,PA,Cardiovascular Agents,D002317,MeSH
+503925,2171,PA,Vasodilator Agents,D014665,MeSH
+514773,2391,PA,Metabolic Side Effects of Drugs and Substances,D065606,MeSH
+497637,922,has role,alpha-adrenergic agonists,CHEBI:35569,CHEBI
+495709,4061,has role,antihypertensive drugs,CHEBI:35674,CHEBI
+510820,1536,PA,Gastrointestinal Agents,D005765,MeSH
+507750,109,PA,Neuromuscular Blocking Agents,D009466,MeSH
+505671,5617,PA,Antiparasitic Agents,D000977,MeSH
+514120,1187,PA,Cytochrome P-450 Enzyme Inhibitors,D065607,MeSH
+500387,1015,has role,bronchodilator,CHEBI:35523,CHEBI
+502073,5553,PA,Coccidiostats,D003049,MeSH
+515042,887,PA,Cardiovascular Agents,D002317,MeSH
+505452,4181,PA,Central Nervous System Agents,D002491,MeSH
+502430,1509,PA,Sensory System Agents,D018689,MeSH
+511610,1860,PA,Antineoplastic Agents,D000970,MeSH
+496478,4497,has role,geroprotectors,CHEBI:176497,CHEBI
+514522,183,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+513966,4240,PA,Cosmetics,D003358,MeSH
+502928,1439,PA,Sensory System Agents,D018689,MeSH
+501321,4005,PA,Anthelmintics,D000871,MeSH
+506323,1887,PA,Adrenergic Agents,D018663,MeSH
+491160,1028,EPC,alpha-Adrenergic Agonist,N0000175552,FDA
+491864,678,PE,Neuromuscular Blockade,N0000175731,FDA
+496580,2780,has role,S. cerevisiae metabolites,CHEBI:75772,CHEBI
+507466,5066,PA,Hematologic Agents,D006401,MeSH
+506093,4878,PA,Enzyme Inhibitors,D004791,MeSH
+501441,896,PA,Antiprotozoal Agents,D000981,MeSH
+507216,2188,PA,Antinematodal Agents,D000969,MeSH
+493062,5346,EPC,Janus Kinase Inhibitor,N0000190858,FDA
+494953,1868,has role,gonadotropin releasing hormone agonists,CHEBI:63533,CHEBI
+507214,2233,PA,Neurotransmitter Agents,D018377,MeSH
+503480,3282,PA,Antioxidants,D000975,MeSH
+508151,301,PA,Cardiovascular Agents,D002317,MeSH
+494718,1610,has role,ERA,CHEBI:51451,CHEBI
+500359,800,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+510793,3313,PA,Respiratory System Agents,D019141,MeSH
+499631,4168,has role,dopaminergic antagonists,CHEBI:48561,CHEBI
+495193,4613,has role,antioxidants,CHEBI:22586,CHEBI
+494507,1364,has role,antiseptics,CHEBI:48218,CHEBI
+502374,561,PA,Anti-Infective Agents,D000890,MeSH
+499590,4173,has role,antiviral drugs,CHEBI:36044,CHEBI
+498940,1807,has role,glucosylceramide synthase inhibitors,CHEBI:50382,CHEBI
+511361,1762,PA,Adrenergic alpha-2 Receptor Agonists,D058647,MeSH
+499052,1796,has role,histamine agonists,CHEBI:35678,CHEBI
+505752,5672,PA,Sensory System Agents,D018689,MeSH
+510554,1407,PA,Cyclooxygenase Inhibitors,D016861,MeSH
+490350,2616,PE,Decreased Immunologically Active Molecule Activity,N0000008663,FDA
+495312,2251,has role,drug metabolites,CHEBI:49103,CHEBI
+510216,1222,PA,Dopamine Antagonists,D018492,MeSH
+512992,2390,PA,Sympathomimetics,D013566,MeSH
+502565,830,PA,Histamine H1 Antagonists,D006634,MeSH
+497634,922,has role,hormones,CHEBI:24621,CHEBI
+509682,4753,PA,Antidotes,D000931,MeSH
+503534,2595,PA,Antirheumatic Agents,D018501,MeSH
+503645,5119,PA,Diagnostic Uses of Chemicals,D064907,MeSH
+489844,1048,CS,Macrolides,M0028311,FDA
+503751,1416,PA,Protective Agents,D020011,MeSH
+505609,814,PA,Cholinergic Agents,D018678,MeSH
+491200,1032,EPC,Aldosterone Antagonist,N0000175557,FDA
+490919,85,EXT,Nucleoside Analog,N0000175459,FDA
+503949,2167,PA,Anti-Arrhythmia Agents,D000889,MeSH
+514121,1187,PA,Enzyme Inhibitors,D004791,MeSH
+498301,696,has role,marine xenobiotic metabolites,CHEBI:83399,CHEBI
+511140,1692,PA,Central Nervous System Agents,D002491,MeSH
+507482,2697,PA,Antiparkinson Agents,D000978,MeSH
+496759,1907,has role,human urinary metabolites,CHEBI:84087,CHEBI
+507319,1822,PA,Neuromuscular Nondepolarizing Agents,D003473,MeSH
+497392,723,has role,sympathomimetic,CHEBI:35524,CHEBI
+492512,176,MoA,Cytochrome P450 1A2 Inhibitors,N0000182138,FDA
+491419,2044,EPC,Microtubule Inhibitor,N0000175592,FDA
+502781,1214,PA,Central Nervous System Agents,D002491,MeSH
+502413,4527,PA,Buffers,D002021,MeSH
+499155,1469,has role,environmental contaminants,CHEBI:78298,CHEBI
+501709,1190,PA,Tranquilizing Agents,D014149,MeSH
+500542,202,has role,antineoplastic agents,CHEBI:35610,CHEBI
+509370,855,PA,Anti-Bacterial Agents,D000900,MeSH
+513048,4704,PA,Antineoplastic Agents,D000970,MeSH
+507964,201,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+504787,444,PA,Antifungal Agents,D000935,MeSH
+493325,5444,EPC,Cyclic Pyranopterin Monophosphate,N0000193919,FDA
+492890,2152,MoA,Cytochrome P450 2B6 Inducers,N0000187064,FDA
+509720,983,PA,Steroid Synthesis Inhibitors,D065088,MeSH
+499140,2227,has role,non-ionic surfactant,CHEBI:38828,CHEBI
+503706,389,PA,Neurotransmitter Agents,D018377,MeSH
+494851,1767,has role,adrenergic uptake inhibitors,CHEBI:35640,CHEBI
+511933,3396,PA,Adrenergic alpha-Agonists,D000316,MeSH
+511294,1723,PA,Serotonin Antagonists,D012702,MeSH
+502807,2278,PA,Antidepressive Agents,D000928,MeSH
+509414,870,PA,Estrogens,D004967,MeSH
+507468,2708,PA,Cardiovascular Agents,D002317,MeSH
+496808,1444,has role,Homo sapiens metabolite,CHEBI:77746,CHEBI
+504341,837,PA,Calcium-Regulating Hormones and Agents,D000077264,MeSH
+513161,4610,PA,Food Additives,D005503,MeSH
+491287,4969,EPC,Complement Inhibitor,N0000175575,FDA
+510926,1616,PA,Schistosomicides,D012556,MeSH
+511109,5576,PA,Hormones,D006728,MeSH
+494873,1771,has role,Xenobiotic,CHEBI:35703,CHEBI
+494678,1559,has role,antineoplastic agents,CHEBI:35610,CHEBI
+500847,142,has role,antispasmodics,CHEBI:53784,CHEBI
+506641,302,PA,"Antineoplastic Agents, Alkylating",D018906,MeSH
+496909,4645,has role,metabolites,CHEBI:25212,CHEBI
+507696,92,PA,Analgesics,D000700,MeSH
+510825,5565,PA,Coccidiostats,D003049,MeSH
+500809,784,has role,antispasmodics,CHEBI:53784,CHEBI
+504324,3137,PA,"Anti-Infective Agents, Local",D000891,MeSH
+512183,2076,PA,Cholinergic Agents,D018678,MeSH
+513164,2492,PA,Anti-Infective Agents,D000890,MeSH
+490098,1883,MoA,Cyclooxygenase Inhibitors,N0000000160,FDA
+490693,4484,MoA,Cholinergic Antagonists,N0000175370,FDA
+497975,1283,has role,immunosuppressive agents,CHEBI:35705,CHEBI
+504610,4533,PA,Analgesics,D000700,MeSH
+506437,4943,PA,Adrenergic beta-Agonists,D000318,MeSH
+509161,782,PA,Folic Acid Antagonists,D005493,MeSH
+500080,4907,has role,antineoplastic agents,CHEBI:35610,CHEBI
+503256,1861,PA,Anti-Infective Agents,D000890,MeSH
+491147,2383,MoA,M2 Protein Inhibitors,N0000175542,FDA
+500100,4304,has role,antidiabetic,CHEBI:35526,CHEBI
+496818,2144,has role,human xenobiotic metabolites,CHEBI:76967,CHEBI
+490197,4946,MoA,beta Lactamase Inhibitors,N0000000202,FDA
+497702,4732,has role,prosthetic groups,CHEBI:26348,CHEBI
+492843,5466,MoA,Organic Cation Transporter 2 Inhibitors,N0000187061,FDA
+497649,66,has role,wound-healing drug,CHEBI:73336,CHEBI
+503168,1658,PA,Neurotransmitter Agents,D018377,MeSH
+512329,2134,PA,Central Nervous System Agents,D002491,MeSH
+505843,5291,PA,Antiviral Agents,D000998,MeSH
+512025,1999,PA,"Muscle Relaxants, Central",D009125,MeSH
+505605,4287,PA,Sequestering Agents,D064449,MeSH
+503611,3605,PA,Noxae,D009676,MeSH
+515153,839,PA,Antineoplastic Agents,D000970,MeSH
+507260,4,PA,Central Nervous System Depressants,D002492,MeSH
+512841,2320,PA,Adrenergic Uptake Inhibitors,D018759,MeSH
+500735,5222,has role,PARP,CHEBI:62913,CHEBI
+503118,4817,PA,Antirheumatic Agents,D018501,MeSH
+496142,372,has role,antidotes,CHEBI:50247,CHEBI
+511991,1993,PA,Psychotropic Drugs,D011619,MeSH
+508375,437,PA,Serotonin Receptor Agonists,D017366,MeSH
+503461,376,PA,Antineoplastic Agents,D000970,MeSH
+492897,4399,MoA,Organic Anion Transporting Polypeptide 1B1 Inhibitors,N0000190107,FDA
+495043,1955,has role,anti-ulcer drugs,CHEBI:49201,CHEBI
+501347,2766,PA,Antineoplastic Agents,D000970,MeSH
+501632,2682,PA,Antirheumatic Agents,D018501,MeSH
+513240,2537,PA,Dopamine Agents,D015259,MeSH
+492476,5383,MoA,Sphingosine 1-Phosphate Receptor Modulators,N0000181815,FDA
+506605,254,PA,Anti-Retroviral Agents,D044966,MeSH
+508312,403,PA,Hormone Antagonists,D006727,MeSH
+514068,548,PA,Anti-Infective Agents,D000890,MeSH
+503268,420,PA,Central Nervous System Agents,D002491,MeSH
+493868,512,has role,antineoplastic agents,CHEBI:35610,CHEBI
+492444,1473,EPC,Radiographic Contrast Agent,N0000180185,FDA
+502453,2003,PA,Cholinergic Agents,D018678,MeSH
+507136,1236,PA,Hematologic Agents,D006401,MeSH
+496833,1918,has role,Xenobiotic,CHEBI:35703,CHEBI
+501207,307,PA,Anti-Obesity Agents,D019440,MeSH
+503338,915,PA,Bronchodilator Agents,D001993,MeSH
+491657,4951,EPC,CD20-directed Cytolytic Antibody,N0000175657,FDA
+500917,3024,PA,Anti-Inflammatory Agents,D000893,MeSH
+511481,1794,PA,Sodium Channel Blockers,D026941,MeSH
+490947,799,EPC,Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,N0000175463,FDA
+512302,2121,PA,Enzyme Inhibitors,D004791,MeSH
+493091,5719,MoA,Programmed Death Receptor-1-directed Antibody Interactions,N0000191259,FDA
+494490,1342,has role,adrenergic blockers,CHEBI:37887,CHEBI
+495521,2441,has role,vasodilator agents,CHEBI:35620,CHEBI
+512705,2266,PA,Antimalarials,D000962,MeSH
+495595,2514,has role,allergenic drug,CHEBI:88188,CHEBI
+490600,4801,MoA,Protein Kinase Inhibitors,N0000175076,FDA
+492170,4558,MoA,Magnetic Resonance Contrast Activity,N0000175862,FDA
+506941,244,PA,Antineoplastic Agents,D000970,MeSH
+508698,610,PA,Antineoplastic Agents,D000970,MeSH
+494230,937,has role,cardiotonic drugs,CHEBI:38147,CHEBI
+500608,5450,has role,estrogens,CHEBI:50114,CHEBI
+490789,4168,EPC,Atypical Antipsychotic,N0000175430,FDA
+514054,1980,PA,"Antineoplastic Agents, Hormonal",D018931,MeSH
+504207,1991,PA,Anti-Infective Agents,D000890,MeSH
+492689,1552,EPC,Pyrimidine Synthesis Inhibitor,N0000185502,FDA
+497091,4260,has role,S. cerevisiae metabolites,CHEBI:75772,CHEBI
+513095,2416,PA,Peripheral Nervous System Agents,D018373,MeSH
+506692,4176,PA,Metabolic Side Effects of Drugs and Substances,D065606,MeSH
+511315,1751,PA,Dermatologic Agents,D003879,MeSH
+509269,3920,PA,"Antineoplastic Agents, Hormonal",D018931,MeSH
+515046,4420,PA,Dopamine Agents,D015259,MeSH
+510929,3329,PA,Antifungal Agents,D000935,MeSH
+506252,242,PA,Serotonin 5-HT2 Receptor Antagonists,D058830,MeSH
+499671,4114,has role,antidiabetic,CHEBI:35526,CHEBI
+491658,4975,EPC,CD20-directed Cytolytic Antibody,N0000175657,FDA
+504808,2452,PA,Protease Inhibitors,D011480,MeSH
+502231,5564,PA,Anti-Bacterial Agents,D000900,MeSH
+496837,1918,has role,environmental contaminants,CHEBI:78298,CHEBI
+494645,1531,has role,beta-adrenergic blockers,CHEBI:35530,CHEBI
+505791,4573,PA,Folic Acid Antagonists,D005493,MeSH
+504087,560,PA,Anti-Bacterial Agents,D000900,MeSH
+493616,203,has role,inhibitors of type II topoisomerase,CHEBI:50750,CHEBI
+500570,5090,has role,antimalarials,CHEBI:38068,CHEBI
+510843,1567,PA,Antiparkinson Agents,D000978,MeSH
+509423,873,PA,Lipoxygenase Inhibitors,D016859,MeSH
+491820,1440,EPC,Nonsteroidal Anti-inflammatory Drug,N0000175722,FDA
+512423,2159,PA,Peripheral Nervous System Agents,D018373,MeSH

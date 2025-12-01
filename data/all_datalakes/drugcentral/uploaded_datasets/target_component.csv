@@ -1,0 +1,1001 @@
+id,accession,swissprot,organism,name,gene,geneid,tdl
+5268,P48509,CD151_HUMAN,Homo sapiens,CD151 antigen,CD151,977.0,Tbio
+6496,Q9HC73,CRLF2_HUMAN,Homo sapiens,Cytokine receptor-like factor 2,CRLF2,64109.0,Tbio
+17108,Q96HI0,SENP5_HUMAN,Homo sapiens,Sentrin-specific protease 5,SENP5,205564.0,Tbio
+495,P02550,TBA1A_PIG,Sus scrofa,Tubulin alpha-1A chain,TUBA1A,,
+5081,Q4G0S7,CC152_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 152,CCDC152,100129792.0,Tdark
+1042,P22888,LSHR_HUMAN,Homo sapiens,Lutropin-choriogonadotropic hormone receptor,LHCGR,3973.0,Tclin
+12356,Q9NQG6,MID51_HUMAN,Homo sapiens,Mitochondrial dynamics protein MID51,MIEF1,54471.0,Tbio
+14984,Q8NA58,PNDC1_HUMAN,Homo sapiens,Poly(A)-specific ribonuclease PARN-like domain-containing protein 1,PNLDC1,154197.0,Tdark
+6116,Q8IWV2,CNTN4_HUMAN,Homo sapiens,Contactin-4,CNTN4,152330.0,Tbio
+22432,Q63016,LAT1_RAT,Rattus norvegicus,Large neutral amino acids transporter small subunit 1,Slc7a5,,
+9671,Q8TDQ0,HAVR2_HUMAN,Homo sapiens,Hepatitis A virus cellular receptor 2,HAVCR2,84868.0,Tbio
+3157,Q969T7,5NT3B_HUMAN,Homo sapiens,7-methylguanosine phosphate-specific 5'-nucleotidase,NT5C3B,115024.0,Tdark
+4292,Q6Y288,B3GLT_HUMAN,Homo sapiens,"Beta-1,3-glucosyltransferase",B3GLCT,145173.0,Tbio
+12884,Q9BZK3,NACP1_HUMAN,Homo sapiens,Putative nascent polypeptide-associated complex subunit alpha-like protein,NACAP1,,Tdark
+15830,Q9Y388,RBMX2_HUMAN,Homo sapiens,"RNA-binding motif protein, X-linked 2",RBMX2,51634.0,Tdark
+10229,Q9BYX4,IFIH1_HUMAN,Homo sapiens,Interferon-induced helicase C domain-containing protein 1,IFIH1,64135.0,Tbio
+7981,Q9UI08,EVL_HUMAN,Homo sapiens,Ena/VASP-like protein,EVL,51466.0,Tbio
+13119,Q13469,NFAC2_HUMAN,Homo sapiens,"Nuclear factor of activated T-cells, cytoplasmic 2",NFATC2,4773.0,Tbio
+16794,Q8N357,S35F6_HUMAN,Homo sapiens,Solute carrier family 35 member F6,SLC35F6,54978.0,Tbio
+9897,O43390,HNRPR_HUMAN,Homo sapiens,Heterogeneous nuclear ribonucleoprotein R,HNRNPR,10236.0,Tbio
+18237,Q8NB59,SYT14_HUMAN,Homo sapiens,Synaptotagmin-14,SYT14,255928.0,Tdark
+12635,P13640,MT1G_HUMAN,Homo sapiens,Metallothionein-1G,MT1G,4495.0,Tbio
+9687,Q9Y5Z7,HCFC2_HUMAN,Homo sapiens,Host cell factor 2,HCFC2,29915.0,Tbio
+5163,A6NI79,CCD69_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 69,CCDC69,26112.0,Tdark
+2503,P0AER0,GLPF_ECOLI,Escherichia coli (strain K12),Glycerol uptake facilitator protein,glpF,,
+503,P02708,ACHA_HUMAN,Homo sapiens,Acetylcholine receptor subunit alpha,CHRNA1,1134.0,Tclin
+17900,Q96JX3,SRAC1_HUMAN,Homo sapiens,Protein SERAC1,SERAC1,84947.0,Tbio
+8874,Q99999,G3ST1_HUMAN,Homo sapiens,Galactosylceramide sulfotransferase,GAL3ST1,9514.0,Tbio
+9608,O75367,H2AY_HUMAN,Homo sapiens,Core histone macro-H2A.1,H2AFY,9555.0,Tbio
+17836,Q7Z699,SPRE1_HUMAN,Homo sapiens,"Sprouty-related, EVH1 domain-containing protein 1",SPRED1,161742.0,Tbio
+19405,O43715,TRIA1_HUMAN,Homo sapiens,TP53-regulated inhibitor of apoptosis 1,TRIAP1,51499.0,Tbio
+5763,Q8IUL8,CILP2_HUMAN,Homo sapiens,Cartilage intermediate layer protein 2,CILP2,148113.0,Tbio
+12081,P21941,MATN1_HUMAN,Homo sapiens,Cartilage matrix protein,MATN1,4146.0,Tbio
+14911,Q8N7P1,PLD5_HUMAN,Homo sapiens,Inactive phospholipase D5,PLD5,200150.0,Tbio
+5701,Q7L1S5,CHST9_HUMAN,Homo sapiens,Carbohydrate sulfotransferase 9,CHST9,83539.0,Tbio
+21880,P42556,PTR1_LEITA,Leishmania tarentolae,Pteridine reductase 1,PTR1,,
+6164,P12111,CO6A3_HUMAN,Homo sapiens,Collagen alpha-3(VI) chain,COL6A3,1293.0,Tbio
+22531,P0DMV0,CT457_HUMAN,Homo sapiens,Cancer/testis antigen family 45 member A7,CT45A7,541465.0,Tdark
+9617,Q93079,H2B1H_HUMAN,Homo sapiens,Histone H2B type 1-H,HIST1H2BH,8345.0,Tdark
+18683,Q12789,TF3C1_HUMAN,Homo sapiens,General transcription factor 3C polypeptide 1,GTF3C1,2975.0,Tbio
+12746,Q9BRK3,MXRA8_HUMAN,Homo sapiens,Matrix-remodeling-associated protein 8,MXRA8,54587.0,Tdark
+21939,P81460,CONA_CANLI,Canavalia lineata,Concanavalin-A,,,
+11844,P01717,LV325_HUMAN,Homo sapiens,Immunoglobulin lambda variable 3-25,IGLV3-25,,Tdark
+18186,Q9NX95,SYBU_HUMAN,Homo sapiens,Syntabulin,SYBU,55638.0,Tbio
+2689,P45510,DHAK_CITFR,Citrobacter freundii,Dihydroxyacetone kinase,dhaK,,
+21836,P27245,MARR_ECOLI,Escherichia coli (strain K12),Multiple antibiotic resistance protein MarR,marR,,
+7881,P28715,ERCC5_HUMAN,Homo sapiens,DNA repair protein complementing XP-G cells,ERCC5,2073.0,Tchem
+12954,O60934,NBN_HUMAN,Homo sapiens,Nibrin,NBN,4683.0,Tbio
+11150,Q3LI63,KR201_HUMAN,Homo sapiens,Keratin-associated protein 20-1,KRTAP20-1,337975.0,Tdark
+22112,Q6N0W2,Q6N0W2_RHOPA,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),Possible ABC transporter binding protein component,,,
+17530,Q86VZ5,SMS1_HUMAN,Homo sapiens,Phosphatidylcholine:ceramide cholinephosphotransferase 1,SGMS1,259230.0,Tbio
+21902,P56965,DDAH1_BOVIN,Bos taurus,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",DDAH1,,
+2415,P00634,PPB_ECOLI,Escherichia coli (strain K12),Alkaline phosphatase,phoA,,
+21129,Q6ZNG1,ZN600_HUMAN,Homo sapiens,Zinc finger protein 600,ZNF600,162966.0,Tdark
+9738,Q5T8I9,HENMT_HUMAN,Homo sapiens,Small RNA 2'-O-methyltransferase,HENMT1,113802.0,Tdark
+7929,P30042,ES1_HUMAN,Homo sapiens,"ES1 protein homolog, mitochondrial",C21orf33,8209.0,Tbio
+9641,Q58FF6,H90B4_HUMAN,Homo sapiens,Putative heat shock protein HSP 90-beta 4,HSP90AB4P,,Tdark
+4475,Q9Y6D6,BIG1_HUMAN,Homo sapiens,Brefeldin A-inhibited guanine nucleotide-exchange protein 1,ARFGEF1,10565.0,Tbio
+20761,Q9ULC8,ZDHC8_HUMAN,Homo sapiens,Probable palmitoyltransferase ZDHHC8,ZDHHC8,29801.0,Tbio
+10968,Q02241,KIF23_HUMAN,Homo sapiens,Kinesin-like protein KIF23,KIF23,9493.0,Tbio
+14547,Q53GG5,PDLI3_HUMAN,Homo sapiens,PDZ and LIM domain protein 3,PDLIM3,27295.0,Tbio
+1728,Q14524,SCN5A_HUMAN,Homo sapiens,Sodium channel protein type 5 subunit alpha,SCN5A,6331.0,Tclin
+5749,C9J069,CI172_HUMAN,Homo sapiens,Uncharacterized protein C9orf172,C9orf172,389813.0,Tdark
+3045,P30443,1A01_HUMAN,Homo sapiens,"HLA class I histocompatibility antigen, A-1 alpha chain",HLA-A,3105.0,Tbio
+18316,O75157,T22D2_HUMAN,Homo sapiens,TSC22 domain family protein 2,TSC22D2,9819.0,Tdark
+17595,Q9Y5W7,SNX14_HUMAN,Homo sapiens,Sorting nexin-14,SNX14,57231.0,Tbio
+8461,Q8N4B4,FBX39_HUMAN,Homo sapiens,F-box only protein 39,FBXO39,162517.0,Tdark
+1421,P51050,MTR1B_CHICK,Gallus gallus,Melatonin receptor type 1B,,,
+4885,Q86UW7,CAPS2_HUMAN,Homo sapiens,Calcium-dependent secretion activator 2,CADPS2,93664.0,Tbio
+17474,Q9UQE7,SMC3_HUMAN,Homo sapiens,Structural maintenance of chromosomes protein 3,SMC3,9126.0,Tbio
+728,P08908,5HT1A_HUMAN,Homo sapiens,5-hydroxytryptamine receptor 1A,HTR1A,3350.0,Tclin
+17087,Q9NTN9,SEM4G_HUMAN,Homo sapiens,Semaphorin-4G,SEMA4G,57715.0,Tdark
+13462,Q96IY1,NSL1_HUMAN,Homo sapiens,Kinetochore-associated protein NSL1 homolog,NSL1,25936.0,Tdark
+13132,Q9BT67,NFIP1_HUMAN,Homo sapiens,NEDD4 family-interacting protein 1,NDFIP1,80762.0,Tbio
+16841,Q5BKX6,S45A4_HUMAN,Homo sapiens,Solute carrier family 45 member 4,SLC45A4,57210.0,Tdark
+17884,Q5MJ10,SPXN2_HUMAN,Homo sapiens,Sperm protein associated with the nucleus on the X chromosome N2,SPANXN2,494119.0,Tdark
+2653,P30085,KCY_HUMAN,Homo sapiens,UMP-CMP kinase,CMPK1,51727.0,Tbio
+5514,P27544,CERS1_HUMAN,Homo sapiens,Ceramide synthase 1,CERS1,10715.0,Tbio
+18671,Q6PEX7,TEX38_HUMAN,Homo sapiens,Testis-expressed protein 38,TEX38,374973.0,Tdark
+4689,Q6UB35,C1TM_HUMAN,Homo sapiens,"Monofunctional C1-tetrahydrofolate synthase, mitochondrial",MTHFD1L,25902.0,Tbio
+13063,Q96P71,NECA3_HUMAN,Homo sapiens,N-terminal EF-hand calcium-binding protein 3,NECAB3,63941.0,Tbio
+4362,P51572,BAP31_HUMAN,Homo sapiens,B-cell receptor-associated protein 31,BCAP31,10134.0,Tbio
+1678,Q08257,QOR_HUMAN,Homo sapiens,Quinone oxidoreductase,CRYZ,1429.0,Tbio
+4131,P05496,AT5G1_HUMAN,Homo sapiens,"ATP synthase F(0) complex subunit C1, mitochondrial",ATP5G1,516.0,Tbio
+20000,Q9BRU9,UTP23_HUMAN,Homo sapiens,rRNA-processing protein UTP23 homolog,UTP23,84294.0,Tdark
+1247,P33981,TTK_HUMAN,Homo sapiens,Dual specificity protein kinase TTK,TTK,7272.0,Tchem
+8221,Q16877,F264_HUMAN,Homo sapiens,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4",PFKFB4,5210.0,Tbio
+20677,O15060,ZBT39_HUMAN,Homo sapiens,Zinc finger and BTB domain-containing protein 39,ZBTB39,9880.0,Tdark
+13908,O95371,OR2C1_HUMAN,Homo sapiens,Olfactory receptor 2C1,OR2C1,4993.0,Tdark
+18579,P51864,TDGF3_HUMAN,Homo sapiens,Putative teratocarcinoma-derived growth factor 3,TDGF1P3,,Tdark
+9425,Q96P69,GPR78_HUMAN,Homo sapiens,G-protein coupled receptor 78,GPR78,27201.0,Tdark
+3335,Q96QF7,ACRC_HUMAN,Homo sapiens,Acidic repeat-containing protein,ACRC,93953.0,Tbio
+19330,P01850,TRBC1_HUMAN,Homo sapiens,T-cell receptor beta-1 chain C region,TRBC1,,Tbio
+7161,Q8IYB7,DI3L2_HUMAN,Homo sapiens,DIS3-like exonuclease 2,DIS3L2,129563.0,Tbio
+14168,Q7L8S5,OTU6A_HUMAN,Homo sapiens,OTU domain-containing protein 6A,OTUD6A,139562.0,Tbio
+6289,P10606,COX5B_HUMAN,Homo sapiens,"Cytochrome c oxidase subunit 5B, mitochondrial",COX5B,1329.0,Tbio
+4865,P17655,CAN2_HUMAN,Homo sapiens,Calpain-2 catalytic subunit,CAPN2,824.0,Tchem
+15601,Q9H974,QTRT2_HUMAN,Homo sapiens,Queuine tRNA-ribosyltransferase accessory subunit 2,QTRT2,79691.0,Tdark
+14004,Q8NGR4,OR5C1_HUMAN,Homo sapiens,Olfactory receptor 5C1,OR5C1,392391.0,Tdark
+12128,P59942,MCCD1_HUMAN,Homo sapiens,Mitochondrial coiled-coil domain protein 1,MCCD1,401250.0,Tdark
+19831,Q70CQ2,UBP34_HUMAN,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 34,USP34,9736.0,Tbio
+22113,Q6NAM1,DEHA_RHOPA,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),Fluoroacetate dehalogenase,,,
+872,P12931,SRC_HUMAN,Homo sapiens,Proto-oncogene tyrosine-protein kinase Src,SRC,6714.0,Tclin
+6448,P78560,CRADD_HUMAN,Homo sapiens,Death domain-containing protein CRADD,CRADD,8738.0,Tbio
+9029,Q9UGJ1,GCP4_HUMAN,Homo sapiens,Gamma-tubulin complex component 4,TUBGCP4,27229.0,Tbio
+22133,Q79FX6,MMAA2_MYCTU,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Cyclopropane mycolic acid synthase MmaA2,mmaA2,,
+6935,O14576,DC1I1_HUMAN,Homo sapiens,Cytoplasmic dynein 1 intermediate chain 1,DYNC1I1,1780.0,Tbio
+5469,Q8WUJ3,CEMIP_HUMAN,Homo sapiens,Cell migration-inducing and hyaluronan-binding protein,CEMIP,57214.0,Tbio
+17589,O43290,SNUT1_HUMAN,Homo sapiens,U4/U6.U5 tri-snRNP-associated protein 1,SART1,9092.0,Tbio
+22236,Q96554,Q96554_9CHLO,Coccomyxa sp. PA,Carbonic anhydrase,,,
+21956,P9WKD3,BLAC_MYCTU,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Beta-lactamase,blaC,,
+17655,Q92673,SORL_HUMAN,Homo sapiens,Sortilin-related receptor,SORL1,6653.0,Tbio
+13522,Q9H1E3,NUCKS_HUMAN,Homo sapiens,Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1,NUCKS1,64710.0,Tbio
+18217,O15061,SYNEM_HUMAN,Homo sapiens,Synemin,SYNM,23336.0,Tbio
+2621,P23542,AATC_YEAST,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),"Aspartate aminotransferase, cytoplasmic",AAT2,,
+3375,Q13444,ADA15_HUMAN,Homo sapiens,Disintegrin and metalloproteinase domain-containing protein 15,ADAM15,8751.0,Tbio
+7236,P28067,DMA_HUMAN,Homo sapiens,"HLA class II histocompatibility antigen, DM alpha chain",HLA-DMA,,Tbio
+15491,Q4JDL3,PTN20_HUMAN,Homo sapiens,Tyrosine-protein phosphatase non-receptor type 20,PTPN20,26095.0,Tdark
+14974,Q8NAT1,PMGT2_HUMAN,Homo sapiens,"Protein O-linked-mannose beta-1,4-N-acetylglucosaminyltransferase 2",POMGNT2,84892.0,Tbio
+20008,Q2YD98,UVSSA_HUMAN,Homo sapiens,UV-stimulated scaffold protein A,UVSSA,57654.0,Tbio
+18133,Q8IX01,SUGP2_HUMAN,Homo sapiens,SURP and G-patch domain-containing protein 2,SUGP2,10147.0,Tdark
+4080,Q9BVC5,ASHWN_HUMAN,Homo sapiens,Ashwin,C2orf49,79074.0,Tbio
+10728,Q5JYT7,K1755_HUMAN,Homo sapiens,Uncharacterized protein KIAA1755,KIAA1755,85449.0,Tdark
+22613,Q8IEK1,Q8IEK1_PLAF7,Plasmodium falciparum (isolate 3D7),M1-family alanyl aminopeptidase,,,
+4755,Q8IYL3,CA174_HUMAN,Homo sapiens,UPF0688 protein C1orf174,C1orf174,339448.0,Tdark
+19269,Q96Q05,TPPC9_HUMAN,Homo sapiens,Trafficking protein particle complex subunit 9,TRAPPC9,83696.0,Tbio
+10841,Q68DU8,KCD16_HUMAN,Homo sapiens,BTB/POZ domain-containing protein KCTD16,KCTD16,57528.0,Tdark
+15383,O14603,PRY_HUMAN,Homo sapiens,"PTPN13-like protein, Y-linked",PRY,9081.0,Tdark
+9087,O60609,GFRA3_HUMAN,Homo sapiens,GDNF family receptor alpha-3,GFRA3,2676.0,Tbio
+745,P18825,ADA2C_HUMAN,Homo sapiens,Alpha-2C adrenergic receptor,ADRA2C,152.0,Tclin
+388,O76039,CDKL5_HUMAN,Homo sapiens,Cyclin-dependent kinase-like 5,CDKL5,6792.0,Tchem
+21698,P05959,POL_HV1RH,Human immunodeficiency virus type 1 group M subtype B (isolate RF/HAT3),Gag-Pol polyprotein,gag-pol,,
+17326,P15907,SIAT1_HUMAN,Homo sapiens,"Beta-galactoside alpha-2,6-sialyltransferase 1",ST6GAL1,6480.0,Tbio
+641,P06276,CHLE_HUMAN,Homo sapiens,Cholinesterase,BCHE,590.0,Tclin
+10981,Q6ZMV9,KIF6_HUMAN,Homo sapiens,Kinesin-like protein KIF6,KIF6,221458.0,Tbio
+6043,Q9H972,CN093_HUMAN,Homo sapiens,Uncharacterized protein C14orf93,C14orf93,60686.0,Tdark
+18566,A6NM43,TCPQL_HUMAN,Homo sapiens,Putative T-complex protein 1 subunit theta-like 1,CCT8L1P,,Tdark
+22637,P15388,KCNC1_MOUSE,Mus musculus,Potassium voltage-gated channel subfamily C member 1,Kcnc1,,
+24748,P47809,MP2K4_MOUSE,Mus musculus,Dual specificity mitogen-activated protein kinase kinase 4,Map2k4,,
+18268,Q3SY00,T10IP_HUMAN,Homo sapiens,Testis-specific protein 10-interacting protein,TSGA10IP,254187.0,Tdark
+17966,Q9BWG4,SSBP4_HUMAN,Homo sapiens,Single-stranded DNA-binding protein 4,SSBP4,170463.0,Tdark
+34,A6YCJ1,A6YCJ1_9METZ,Astrosclera willeyana,Astrosclerin-3,,,
+8238,Q658T7,F90A2_HUMAN,Homo sapiens,Putative protein FAM90A2P,FAM90A2P,,Tdark
+16332,P34096,RNAS4_HUMAN,Homo sapiens,Ribonuclease 4,RNASE4,6038.0,Tbio
+1055,P48167,GLRB_HUMAN,Homo sapiens,Glycine receptor subunit beta,GLRB,2743.0,Tclin
+12697,Q9Y2Z2,MTO1_HUMAN,Homo sapiens,"Protein MTO1 homolog, mitochondrial",MTO1,25821.0,Tbio
+15558,Q5TGL8,PXDC1_HUMAN,Homo sapiens,PX domain-containing protein 1,PXDC1,221749.0,Tdark
+13270,Q96PB7,NOE3_HUMAN,Homo sapiens,Noelin-3,OLFM3,118427.0,Tbio
+3406,Q5VUY0,ADCL3_HUMAN,Homo sapiens,Arylacetamide deacetylase-like 3,AADACL3,126767.0,Tdark
+8410,Q14517,FAT1_HUMAN,Homo sapiens,Protocadherin Fat 1,FAT1,2195.0,Tbio
+7154,Q96C10,DHX58_HUMAN,Homo sapiens,Probable ATP-dependent RNA helicase DHX58,DHX58,79132.0,Tbio
+5971,O00299,CLIC1_HUMAN,Homo sapiens,Chloride intracellular channel protein 1,CLIC1,1192.0,Tbio
+20167,Q8N0Z9,VSI10_HUMAN,Homo sapiens,V-set and immunoglobulin domain-containing protein 10,VSIG10,54621.0,Tdark
+10106,P07099,HYEP_HUMAN,Homo sapiens,Epoxide hydrolase 1,EPHX1,2052.0,Tchem
+21107,Q9H609,ZN576_HUMAN,Homo sapiens,Zinc finger protein 576,ZNF576,79177.0,Tdark
+20310,Q9Y5W5,WIF1_HUMAN,Homo sapiens,Wnt inhibitory factor 1,WIF1,11197.0,Tbio
+9864,P0CJ75,HMN8_HUMAN,Homo sapiens,Humanin-like 8,MTRNR2L8,100463486.0,Tdark
+16081,Q6ZUM4,RHG27_HUMAN,Homo sapiens,Rho GTPase-activating protein 27,ARHGAP27,201176.0,Tdark
+23510,P33815,F13_VAR67,Variola virus (isolate Human/India/Ind3/1967),Envelope protein F13,C17L,1486573.0,Tclin
+11274,P01614,KVD40_HUMAN,Homo sapiens,Immunoglobulin kappa variable 2D-40,IGKV2D-40,,Tdark
+19073,P57088,TMM33_HUMAN,Homo sapiens,Transmembrane protein 33,TMEM33,55161.0,Tdark
+6262,Q9BR76,COR1B_HUMAN,Homo sapiens,Coronin-1B,CORO1B,57175.0,Tbio
+21802,P17978,VGB_STAAU,Staphylococcus aureus,Virginiamycin B lyase,vgb,,
+20269,Q9NNW5,WDR6_HUMAN,Homo sapiens,WD repeat-containing protein 6,WDR6,11180.0,Tdark
+4834,Q5VU97,CAHD1_HUMAN,Homo sapiens,VWFA and cache domain-containing protein 1,CACHD1,57685.0,Tdark
+8076,Q49AJ0,F135B_HUMAN,Homo sapiens,Protein FAM135B,FAM135B,51059.0,Tdark
+15148,Q5T8A7,PPR26_HUMAN,Homo sapiens,Protein phosphatase 1 regulatory subunit 26,PPP1R26,9858.0,Tdark
+3788,Q92754,AP2C_HUMAN,Homo sapiens,Transcription factor AP-2 gamma,TFAP2C,7022.0,Tbio
+4940,P52907,CAZA1_HUMAN,Homo sapiens,F-actin-capping protein subunit alpha-1,CAPZA1,829.0,Tbio
+19460,Q9Y4A5,TRRAP_HUMAN,Homo sapiens,Transformation/transcription domain-associated protein,TRRAP,8295.0,Tbio
+20338,P56705,WNT4_HUMAN,Homo sapiens,Protein Wnt-4,WNT4,54361.0,Tbio
+20770,Q9NTW7,ZF64B_HUMAN,Homo sapiens,"Zinc finger protein 64 homolog, isoforms 3 and 4",ZFP64,55734.0,Tbio
+18150,M5A8F1,SUPYN_HUMAN,Homo sapiens,Suppressyn,ERVH48-1,90625.0,Tdark
+4769,Q5SR53,CA200_HUMAN,Homo sapiens,Putative uncharacterized protein PIK3CD-AS1,PIK3CD-AS1,,Tdark
+20158,O75351,VPS4B_HUMAN,Homo sapiens,Vacuolar protein sorting-associated protein 4B,VPS4B,9525.0,Tbio
+12853,Q8TD07,N2DL4_HUMAN,Homo sapiens,NKG2D ligand 4,RAET1E,135250.0,Tbio
+6531,Q9H6X5,CS044_HUMAN,Homo sapiens,Uncharacterized protein C19orf44,C19orf44,84167.0,Tdark
+17206,Q96LW2,SG494_HUMAN,Homo sapiens,Uncharacterized serine/threonine-protein kinase SgK494,SGK494,,Tdark
+5637,Q9BUX1,CHAC1_HUMAN,Homo sapiens,Glutathione-specific gamma-glutamylcyclotransferase 1,CHAC1,79094.0,Tbio
+4910,P42575,CASP2_HUMAN,Homo sapiens,Caspase-2,CASP2,835.0,Tchem
+14263,Q9BRP4,PAAF1_HUMAN,Homo sapiens,Proteasomal ATPase-associated factor 1,PAAF1,80227.0,Tbio
+22568,P08049,NEP_RABIT,Oryctolagus cuniculus,Neprilysin,MME,,
+17038,A6NFY7,SDHF1_HUMAN,Homo sapiens,"Succinate dehydrogenase assembly factor 1, mitochondrial",SDHAF1,644096.0,Tbio
+5744,A2RU37,CI170_HUMAN,Homo sapiens,Uncharacterized protein C9orf170,C9orf170,401535.0,Tdark
+12421,P10916,MLRV_HUMAN,Homo sapiens,"Myosin regulatory light chain 2, ventricular/cardiac muscle isoform",MYL2,4633.0,Tbio
+1045,P22935,RABP2_MOUSE,Mus musculus,Cellular retinoic acid-binding protein 2,Crabp2,,
+10053,P31260,HXA10_HUMAN,Homo sapiens,Homeobox protein Hox-A10,HOXA10,3206.0,Tbio
+20745,Q8IZN3,ZDH14_HUMAN,Homo sapiens,Probable palmitoyltransferase ZDHHC14,ZDHHC14,79683.0,Tdark
+11233,Q9UBS0,KS6B2_HUMAN,Homo sapiens,Ribosomal protein S6 kinase beta-2,RPS6KB2,6199.0,Tbio
+1078,P24046,GBRR1_HUMAN,Homo sapiens,Gamma-aminobutyric acid receptor subunit rho-1,GABRR1,2569.0,Tchem
+6558,Q9Y534,CSDC2_HUMAN,Homo sapiens,Cold shock domain-containing protein C2,CSDC2,27254.0,Tbio
+7733,Q9HB03,ELOV3_HUMAN,Homo sapiens,Elongation of very long chain fatty acids protein 3,ELOVL3,83401.0,Tchem
+10210,P23588,IF4B_HUMAN,Homo sapiens,Eukaryotic translation initiation factor 4B,EIF4B,1975.0,Tbio
+11472,O00292,LFTY2_HUMAN,Homo sapiens,Left-right determination factor 2,LEFTY2,7044.0,Tbio
+18509,O75333,TBX10_HUMAN,Homo sapiens,T-box transcription factor TBX10,TBX10,347853.0,Tdark
+19199,Q9H0E2,TOLIP_HUMAN,Homo sapiens,Toll-interacting protein,TOLLIP,54472.0,Tbio
+18137,Q8IWU5,SULF2_HUMAN,Homo sapiens,Extracellular sulfatase Sulf-2,SULF2,55959.0,Tbio
+848,P11474,ERR1_HUMAN,Homo sapiens,Steroid hormone receptor ERR1,ESRRA,2101.0,Tchem
+5388,Q9H211,CDT1_HUMAN,Homo sapiens,DNA replication factor Cdt1,CDT1,81620.0,Tbio
+22808,Q99246,CAC1D_MOUSE,Mus musculus,Voltage-dependent L-type calcium channel subunit alpha-1D,Cacna1d,12289.0,
+12612,Q9HCI7,MSL2_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase MSL2,MSL2,55167.0,Tbio
+4234,Q9UHI8,ATS1_HUMAN,Homo sapiens,A disintegrin and metalloproteinase with thrombospondin motifs 1,ADAMTS1,9510.0,Tchem
+2895,Q8IUZ5,AT2L2_HUMAN,Homo sapiens,5-phosphohydroxy-L-lysine phospho-lyase,PHYKPL,85007.0,Tdark
+1744,Q15375,EPHA7_HUMAN,Homo sapiens,Ephrin type-A receptor 7,EPHA7,2045.0,Tchem
+10555,Q9BUE6,ISCA1_HUMAN,Homo sapiens,"Iron-sulfur cluster assembly 1 homolog, mitochondrial",ISCA1,81689.0,Tbio
+11902,Q9Y5Y7,LYVE1_HUMAN,Homo sapiens,Lymphatic vessel endothelial hyaluronic acid receptor 1,LYVE1,10894.0,Tbio
+8963,P01350,GAST_HUMAN,Homo sapiens,Gastrin,GAST,2520.0,Tbio
+11267,P01611,KVD12_HUMAN,Homo sapiens,Immunoglobulin kappa variable 1D-12,IGKV1D-12,,Tdark
+14482,Q15645,PCH2_HUMAN,Homo sapiens,Pachytene checkpoint protein 2 homolog,TRIP13,9319.0,Tbio
+3349,Q6P461,ACSM6_HUMAN,Homo sapiens,"Acyl-coenzyme A synthetase ACSM6, mitochondrial",ACSM6,142827.0,Tdark
+13232,Q9NPP4,NLRC4_HUMAN,Homo sapiens,NLR family CARD domain-containing protein 4,NLRC4,58484.0,Tbio
+17834,P09486,SPRC_HUMAN,Homo sapiens,SPARC,SPARC,6678.0,Tbio
+612,P05106,ITB3_HUMAN,Homo sapiens,Integrin beta-3,ITGB3,3690.0,Tclin
+7640,P52799,EFNB2_HUMAN,Homo sapiens,Ephrin-B2,EFNB2,1948.0,Tbio
+19891,Q9NWZ5,UCKL1_HUMAN,Homo sapiens,Uridine-cytidine kinase-like 1,UCKL1,54963.0,Tbio
+14635,P17858,PFKAL_HUMAN,Homo sapiens,"ATP-dependent 6-phosphofructokinase, liver type",PFKL,5211.0,Tbio
+105,F1L4P8,F1L4P8_ASCSU,Ascaris suum,Tubulin beta-1 chain,,,
+15039,Q9UNA4,POLI_HUMAN,Homo sapiens,DNA polymerase iota,POLI,11201.0,Tbio
+13933,A3KFT3,OR2M5_HUMAN,Homo sapiens,Olfactory receptor 2M5,OR2M5,127059.0,Tdark
+14258,Q5R387,PA2GC_HUMAN,Homo sapiens,Putative inactive group IIC secretory phospholipase A2,PLA2G2C,,Tchem
+15056,Q15063,POSTN_HUMAN,Homo sapiens,Periostin,POSTN,10631.0,Tbio
+20073,O15240,VGF_HUMAN,Homo sapiens,Neurosecretory protein VGF,VGF,7425.0,Tbio
+1794,Q37875,LYS_BPP1,Enterobacteria phage P1,Lysozyme,17,,
+12328,Q9UM21,MGT4A_HUMAN,Homo sapiens,"Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A",MGAT4A,11320.0,Tbio
+15783,Q8N0V3,RBFA_HUMAN,Homo sapiens,"Putative ribosome-binding factor A, mitochondrial",RBFA,79863.0,Tdark
+2620,P23526,SAHH_HUMAN,Homo sapiens,Adenosylhomocysteinase,AHCY,191.0,Tchem
+18502,Q12788,TBL3_HUMAN,Homo sapiens,Transducin beta-like protein 3,TBL3,10607.0,Tdark
+18578,P13693,TCTP_HUMAN,Homo sapiens,Translationally-controlled tumor protein,TPT1,7178.0,Tbio
+15374,Q86WR7,PRSR2_HUMAN,Homo sapiens,Proline and serine-rich protein 2,PROSER2,254427.0,Tdark
+11050,Q53HC5,KLH26_HUMAN,Homo sapiens,Kelch-like protein 26,KLHL26,55295.0,Tdark
+2158,Q9NUB1,ACS2L_HUMAN,Homo sapiens,"Acetyl-coenzyme A synthetase 2-like, mitochondrial",ACSS1,84532.0,Tbio
+20318,O95388,WISP1_HUMAN,Homo sapiens,WNT1-inducible-signaling pathway protein 1,WISP1,8840.0,Tbio
+17618,Q9UNH6,SNX7_HUMAN,Homo sapiens,Sorting nexin-7,SNX7,51375.0,Tdark
+16957,Q4G0G5,SC2B2_HUMAN,Homo sapiens,Secretoglobin family 2B member 2,SCGB2B2,284402.0,Tdark
+10898,Q9Y2K7,KDM2A_HUMAN,Homo sapiens,Lysine-specific demethylase 2A,KDM2A,22992.0,Tchem
+18190,Q6PIF2,SYCE2_HUMAN,Homo sapiens,Synaptonemal complex central element protein 2,SYCE2,256126.0,Tdark
+17570,Q16533,SNPC1_HUMAN,Homo sapiens,snRNA-activating protein complex subunit 1,SNAPC1,6617.0,Tbio
+2719,P53355,DAPK1_HUMAN,Homo sapiens,Death-associated protein kinase 1,DAPK1,1612.0,Tchem
+22662,P63142,KCNA2_RAT,Rattus norvegicus,Potassium voltage-gated channel subfamily A member 2,Kcna2,,
+16929,Q96F10,SAT2_HUMAN,Homo sapiens,Diamine acetyltransferase 2,SAT2,112483.0,Tbio
+8590,Q02985,FHR3_HUMAN,Homo sapiens,Complement factor H-related protein 3,CFHR3,10878.0,Tbio
+19241,Q9ULQ1,TPC1_HUMAN,Homo sapiens,Two pore calcium channel protein 1,TPCN1,53373.0,Tbio
+7377,A6NC42,DPPA5_HUMAN,Homo sapiens,Developmental pluripotency-associated 5 protein,DPPA5,340168.0,Tdark
+18557,Q8TDR4,TCP1L_HUMAN,Homo sapiens,T-complex protein 10A homolog 2,TCP10L,140290.0,Tbio
+2657,P31152,MK04_HUMAN,Homo sapiens,Mitogen-activated protein kinase 4,MAPK4,5596.0,Tbio
+18370,O14804,TAAR5_HUMAN,Homo sapiens,Trace amine-associated receptor 5,TAAR5,9038.0,Tbio
+9695,P51858,HDGF_HUMAN,Homo sapiens,Hepatoma-derived growth factor,HDGF,3068.0,Tbio
+18984,Q8N2U0,TM256_HUMAN,Homo sapiens,Transmembrane protein 256,TMEM256,254863.0,Tdark
+18616,Q96QE5,TEFM_HUMAN,Homo sapiens,"Transcription elongation factor, mitochondrial",TEFM,79736.0,Tbio
+11200,Q8IUC2,KRA81_HUMAN,Homo sapiens,Keratin-associated protein 8-1,KRTAP8-1,337879.0,Tdark
+18822,Q9UJW2,TINAG_HUMAN,Homo sapiens,Tubulointerstitial nephritis antigen,TINAG,27283.0,Tdark
+12107,A4D2B0,MBLC1_HUMAN,Homo sapiens,Metallo-beta-lactamase domain-containing protein 1,MBLAC1,255374.0,Tdark
+19856,Q9UHD9,UBQL2_HUMAN,Homo sapiens,Ubiquilin-2,UBQLN2,29978.0,Tbio
+2693,P45984,MK09_HUMAN,Homo sapiens,Mitogen-activated protein kinase 9,MAPK9,5601.0,Tchem
+16022,O14921,RGS13_HUMAN,Homo sapiens,Regulator of G-protein signaling 13,RGS13,6003.0,Tbio
+16481,Q9HB90,RRAGC_HUMAN,Homo sapiens,Ras-related GTP-binding protein C,RRAGC,64121.0,Tbio
+22313,Q9QCE4,Q9QCE4_9PICO,Foot-and-mouth disease virus - type C,Genome polyprotein,,,
+22477,P0C559,GYRB_MYCSM,Mycobacterium smegmatis,DNA gyrase subunit B,gyrB,,
+8990,P50150,GBG4_HUMAN,Homo sapiens,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-4,GNG4,2786.0,Tdark
+17509,Q96KF7,SMIM8_HUMAN,Homo sapiens,Small integral membrane protein 8,SMIM8,57150.0,Tdark
+7294,Q5SXM8,DNLZ_HUMAN,Homo sapiens,DNL-type zinc finger protein,DNLZ,728489.0,Tdark
+10335,P40933,IL15_HUMAN,Homo sapiens,Interleukin-15,IL15,3600.0,Tbio
+21116,Q9NXT0,ZN586_HUMAN,Homo sapiens,Zinc finger protein 586,ZNF586,54807.0,Tdark
+2831,Q15569,TESK1_HUMAN,Homo sapiens,Dual specificity testis-specific protein kinase 1,TESK1,7016.0,Tbio
+21068,Q6P280,ZN529_HUMAN,Homo sapiens,Zinc finger protein 529,ZNF529,57711.0,Tdark
+6675,Q9UQB3,CTND2_HUMAN,Homo sapiens,Catenin delta-2,CTNND2,1501.0,Tbio
+15834,Q9H2T7,RBP17_HUMAN,Homo sapiens,Ran-binding protein 17,RANBP17,64901.0,Tbio
+4775,Q6ZS94,CA229_HUMAN,Homo sapiens,Putative uncharacterized protein C1orf229,C1orf229,388759.0,Tdark
+514,P02754,LACB_BOVIN,Bos taurus,Beta-lactoglobulin,LGB,,
+6147,P06681,CO2_HUMAN,Homo sapiens,Complement C2,C2,717.0,Tbio
+159,Q9NRX3,NUA4L_HUMAN,Homo sapiens,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2,NDUFA4L2,56901.0,Tclin
+4736,O95561,CA105_HUMAN,Homo sapiens,Uncharacterized protein C1orf105,C1orf105,92346.0,Tdark
+8229,Q96KD3,F71F1_HUMAN,Homo sapiens,Protein FAM71F1,FAM71F1,84691.0,Tdark
+22339,Q9WYA4,MNME_THEMA,Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099),tRNA modification GTPase MnmE,mnmE,,
+12896,Q86W26,NAL10_HUMAN,Homo sapiens,"NACHT, LRR and PYD domains-containing protein 10",NLRP10,338322.0,Tbio
+5003,Q8N4T8,CBR4_HUMAN,Homo sapiens,Carbonyl reductase family member 4,CBR4,84869.0,Tbio
+5794,Q5T2E6,CJ076_HUMAN,Homo sapiens,UPF0668 protein C10orf76,C10orf76,79591.0,Tdark
+61,D5HSX5,D5HSX5_9GAMM,Aeromonas allosaccharophila,Beta-lactamase,blaPER-6,,
+1707,Q13546,RIPK1_HUMAN,Homo sapiens,Receptor-interacting serine/threonine-protein kinase 1,RIPK1,8737.0,Tchem
+19176,Q02223,TNR17_HUMAN,Homo sapiens,Tumor necrosis factor receptor superfamily member 17,TNFRSF17,608.0,Tclin
+8534,P02771,FETA_HUMAN,Homo sapiens,Alpha-fetoprotein,AFP,174.0,Tbio
+5477,Q92674,CENPI_HUMAN,Homo sapiens,Centromere protein I,CENPI,2491.0,Tbio
+16181,P49207,RL34_HUMAN,Homo sapiens,60S ribosomal protein L34,RPL34,6164.0,Tbio
+19156,P41273,TNFL9_HUMAN,Homo sapiens,Tumor necrosis factor ligand superfamily member 9,TNFSF9,8744.0,Tbio
+8098,Q3B820,F161A_HUMAN,Homo sapiens,Protein FAM161A,FAM161A,84140.0,Tbio
+2198,Q9UGH3,S23A2_HUMAN,Homo sapiens,Solute carrier family 23 member 2,SLC23A2,9962.0,Tbio
+18875,Q12893,TM115_HUMAN,Homo sapiens,Transmembrane protein 115,TMEM115,11070.0,Tdark
+13926,Q96R28,OR2M2_HUMAN,Homo sapiens,Olfactory receptor 2M2,OR2M2,391194.0,Tdark
+23633,P05532,KIT_MOUSE,Mus musculus,Mast/stem cell growth factor receptor Kit,Kit,16590.0,Tclin
+6386,Q16630,CPSF6_HUMAN,Homo sapiens,Cleavage and polyadenylation specificity factor subunit 6,CPSF6,11052.0,Tbio
+4738,Q86UF4,CC190_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 190,CCDC190,339512.0,Tdark
+12617,Q1L6U9,MSMP_HUMAN,Homo sapiens,Prostate-associated microseminoprotein,MSMP,692094.0,Tdark
+20046,Q96LB4,VATG3_HUMAN,Homo sapiens,V-type proton ATPase subunit G 3,ATP6V1G3,127124.0,Tbio
+12217,O43513,MED7_HUMAN,Homo sapiens,Mediator of RNA polymerase II transcription subunit 7,MED7,9443.0,Tbio
+12895,Q4G0N4,NAKD2_HUMAN,Homo sapiens,"NAD kinase 2, mitochondrial",NADK2,133686.0,Tbio
+3352,Q9BYX7,ACTBM_HUMAN,Homo sapiens,Putative beta-actin-like protein 3,POTEKP,,Tdark
+21850,P32099,LPLA_ECOLI,Escherichia coli (strain K12),Lipoate-protein ligase A,lplA,,
+3194,P01011,AACT_HUMAN,Homo sapiens,Alpha-1-antichymotrypsin,SERPINA3,12.0,Tbio
+3648,A5PLL1,AN34B_HUMAN,Homo sapiens,Ankyrin repeat domain-containing protein 34B,ANKRD34B,340120.0,Tbio
+18313,B2RXF0,T229A_HUMAN,Homo sapiens,Transmembrane protein 229A,TMEM229A,730130.0,Tdark
+18618,Q969V4,TEKT1_HUMAN,Homo sapiens,Tektin-1,TEKT1,83659.0,Tdark
+2511,P10613,CP51_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),Lanosterol 14-alpha demethylase,ERG11,,
+16490,Q9NYV6,RRN3_HUMAN,Homo sapiens,RNA polymerase I-specific transcription initiation factor RRN3,RRN3,54700.0,Tbio
+5858,Q8IZR5,CKLF4_HUMAN,Homo sapiens,CKLF-like MARVEL transmembrane domain-containing protein 4,CMTM4,146223.0,Tdark
+13269,O95897,NOE2_HUMAN,Homo sapiens,Noelin-2,OLFM2,93145.0,Tdark
+17568,O95721,SNP29_HUMAN,Homo sapiens,Synaptosomal-associated protein 29,SNAP29,9342.0,Tbio
+1057,P23443,KS6B1_HUMAN,Homo sapiens,Ribosomal protein S6 kinase beta-1,RPS6KB1,6198.0,Tchem
+9386,Q92643,GPI8_HUMAN,Homo sapiens,GPI-anchor transamidase,PIGK,10026.0,Tbio
+16026,P49795,RGS19_HUMAN,Homo sapiens,Regulator of G-protein signaling 19,RGS19,10287.0,Tbio
+1530,P61823,RNAS1_BOVIN,Bos taurus,Ribonuclease pancreatic,RNASE1,,
+17285,Q13796,SHRM2_HUMAN,Homo sapiens,Protein Shroom2,SHROOM2,357.0,Tbio
+1576,P80365,DHI2_HUMAN,Homo sapiens,Corticosteroid 11-beta-dehydrogenase isozyme 2,HSD11B2,3291.0,Tchem
+5639,Q6NUI6,CHADL_HUMAN,Homo sapiens,Chondroadherin-like protein,CHADL,150356.0,Tbio
+22418,Q8MTZ4,Q8MTZ4_9TRYP,Trypanosoma brucei,Vacuolar-type proton translocating pyrophosphatase 1,PPase1,,
+231,O09028,GBRP_RAT,Rattus norvegicus,Gamma-aminobutyric acid receptor subunit pi,Gabrp,,
+11660,P50851,LRBA_HUMAN,Homo sapiens,Lipopolysaccharide-responsive and beige-like anchor protein,LRBA,987.0,Tbio
+12647,P47944,MT4_HUMAN,Homo sapiens,Metallothionein-4,MT4,84560.0,Tbio
+14476,Q9HC56,PCDH9_HUMAN,Homo sapiens,Protocadherin-9,PCDH9,5101.0,Tbio
+11897,Q96S90,LYSM1_HUMAN,Homo sapiens,LysM and putative peptidoglycan-binding domain-containing protein 1,LYSMD1,388695.0,Tdark
+9788,Q96MC6,MF14A_HUMAN,Homo sapiens,Hippocampus abundant transcript 1 protein,MFSD14A,64645.0,Tbio
+21015,Q9H7R0,ZN442_HUMAN,Homo sapiens,Zinc finger protein 442,ZNF442,79973.0,Tdark
+12381,Q8IXI2,MIRO1_HUMAN,Homo sapiens,Mitochondrial Rho GTPase 1,RHOT1,55288.0,Tbio
+16739,P58743,S26A5_HUMAN,Homo sapiens,Prestin,SLC26A5,375611.0,Tbio
+22070,Q59N99,Q59N99_CANAL,Candida albicans (strain SC5314 / ATCC MYA-2876),Uncharacterized protein,THI80,,
+11731,A6PVS8,LRIQ3_HUMAN,Homo sapiens,Leucine-rich repeat and IQ domain-containing protein 3,LRRIQ3,127255.0,Tdark
+7734,Q9NYP7,ELOV5_HUMAN,Homo sapiens,Elongation of very long chain fatty acids protein 5,ELOVL5,60481.0,Tbio
+21204,Q9Y462,ZN711_HUMAN,Homo sapiens,Zinc finger protein 711,ZNF711,7552.0,Tdark
+10292,P01857,IGHG1_HUMAN,Homo sapiens,Ig gamma-1 chain C region,IGHG1,,Tbio
+24077,Q8R4B8,NLRP3_MOUSE,Mus musculus,"NACHT, LRR and PYD domains-containing protein 3",Nlrp3,,
+5190,P53701,CCHL_HUMAN,Homo sapiens,Cytochrome c-type heme lyase,HCCS,3052.0,Tbio
+17466,Q8IYB5,SMAP1_HUMAN,Homo sapiens,Stromal membrane-associated protein 1,SMAP1,60682.0,Tbio
+3755,P58335,ANTR2_HUMAN,Homo sapiens,Anthrax toxin receptor 2,ANTXR2,118429.0,Tbio
+5094,Q6PII3,CC174_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 174,CCDC174,51244.0,Tdark
+240,P28473,GBRG3_RAT,Rattus norvegicus,Gamma-aminobutyric acid receptor subunit gamma-3,Gabrg3,,
+21986,Q0TR53,OGA_CLOP1,Clostridium perfringens (strain ATCC 13124 / NCTC 8237 / Type A),O-GlcNAcase NagJ,nagJ,,
+10109,Q96M11,HYLS1_HUMAN,Homo sapiens,Hydrolethalus syndrome protein 1,HYLS1,219844.0,Tbio
+7543,Q15329,E2F5_HUMAN,Homo sapiens,Transcription factor E2F5,E2F5,1875.0,Tbio
+9508,Q9NRJ2,GSAS1_HUMAN,Homo sapiens,Putative uncharacterized protein GSN-AS1,GSN-AS1,,Tdark
+19547,Q9H2G4,TSYL2_HUMAN,Homo sapiens,Testis-specific Y-encoded-like protein 2,TSPYL2,64061.0,Tbio
+6835,P28325,CYTD_HUMAN,Homo sapiens,Cystatin-D,CST5,1473.0,Tbio
+17022,Q9NQ36,SCUB2_HUMAN,Homo sapiens,"Signal peptide, CUB and EGF-like domain-containing protein 2",SCUBE2,57758.0,Tbio
+10742,P05783,K1C18_HUMAN,Homo sapiens,"Keratin, type I cytoskeletal 18",KRT18,3875.0,Tbio
+16325,Q9Y6U7,RN215_HUMAN,Homo sapiens,RING finger protein 215,RNF215,200312.0,Tdark
+1308,P37700,GUNG_CLOCE,Clostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10),Endoglucanase G,celCCG,,
+21009,Q8N7K0,ZN433_HUMAN,Homo sapiens,Zinc finger protein 433,ZNF433,163059.0,Tdark
+13353,O75161,NPHP4_HUMAN,Homo sapiens,Nephrocystin-4,NPHP4,261734.0,Tbio
+15062,A5A3E0,POTEF_HUMAN,Homo sapiens,POTE ankyrin domain family member F,POTEF,728378.0,Tbio
+21951,P97253,LHA_PHAMO,Phaeospirillum molischianum,Light-harvesting protein B-800/850 alpha chain,A1,,
+15512,Q12913,PTPRJ_HUMAN,Homo sapiens,Receptor-type tyrosine-protein phosphatase eta,PTPRJ,5795.0,Tbio
+21530,C9DRU9,C9DRU9_9DEIN,Meiothermus taiwanensis,TTC1975 peptidase,,,
+14973,Q8WZA1,PMGT1_HUMAN,Homo sapiens,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",POMGNT1,55624.0,Tbio
+7250,Q96MA1,DMRTB_HUMAN,Homo sapiens,Doublesex- and mab-3-related transcription factor B1,DMRTB1,63948.0,Tdark
+2913,Q8TD19,NEK9_HUMAN,Homo sapiens,Serine/threonine-protein kinase Nek9,NEK9,91754.0,Tbio
+12060,Q9P0N8,MARH2_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase MARCH2,MARCH2,51257.0,Tbio
+9929,Q92902,HPS1_HUMAN,Homo sapiens,Hermansky-Pudlak syndrome 1 protein,HPS1,3257.0,Tbio
+2326,O43272,PROD_HUMAN,Homo sapiens,"Proline dehydrogenase 1, mitochondrial",PRODH,5625.0,Tbio
+16811,Q8IZM9,S38A6_HUMAN,Homo sapiens,Probable sodium-coupled neutral amino acid transporter 6,SLC38A6,145389.0,Tdark
+3208,Q7Z5M8,AB12B_HUMAN,Homo sapiens,Protein ABHD12B,ABHD12B,145447.0,Tdark
+7187,Q8TBM8,DJB14_HUMAN,Homo sapiens,DnaJ homolog subfamily B member 14,DNAJB14,79982.0,Tdark
+1884,Q6IB77,GLYAT_HUMAN,Homo sapiens,Glycine N-acyltransferase,GLYAT,10249.0,Tbio
+15739,Q9Y272,RASD1_HUMAN,Homo sapiens,Dexamethasone-induced Ras-related protein 1,RASD1,51655.0,Tbio
+14132,Q9BZF2,OSBL7_HUMAN,Homo sapiens,Oxysterol-binding protein-related protein 7,OSBPL7,114881.0,Tbio
+6249,Q9NQ92,COPRS_HUMAN,Homo sapiens,Coordinator of PRMT5 and differentiation stimulator,COPRS,55352.0,Tbio
+529,P02980,TCR2_ECOLX,Escherichia coli,"Tetracycline resistance protein, class B",tetA,,
+10602,P26010,ITB7_HUMAN,Homo sapiens,Integrin beta-7,ITGB7,3695.0,Tclin
+5405,Q6UWT4,CE046_HUMAN,Homo sapiens,Uncharacterized protein C5orf46,C5orf46,389336.0,Tdark
+22334,Q9WFL7,Q9WFL7_9HIV1,Human immunodeficiency virus 1,Pol polyprotein,,,
+10212,Q8N5X7,IF4E3_HUMAN,Homo sapiens,Eukaryotic translation initiation factor 4E type 3,EIF4E3,317649.0,Tdark
+13739,Q8NGI0,O52N2_HUMAN,Homo sapiens,Olfactory receptor 52N2,OR52N2,390077.0,Tdark
+19261,P67936,TPM4_HUMAN,Homo sapiens,Tropomyosin alpha-4 chain,TPM4,7171.0,Tbio
+9907,Q8IX15,HOMEZ_HUMAN,Homo sapiens,Homeobox and leucine zipper protein Homez,HOMEZ,57594.0,Tdark
+13403,P22736,NR4A1_HUMAN,Homo sapiens,Nuclear receptor subfamily 4 group A member 1,NR4A1,3164.0,Tbio
+9553,Q6PXP3,GTR7_HUMAN,Homo sapiens,"Solute carrier family 2, facilitated glucose transporter member 7",SLC2A7,155184.0,Tdark
+14634,O15212,PFD6_HUMAN,Homo sapiens,Prefoldin subunit 6,PFDN6,10471.0,Tbio
+19371,Q9HCM9,TRI39_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase TRIM39,TRIM39,56658.0,Tbio
+20854,O95789,ZMYM6_HUMAN,Homo sapiens,Zinc finger MYM-type protein 6,ZMYM6,9204.0,Tdark
+697,P20309,ACM3_HUMAN,Homo sapiens,Muscarinic acetylcholine receptor M3,CHRM3,1131.0,Tclin
+20577,Q96FF7,MISP3_HUMAN,Homo sapiens,Uncharacterized protein MISP3,MISP3,113230.0,Tdark
+21239,Q7L3S4,ZN771_HUMAN,Homo sapiens,Zinc finger protein 771,ZNF771,51333.0,Tdark
+23634,Q09429,ABCC8_RAT,Rattus norvegicus,ATP-binding cassette sub-family C member 8,Abcc8,25559.0,Tclin
+1663,Q05603,COBT_SALTY,Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720),Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,cobT,,
+10922,Q5VWX1,KHDR2_HUMAN,Homo sapiens,"KH domain-containing, RNA-binding, signal transduction-associated protein 2",KHDRBS2,202559.0,Tdark
+19065,P17152,TMM11_HUMAN,Homo sapiens,"Transmembrane protein 11, mitochondrial",TMEM11,8834.0,Tdark
+5666,Q9UNE7,CHIP_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase CHIP,STUB1,10273.0,Tbio
+20959,Q5BKZ1,ZN326_HUMAN,Homo sapiens,DBIRD complex subunit ZNF326,ZNF326,284695.0,Tbio
+3340,Q4G176,ACSF3_HUMAN,Homo sapiens,"Acyl-CoA synthetase family member 3, mitochondrial",ACSF3,197322.0,Tbio
+11961,Q9BW11,MAD3_HUMAN,Homo sapiens,Max dimerization protein 3,MXD3,83463.0,Tbio
+14434,Q9Y5E5,PCDB4_HUMAN,Homo sapiens,Protocadherin beta-4,PCDHB4,56131.0,Tdark
+19246,Q5T215,TPC3L_HUMAN,Homo sapiens,Trafficking protein particle complex subunit 3-like protein,TRAPPC3L,100128327.0,Tdark
+2338,P43166,CAH7_HUMAN,Homo sapiens,Carbonic anhydrase 7,CA7,766.0,Tclin
+4535,Q8N9W6,BOLL_HUMAN,Homo sapiens,Protein boule-like,BOLL,66037.0,Tbio
+2026,Q96EM0,T3HPD_HUMAN,Homo sapiens,Trans-3-hydroxy-L-proline dehydratase,L3HYPDH,112849.0,Tdark
+14652,P98160,PGBM_HUMAN,Homo sapiens,Basement membrane-specific heparan sulfate proteoglycan core protein,HSPG2,3339.0,Tbio
+20137,P63122,VPK8_HUMAN,Homo sapiens,Endogenous retrovirus group K member 8 Pro protein,ERVK-8,,Tdark
+21614,O57693,GAPN_THETE,Thermoproteus tenax,NAD(P)-dependent glyceraldehyde-3-phosphate dehydrogenase,gapN,,
+4507,P35226,BMI1_HUMAN,Homo sapiens,Polycomb complex protein BMI-1,BMI1,648.0,Tbio
+5386,O95674,CDS2_HUMAN,Homo sapiens,Phosphatidate cytidylyltransferase 2,CDS2,8760.0,Tbio
+5425,O15078,CE290_HUMAN,Homo sapiens,Centrosomal protein of 290 kDa,CEP290,80184.0,Tbio
+13077,Q86SG6,NEK8_HUMAN,Homo sapiens,Serine/threonine-protein kinase Nek8,NEK8,284086.0,Tbio
+9477,Q9UBQ7,GRHPR_HUMAN,Homo sapiens,Glyoxylate reductase/hydroxypyruvate reductase,GRHPR,9380.0,Tbio
+16820,Q9NP94,S39A2_HUMAN,Homo sapiens,Zinc transporter ZIP2,SLC39A2,29986.0,Tbio
+15465,P60484,PTEN_HUMAN,Homo sapiens,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",PTEN,5728.0,Tbio
+10511,Q4KMZ1,IQCC_HUMAN,Homo sapiens,IQ domain-containing protein C,IQCC,55721.0,Tdark
+10831,Q3ZCT8,KBTBC_HUMAN,Homo sapiens,Kelch repeat and BTB domain-containing protein 12,KBTBD12,166348.0,Tdark
+19352,Q9C019,TRI15_HUMAN,Homo sapiens,Tripartite motif-containing protein 15,TRIM15,89870.0,Tbio
+13035,P22392,NDKB_HUMAN,Homo sapiens,Nucleoside diphosphate kinase B,NME2,654364.0,Tbio
+4337,O95816,BAG2_HUMAN,Homo sapiens,BAG family molecular chaperone regulator 2,BAG2,9532.0,Tbio
+8272,Q5JW98,FA26D_HUMAN,Homo sapiens,Protein FAM26D,FAM26D,221301.0,Tdark
+3150,Q13542,4EBP2_HUMAN,Homo sapiens,Eukaryotic translation initiation factor 4E-binding protein 2,EIF4EBP2,1979.0,Tbio
+21981,Q08751,NEPU2_THEVU,Thermoactinomyces vulgaris,Neopullulanase 2,tvaII,,
+20590,Q9BYJ9,YTHD1_HUMAN,Homo sapiens,YTH domain-containing family protein 1,YTHDF1,54915.0,Tbio
+13927,Q8NG83,OR2M3_HUMAN,Homo sapiens,Olfactory receptor 2M3,OR2M3,127062.0,Tdark
+20255,Q8IV35,WDR49_HUMAN,Homo sapiens,WD repeat-containing protein 49,WDR49,151790.0,Tdark
+8348,P00451,FA8_HUMAN,Homo sapiens,Coagulation factor VIII,F8,2157.0,Tbio
+22814,Q8C3K6,SC5A1_MOUSE,Mus musculus,Sodium/glucose cotransporter 1,Slc5a1,20537.0,
+16705,Q9Y267,S22AE_HUMAN,Homo sapiens,Solute carrier family 22 member 14,SLC22A14,9389.0,Tdark
+17031,O00560,SDCB1_HUMAN,Homo sapiens,Syntenin-1,SDCBP,6386.0,Tbio
+9535,P78347,GTF2I_HUMAN,Homo sapiens,General transcription factor II-I,GTF2I,2969.0,Tbio
+3443,Q96IZ2,ADTRP_HUMAN,Homo sapiens,Androgen-dependent TFPI-regulating protein,ADTRP,84830.0,Tbio
+8570,Q14512,FGFP1_HUMAN,Homo sapiens,Fibroblast growth factor-binding protein 1,FGFBP1,9982.0,Tbio
+8998,P32455,GBP1_HUMAN,Homo sapiens,Guanylate-binding protein 1,GBP1,2633.0,Tbio
+11696,Q9NT99,LRC4B_HUMAN,Homo sapiens,Leucine-rich repeat-containing protein 4B,LRRC4B,94030.0,Tdark
+13836,Q68BL7,OLM2A_HUMAN,Homo sapiens,Olfactomedin-like protein 2A,OLFML2A,169611.0,Tdark
+14802,Q9UKF7,PITC1_HUMAN,Homo sapiens,Cytoplasmic phosphatidylinositol transfer protein 1,PITPNC1,26207.0,Tbio
+14303,Q9ULE6,PALD_HUMAN,Homo sapiens,Paladin,PALD1,27143.0,Tbio
+15165,Q8NI37,PPTC7_HUMAN,Homo sapiens,Protein phosphatase PTC7 homolog,PPTC7,160760.0,Tdark
+16788,P0CK97,S35E2_HUMAN,Homo sapiens,Solute carrier family 35 member E2,SLC35E2,9906.0,Tdark
+7461,O95147,DUS14_HUMAN,Homo sapiens,Dual specificity protein phosphatase 14,DUSP14,11072.0,Tbio
+19071,Q9HBJ8,TMM27_HUMAN,Homo sapiens,Collectrin,TMEM27,57393.0,Tbio
+12362,Q8N108,MIER1_HUMAN,Homo sapiens,Mesoderm induction early response protein 1,MIER1,57708.0,Tbio
+17079,O15041,SEM3E_HUMAN,Homo sapiens,Semaphorin-3E,SEMA3E,9723.0,Tbio
+17042,Q6ZPB5,SDIM1_HUMAN,Homo sapiens,Stress-responsive DNAJB4-interacting membrane protein 1,SDIM1,,Tbio
+5040,Q8IW40,CC103_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 103,CCDC103,388389.0,Tbio
+13891,Q8NGR9,OR1N2_HUMAN,Homo sapiens,Olfactory receptor 1N2,OR1N2,138882.0,Tdark
+3943,O95376,ARI2_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase ARIH2,ARIH2,10425.0,Tbio
+2529,P11799,MYLK_CHICK,Gallus gallus,"Myosin light chain kinase, smooth muscle",Mylk,,
+1435,P49761,CLK3_HUMAN,Homo sapiens,Dual specificity protein kinase CLK3,CLK3,1198.0,Tbio
+17411,Q13291,SLAF1_HUMAN,Homo sapiens,Signaling lymphocytic activation molecule,SLAMF1,6504.0,Tbio
+3729,Q8N283,ANR35_HUMAN,Homo sapiens,Ankyrin repeat domain-containing protein 35,ANKRD35,148741.0,Tdark
+8223,Q5T7N8,F27D1_HUMAN,Homo sapiens,Protein FAM27D1,FAM27D1,,Tdark
+10141,Q8WUF5,IASPP_HUMAN,Homo sapiens,RelA-associated inhibitor,PPP1R13L,10848.0,Tbio
+6657,Q8IX94,CTGE4_HUMAN,Homo sapiens,cTAGE family member 4,CTAGE4,100142659.0,Tdark
+15630,P61026,RAB10_HUMAN,Homo sapiens,Ras-related protein Rab-10,RAB10,10890.0,Tbio
+12325,P61326,MGN_HUMAN,Homo sapiens,Protein mago nashi homolog,MAGOH,4116.0,Tbio
+7303,Q13609,DNSL3_HUMAN,Homo sapiens,Deoxyribonuclease gamma,DNASE1L3,1776.0,Tbio
+10979,Q9BW19,KIFC1_HUMAN,Homo sapiens,Kinesin-like protein KIFC1,KIFC1,3833.0,Tchem
+18551,O43680,TCF21_HUMAN,Homo sapiens,Transcription factor 21,TCF21,6943.0,Tbio
+5024,Q8ND61,CC020_HUMAN,Homo sapiens,Uncharacterized protein C3orf20,C3orf20,84077.0,Tdark
+21547,D4GJ14,DGD_PANAM,Pantoea ananatis (strain LMG 20103),D-galactonate dehydratase family member RspA,rspA,,
+15089,Q8TF05,PP4R1_HUMAN,Homo sapiens,Serine/threonine-protein phosphatase 4 regulatory subunit 1,PPP4R1,9989.0,Tdark
+17871,P02549,SPTA1_HUMAN,Homo sapiens,"Spectrin alpha chain, erythrocytic 1",SPTA1,6708.0,Tbio
+19747,Q7Z7E8,UB2Q1_HUMAN,Homo sapiens,Ubiquitin-conjugating enzyme E2 Q1,UBE2Q1,55585.0,Tbio
+12415,Q9UHC1,MLH3_HUMAN,Homo sapiens,DNA mismatch repair protein Mlh3,MLH3,27030.0,Tbio
+12329,Q9UQ53,MGT4B_HUMAN,Homo sapiens,"Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase B",MGAT4B,11282.0,Tdark
+13991,Q8IXE1,OR4N5_HUMAN,Homo sapiens,Olfactory receptor 4N5,OR4N5,390437.0,Tdark
+13994,P0C623,OR4Q2_HUMAN,Homo sapiens,Olfactory receptor 4Q2,OR4Q2,,Tdark
+8872,O14556,G3PT_HUMAN,Homo sapiens,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",GAPDHS,26330.0,Tbio
+2473,P07003,POXB_ECOLI,Escherichia coli (strain K12),Pyruvate dehydrogenase [ubiquinone],poxB,,
+9180,P10070,GLI2_HUMAN,Homo sapiens,Zinc finger protein GLI2,GLI2,2736.0,Tchem
+6928,Q9UJU6,DBNL_HUMAN,Homo sapiens,Drebrin-like protein,DBNL,28988.0,Tbio
+13397,P49116,NR2C2_HUMAN,Homo sapiens,Nuclear receptor subfamily 2 group C member 2,NR2C2,7182.0,Tchem
+7743,Q9HBW9,AGRL4_HUMAN,Homo sapiens,Adhesion G protein-coupled receptor L4,ADGRL4,64123.0,Tbio
+5122,Q6UXH8,CCBE1_HUMAN,Homo sapiens,Collagen and calcium-binding EGF domain-containing protein 1,CCBE1,147372.0,Tbio
+14217,Q9UBL9,P2RX2_HUMAN,Homo sapiens,P2X purinoceptor 2,P2RX2,22953.0,Tbio
+11537,P54315,LIPR1_HUMAN,Homo sapiens,Inactive pancreatic lipase-related protein 1,PNLIPRP1,5407.0,Tbio
+1254,P34981,TRFR_HUMAN,Homo sapiens,Thyrotropin-releasing hormone receptor,TRHR,7201.0,Tclin
+16997,Q9BV35,SCMC3_HUMAN,Homo sapiens,Calcium-binding mitochondrial carrier protein SCaMC-3,SLC25A23,79085.0,Tbio
+10880,P06732,KCRM_HUMAN,Homo sapiens,Creatine kinase M-type,CKM,1158.0,Tbio
+2797,Q08188,TGM3_HUMAN,Homo sapiens,Protein-glutamine gamma-glutamyltransferase E,TGM3,7053.0,Tchem
+17479,P28370,SMCA1_HUMAN,Homo sapiens,Probable global transcription activator SNF2L1,SMARCA1,6594.0,Tbio
+6429,Q9BZP3,CR002_HUMAN,Homo sapiens,Putative uncharacterized protein encoded by LINC00470,LINC00470,,Tdark
+739,P35365,5HT5B_RAT,Rattus norvegicus,5-hydroxytryptamine receptor 5B,Htr5b,,
+13872,P58170,OR1D5_HUMAN,Homo sapiens,Olfactory receptor 1D5,OR1D5,8386.0,Tdark
+17803,Q2M3C7,SPKAP_HUMAN,Homo sapiens,A-kinase anchor protein SPHKAP,SPHKAP,80309.0,Tdark
+877,P13631,RARG_HUMAN,Homo sapiens,Retinoic acid receptor gamma,RARG,5916.0,Tclin
+11442,P47929,LEG7_HUMAN,Homo sapiens,Galectin-7,LGALS7,653499.0,Tbio
+3994,Q9HBZ2,ARNT2_HUMAN,Homo sapiens,Aryl hydrocarbon receptor nuclear translocator 2,ARNT2,9915.0,Tbio
+11578,Q96KR4,LMLN_HUMAN,Homo sapiens,Leishmanolysin-like peptidase,LMLN,89782.0,Tdark
+15997,Q8N431,RGF1C_HUMAN,Homo sapiens,Ras-GEF domain-containing family member 1C,RASGEF1C,255426.0,Tdark
+11018,Q9BQ90,KLDC3_HUMAN,Homo sapiens,Kelch domain-containing protein 3,KLHDC3,116138.0,Tdark
+13429,Q9NPI5,NRK2_HUMAN,Homo sapiens,Nicotinamide riboside kinase 2,NMRK2,27231.0,Tdark
+2170,Q9NZV8,KCND2_HUMAN,Homo sapiens,Potassium voltage-gated channel subfamily D member 2,KCND2,3751.0,Tclin
+17224,O43147,SGSM2_HUMAN,Homo sapiens,Small G protein signaling modulator 2,SGSM2,9905.0,Tbio
+13824,Q9NZT2,OGFR_HUMAN,Homo sapiens,Opioid growth factor receptor,OGFR,11054.0,Tbio
+10732,Q96PY0,K1908_HUMAN,Homo sapiens,Putative uncharacterized protein PSMG3-AS1,PSMG3-AS1,,Tdark
+21428,Q9C0D3,ZY11B_HUMAN,Homo sapiens,Protein zyg-11 homolog B,ZYG11B,79699.0,Tdark
+7533,Q8WXU2,DYXC1_HUMAN,Homo sapiens,Dyslexia susceptibility 1 candidate gene 1 protein,DYX1C1,161582.0,Tbio
+1859,Q62053,PE2R2_MOUSE,Mus musculus,Prostaglandin E2 receptor EP2 subtype,Ptger2,,
+1699,Q13255,GRM1_HUMAN,Homo sapiens,Metabotropic glutamate receptor 1,GRM1,2911.0,Tchem
+18572,P40227,TCPZ_HUMAN,Homo sapiens,T-complex protein 1 subunit zeta,CCT6A,908.0,Tbio
+22550,Q5I2N3,POLG_HCV6A,Hepatitis C virus genotype 6a (isolate 6a33) (HCV),Genome polyprotein,,,
+19900,Q9Y4X1,UD2A1_HUMAN,Homo sapiens,UDP-glucuronosyltransferase 2A1,UGT2A1,574537.0,Tdark
+9699,Q9H0R4,HDHD2_HUMAN,Homo sapiens,Haloacid dehalogenase-like hydrolase domain-containing protein 2,HDHD2,84064.0,Tdark
+5916,Q8WXI8,CLC4D_HUMAN,Homo sapiens,C-type lectin domain family 4 member D,CLEC4D,338339.0,Tbio
+819,P10415,BCL2_HUMAN,Homo sapiens,Apoptosis regulator Bcl-2,BCL2,596.0,Tclin
+20838,Q9HA38,ZMAT3_HUMAN,Homo sapiens,Zinc finger matrin-type protein 3,ZMAT3,64393.0,Tbio
+20065,P21796,VDAC1_HUMAN,Homo sapiens,Voltage-dependent anion-selective channel protein 1,VDAC1,7416.0,Tbio
+11664,Q8N6Y2,LRC17_HUMAN,Homo sapiens,Leucine-rich repeat-containing protein 17,LRRC17,10234.0,Tdark
+6382,Q9P2I0,CPSF2_HUMAN,Homo sapiens,Cleavage and polyadenylation specificity factor subunit 2,CPSF2,53981.0,Tbio
+9982,P34932,HSP74_HUMAN,Homo sapiens,Heat shock 70 kDa protein 4,HSPA4,3308.0,Tbio
+7395,Q6UX65,DRAM2_HUMAN,Homo sapiens,DNA damage-regulated autophagy modulator protein 2,DRAM2,128338.0,Tdark
+5285,P25063,CD24_HUMAN,Homo sapiens,Signal transducer CD24,CD24,100133941.0,Tbio
+2407,P00489,PYGM_RABIT,Oryctolagus cuniculus,"Glycogen phosphorylase, muscle form",PYGM,,
+11671,Q2I0M4,LRC26_HUMAN,Homo sapiens,Leucine-rich repeat-containing protein 26,LRRC26,389816.0,Tbio
+14456,Q9Y5G6,PCDG7_HUMAN,Homo sapiens,Protocadherin gamma-A7,PCDHGA7,56108.0,Tdark
+3260,Q96I13,ABHD8_HUMAN,Homo sapiens,Protein ABHD8,ABHD8,79575.0,Tdark
+21869,P37744,RMLA1_ECOLI,Escherichia coli (strain K12),Glucose-1-phosphate thymidylyltransferase 1,rmlA1,,
+23647,D2SSQ3,D2SSQ3_PSEAI,Pseudomonas aeruginosa,Beta-lactamase,,,
+11636,Q8TBJ4,PLPR1_HUMAN,Homo sapiens,Phospholipid phosphatase-related protein type 1,PLPPR1,54886.0,Tdark
+7150,Q14147,DHX34_HUMAN,Homo sapiens,Probable ATP-dependent RNA helicase DHX34,DHX34,9704.0,Tbio
+16983,Q86SK9,SCD5_HUMAN,Homo sapiens,Stearoyl-CoA desaturase 5,SCD5,79966.0,Tchem
+5023,Q96M34,CC030_HUMAN,Homo sapiens,Uncharacterized protein C3orf30,C3orf30,152405.0,Tdark
+7725,Q8NG57,ELOA3_HUMAN,Homo sapiens,Elongin-A3,ELOA3,162699.0,Tdark
+18620,Q9BXF9,TEKT3_HUMAN,Homo sapiens,Tektin-3,TEKT3,64518.0,Tdark
+8287,Q96A09,FA46B_HUMAN,Homo sapiens,Protein FAM46B,FAM46B,115572.0,Tdark
+6396,Q8NEP4,CQ047_HUMAN,Homo sapiens,Uncharacterized protein C17orf47,C17orf47,284083.0,Tdark
+12104,Q96DN6,MBD6_HUMAN,Homo sapiens,Methyl-CpG-binding domain protein 6,MBD6,114785.0,Tdark
+2356,O62664,PGH1_BOVIN,Bos taurus,Prostaglandin G/H synthase 1,PTGS1,,
+15939,Q13127,REST_HUMAN,Homo sapiens,RE1-silencing transcription factor,REST,5978.0,Tbio
+10625,Q14571,ITPR2_HUMAN,Homo sapiens,"Inositol 1,4,5-trisphosphate receptor type 2",ITPR2,3709.0,Tbio
+7870,Q9NQ60,EQTN_HUMAN,Homo sapiens,Equatorin,EQTN,54586.0,Tdark
+10836,O43448,KCAB3_HUMAN,Homo sapiens,Voltage-gated potassium channel subunit beta-3,KCNAB3,9196.0,Tdark
+3575,Q96F25,ALG14_HUMAN,Homo sapiens,UDP-N-acetylglucosamine transferase subunit ALG14 homolog,ALG14,199857.0,Tdark
+6521,Q16526,CRY1_HUMAN,Homo sapiens,Cryptochrome-1,CRY1,1407.0,Tbio
+95,E0VXT9,E0VXT9_PEDHC,Pediculus humanus subsp. corporis,"Cytochrome P450, putative",,,
+4384,Q8TAM1,BBS10_HUMAN,Homo sapiens,Bardet-Biedl syndrome 10 protein,BBS10,79738.0,Tbio
+13468,Q9H0G5,NSRP1_HUMAN,Homo sapiens,Nuclear speckle splicing regulatory protein 1,NSRP1,84081.0,Tbio
+1266,Q00959,NMDE1_RAT,Rattus norvegicus,"Glutamate receptor ionotropic, NMDA 2A",Grin2a,,
+3783,Q96CW1,AP2M1_HUMAN,Homo sapiens,AP-2 complex subunit mu,AP2M1,1173.0,Tbio
+5186,Q8TC90,CCER1_HUMAN,Homo sapiens,Coiled-coil domain-containing glutamate-rich protein 1,CCER1,196477.0,Tdark
+19102,A0PJX8,TMM82_HUMAN,Homo sapiens,Transmembrane protein 82,TMEM82,388595.0,Tdark
+5593,Q8TBZ9,CG062_HUMAN,Homo sapiens,Uncharacterized protein C7orf62,C7orf62,219557.0,Tdark
+9694,Q5TGJ6,HDGL1_HUMAN,Homo sapiens,Hepatoma-derived growth factor-like protein 1,HDGFL1,154150.0,Tdark
+16893,Q9P1V8,SAM15_HUMAN,Homo sapiens,Sterile alpha motif domain-containing protein 15,SAMD15,161394.0,Tdark
+18892,Q5BJH2,TM128_HUMAN,Homo sapiens,Transmembrane protein 128,TMEM128,85013.0,Tdark
+4877,Q01518,CAP1_HUMAN,Homo sapiens,Adenylyl cyclase-associated protein 1,CAP1,10487.0,Tbio
+12320,Q10469,MGAT2_HUMAN,Homo sapiens,"Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",MGAT2,4247.0,Tchem
+1826,Q54906,Q54906_STRPY,Streptococcus pyogenes,Penicillin-binding protein,dacA,,
+7162,Q9H7Y0,DIA1R_HUMAN,Homo sapiens,Deleted in autism-related protein 1,CXorf36,79742.0,Tdark
+15113,O14830,PPE2_HUMAN,Homo sapiens,Serine/threonine-protein phosphatase with EF-hands 2,PPEF2,5470.0,Tbio
+13602,Q8NH19,O10AG_HUMAN,Homo sapiens,Olfactory receptor 10AG1,OR10AG1,282770.0,Tdark
+305,O29386,RUXX_ARCFU,Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126),Putative snRNP Sm-like protein,,,
+5956,Q8N7P3,CLD22_HUMAN,Homo sapiens,Claudin-22,CLDN22,53842.0,Tdark
+16198,P62945,RL41_HUMAN,Homo sapiens,60S ribosomal protein L41,RPL41,6171.0,Tdark
+8209,Q6P4D5,F222C_HUMAN,Homo sapiens,Protein FAM122C,FAM122C,159091.0,Tdark
+2899,Q8IVL6,P3H3_HUMAN,Homo sapiens,Prolyl 3-hydroxylase 3,P3H3,10536.0,Tbio
+13505,Q9BSD7,NTPCR_HUMAN,Homo sapiens,Cancer-related nucleoside-triphosphatase,NTPCR,84284.0,Tbio
+21147,Q7L945,ZN627_HUMAN,Homo sapiens,Zinc finger protein 627,ZNF627,199692.0,Tdark
+4927,P09668,CATH_HUMAN,Homo sapiens,Pro-cathepsin H,CTSH,1512.0,Tchem
+6779,P08034,CXB1_HUMAN,Homo sapiens,Gap junction beta-1 protein,GJB1,2705.0,Tbio
+22058,Q55QV6,Q55QV6_CRYNB,Cryptococcus neoformans var. neoformans serotype D (strain B-3501A),Uncharacterized protein,,,
+22393,P04274,ADRB2_MESAU,Mesocricetus auratus,Beta-2 adrenergic receptor,ADRB2,,
+6211,Q9P218,COKA1_HUMAN,Homo sapiens,Collagen alpha-1(XX) chain,COL20A1,57642.0,Tdark
+355,O60779,S19A2_HUMAN,Homo sapiens,Thiamine transporter 1,SLC19A2,10560.0,Tbio
+5397,Q8NAS9,CE017_HUMAN,Homo sapiens,Uncharacterized protein C5orf17,C5orf17,,Tdark
+22106,Q6EDY6,LR16A_MOUSE,Mus musculus,Leucine-rich repeat-containing protein 16A,Lrrc16a,,
+1525,P61075,CDC2H_PLAF7,Plasmodium falciparum,Cell division control protein 2 homolog,CRK2,,
+1107,P25815,S100P_HUMAN,Homo sapiens,Protein S100-P,S100P,6286.0,Tbio
+152,P51970,NDUA8_HUMAN,Homo sapiens,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,NDUFA8,4702.0,Tclin
+10094,P52790,HXK3_HUMAN,Homo sapiens,Hexokinase-3,HK3,3101.0,Tbio
+18245,O00445,SYT5_HUMAN,Homo sapiens,Synaptotagmin-5,SYT5,6861.0,Tbio
+16664,P26447,S10A4_HUMAN,Homo sapiens,Protein S100-A4,S100A4,6275.0,Tbio
+13724,Q8NGJ4,O52E2_HUMAN,Homo sapiens,Olfactory receptor 52E2,OR52E2,119678.0,Tdark
+3576,Q6GMV1,ALG1L_HUMAN,Homo sapiens,Putative glycosyltransferase ALG1-like,ALG1L,200810.0,Tdark
+8997,P63244,RACK1_HUMAN,Homo sapiens,Receptor of activated protein C kinase 1,RACK1,10399.0,Tbio
+23667,P00845,ATPL_BACP3,Bacillus sp.,ATP synthase subunit c,atpE,,
+12502,O60669,MOT2_HUMAN,Homo sapiens,Monocarboxylate transporter 2,SLC16A7,9194.0,Tbio
+7538,Q9NZJ5,E2AK3_HUMAN,Homo sapiens,Eukaryotic translation initiation factor 2-alpha kinase 3,EIF2AK3,9451.0,Tchem
+7225,Q9NR61,DLL4_HUMAN,Homo sapiens,Delta-like protein 4,DLL4,54567.0,Tbio
+18111,Q16623,STX1A_HUMAN,Homo sapiens,Syntaxin-1A,STX1A,6804.0,Tbio
+51,C0IX24,C0IX24_9CNID,Stylophora pistillata,Carbonic anhydrase,CA2,,
+10165,Q9Y6W8,ICOS_HUMAN,Homo sapiens,Inducible T-cell costimulator,ICOS,29851.0,Tbio
+4139,P24539,AT5F1_HUMAN,Homo sapiens,"ATP synthase F(0) complex subunit B1, mitochondrial",ATP5F1,515.0,Tbio
+13123,O94856,NFASC_HUMAN,Homo sapiens,Neurofascin,NFASC,23114.0,Tbio
+3365,Q9BYD9,ACTT3_HUMAN,Homo sapiens,Actin-related protein T3,ACTRT3,84517.0,Tdark
+461,P00654,RNU2_USTSP,Ustilago sphaerogena,Ribonuclease U2,RNU2,,
+18583,Q9H147,TDIF1_HUMAN,Homo sapiens,Deoxynucleotidyltransferase terminal-interacting protein 1,DNTTIP1,116092.0,Tbio
+3071,P30462,1B14_HUMAN,Homo sapiens,"HLA class I histocompatibility antigen, B-14 alpha chain",HLA-B,,Tbio
+14818,Q8TDX9,PK1L1_HUMAN,Homo sapiens,Polycystic kidney disease protein 1-like 1,PKD1L1,168507.0,Tdark
+18399,Q5VWG9,TAF3_HUMAN,Homo sapiens,Transcription initiation factor TFIID subunit 3,TAF3,83860.0,Tbio
+18213,Q8NF91,SYNE1_HUMAN,Homo sapiens,Nesprin-1,SYNE1,23345.0,Tbio
+395,O88704,HCN1_MOUSE,Mus musculus,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,Hcn1,,
+10069,P09067,HXB5_HUMAN,Homo sapiens,Homeobox protein Hox-B5,HOXB5,3215.0,Tbio
+21807,P18902,RET4_BOVIN,Bos taurus,Retinol-binding protein 4,RBP4,,
+6696,Q9Y426,CU025_HUMAN,Homo sapiens,C2 domain-containing protein 2,C2CD2,25966.0,Tdark
+2841,Q16773,KAT1_HUMAN,Homo sapiens,Kynurenine--oxoglutarate transaminase 1,KYAT1,883.0,Tbio
+98,E0W2B1,E0W2B1_PEDHC,Pediculus humanus subsp. corporis,"Cytochrome P450, putative",,,
+3154,Q96P26,5NT1B_HUMAN,Homo sapiens,Cytosolic 5'-nucleotidase 1B,NT5C1B,93034.0,Tdark
+14075,Q8NGG7,OR8A1_HUMAN,Homo sapiens,Olfactory receptor 8A1,OR8A1,390275.0,Tdark
+3630,Q6UX39,AMTN_HUMAN,Homo sapiens,Amelotin,AMTN,401138.0,Tbio
+1329,P41231,P2RY2_HUMAN,Homo sapiens,P2Y purinoceptor 2,P2RY2,5029.0,Tclin
+10099,Q2M3T9,HYAL4_HUMAN,Homo sapiens,Hyaluronidase-4,HYAL4,23553.0,Tbio
+4997,P15169,CBPN_HUMAN,Homo sapiens,Carboxypeptidase N catalytic chain,CPN1,1369.0,Tchem
+13188,Q6KC79,NIPBL_HUMAN,Homo sapiens,Nipped-B-like protein,NIPBL,25836.0,Tbio
+12351,Q29983,MICA_HUMAN,Homo sapiens,MHC class I polypeptide-related sequence A,MICA,100507436.0,Tbio
+20192,A3KMH1,VWA8_HUMAN,Homo sapiens,von Willebrand factor A domain-containing protein 8,VWA8,23078.0,Tdark
+8922,P62683,GAK21_HUMAN,Homo sapiens,Endogenous retrovirus group K member 21 Gag polyprotein,ERVK-21,,Tdark
+1339,P42262,GRIA2_HUMAN,Homo sapiens,Glutamate receptor 2,GRIA2,2891.0,Tclin
+20779,Q15911,ZFHX3_HUMAN,Homo sapiens,Zinc finger homeobox protein 3,ZFHX3,463.0,Tbio
+12834,P02689,MYP2_HUMAN,Homo sapiens,Myelin P2 protein,PMP2,5375.0,Tbio
+8956,P54826,GAS1_HUMAN,Homo sapiens,Growth arrest-specific protein 1,GAS1,2619.0,Tbio
+12857,Q86UW6,N4BP2_HUMAN,Homo sapiens,NEDD4-binding protein 2,N4BP2,55728.0,Tbio
+14571,Q8IXQ8,PDZD9_HUMAN,Homo sapiens,PDZ domain-containing protein 9,PDZD9,255762.0,Tdark
+7011,Q13206,DDX10_HUMAN,Homo sapiens,Probable ATP-dependent RNA helicase DDX10,DDX10,1662.0,Tbio
+12232,Q5JSS6,MEIG1_HUMAN,Homo sapiens,Meiosis expressed gene 1 protein homolog,MEIG1,644890.0,Tdark
+3804,Q9H0R1,AP5M1_HUMAN,Homo sapiens,AP-5 complex subunit mu-1,AP5M1,55745.0,Tdark
+8488,Q969H0,FBXW7_HUMAN,Homo sapiens,F-box/WD repeat-containing protein 7,FBXW7,55294.0,Tbio
+3703,Q9NW15,ANO10_HUMAN,Homo sapiens,Anoctamin-10,ANO10,55129.0,Tbio
+16237,O75394,RM33_HUMAN,Homo sapiens,"39S ribosomal protein L33, mitochondrial",MRPL33,9553.0,Tdark
+21742,P0A7E9,PYRH_ECOLI,Escherichia coli (strain K12),Uridylate kinase,pyrH,,
+7614,Q6NXP0,EFC12_HUMAN,Homo sapiens,EF-hand calcium-binding domain-containing protein 12,EFCAB12,90288.0,Tdark
+5657,Q9HCK8,CHD8_HUMAN,Homo sapiens,Chromodomain-helicase-DNA-binding protein 8,CHD8,57680.0,Tbio
+21991,Q187U0,Q187U0_PEPD6,Peptoclostridium difficile (strain 630),"ABC-type transport system, extracellular solute-binding protein",,,
+3138,Q30167,2B1A_HUMAN,Homo sapiens,"HLA class II histocompatibility antigen, DRB1-10 beta chain",HLA-DRB1,,Tbio
+3750,B4E2M5,ANR66_HUMAN,Homo sapiens,Ankyrin repeat domain-containing protein 66,ANKRD66,100287718.0,Tdark
+3656,Q96K21,ANCHR_HUMAN,Homo sapiens,Abscission/NoCut checkpoint regulator,ZFYVE19,84936.0,Tbio
+5353,Q69YH5,CDCA2_HUMAN,Homo sapiens,Cell division cycle-associated protein 2,CDCA2,157313.0,Tbio
+1185,P50052,AGTR2_HUMAN,Homo sapiens,Type-2 angiotensin II receptor,AGTR2,186.0,Tchem
+853,P30281,CCND3_HUMAN,Homo sapiens,G1/S-specific cyclin-D3,CCND3,896.0,Tchem
+4258,O75061,AUXI_HUMAN,Homo sapiens,Putative tyrosine-protein phosphatase auxilin,DNAJC6,9829.0,Tbio
+21301,A6NEH8,ZNAS2_HUMAN,Homo sapiens,Putative uncharacterized protein encoded by ZNF503-AS2,ZNF503-AS2,,Tdark
+287,Q9Y618,NCOR2_HUMAN,Homo sapiens,Nuclear receptor corepressor 2,NCOR2,9612.0,Tchem
+7402,Q96MC2,DRC1_HUMAN,Homo sapiens,Dynein regulatory complex protein 1,DRC1,92749.0,Tbio
+16945,P0C7V7,SC11B_HUMAN,Homo sapiens,Putative signal peptidase complex catalytic subunit SEC11B,SEC11B,,Tdark
+11666,Q8TCA0,LRC20_HUMAN,Homo sapiens,Leucine-rich repeat-containing protein 20,LRRC20,55222.0,Tdark
+7887,Q03468,ERCC6_HUMAN,Homo sapiens,DNA excision repair protein ERCC-6,ERCC6,2074.0,Tbio
+327,O43526,KCNQ2_HUMAN,Homo sapiens,Potassium voltage-gated channel subfamily KQT member 2,KCNQ2,3785.0,Tclin
+10463,Q8N201,INT1_HUMAN,Homo sapiens,Integrator complex subunit 1,INTS1,26173.0,Tbio
+4370,Q8N1L9,BATF2_HUMAN,Homo sapiens,Basic leucine zipper transcriptional factor ATF-like 2,BATF2,116071.0,Tbio
+11789,Q9UK45,LSM7_HUMAN,Homo sapiens,U6 snRNA-associated Sm-like protein LSm7,LSM7,51690.0,Tdark
+5046,Q9H0I3,CC113_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 113,CCDC113,29070.0,Tdark
+16337,Q86VV4,RNB3L_HUMAN,Homo sapiens,Ran-binding protein 3-like,RANBP3L,202151.0,Tdark
+19051,P49755,TMEDA_HUMAN,Homo sapiens,Transmembrane emp24 domain-containing protein 10,TMED10,10972.0,Tbio
+3078,P30475,1B39_HUMAN,Homo sapiens,"HLA class I histocompatibility antigen, B-39 alpha chain",HLA-B,,Tbio
+1293,P36888,FLT3_HUMAN,Homo sapiens,Receptor-type tyrosine-protein kinase FLT3,FLT3,2322.0,Tclin
+2506,P20083,PARE_ECOLI,Escherichia coli (strain K12),DNA topoisomerase 4 subunit B,parE,,
+4477,Q13323,BIK_HUMAN,Homo sapiens,Bcl-2-interacting killer,BIK,638.0,Tbio
+22060,Q56148,CPT_STRVP,Streptomyces venezuelae (strain ATCC 10712 / CBS 650.69 / DSM 40230 / JCM 4526 / NBRC 13096 / PD 04745),Chloramphenicol 3-O phosphotransferase,,,
+5362,Q15131,CDK10_HUMAN,Homo sapiens,Cyclin-dependent kinase 10,CDK10,8558.0,Tbio
+4071,Q8N3C0,ASCC3_HUMAN,Homo sapiens,Activating signal cointegrator 1 complex subunit 3,ASCC3,10973.0,Tbio
+14993,Q96PV4,PNMA5_HUMAN,Homo sapiens,Paraneoplastic antigen-like protein 5,PNMA5,114824.0,Tbio
+16775,Q6ZUB0,S31D4_HUMAN,Homo sapiens,Putative spermatogenesis-associated protein 31D4,SPATA31D4,389761.0,Tdark
+14138,Q8WVF1,OSCP1_HUMAN,Homo sapiens,Protein OSCP1,OSCP1,127700.0,Tbio
+16408,O95602,RPA1_HUMAN,Homo sapiens,DNA-directed RNA polymerase I subunit RPA1,POLR1A,25885.0,Tchem
+13124,O94916,NFAT5_HUMAN,Homo sapiens,Nuclear factor of activated T-cells 5,NFAT5,10725.0,Tbio
+14869,Q8TCW9,PKR1_HUMAN,Homo sapiens,Prokineticin receptor 1,PROKR1,10887.0,Tchem
+3754,Q9H6X2,ANTR1_HUMAN,Homo sapiens,Anthrax toxin receptor 1,ANTXR1,84168.0,Tbio
+7617,Q5VUJ9,EFCB2_HUMAN,Homo sapiens,EF-hand calcium-binding domain-containing protein 2,EFCAB2,84288.0,Tdark
+1971,Q8TBX8,PI42C_HUMAN,Homo sapiens,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,PIP4K2C,79837.0,Tbio
+13091,O00634,NET3_HUMAN,Homo sapiens,Netrin-3,NTN3,4917.0,Tdark
+17652,Q96PQ0,SORC2_HUMAN,Homo sapiens,VPS10 domain-containing receptor SorCS2,SORCS2,57537.0,Tdark
+7590,Q92611,EDEM1_HUMAN,Homo sapiens,ER degradation-enhancing alpha-mannosidase-like protein 1,EDEM1,9695.0,Tbio
+9287,A7E2F4,GOG8A_HUMAN,Homo sapiens,Golgin subfamily A member 8A,GOLGA8A,23015.0,Tbio
+20391,Q5T750,XP32_HUMAN,Homo sapiens,Skin-specific protein 32,XP32,100129271.0,Tdark
+11739,Q86VZ4,LRP11_HUMAN,Homo sapiens,Low-density lipoprotein receptor-related protein 11,LRP11,84918.0,Tdark
+15281,Q86SH4,PRNT_HUMAN,Homo sapiens,Putative testis-specific prion protein,PRNT,,Tdark
+5004,Q9BRT8,CBWD1_HUMAN,Homo sapiens,COBW domain-containing protein 1,CBWD1,55871.0,Tbio
+19475,Q96A04,TSACC_HUMAN,Homo sapiens,TSSK6-activating co-chaperone protein,TSACC,128229.0,Tbio
+11870,Q9HBG7,LY9_HUMAN,Homo sapiens,T-lymphocyte surface antigen Ly-9,LY9,4063.0,Tbio
+12994,P16333,NCK1_HUMAN,Homo sapiens,Cytoplasmic protein NCK1,NCK1,4690.0,Tbio
+15851,A6NDE4,RBY1B_HUMAN,Homo sapiens,"RNA-binding motif protein, Y chromosome, family 1 member B",RBMY1B,378948.0,Tbio
+15658,P20336,RAB3A_HUMAN,Homo sapiens,Ras-related protein Rab-3A,RAB3A,5864.0,Tbio
+6069,Q9BYD5,CNFN_HUMAN,Homo sapiens,Cornifelin,CNFN,84518.0,Tdark
+1312,P39086,GRIK1_HUMAN,Homo sapiens,"Glutamate receptor ionotropic, kainate 1",GRIK1,2897.0,Tclin
+9051,O60383,GDF9_HUMAN,Homo sapiens,Growth/differentiation factor 9,GDF9,2661.0,Tbio
+628,P05413,FABPH_HUMAN,Homo sapiens,"Fatty acid-binding protein, heart",FABP3,2170.0,Tchem
+4872,P63098,CANB1_HUMAN,Homo sapiens,Calcineurin subunit B type 1,PPP3R1,5534.0,Tbio
+7350,Q9H4G8,DPH3B_HUMAN,Homo sapiens,Putative DPH3 homolog B,DPH3P1,100132911.0,Tdark
+24446,Q4QBL1,Q4QBL1_LEIMA,Leishmania major,"Farnesyl pyrophosphate synthase, EC 2.5.1.1, EC 2.5.1.10",FPPS,,
+6156,P0C0L4,CO4A_HUMAN,Homo sapiens,Complement C4-A,C4A,721.0,Tbio
+18852,Q9BXR5,TLR10_HUMAN,Homo sapiens,Toll-like receptor 10,TLR10,81793.0,Tbio
+20023,Q9BV40,VAMP8_HUMAN,Homo sapiens,Vesicle-associated membrane protein 8,VAMP8,8673.0,Tbio
+15613,Q8TBN0,R3GEF_HUMAN,Homo sapiens,Guanine nucleotide exchange factor for Rab-3A,RAB3IL1,5866.0,Tbio
+20265,O43379,WDR62_HUMAN,Homo sapiens,WD repeat-containing protein 62,WDR62,284403.0,Tbio
+642,P06281,RENI1_MOUSE,Mus musculus,Renin-1,Ren1,,
+4978,Q9NTU7,CBLN4_HUMAN,Homo sapiens,Cerebellin-4,CBLN4,140689.0,Tdark
+2275,Q9ZTP8,Q9ZTP8_MAIZE,Zea mays,Histone deacetylase,hd1b,,
+7750,Q05BV3,EMAL5_HUMAN,Homo sapiens,Echinoderm microtubule-associated protein-like 5,EML5,161436.0,Tdark
+8661,Q9H479,FN3K_HUMAN,Homo sapiens,Fructosamine-3-kinase,FN3K,64122.0,Tbio
+3098,Q29836,1B67_HUMAN,Homo sapiens,"HLA class I histocompatibility antigen, B-67 alpha chain",HLA-B,,Tbio
+12067,Q5T0T0,MARH8_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase MARCH8,MARCH8,220972.0,Tbio
+25,A3RLP8,A3RLP8_CHV1,Cercopithecine herpesvirus 1,Thymidine kinase,UL23,,
+6904,Q96PH6,DB118_HUMAN,Homo sapiens,Beta-defensin 118,DEFB118,117285.0,Tdark
+22466,P14099,PDE2A_BOVIN,Bos taurus,"cGMP-dependent 3',5'-cyclic phosphodiesterase",PDE2A,,
+18909,Q8WZ71,TM158_HUMAN,Homo sapiens,Transmembrane protein 158,TMEM158,25907.0,Tdark
+13017,O14931,NCTR3_HUMAN,Homo sapiens,Natural cytotoxicity triggering receptor 3,NCR3,259197.0,Tbio
+21082,Q7Z340,ZN551_HUMAN,Homo sapiens,Zinc finger protein 551,ZNF551,90233.0,Tdark
+17109,Q9NVA2,SEP11_HUMAN,Homo sapiens,Septin-11,SEPT11,55752.0,Tbio
+15066,A6NI47,POTEM_HUMAN,Homo sapiens,Putative POTE ankyrin domain family member M,POTEM,641455.0,Tdark
+18371,Q96RI8,TAAR6_HUMAN,Homo sapiens,Trace amine-associated receptor 6,TAAR6,319100.0,Tbio
+5178,Q53HC0,CCD92_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 92,CCDC92,80212.0,Tdark
+20204,Q9UPY6,WASF3_HUMAN,Homo sapiens,Wiskott-Aldrich syndrome protein family member 3,WASF3,10810.0,Tbio
+13894,Q8NGQ3,OR1S2_HUMAN,Homo sapiens,Olfactory receptor 1S2,OR1S2,219958.0,Tdark
+14291,Q9BTK6,PAGR1_HUMAN,Homo sapiens,PAXIP1-associated glutamate-rich protein 1,PAGR1,79447.0,Tdark
+3977,Q5T9G4,ARM12_HUMAN,Homo sapiens,Armadillo repeat-containing protein 12,ARMC12,221481.0,Tdark
+7915,O75477,ERLN1_HUMAN,Homo sapiens,Erlin-1,ERLIN1,10613.0,Tbio
+24958,P9WGU9,LPQY_MYCTU,Mycobacterium tuberculosis,Trehalose-binding lipoprotein LpqY,lpqY,,
+8938,Q7Z7M9,GALT5_HUMAN,Homo sapiens,Polypeptide N-acetylgalactosaminyltransferase 5,GALNT5,11227.0,Tbio
+12962,Q86XG9,NBPF5_HUMAN,Homo sapiens,Putative neuroblastoma breakpoint family member 5,NBPF5P,,Tdark
+12796,P60660,MYL6_HUMAN,Homo sapiens,Myosin light polypeptide 6,MYL6,4637.0,Tbio
+13134,Q14938,NFIX_HUMAN,Homo sapiens,Nuclear factor 1 X-type,NFIX,4784.0,Tbio
+19451,Q9HCX4,TRPC7_HUMAN,Homo sapiens,Short transient receptor potential channel 7,TRPC7,57113.0,Tbio
+22108,Q6GEG9,Y2349_STAAR,Staphylococcus aureus (strain MRSA252),Uncharacterized HTH-type transcriptional regulator SAR2349,,,
+18465,Q2M2D7,TBC28_HUMAN,Homo sapiens,TBC1 domain family member 28,TBC1D28,254272.0,Tdark
+1116,P27448,MARK3_HUMAN,Homo sapiens,MAP/microtubule affinity-regulating kinase 3,MARK3,4140.0,Tchem
+22017,Q31MN3,KATG_SYNE7,Synechococcus elongatus (strain PCC 7942),Catalase-peroxidase,katG,,
+14894,P51178,PLCD1_HUMAN,Homo sapiens,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1",PLCD1,5333.0,Tchem
+1222,P32238,CCKAR_HUMAN,Homo sapiens,Cholecystokinin receptor type A,CCKAR,886.0,Tclin
+3366,Q8TDY3,ACTT2_HUMAN,Homo sapiens,Actin-related protein T2,ACTRT2,140625.0,Tdark
+11513,P0CW19,LIMS3_HUMAN,Homo sapiens,LIM and senescent cell antigen-like-containing domain protein 3,LIMS3,96626.0,Tdark
+5383,Q8N9R6,CDRT4_HUMAN,Homo sapiens,CMT1A duplicated region transcript 4 protein,CDRT4,284040.0,Tdark
+13623,Q8NGE3,O10P1_HUMAN,Homo sapiens,Olfactory receptor 10P1,OR10P1,121130.0,Tdark
+9691,Q8IV16,HDBP1_HUMAN,Homo sapiens,Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1,GPIHBP1,338328.0,Tbio
+6357,Q7Z5Q1,CPEB2_HUMAN,Homo sapiens,Cytoplasmic polyadenylation element-binding protein 2,CPEB2,132864.0,Tbio
+8327,Q7L4E1,MIGA2_HUMAN,Homo sapiens,Mitoguardin 2,MIGA2,84895.0,Tdark
+9983,P48741,HSP77_HUMAN,Homo sapiens,Putative heat shock 70 kDa protein 7,HSPA7,,Tbio
+14056,Q8NGQ2,OR6Q1_HUMAN,Homo sapiens,Olfactory receptor 6Q1,OR6Q1,219952.0,Tdark
+23508,P0DP24,CALM2_HUMAN,Homo sapiens,Calmodulin-2,CALM2,805.0,Tclin
+8772,O94915,FRYL_HUMAN,Homo sapiens,Protein furry homolog-like,FRYL,285527.0,Tdark
+19373,Q8WV44,TRI41_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase TRIM41,TRIM41,90933.0,Tdark
+818,P10297,RIP1_PHYAM,Phytolacca americana,Antiviral protein I,PAP1,,
+15238,Q9NRG1,PRDC1_HUMAN,Homo sapiens,Phosphoribosyltransferase domain-containing protein 1,PRTFDC1,56952.0,Tbio
+16048,P58872,RHBL3_HUMAN,Homo sapiens,Rhomboid-related protein 3,RHBDL3,162494.0,Tdark
+18826,O75663,TIPRL_HUMAN,Homo sapiens,TIP41-like protein,TIPRL,261726.0,Tbio
+8804,Q8IVP5,FUND1_HUMAN,Homo sapiens,FUN14 domain-containing protein 1,FUNDC1,139341.0,Tdark
+17264,Q92529,SHC3_HUMAN,Homo sapiens,SHC-transforming protein 3,SHC3,53358.0,Tbio
+20127,P63124,VPK04_HUMAN,Homo sapiens,Endogenous retrovirus group K member 104 Pro protein,HERV-K104,,Tdark
+1723,Q14181,DPOA2_HUMAN,Homo sapiens,DNA polymerase alpha subunit B,POLA2,23649.0,Tbio
+3917,Q8TER5,ARH40_HUMAN,Homo sapiens,Rho guanine nucleotide exchange factor 40,ARHGEF40,55701.0,Tdark
+9835,Q05925,HME1_HUMAN,Homo sapiens,Homeobox protein engrailed-1,EN1,2019.0,Tbio
+5845,Q3C1V1,CK091_HUMAN,Homo sapiens,Uncharacterized protein C11orf91,C11orf91,100131378.0,Tdark
+8946,Q8TET4,GANC_HUMAN,Homo sapiens,Neutral alpha-glucosidase C,GANC,2595.0,Tchem
+3421,P40394,ADH7_HUMAN,Homo sapiens,Alcohol dehydrogenase class 4 mu/sigma chain,ADH7,131.0,Tchem
+12616,Q15800,MSMO1_HUMAN,Homo sapiens,Methylsterol monooxygenase 1,MSMO1,6307.0,Tbio
+21482,A7U483,A7U483_DANRE,Danio rerio,Cytochrome P450 family 17 polypeptide 2,cyp17a2,,
+16110,Q9BQY4,RHXF2_HUMAN,Homo sapiens,Rhox homeobox family member 2,RHOXF2,84528.0,Tdark
+21450,A1TY68,A1TY68_MARHV,Marinobacter hydrocarbonoclasticus (strain ATCC 700491 / DSM 11845 / VT8),"Anti-ECFsigma factor, ChrR",,,
+4831,O75493,CAH11_HUMAN,Homo sapiens,Carbonic anhydrase-related protein 11,CA11,770.0,Tbio
+5134,Q8TAB7,CCD26_HUMAN,Homo sapiens,Putative coiled-coil domain-containing protein 26,CCDC26,,Tdark
+7003,Q8WTU0,DDI1_HUMAN,Homo sapiens,Protein DDI1 homolog 1,DDI1,414301.0,Tdark
+11801,Q9NS15,LTBP3_HUMAN,Homo sapiens,Latent-transforming growth factor beta-binding protein 3,LTBP3,4054.0,Tbio
+21155,Q8N7E2,ZN645_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase ZNF645,ZNF645,158506.0,Tdark
+13449,Q96L73,NSD1_HUMAN,Homo sapiens,"Histone-lysine N-methyltransferase, H3 lysine-36 and H4 lysine-20 specific",NSD1,64324.0,Tbio
+19696,A6NCW0,U17L3_HUMAN,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 17-like protein 3,USP17L3,645836.0,Tdark
+15313,P21108,PRPS3_HUMAN,Homo sapiens,Ribose-phosphate pyrophosphokinase 3,PRPS1L1,221823.0,Tdark
+1131,P28566,5HT1E_HUMAN,Homo sapiens,5-hydroxytryptamine receptor 1E,HTR1E,3354.0,Tchem
+20086,P08670,VIME_HUMAN,Homo sapiens,Vimentin,VIM,7431.0,Tbio
+12933,Q8N8M0,NAT16_HUMAN,Homo sapiens,Probable N-acetyltransferase 16,NAT16,375607.0,Tdark
+15137,Q9Y570,PPME1_HUMAN,Homo sapiens,Protein phosphatase methylesterase 1,PPME1,51400.0,Tchem
+17073,P59797,SELV_HUMAN,Homo sapiens,Selenoprotein V,SELENOV,348303.0,Tdark
+4124,P16615,AT2A2_HUMAN,Homo sapiens,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,ATP2A2,488.0,Tbio
+5306,P01730,CD4_HUMAN,Homo sapiens,T-cell surface glycoprotein CD4,CD4,920.0,Tclin
+21460,A3LT82,A3LT82_PICST,Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545),NADPH dehydrogenase,OYE2.6,,
+19786,Q7Z3V4,UBE3B_HUMAN,Homo sapiens,Ubiquitin-protein ligase E3B,UBE3B,89910.0,Tbio
+18003,Q6IMI6,ST1C3_HUMAN,Homo sapiens,Sulfotransferase 1C3,SULT1C3,442038.0,Tdark
+15145,Q9UD71,PPR1B_HUMAN,Homo sapiens,Protein phosphatase 1 regulatory subunit 1B,PPP1R1B,84152.0,Tbio
+15847,P0DJD4,RBY1C_HUMAN,Homo sapiens,"RNA-binding motif protein, Y chromosome, family 1 member C",RBMY1C,,Tdark
+18956,Q6QAJ8,TM220_HUMAN,Homo sapiens,Transmembrane protein 220,TMEM220,388335.0,Tdark
+16289,Q96MT1,RN145_HUMAN,Homo sapiens,RING finger protein 145,RNF145,153830.0,Tdark
+4703,P33076,C2TA_HUMAN,Homo sapiens,MHC class II transactivator,CIITA,4261.0,Tbio
+7961,P15036,ETS2_HUMAN,Homo sapiens,Protein C-ets-2,ETS2,2114.0,Tbio
+16002,Q6NW40,RGMB_HUMAN,Homo sapiens,RGM domain family member B,RGMB,285704.0,Tbio
+2137,Q9LGC6,Q9LGC6_ORYSJ,Oryza sativa subsp. japonica,Putative alpha-glucosidase,P0504H10.9,,
+21391,Q9BUG6,ZSA5A_HUMAN,Homo sapiens,Zinc finger and SCAN domain-containing protein 5A,ZSCAN5A,79149.0,Tdark
+10906,P29375,KDM5A_HUMAN,Homo sapiens,Lysine-specific demethylase 5A,KDM5A,5927.0,Tbio
+1140,P28704,RXRB_MOUSE,Mus musculus,Retinoic acid receptor RXR-beta,Rxrb,,
+2742,P66010,TRXB_STAAM,Staphylococcus aureus (strain Mu50 / ATCC 700699),Thioredoxin reductase,trxB,,
+2003,Q92736,RYR2_HUMAN,Homo sapiens,Ryanodine receptor 2,RYR2,6262.0,Tclin
+19347,Q9UKU6,TRHDE_HUMAN,Homo sapiens,Thyrotropin-releasing hormone-degrading ectoenzyme,TRHDE,29953.0,Tdark
+21199,Q96C28,ZN707_HUMAN,Homo sapiens,Zinc finger protein 707,ZNF707,286075.0,Tdark
+5005,Q8IUF1,CBWD2_HUMAN,Homo sapiens,COBW domain-containing protein 2,CBWD2,150472.0,Tdark
+23722,Q7T664,Q7T664_HRV1A,Human rhinovirus 1A,Genome polyprotein,,,
+18242,Q9BQG1,SYT3_HUMAN,Homo sapiens,Synaptotagmin-3,SYT3,84258.0,Tbio
+15207,Q5TYW8,PRAM3_HUMAN,Homo sapiens,PRAME family member 3,PRAMEF3,,
+13988,Q8NGD0,OR4M1_HUMAN,Homo sapiens,Olfactory receptor 4M1,OR4M1,441670.0,Tdark
+10790,Q96M32,KAD7_HUMAN,Homo sapiens,Adenylate kinase 7,AK7,122481.0,Tbio
+21777,P12499,POL_HV1Z2,Human immunodeficiency virus type 1 group M subtype D (isolate Z2/CDC-Z34),Gag-Pol polyprotein,gag-pol,,
+4101,Q6HA08,ASTL_HUMAN,Homo sapiens,Astacin-like metalloendopeptidase,ASTL,431705.0,Tbio
+13046,O95803,NDST3_HUMAN,Homo sapiens,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 3,NDST3,9348.0,Tbio
+1037,P22756,GRIK1_RAT,Rattus norvegicus,"Glutamate receptor ionotropic, kainate 1",Grik1,,
+5650,Q3L8U1,CHD9_HUMAN,Homo sapiens,Chromodomain-helicase-DNA-binding protein 9,CHD9,80205.0,Tbio
+11501,Q96FE5,LIGO1_HUMAN,Homo sapiens,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1,LINGO1,84894.0,Tbio
+4991,Q96IY4,CBPB2_HUMAN,Homo sapiens,Carboxypeptidase B2,CPB2,1361.0,Tchem
+19228,Q12974,TP4A2_HUMAN,Homo sapiens,Protein tyrosine phosphatase type IVA 2,PTP4A2,8073.0,Tchem
+756,P09464,BBP_PIEBR,Pieris brassicae,Bilin-binding protein,,,
+22503,A0A087WVF3,TBC3D_HUMAN,Homo sapiens,TBC1 domain family member 3D,TBC1D3D,101060389.0,Tdark
+17750,Q495Y8,SPDE2_HUMAN,Homo sapiens,Speedy protein E2,SPDYE2,441273.0,Tdark
+695,P08912,ACM5_HUMAN,Homo sapiens,Muscarinic acetylcholine receptor M5,CHRM5,1133.0,Tclin
+11544,Q8N149,LIRA2_HUMAN,Homo sapiens,Leukocyte immunoglobulin-like receptor subfamily A member 2,LILRA2,11027.0,Tbio
+22523,P0DMU2,OR83P_HUMAN,Homo sapiens,Putative olfactory receptor 8G3 pseudogene,OR8G3P,,Tdark
+2323,O35435,PYRD_MOUSE,Mus musculus,"Dihydroorotate dehydrogenase (quinone), mitochondrial",Dhodh,,
+14813,Q7Z3Z4,PIWL4_HUMAN,Homo sapiens,Piwi-like protein 4,PIWIL4,143689.0,Tbio
+14742,Q8N8J0,PI4P1_HUMAN,Homo sapiens,Putative inactive phosphatidylinositol 4-kinase alpha-like protein P1,PI4KAP1,,Tdark
+18981,P0C7T8,TM253_HUMAN,Homo sapiens,Transmembrane protein 253,TMEM253,643382.0,Tdark
+16586,P82663,RT25_HUMAN,Homo sapiens,"28S ribosomal protein S25, mitochondrial",MRPS25,64432.0,Tdark
+2313,O15270,SPTC2_HUMAN,Homo sapiens,Serine palmitoyltransferase 2,SPTLC2,9517.0,Tchem
+2126,Q9HB21,PKHA1_HUMAN,Homo sapiens,Pleckstrin homology domain-containing family A member 1,PLEKHA1,59338.0,Tbio
+13732,Q8NH60,O52J3_HUMAN,Homo sapiens,Olfactory receptor 52J3,OR52J3,119679.0,Tdark
+1175,P30530,UFO_HUMAN,Homo sapiens,Tyrosine-protein kinase receptor UFO,AXL,558.0,Tchem
+8714,O00409,FOXN3_HUMAN,Homo sapiens,Forkhead box protein N3,FOXN3,1112.0,Tbio
+13628,Q8NGN2,O10S1_HUMAN,Homo sapiens,Olfactory receptor 10S1,OR10S1,219873.0,Tdark
+6940,Q8TCX1,DC2L1_HUMAN,Homo sapiens,Cytoplasmic dynein 2 light intermediate chain 1,DYNC2LI1,51626.0,Tdark
+9888,P55795,HNRH2_HUMAN,Homo sapiens,Heterogeneous nuclear ribonucleoprotein H2,HNRNPH2,3188.0,Tbio
+3716,Q6P6B7,ANR16_HUMAN,Homo sapiens,Ankyrin repeat domain-containing protein 16,ANKRD16,54522.0,Tdark
+261,O14841,OPLA_HUMAN,Homo sapiens,5-oxoprolinase,OPLAH,26873.0,Tdark
+9629,Q16695,H31T_HUMAN,Homo sapiens,Histone H3.1t,HIST3H3,8290.0,Tbio
+10784,Q9UBP8,KAAG1_HUMAN,Homo sapiens,Kidney-associated antigen 1,KAAG1,353219.0,Tdark
+1019,P22001,KCNA3_HUMAN,Homo sapiens,Potassium voltage-gated channel subfamily A member 3,KCNA3,3738.0,Tclin
+17887,Q5MJ07,SPXN5_HUMAN,Homo sapiens,Sperm protein associated with the nucleus on the X chromosome N5,SPANXN5,494197.0,Tdark
+18510,Q96SF7,TBX15_HUMAN,Homo sapiens,T-box transcription factor TBX15,TBX15,6913.0,Tbio
+73,E0VDR0,E0VDR0_PEDHC,Pediculus humanus subsp. corporis,"Cytochrome P450, putative",,,
+5342,O75419,CDC45_HUMAN,Homo sapiens,Cell division control protein 45 homolog,CDC45,8318.0,Tbio
+10180,P48735,IDHP_HUMAN,Homo sapiens,"Isocitrate dehydrogenase [NADP], mitochondrial",IDH2,3418.0,Tbio
+14177,Q96BN8,OTUL_HUMAN,Homo sapiens,Ubiquitin thioesterase otulin,OTULIN,90268.0,Tbio
+18095,Q13033,STRN3_HUMAN,Homo sapiens,Striatin-3,STRN3,29966.0,Tbio
+17080,Q9NS98,SEM3G_HUMAN,Homo sapiens,Semaphorin-3G,SEMA3G,56920.0,Tbio
+19756,Q9GZZ9,UBA5_HUMAN,Homo sapiens,Ubiquitin-like modifier-activating enzyme 5,UBA5,79876.0,Tbio
+12560,P49959,MRE11_HUMAN,Homo sapiens,Double-strand break repair protein MRE11,MRE11,4361.0,Tbio
+20368,P78423,X3CL1_HUMAN,Homo sapiens,Fractalkine,CX3CL1,6376.0,Tbio
+13775,Q9Y6K5,OAS3_HUMAN,Homo sapiens,2'-5'-oligoadenylate synthase 3,OAS3,4940.0,Tbio
+22300,Q9LCQ7,OPH_PSESP,Pseudomonas sp.,Oxidized polyvinyl alcohol hydrolase,pvaB,,
+23938,P20595,GCYB1_RAT,Rattus norvegicus,Guanylate cyclase soluble subunit beta-1,Gucy1b1,25202.0,
+1125,P28222,5HT1B_HUMAN,Homo sapiens,5-hydroxytryptamine receptor 1B,HTR1B,3351.0,Tclin
+16455,P47736,RPGP1_HUMAN,Homo sapiens,Rap1 GTPase-activating protein 1,RAP1GAP,5909.0,Tbio
+11811,Q96GA3,LTV1_HUMAN,Homo sapiens,Protein LTV1 homolog,LTV1,84946.0,Tdark
+5143,Q96MW1,CCD43_HUMAN,Homo sapiens,Coiled-coil domain-containing protein 43,CCDC43,124808.0,Tdark
+21655,P00648,RNBR_BACAM,Bacillus amyloliquefaciens,Ribonuclease,,,
+7202,Q9NX36,DJC28_HUMAN,Homo sapiens,DnaJ homolog subfamily C member 28,DNAJC28,54943.0,Tbio
+11720,Q9P244,LRFN1_HUMAN,Homo sapiens,Leucine-rich repeat and fibronectin type III domain-containing protein 1,LRFN1,57622.0,Tdark
+1168,P30049,ATPD_HUMAN,Homo sapiens,"ATP synthase subunit delta, mitochondrial",ATP5D,513.0,Tdark
+14570,Q8NEN9,PDZD8_HUMAN,Homo sapiens,PDZ domain-containing protein 8,PDZD8,118987.0,Tbio
+1118,P27707,DCK_HUMAN,Homo sapiens,Deoxycytidine kinase,DCK,1633.0,Tchem
+4845,Q9NZT1,CALL5_HUMAN,Homo sapiens,Calmodulin-like protein 5,CALML5,51806.0,Tbio
+18535,Q86XR7,TCAM2_HUMAN,Homo sapiens,TIR domain-containing adapter molecule 2,TICAM2,353376.0,Tbio
+735,P30994,5HT2B_RAT,Rattus norvegicus,5-hydroxytryptamine receptor 2B,Htr2b,,
+7947,Q6UWW8,EST3_HUMAN,Homo sapiens,Carboxylesterase 3,CES3,23491.0,Tbio
+19512,P19075,TSN8_HUMAN,Homo sapiens,Tetraspanin-8,TSPAN8,7103.0,Tbio
+22471,Q64654,CP51A_RAT,Rattus norvegicus,Lanosterol 14-alpha demethylase,Cyp51a1,,
+4008,O15144,ARPC2_HUMAN,Homo sapiens,Actin-related protein 2/3 complex subunit 2,ARPC2,10109.0,Tbio
+15936,Q96A58,RERG_HUMAN,Homo sapiens,Ras-related and estrogen-regulated growth inhibitor,RERG,85004.0,Tbio
+10529,Q9Y5U9,IR3IP_HUMAN,Homo sapiens,Immediate early response 3-interacting protein 1,IER3IP1,51124.0,Tbio
+17315,O15466,SIA8E_HUMAN,Homo sapiens,"Alpha-2,8-sialyltransferase 8E",ST8SIA5,29906.0,Tdark
+8771,Q8WU20,FRS2_HUMAN,Homo sapiens,Fibroblast growth factor receptor substrate 2,FRS2,10818.0,Tbio
+13932,Q8NG81,OR2M7_HUMAN,Homo sapiens,Olfactory receptor 2M7,OR2M7,391196.0,Tdark
+526,P02918,PBPA_ECOLI,Escherichia coli (strain K12),Penicillin-binding protein 1A,mrcA,,
+20749,Q5W0Z9,ZDH20_HUMAN,Homo sapiens,Probable palmitoyltransferase ZDHHC20,ZDHHC20,253832.0,Tdark
+24242,A8DS27,A8DS27_ECOLX,Escherichia coli,Beta-lactamase,blaKPC-2,,
+7021,Q9H8H2,DDX31_HUMAN,Homo sapiens,Probable ATP-dependent RNA helicase DDX31,DDX31,64794.0,Tbio
+2821,Q13822,ENPP2_HUMAN,Homo sapiens,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,ENPP2,5168.0,Tchem
+20285,Q96FK6,WDR89_HUMAN,Homo sapiens,WD repeat-containing protein 89,WDR89,112840.0,Tdark
+8179,Q9NX38,F206A_HUMAN,Homo sapiens,Protein Simiate,FAM206A,54942.0,Tdark
+515,P02763,A1AG1_HUMAN,Homo sapiens,Alpha-1-acid glycoprotein 1,ORM1,5004.0,Tbio
+22337,Q9WXN1,Q9WXN1_THEMA,Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099),Laminarinase,,,
+1737,Q14TG6,Q14TG6_HAEIF,Haemophilus influenzae,Penicillin-binding protein 3,pbp3,,
+16118,Q9NVN3,RIC8B_HUMAN,Homo sapiens,Synembryn-B,RIC8B,55188.0,Tbio
+8462,Q9UK99,FBX3_HUMAN,Homo sapiens,F-box only protein 3,FBXO3,26273.0,Tbio
+3006,Q9Y5S2,MRCKB_HUMAN,Homo sapiens,Serine/threonine-protein kinase MRCK beta,CDC42BPB,9578.0,Tbio
+15467,Q7RTS3,PTF1A_HUMAN,Homo sapiens,Pancreas transcription factor 1 subunit alpha,PTF1A,256297.0,Tbio
+9293,O00461,GOLI4_HUMAN,Homo sapiens,Golgi integral membrane protein 4,GOLIM4,27333.0,Tbio
+20024,Q8TAA9,VANG1_HUMAN,Homo sapiens,Vang-like protein 1,VANGL1,81839.0,Tbio
+14003,A6NL26,OR5BL_HUMAN,Homo sapiens,Olfactory receptor 5B21,OR5B21,219968.0,Tdark
+5000,Q66K79,CBPZ_HUMAN,Homo sapiens,Carboxypeptidase Z,CPZ,8532.0,Tdark
+7486,P33316,DUT_HUMAN,Homo sapiens,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial",DUT,1854.0,Tchem
+19304,P0CI26,TR49C_HUMAN,Homo sapiens,Tripartite motif-containing protein 49C,TRIM49C,642612.0,Tdark
+9690,Q9UBK5,HCST_HUMAN,Homo sapiens,Hematopoietic cell signal transducer,HCST,10870.0,Tbio
+22340,Q9WYA5,Q9WYA5_THEMA,Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099),5-methyltetrahydrofolate S-homocysteine methyltransferase,,,
+14037,Q9UGF6,OR5V1_HUMAN,Homo sapiens,Olfactory receptor 5V1,OR5V1,81696.0,Tdark
+12866,Q8WVE0,N6MT2_HUMAN,Homo sapiens,Protein-lysine N-methyltransferase N6AMT2,N6AMT2,221143.0,Tdark
+9178,P10075,GLI4_HUMAN,Homo sapiens,Zinc finger protein GLI4,GLI4,2738.0,Tbio
+2778,Q02769,FDFT_RAT,Rattus norvegicus,Squalene synthase,Fdft1,,
+12432,P51511,MMP15_HUMAN,Homo sapiens,Matrix metalloproteinase-15,MMP15,4324.0,Tchem
+18682,Q13889,TF2H3_HUMAN,Homo sapiens,General transcription factor IIH subunit 3,GTF2H3,2967.0,Tbio
+7539,Q01094,E2F1_HUMAN,Homo sapiens,Transcription factor E2F1,E2F1,1869.0,Tbio
+7448,Q8N9I9,DTX3_HUMAN,Homo sapiens,Probable E3 ubiquitin-protein ligase DTX3,DTX3,196403.0,Tbio
+14058,Q8N148,OR6V1_HUMAN,Homo sapiens,Olfactory receptor 6V1,OR6V1,346517.0,Tdark
+5690,Q8IZ52,CHSS2_HUMAN,Homo sapiens,Chondroitin sulfate synthase 2,CHPF,79586.0,Tbio
+7308,Q14184,DOC2B_HUMAN,Homo sapiens,Double C2-like domain-containing protein beta,DOC2B,8447.0,Tdark
+16835,Q96JW4,S41A2_HUMAN,Homo sapiens,Solute carrier family 41 member 2,SLC41A2,84102.0,Tdark
+19902,P06133,UD2B4_HUMAN,Homo sapiens,UDP-glucuronosyltransferase 2B4,UGT2B4,7363.0,Tbio
+11184,Q9BYQ9,KRA48_HUMAN,Homo sapiens,Keratin-associated protein 4-8,KRTAP4-8,728224.0,Tbio
+12111,Q9NUK0,MBNL3_HUMAN,Homo sapiens,Muscleblind-like protein 3,MBNL3,55796.0,Tbio
+14821,Q9NZM6,PK2L2_HUMAN,Homo sapiens,Polycystic kidney disease 2-like 2 protein,PKD2L2,27039.0,Tdark
+2519,P11216,PYGB_HUMAN,Homo sapiens,"Glycogen phosphorylase, brain form",PYGB,5834.0,Tbio
+2096,Q9F663,BLKPC_KLEPN,Klebsiella pneumoniae,Carbepenem-hydrolyzing beta-lactamase KPC,bla,,
+18793,Q4W5G0,TIGD2_HUMAN,Homo sapiens,Tigger transposable element-derived protein 2,TIGD2,166815.0,Tdark
+3201,Q13685,AAMP_HUMAN,Homo sapiens,Angio-associated migratory cell protein,AAMP,14.0,Tbio
+5579,Q8NI28,CG013_HUMAN,Homo sapiens,Putative uncharacterized protein encoded by LINC01006,LINC01006,,Tdark
+21298,O60290,ZN862_HUMAN,Homo sapiens,Zinc finger protein 862,ZNF862,643641.0,Tdark
+20197,Q8N2E2,VWDE_HUMAN,Homo sapiens,von Willebrand factor D and EGF domain-containing protein,VWDE,221806.0,Tdark
+8797,Q96I24,FUBP3_HUMAN,Homo sapiens,Far upstream element-binding protein 3,FUBP3,8939.0,Tbio
+21980,Q07599,NRAM_I63A3,Influenza A virus (strain A/Duck/Ukraine/1/1963 H3N8),Neuraminidase,,,
+3617,Q86SJ2,AMGO2_HUMAN,Homo sapiens,Amphoterin-induced protein 2,AMIGO2,347902.0,Tbio
+10431,Q9NXR8,ING3_HUMAN,Homo sapiens,Inhibitor of growth protein 3,ING3,54556.0,Tbio
+5526,Q86T20,CF001_HUMAN,Homo sapiens,Uncharacterized protein C6orf1,C6orf1,221491.0,Tdark
+9499,Q8TAA5,GRPE2_HUMAN,Homo sapiens,"GrpE protein homolog 2, mitochondrial",GRPEL2,134266.0,Tdark
+14533,P30101,PDIA3_HUMAN,Homo sapiens,Protein disulfide-isomerase A3,PDIA3,2923.0,Tbio
+6988,Q9UJW0,DCTN4_HUMAN,Homo sapiens,Dynactin subunit 4,DCTN4,51164.0,Tbio
+21426,Q2QGD7,ZXDC_HUMAN,Homo sapiens,Zinc finger protein ZXDC,ZXDC,79364.0,Tbio
+16259,Q7Z7F7,RM55_HUMAN,Homo sapiens,"39S ribosomal protein L55, mitochondrial",MRPL55,128308.0,Tdark
+16007,Q2PPJ7,RGPA2_HUMAN,Homo sapiens,Ral GTPase-activating protein subunit alpha-2,RALGAPA2,57186.0,Tdark
+21996,Q1QT89,DMGD_CHRSD,Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768),D-galactonate dehydratase family member ManD,manD,,
+1755,Q16348,S15A2_HUMAN,Homo sapiens,Solute carrier family 15 member 2,SLC15A2,6565.0,Tbio
+5676,Q9Y3E7,CHMP3_HUMAN,Homo sapiens,Charged multivesicular body protein 3,CHMP3,51652.0,Tbio
+5783,Q5T742,CJ025_HUMAN,Homo sapiens,Uncharacterized protein C10orf25,C10orf25,220979.0,Tdark
+14557,Q9NUG6,PDRG1_HUMAN,Homo sapiens,p53 and DNA damage-regulated protein 1,PDRG1,81572.0,Tbio
+241,P30191,GBRA6_RAT,Rattus norvegicus,Gamma-aminobutyric acid receptor subunit alpha-6,Gabra6,,
+14788,Q9Y237,PIN4_HUMAN,Homo sapiens,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 4,PIN4,5303.0,Tbio
+22577,P19754,ADCY1_BOVIN,Bos taurus,Adenylate cyclase type 1,ADCY1,,
+17692,Q8NEM7,SP20H_HUMAN,Homo sapiens,Transcription factor SPT20 homolog,SUPT20H,55578.0,Tbio
+12164,Q8NE86,MCU_HUMAN,Homo sapiens,"Calcium uniporter protein, mitochondrial",MCU,90550.0,Tbio
+3844,P02655,APOC2_HUMAN,Homo sapiens,Apolipoprotein C-II,APOC2,344.0,Tbio
+7542,Q16254,E2F4_HUMAN,Homo sapiens,Transcription factor E2F4,E2F4,1874.0,Tbio
+8446,O94952,FBX21_HUMAN,Homo sapiens,F-box only protein 21,FBXO21,23014.0,Tbio
+6504,Q13536,CROC4_HUMAN,Homo sapiens,Protein CROC-4,C1orf61,10485.0,Tdark
+13700,Q8TCB6,O51E1_HUMAN,Homo sapiens,Olfactory receptor 51E1,OR51E1,143503.0,Tbio
+4512,P12645,BMP3_HUMAN,Homo sapiens,Bone morphogenetic protein 3,BMP3,651.0,Tbio
+227,P30935,SSR3_MOUSE,Mus musculus,Somatostatin receptor type 3,Sstr3,,
+2827,Q14894,CRYM_HUMAN,Homo sapiens,Ketimine reductase mu-crystallin,CRYM,1428.0,Tbio
+11631,Q9BQK8,LPIN3_HUMAN,Homo sapiens,Phosphatidate phosphatase LPIN3,LPIN3,64900.0,Tbio
+1438,P49840,GSK3A_HUMAN,Homo sapiens,Glycogen synthase kinase-3 alpha,GSK3A,2931.0,Tclin
+10700,Q9UPP5,K1107_HUMAN,Homo sapiens,Uncharacterized protein KIAA1107,KIAA1107,23285.0,Tdark
+2922,Q93088,BHMT1_HUMAN,Homo sapiens,Betaine--homocysteine S-methyltransferase 1,BHMT,635.0,Tchem
+12856,O75113,N4BP1_HUMAN,Homo sapiens,NEDD4-binding protein 1,N4BP1,9683.0,Tdark
+19925,Q96PU4,UHRF2_HUMAN,Homo sapiens,E3 ubiquitin-protein ligase UHRF2,UHRF2,115426.0,Tbio
+1970,Q8TAE7,KCNG3_HUMAN,Homo sapiens,Potassium voltage-gated channel subfamily G member 3,KCNG3,170850.0,Tclin
+20324,Q9GZT5,WN10A_HUMAN,Homo sapiens,Protein Wnt-10a,WNT10A,80326.0,Tbio
+17444,Q499Z3,SLNL1_HUMAN,Homo sapiens,Schlafen-like protein 1,SLFNL1,200172.0,Tdark
+6204,Q14746,COG2_HUMAN,Homo sapiens,Conserved oligomeric Golgi complex subunit 2,COG2,22796.0,Tbio
+576,P04488,GE_HHV11,Human herpesvirus 1 (strain 17),Envelope glycoprotein E,gE,,
+19591,Q8N5M4,TTC9C_HUMAN,Homo sapiens,Tetratricopeptide repeat protein 9C,TTC9C,283237.0,Tdark
+10147,P24593,IBP5_HUMAN,Homo sapiens,Insulin-like growth factor-binding protein 5,IGFBP5,3488.0,Tchem
+2488,P08684,CP3A4_HUMAN,Homo sapiens,Cytochrome P450 3A4,CYP3A4,1576.0,Tclin
+7056,Q01523,DEF5_HUMAN,Homo sapiens,Defensin-5,DEFA5,1670.0,Tbio
+15943,Q8N1G1,REXO1_HUMAN,Homo sapiens,RNA exonuclease 1 homolog,REXO1,57455.0,Tdark
+15653,O95755,RAB36_HUMAN,Homo sapiens,Ras-related protein Rab-36,RAB36,9609.0,Tdark
+18985,Q2WGJ8,TM249_HUMAN,Homo sapiens,Transmembrane protein 249,TMEM249,340393.0,Tdark
+3851,O95236,APOL3_HUMAN,Homo sapiens,Apolipoprotein L3,APOL3,80833.0,Tbio
+7179,Q96SL1,DIRC2_HUMAN,Homo sapiens,Disrupted in renal carcinoma protein 2,DIRC2,84925.0,Tbio
+15097,P13686,PPA5_HUMAN,Homo sapiens,Tartrate-resistant acid phosphatase type 5,ACP5,54.0,Tbio
+1287,P35918,VGFR2_MOUSE,Mus musculus,Vascular endothelial growth factor receptor 2,Kdr,,
+3719,Q6UB99,ANR11_HUMAN,Homo sapiens,Ankyrin repeat domain-containing protein 11,ANKRD11,29123.0,Tbio
+7316,Q96N67,DOCK7_HUMAN,Homo sapiens,Dedicator of cytokinesis protein 7,DOCK7,85440.0,Tbio
+5768,Q15642,CIP4_HUMAN,Homo sapiens,Cdc42-interacting protein 4,TRIP10,9322.0,Tbio
+5793,Q9H943,CJ068_HUMAN,Homo sapiens,Uncharacterized protein C10orf68,C10orf68,79741.0,Tdark
+17395,P63208,SKP1_HUMAN,Homo sapiens,S-phase kinase-associated protein 1,SKP1,6500.0,Tbio
+6720,Q13617,CUL2_HUMAN,Homo sapiens,Cullin-2,CUL2,8453.0,Tbio
+1356,P43088,PF2R_HUMAN,Homo sapiens,Prostaglandin F2-alpha receptor,PTGFR,5737.0,Tclin
+14201,A6NF01,P121B_HUMAN,Homo sapiens,Putative nuclear envelope pore membrane protein POM 121B,POM121B,,Tdark
+13254,Q8NCW5,NNRE_HUMAN,Homo sapiens,NAD(P)H-hydrate epimerase,NAXE,128240.0,Tbio
+89,E0VUR0,E0VUR0_PEDHC,Pediculus humanus subsp. corporis,"Cytochrome P450, putative",,,
+2123,Q9HA47,UCK1_HUMAN,Homo sapiens,Uridine-cytidine kinase 1,UCK1,83549.0,Tbio
+9143,P0DJR0,GIMD1_HUMAN,Homo sapiens,GTPase IMAP family member GIMD1,GIMD1,100507096.0,Tdark
+11383,O95232,LC7L3_HUMAN,Homo sapiens,Luc7-like protein 3,LUC7L3,51747.0,Tbio
+11000,Q15726,KISS1_HUMAN,Homo sapiens,Metastasis-suppressor KiSS-1,KISS1,3814.0,Tbio
+2467,P06715,GSHR_ECOLI,Escherichia coli (strain K12),Glutathione reductase,gor,,
+13224,Q8N2Q7,NLGN1_HUMAN,Homo sapiens,Neuroligin-1,NLGN1,22871.0,Tbio
+22463,P48760,FOLC_MOUSE,Mus musculus,"Folylpolyglutamate synthase, mitochondrial",Fpgs,,
+22167,Q86C09,Q86C09_9TRYP,Trypanosoma brucei,Farnesyl pyrophosphate synthase,,,
+20334,P09544,WNT2_HUMAN,Homo sapiens,Protein Wnt-2,WNT2,7472.0,Tbio
+20219,Q9UHQ7,TCAL9_HUMAN,Homo sapiens,Transcription elongation factor A protein-like 9,TCEAL9,51186.0,Tdark
+14930,O00469,PLOD2_HUMAN,Homo sapiens,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",PLOD2,5352.0,Tbio
+20655,Q96IU2,ZBED3_HUMAN,Homo sapiens,Zinc finger BED domain-containing protein 3,ZBED3,84327.0,Tbio
+22382,P9WP01,PUNA_MYCTU,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Purine nucleoside phosphorylase,punA,,
+17252,Q9H299,SH3L3_HUMAN,Homo sapiens,SH3 domain-binding glutamic acid-rich-like protein 3,SH3BGRL3,83442.0,Tbio
+2558,P15086,CBPB1_HUMAN,Homo sapiens,Carboxypeptidase B,CPB1,1360.0,Tchem
+3909,A5YM69,ARG35_HUMAN,Homo sapiens,Rho guanine nucleotide exchange factor 35,ARHGEF35,445328.0,Tdark
+2767,Q00441,CPXJ_SACEN,Saccharopolyspora erythraea (strain NRRL 23338),6-deoxyerythronolide B hydroxylase,eryF,,
+5471,Q8N111,CEND_HUMAN,Homo sapiens,Cell cycle exit and neuronal differentiation protein 1,CEND1,51286.0,Tbio
+12747,P20592,MX2_HUMAN,Homo sapiens,Interferon-induced GTP-binding protein Mx2,MX2,4600.0,Tbio
+17885,Q5VSR9,SPXN1_HUMAN,Homo sapiens,Sperm protein associated with the nucleus on the X chromosome N1,SPANXN1,494118.0,Tdark
+2423,P00921,CAH2_BOVIN,Bos taurus,Carbonic anhydrase 2,CA2,,
+635,P06199,ACM2_PIG,Sus scrofa,Muscarinic acetylcholine receptor M2,CHRM2,,
+7971,Q9NVM1,EVA1B_HUMAN,Homo sapiens,Protein eva-1 homolog B,EVA1B,55194.0,Tdark
+24051,P06762,HMOX1_RAT,Rattus norvegicus,Heme oxygenase 1,Hmox1,,
+17678,P35712,SOX6_HUMAN,Homo sapiens,Transcription factor SOX-6,SOX6,55553.0,Tbio
+15707,Q15109,RAGE_HUMAN,Homo sapiens,Advanced glycosylation end product-specific receptor,AGER,177.0,Tchem
+19703,C9JJH3,U17LA_HUMAN,Homo sapiens,Ubiquitin carboxyl-terminal hydrolase 17-like protein 10,USP17L10,100287144.0,Tdark
+18777,O95411,TIAF1_HUMAN,Homo sapiens,TGFB1-induced anti-apoptotic factor 1,TIAF1,9220.0,Tbio
+8603,Q5HY92,FIGN_HUMAN,Homo sapiens,Fidgetin,FIGN,55137.0,Tbio
+9963,Q58FG1,HS904_HUMAN,Homo sapiens,Putative heat shock protein HSP 90-alpha A4,HSP90AA4P,,Tdark
+21814,P19992,HSD_STREX,Streptomyces exfoliatus,3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase,,,
+14475,Q4G0U5,PCDP1_HUMAN,Homo sapiens,Cilia- and flagella-associated protein 221,CFAP221,200373.0,Tdark
+5295,Q9Y5K6,CD2AP_HUMAN,Homo sapiens,CD2-associated protein,CD2AP,23607.0,Tbio
+509,P02712,ACHB_TORCA,Torpedo californica,Acetylcholine receptor subunit beta,CHRNB1,,
+16053,O94955,RHBT3_HUMAN,Homo sapiens,Rho-related BTB domain-containing protein 3,RHOBTB3,22836.0,Tbio
+20359,Q6AWC2,WWC2_HUMAN,Homo sapiens,Protein WWC2,WWC2,80014.0,Tbio
+16898,Q70HW3,SAMC_HUMAN,Homo sapiens,S-adenosylmethionine mitochondrial carrier protein,SLC25A26,115286.0,Tbio
+3587,Q9NXW9,ALKB4_HUMAN,Homo sapiens,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 4,ALKBH4,54784.0,Tdark
+11080,P07288,KLK3_HUMAN,Homo sapiens,Prostate-specific antigen,KLK3,354.0,Tclin
+7374,Q7Z7J5,DPPA2_HUMAN,Homo sapiens,Developmental pluripotency-associated protein 2,DPPA2,151871.0,Tbio
+14295,P05120,PAI2_HUMAN,Homo sapiens,Plasminogen activator inhibitor 2,SERPINB2,5055.0,Tbio
+9551,P22732,GTR5_HUMAN,Homo sapiens,"Solute carrier family 2, facilitated glucose transporter member 5",SLC2A5,6518.0,Tbio
+17024,Q7RTU7,SCX_HUMAN,Homo sapiens,Basic helix-loop-helix transcription factor scleraxis,SCX,642658.0,Tbio
+2589,P20711,DDC_HUMAN,Homo sapiens,Aromatic-L-amino-acid decarboxylase,DDC,1644.0,Tclin
+14789,Q9H307,PININ_HUMAN,Homo sapiens,Pinin,PNN,5411.0,Tbio
+15679,Q15276,RABE1_HUMAN,Homo sapiens,Rab GTPase-binding effector protein 1,RABEP1,9135.0,Tbio
+15302,Q9UMS4,PRP19_HUMAN,Homo sapiens,Pre-mRNA-processing factor 19,PRPF19,27339.0,Tbio
+14268,Q13310,PABP4_HUMAN,Homo sapiens,Polyadenylate-binding protein 4,PABPC4,8761.0,Tbio
+4685,Q9BXJ4,C1QT3_HUMAN,Homo sapiens,Complement C1q tumor necrosis factor-related protein 3,C1QTNF3,114899.0,Tbio
+1565,P74645,KAIB_SYNY3,Synechocystis sp. (strain PCC 6803 / Kazusa),Circadian clock protein KaiB,kaiB,,

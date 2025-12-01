@@ -1,0 +1,1001 @@
+id,drug_class1,drug_class2,ddi_ref_id,ddi_risk,description,source_id
+2766,methadone,phenelzine,2,Critical,METHADONE/PHENELZINE [VA Drug Interaction],C56^4057^
+3741,citalopram,sertindole,2,Critical,CITALOPRAM/SERTINDOLE [VA Drug Interaction],C56^5614^
+4527,ticagrelor,mifepristone,2,Critical,MIFEPRISTONE/TICAGRELOR [VA Drug Interaction],C56^6958^
+1940,norelgestromin,phenytoin,2,Significant,NORELGESTROMIN/PHENYTOIN [VA Drug Interaction],C23307709527607
+3035,saquinavir,asenapine,2,Significant,ASENAPINE/SAQUINAVIR [VA Drug Interaction],C56^4503^
+6525,carbamazepine,levomethadyl acetate,2,Critical,CARBAMAZEPINE/LEVOMETHADYL [VA Drug Interaction],C23306141931446
+1197,gemfibrozil,warfarin,2,Significant,GEMFIBROZIL/WARFARIN [VA Drug Interaction],C23304739045046
+1447,cidofovir,pentamidine,2,Critical,CIDOFOVIR/PENTAMIDINE [VA Drug Interaction],C23305586032302
+6027,itraconazole,rifampicin,2,Significant,ITRACONAZOLE/RIFAMPIN [VA Drug Interaction],C23303268253367
+3360,metoclopramide,desvenlafaxine,2,Significant,DESVENLAFAXINE/METOCLOPRAMIDE [VA Drug Interaction],C56^4999^
+2918,pramlintide,gatifloxacin,2,Significant,GATIFLOXACIN/PRAMLINTIDE [VA Drug Interaction],C56^4303^
+4590,cobicistat,lapatinib,2,Significant,COBICISTAT/LAPATINIB [VA Drug Interaction],C56^7037^
+3084,saquinavir,paliperidone,2,Significant,PALIPERIDONE/SAQUINAVIR [VA Drug Interaction],C56^4562^
+5081,lomitapide,itraconazole,2,Critical,ITRACONAZOLE/LOMITAPIDE [VA Drug Interaction],C56^7750^
+5913,metharbital,ciclosporin,2,Significant,CYCLOSPORINE/METHARBITAL [VA Drug Interaction],C56^7377^
+5958,glibenclamide,metoprolol,2,Significant,GLYBURIDE/METOPROLOL [VA Drug Interaction],C23302991114792
+3074,saquinavir,domperidone,2,Significant,DOMPERIDONE/SAQUINAVIR [VA Drug Interaction],C56^4548^
+5333,tamoxifen,cimetidine,2,Significant,CIMETIDINE/TAMOXIFEN [VA Drug Interaction],C56^8816^
+5233,bedaquiline,saquinavir,2,Significant,BEDAQUILINE/SAQUINAVIR [VA Drug Interaction],C56^8093^
+6382,ergotamine,indinavir,2,Critical,ERGOTAMINE TARTRATE/INDINAVIR SULFATE [VA Drug Interaction],C23305076857254
+2112,erythromycin,verapamil,2,Critical,ERYTHROMYCIN/VERAPAMIL [VA Drug Interaction],C56.3125
+4620,enzalutamide,rivaroxaban,2,Significant,ENZALUTAMIDE/RIVAROXABAN [VA Drug Interaction],C56^7072^
+729,amitriptyline,fluoxetine,2,Significant,AMITRIPTYLINE/FLUOXETINE [VA Drug Interaction],C23303508386959
+2384,paroxetine,protriptyline,2,Significant,PAROXETINE/PROTRIPTYLINE [VA Drug Interaction],C56.3515
+6468,amiodarone,sildenafil,2,Significant,AMIODARONE/SILDENAFIL CITRATE [VA Drug Interaction],C23305530324664
+4393,colchicine,felodipine,2,Significant,COLCHICINE/FELODIPINE [VA Drug Interaction],C56^6609^
+942,anisindione,phenobarbital,2,Critical,ANISINDIONE/PHENOBARBITAL [VA Drug Interaction],C23303924607736
+6486,lopinavir,rifampicin,2,Critical,LOPINAVIR/RIFAMPIN [VA Drug Interaction],C23305745306177
+6600,atorvastatin,telithromycin,2,Critical,ATORVASTATIN CALCIUM/TELITHROMYCIN [VA Drug Interaction],C23307115278617
+2578,phenobarbital,sirolimus,2,Significant,PHENOBARBITAL/SIROLIMUS [VA Drug Interaction],C56^3770^
+4049,romidepsin,boceprevir,2,Significant,BOCEPREVIR/ROMIDEPSIN [VA Drug Interaction],C56^6006^
+4190,loxapine,levodopa,2,Significant,LEVODOPA/LOXAPINE [VA Drug Interaction],C56^6353^
+1732,sodium oxybate,temazepam,2,Critical,SODIUM OXYBATE/TEMAZEPAM [VA Drug Interaction],C23306838792081
+337,amiloride,lisinopril,2,Significant,AMILORIDE/LISINOPRIL [VA Drug Interaction],C23302929524562
+6760,sertraline,venlafaxine,2,Significant,SERTRALINE/VENLAFAXINE HYDROCHLORIDE [VA Drug Interaction],C56.3327
+2971,fosaprepitant,methylprednisolone,2,Significant,FOSAPREPITANT/METHYLPREDNISOLONE [VA Drug Interaction],C56^4406^
+3935,budesonide,telaprevir,2,Critical,BUDESONIDE/TELAPREVIR [VA Drug Interaction],C56^5868^
+4878,tofacitinib,cobicistat,2,Significant,COBICISTAT/TOFACITINIB [VA Drug Interaction],C56^7458^
+4843,tacrolimus,butalbital,2,Significant,BUTALBITAL/TACROLIMUS [VA Drug Interaction],C56^7415^
+4009,colchicine,fosamprenavir,2,Significant,COLCHICINE/FOSAMPRENAVIR [VA Drug Interaction],C56^3957^
+6361,disopyramide,rifampicin,2,Significant,DISOPYRAMIDE/RIFAMPIN [VA Drug Interaction],C23304876526206
+2277,rifabutin,sunitinib,2,Significant,RIFABUTIN/SUNITINIB [VA Drug Interaction],C56.3373
+1366,rifabutin,ritonavir,2,Significant,RIFABUTIN/RITONAVIR [VA Drug Interaction],C23305300905841
+1359,ketoconazole,sodium bicarbonate,2,Significant,KETOCONAZOLE/SODIUM BICARBONATE [VA Drug Interaction],C23305275306219
+605,foscarnet,pentamidine,2,Significant,FOSCARNET/PENTAMIDINE [VA Drug Interaction],C23303283921559
+4663,artemether,estradiol,2,Significant,ARTEMETHER/ESTRADIOL [VA Drug Interaction],C56^7124^
+4462,amiodarone,arsenic trioxide,2,Critical,AMIODARONE/ARSENIC TRIOXIDE [VA Drug Interaction],C56^6861^
+4127,bretylium,moxifloxacin,2,Critical,BRETYLIUM/MOXIFLOXACIN [VA Drug Interaction],C56^6266^
+1580,disulfiram,metronidazole,2,Significant,DISULFIRAM/METRONIDAZOLE [VA Drug Interaction],C23306157685683
+6252,indinavir,rifampicin,2,Critical,INDINAVIR SULFATE/RIFAMPIN [VA Drug Interaction],C23304252618140
+5206,methylprednisolone,risperidone,2,Significant,METHYLPREDNISOLONE/RISPERIDONE [VA Drug Interaction],C56^8051^
+5519,clozapine,daunorubicin,2,Significant,CLOZAPINE/DAUNORUBICIN [VA Drug Interaction],C56^9304^
+6028,algeldrate,lomefloxacin,2,Significant,ALUMINUM HYDROXIDE/LOMEFLOXACIN [VA Drug Interaction],C23303269721151
+3181,cabazitaxel,telithromycin,2,Significant,CABAZITAXEL/TELITHROMYCIN [VA Drug Interaction],C56^4710^
+2147,flecainide,propranolol,2,Significant,FLECAINIDE/PROPRANOLOL [VA Drug Interaction],C56.3176
+3738,citalopram,disopyramide,2,Critical,CITALOPRAM/DISOPYRAMIDE [VA Drug Interaction],C56^5611^
+7260,potassium chloride,isopropamide,2,Significant,ISOPROPAMIDE IODIDE/POTASSIUM CHLORIDE [VA Drug Interaction],C56^5836^
+2409,fluoxetine,metoclopramide,2,Significant,FLUOXETINE/METOCLOPRAMIDE [VA Drug Interaction],C56.3548
+5392,iloperidone,clarithromycin,2,Significant,CLARITHROMYCIN/ILOPERIDONE [VA Drug Interaction],C56^9060^
+5584,deferasirox,phenobarbital,2,Significant,DEFERASIROX/PHENOBARBITAL [VA Drug Interaction],C56^9396^
+6375,pimozide,indinavir,2,Critical,INDINAVIR SULFATE/PIMOZIDE [VA Drug Interaction],C23305011485258
+1196,ticlopidine,warfarin,2,Significant,TICLOPIDINE/WARFARIN [VA Drug Interaction],C23304736316207
+7223,citalopram,levomethadyl acetate,2,Critical,CITALOPRAM/LEVOMETHADYL [VA Drug Interaction],C56^5616^
+4759,elvitegravir,saquinavir,2,Critical,ELVITEGRAVIR/SAQUINAVIR [VA Drug Interaction],C56^7290^
+3597,metoclopramide,chlorprothixene,2,Critical,CHLORPROTHIXENE/METOCLOPRAMIDE [VA Drug Interaction],C56^5301^
+7705,clozapine,thiamazole,2,Significant,CLOZAPINE/METHIMAZOLE [VA Drug Interaction],C56^9336^
+7020,ketorolac,salicylic acid,2,Critical,KETOROLAC/SODIUM SALICYLATE [VA Drug Interaction],C56^4921^
+6469,itraconazole,sildenafil,2,Significant,ITRACONAZOLE/SILDENAFIL CITRATE [VA Drug Interaction],C23305539083598
+398,ketoprofen,methotrexate,2,Significant,KETOPROFEN/METHOTREXATE [VA Drug Interaction],C23302984237940
+4713,bosutinib,pantoprazole,2,Critical,BOSUTINIB/PANTOPRAZOLE [VA Drug Interaction],C56^7182^
+2771,selegiline,sufentanil,2,Critical,SELEGILINE/SUFENTANIL [VA Drug Interaction],C56^4073^
+1726,phenobarbital,sodium oxybate,2,Critical,PHENOBARBITAL/SODIUM OXYBATE [VA Drug Interaction],C23306820649272
+7171,toremifene,sparfloxacin,2,Significant,SPARFLOXACIN/TOREMIFENE CITRATE [VA Drug Interaction],C56^5419^
+4861,temsirolimus,metharbital,2,Significant,METHARBITAL/TEMSIROLIMUS [VA Drug Interaction],C56^7438^
+3112,levodopa,selegiline,2,Critical,LEVODOPA/SELEGILINE [VA Drug Interaction],C56^4602^
+982,cimetidine,phenprocoumon,2,Critical,CIMETIDINE/PHENPROCOUMON [VA Drug Interaction],C23304018136383
+6826,dofetilide,levomethadyl acetate,2,Critical,DOFETILIDE/LEVOMETHADYL [VA Drug Interaction],C56^3879^
+6923,romidepsin,fosphenytoin,2,Significant,FOSPHENYTOIN SODIUM/ROMIDEPSIN [VA Drug Interaction],C56^4462^
+4053,quinidine,telithromycin,2,Significant,QUINIDINE/TELITHROMYCIN [VA Drug Interaction],C56^6016^
+4089,axitinib,modafinil,2,Significant,AXITINIB/MODAFINIL [VA Drug Interaction],C56^6066^
+6255,bisoprolol,disopyramide,2,Significant,BISOPROLOL FUMARATE/DISOPYRAMIDE [VA Drug Interaction],C23304263119754
+2978,dronedarone,nefazodone,2,Critical,DRONEDARONE/NEFAZODONE [VA Drug Interaction],C56^4421^
+1773,cisapride,molindone,2,Critical,CISAPRIDE/MOLINDONE [VA Drug Interaction],C23306987655693
+4839,sirolimus,talbutal,2,Significant,SIROLIMUS/TALBUTAL [VA Drug Interaction],C56^7410^
+5345,dabrafenib,cobicistat,2,Significant,COBICISTAT/DABRAFENIB [VA Drug Interaction],C56^8832^
+1021,atenolol,clonidine,2,Significant,ATENOLOL/CLONIDINE [VA Drug Interaction],C23304192986259
+2768,methadone,tranylcypromine,2,Critical,METHADONE/TRANYLCYPROMINE [VA Drug Interaction],C56^4059^
+1216,ketoconazole,rifapentine,2,Critical,KETOCONAZOLE/RIFAPENTINE [VA Drug Interaction],C23304781789584
+3165,saquinavir,conivaptan,2,Critical,CONIVAPTAN/SAQUINAVIR [VA Drug Interaction],C56^4689^
+2700,clarithromycin,fesoterodine,2,Significant,CLARITHROMYCIN/FESOTERODINE [VA Drug Interaction],C56^3928^
+1760,cinacalcet,flecainide,2,Significant,CINACALCET/FLECAINIDE [VA Drug Interaction],C23306955688502
+3142,fluoxetine,quazepam,2,Significant,FLUOXETINE/QUAZEPAM [VA Drug Interaction],C56^4654^
+6789,quetiapine,warfarin,2,Significant,QUETIAPINE FUMARATE/WARFARIN [VA Drug Interaction],C56.3579
+5299,pramlintide,fesoterodine,2,Critical,FESOTERODINE/PRAMLINTIDE [VA Drug Interaction],C56^8764^
+2383,nortriptyline,valproic acid,2,Significant,NORTRIPTYLINE/VALPROIC ACID [VA Drug Interaction],C56.3514
+5142,sodium oxybate,amoxapine,2,Critical,AMOXAPINE/SODIUM OXYBATE [VA Drug Interaction],C56^7964^
+7939,lithium,metolazone,2,Critical,LITHIUM/METOLAZONE [VA Drug Interaction],C23302890431605
+828,chlorzoxazone,disulfiram,2,Significant,CHLORZOXAZONE/DISULFIRAM [VA Drug Interaction],C23303653199219
+2672,fosamprenavir,phenobarbital,2,Significant,FOSAMPRENAVIR/PHENOBARBITAL [VA Drug Interaction],C56^3896^
+4253,saxagliptin,ketoconazole,2,Critical,KETOCONAZOLE/SAXAGLIPTIN [VA Drug Interaction],C56^6429^
+4479,amiodarone,probucol,2,Critical,AMIODARONE/PROBUCOL [VA Drug Interaction],C56^6878^
+5132,azithromycin,quinidine,2,Significant,AZITHROMYCIN/QUINIDINE [VA Drug Interaction],C56^7950^
+3289,ketorolac,celecoxib,2,Critical,CELECOXIB/KETOROLAC [VA Drug Interaction],C56^4897^
+7160,toremifene,probucol,2,Significant,PROBUCOL/TOREMIFENE CITRATE [VA Drug Interaction],C56^5408^
+2494,gemifloxacin,hydrocortisone,2,Significant,GEMIFLOXACIN/HYDROCORTISONE [VA Drug Interaction],C56.3663
+2073,nefazodone,ranolazine,2,Critical,NEFAZODONE/RANOLAZINE [VA Drug Interaction],C56.3071
+6905,rasagiline,venlafaxine,2,Significant,RASAGILINE/VENLAFAXINE HYDROCHLORIDE [VA Drug Interaction],C56^4375^
+7642,tamoxifen,delavirdine,2,Significant,DELAVIRDINE MESYLATE/TAMOXIFEN [VA Drug Interaction],C56^8818^
+2624,reserpine,tetrabenazine,2,Critical,RESERPINE/TETRABENAZINE [VA Drug Interaction],C56^3832^
+4575,tobramycin,mannitol,2,Significant,MANNITOL/TOBRAMYCIN [VA Drug Interaction],C56^7020^
+4866,temsirolimus,talbutal,2,Significant,TALBUTAL/TEMSIROLIMUS [VA Drug Interaction],C56^7443^
+1294,rifapentine,cortisone,2,Significant,CORTISONE/RIFAPENTINE [VA Drug Interaction],C23304994648761
+2561,etravirine,sirolimus,2,Significant,ETRAVIRINE/SIROLIMUS [VA Drug Interaction],C56^3748^
+5251,bedaquiline,bepridil,2,Critical,BEDAQUILINE/BEPRIDIL [VA Drug Interaction],C56^8114^
+3377,oxycodone,voriconazole,2,Significant,OXYCODONE/VORICONAZOLE [VA Drug Interaction],C56^5032^
+675,ethotoin,fluoxetine,2,Significant,ETHOTOIN/FLUOXETINE [VA Drug Interaction],C23303394355148
+6630,clarithromycin,fosphenytoin,2,Significant,CLARITHROMYCIN/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23307431827788
+2758,hydromorphone,rasagiline,2,Critical,HYDROMORPHONE/RASAGILINE [VA Drug Interaction],C56^4042^
+725,alfentanil,erythromycin,2,Critical,ALFENTANIL/ERYTHROMYCIN [VA Drug Interaction],C23303482546524
+7073,ziprasidone,eribulin,2,Significant,ERIBULIN MESYLATE/ZIPRASIDONE [VA Drug Interaction],C56^5127^
+5865,ciclosporin,voriconazole,2,Critical,CYCLOSPORINE/VORICONAZOLE [VA Drug Interaction],C23306254955867
+2047,amiodarone,ranolazine,2,Critical,AMIODARONE/RANOLAZINE [VA Drug Interaction],C56.3020
+3594,metoclopramide,aripiprazole,2,Critical,ARIPIPRAZOLE/METOCLOPRAMIDE [VA Drug Interaction],C56^5298^
+7955,diflunisal,lithium,2,Significant,DIFLUNISAL/LITHIUM [VA Drug Interaction],C23304391208379
+4227,promethazine,pramipexole,2,Significant,PRAMIPEXOLE/PROMETHAZINE [VA Drug Interaction],C56^6397^
+306,phenylpropanolamine,tranylcypromine,2,Critical,PHENYLPROPANOLAMINE/TRANYLCYPROMINE [VA Drug Interaction],C23302909154096
+2273,nefazodone,sunitinib,2,Significant,NEFAZODONE/SUNITINIB [VA Drug Interaction],C56.3365
+2957,paroxetine,amoxapine,2,Significant,AMOXAPINE/PAROXETINE [VA Drug Interaction],C56^4361^
+2788,rosuvastatin,fosamprenavir,2,Significant,FOSAMPRENAVIR/ROSUVASTATIN [VA Drug Interaction],C56^4097^
+5232,bedaquiline,vandetanib,2,Significant,BEDAQUILINE/VANDETANIB [VA Drug Interaction],C56^8092^
+3370,oxycodone,atazanavir,2,Significant,ATAZANAVIR/OXYCODONE [VA Drug Interaction],C56^5023^
+4173,droperidol,cabergoline,2,Significant,CABERGOLINE/DROPERIDOL [VA Drug Interaction],C56^6333^
+5725,ibrutinib,conivaptan,2,Significant,CONIVAPTAN/IBRUTINIB [VA Drug Interaction],C56^9989^
+1206,clomipramine,rifapentine,2,Significant,CLOMIPRAMINE/RIFAPENTINE [VA Drug Interaction],C23304761923931
+1107,isocarboxazid,mephentermine,2,Critical,ISOCARBOXAZID/MEPHENTERMINE [VA Drug Interaction],C23304461420096
+4443,fingolimod,metoprolol,2,Critical,FINGOLIMOD/METOPROLOL [VA Drug Interaction],C56^6671^
+69,axitinib,mibefradil,2,Significant,AXITINIB/MIBEFRADIL DIHYDROCHLORIDE [VA Drug Interaction],C56^6050^
+1042,carbenicillin,oxytetracycline,2,Significant,CARBENICILLIN/OXYTETRACYCLINE [VA Drug Interaction],C23304228069209
+1326,amiodarone,pimozide,2,Critical,AMIODARONE/PIMOZIDE [VA Drug Interaction],C23305141659344
+7944,fosinopril,lithium,2,Significant,FOSINOPRIL/LITHIUM [VA Drug Interaction],C23303312696725
+4715,bosutinib,carbamazepine,2,Significant,BOSUTINIB/CARBAMAZEPINE [VA Drug Interaction],C56^7186^
+6369,ethanol,disulfiram,2,Significant,ALCOHOL/DISULFIRAM [VA Drug Interaction],C23304968616123
+2727,linezolid,desvenlafaxine,2,Significant,DESVENLAFAXINE/LINEZOLID [VA Drug Interaction],C56^4010^
+6650,fosphenytoin,metyrapone,2,Significant,FOSPHENYTOIN SODIUM/METYRAPONE [VA Drug Interaction],C23307562928249
+6680,alosetron,fluvoxamine,2,Critical,ALOSETRON/FLUVOXAMINE MALEATE [VA Drug Interaction],C23307783168810
+2821,aluminum carbonate,levothyroxine sodium,2,Significant,ALUMINUM CARBONATE/LEVOTHYROXINE SODIUM [VA Drug Interaction],C56^4155^
+6599,indinavir,omeprazole,2,Significant,INDINAVIR SULFATE/OMEPRAZOLE [VA Drug Interaction],C23307052417276
+4560,azithromycin,vandetanib,2,Significant,AZITHROMYCIN/VANDETANIB [VA Drug Interaction],C56^6996^
+472,salsalate,warfarin,2,Significant,SALSALATE/WARFARIN [VA Drug Interaction],C23303085699998
+4310,tolvaptan,imatinib,2,Significant,IMATINIB/TOLVAPTAN [VA Drug Interaction],C56^6535^
+1560,clarithromycin,quinidine,2,Critical,CLARITHROMYCIN/QUINIDINE [VA Drug Interaction],C23306087555541
+3807,sunitinib,telaprevir,2,Significant,SUNITINIB/TELAPREVIR [VA Drug Interaction],C56^5699^
+5417,desflurane,pirbuterol,2,Significant,DESFLURANE/PIRBUTEROL [VA Drug Interaction],C56^9128^
+5024,methotrexate,oxyphenbutazone,2,Significant,METHOTREXATE/OXYPHENBUTAZONE [VA Drug Interaction],C56^7792^
+3612,metoclopramide,piperacetazine,2,Critical,METOCLOPRAMIDE/PIPERACETAZINE [VA Drug Interaction],C56^5319^
+3502,ritonavir,triamcinolone,2,Critical,RITONAVIR/TRIAMCINOLONE [VA Drug Interaction],C56^5178^
+6501,ethinylestradiol,tetracycline,2,Significant,ETHINYL ESTRADIOL/TETRACYCLINE [VA Drug Interaction],C23305878577025
+5523,clozapine,epirubicin,2,Significant,CLOZAPINE/EPIRUBICIN [VA Drug Interaction],C56^9308^
+568,cimetidine,clozapine,2,Significant,CIMETIDINE/CLOZAPINE [VA Drug Interaction],C23303229874467
+6199,dicoumarol,rifampicin,2,Critical,DICUMAROL/RIFAMPIN [VA Drug Interaction],C23304049577809
+3530,vandetanib,sotalol,2,Significant,SOTALOL/VANDETANIB [VA Drug Interaction],C56^5208^
+4389,colchicine,captopril,2,Significant,CAPTOPRIL/COLCHICINE [VA Drug Interaction],C56^6605^
+1193,tobramycin,vecuronium,2,Significant,TOBRAMYCIN/VECURONIUM [VA Drug Interaction],C23304722012993
+6305,cisatracurium,tobramycin,2,Significant,CISATRACURIUM BESYLATE/TOBRAMYCIN [VA Drug Interaction],C23304549389377
+6385,nelfinavir,amprenavir,2,Critical,AMPRENAVIR/NELFINAVIR MESYLATE [VA Drug Interaction],C23305083653369
+3107,quinine,procaine,2,Significant,PROCAINE/QUININE [VA Drug Interaction],C56^4588^
+3864,crizotinib,artemether,2,Significant,ARTEMETHER/CRIZOTINIB [VA Drug Interaction],C56^5783^
+991,flurbiprofen,phenprocoumon,2,Significant,FLURBIPROFEN/PHENPROCOUMON [VA Drug Interaction],C23304066724122
+7683,isoflurane,isometheptene,2,Significant,ISOFLURANE/ISOMETHEPTENE MUCATE [VA Drug Interaction],C56^9213^
+3276,valproic acid,vorinostat,2,Significant,VALPROIC ACID/VORINOSTAT [VA Drug Interaction],C56^4879^
+3392,nisoldipine,erythromycin,2,Significant,ERYTHROMYCIN/NISOLDIPINE [VA Drug Interaction],C56^5048^
+3059,saquinavir,indapamide,2,Significant,INDAPAMIDE/SAQUINAVIR [VA Drug Interaction],C56^4530^
+6822,cefalexin,metformin,2,Significant,CEPHALEXIN/METFORMIN HYDROCHLORIDE [VA Drug Interaction],C56^3864^
+2012,erlotinib,phenytoin,2,Significant,ERLOTINIB/PHENYTOIN [VA Drug Interaction],C23308050913733
+1788,gatifloxacin,perphenazine,2,Significant,GATIFLOXACIN/PERPHENAZINE [VA Drug Interaction],C23307033949286
+4530,ticagrelor,phenytoin,2,Significant,PHENYTOIN/TICAGRELOR [VA Drug Interaction],C56^6962^
+5688,macitentan,tipranavir,2,Significant,MACITENTAN/TIPRANAVIR [VA Drug Interaction],C56^9911^
+341,diclofenac,warfarin,2,Significant,DICLOFENAC/WARFARIN [VA Drug Interaction],C23302932281058
+329,captopril,triamterene,2,Significant,CAPTOPRIL/TRIAMTERENE [VA Drug Interaction],C23302924891850
+5441,enflurane,terbutaline,2,Significant,ENFLURANE/TERBUTALINE [VA Drug Interaction],C56^9164^
+1827,duloxetine,phenelzine,2,Critical,DULOXETINE/PHENELZINE [VA Drug Interaction],C23307172210993
+2888,pioglitazone,norfloxacin,2,Significant,NORFLOXACIN/PIOGLITAZONE [VA Drug Interaction],C56^4263^
+5259,bedaquiline,rifabutin,2,Significant,BEDAQUILINE/RIFABUTIN [VA Drug Interaction],C56^8123^
+1012,phenprocoumon,sulfinpyrazone,2,Significant,PHENPROCOUMON/SULFINPYRAZONE [VA Drug Interaction],C23304102243162
+1727,primidone,sodium oxybate,2,Critical,PRIMIDONE/SODIUM OXYBATE [VA Drug Interaction],C23306823211050
+5574,clozapine,tiopronin,2,Significant,CLOZAPINE/TIOPRONIN [VA Drug Interaction],C56^9376^
+1650,erythromycin,gatifloxacin,2,Significant,ERYTHROMYCIN/GATIFLOXACIN [VA Drug Interaction],C23306409090540
+1710,eplerenone,fluconazole,2,Significant,EPLERENONE/FLUCONAZOLE [VA Drug Interaction],C23306752270470
+3061,saquinavir,gatifloxacin,2,Significant,GATIFLOXACIN/SAQUINAVIR [VA Drug Interaction],C56^4533^
+3944,ritonavir,boceprevir,2,Critical,BOCEPREVIR/RITONAVIR [VA Drug Interaction],C56^5877^
+2921,miglitol,norfloxacin,2,Significant,MIGLITOL/NORFLOXACIN [VA Drug Interaction],C56^4306^
+264,amikacin,ethacrynic acid,2,Significant,AMIKACIN/ETHACRYNIC ACID [VA Drug Interaction],C23302857681353
+2831,famotidine,dasatinib,2,Significant,DASATINIB/FAMOTIDINE [VA Drug Interaction],C56^4181^
+6111,chloramphenicol,fosphenytoin,2,Significant,CHLORAMPHENICOL/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23303691218576
+7150,toremifene,nalidixic acid,2,Significant,NALIDIXIC ACID/TOREMIFENE CITRATE [VA Drug Interaction],C56^5398^
+2134,ritonavir,trazodone,2,Significant,RITONAVIR/TRAZODONE [VA Drug Interaction],C56.3156
+503,potassium citrate,spironolactone,2,Significant,POTASSIUM CITRATE/SPIRONOLACTONE [VA Drug Interaction],C23303135513033
+4465,amiodarone,chloroquine,2,Critical,AMIODARONE/CHLOROQUINE [VA Drug Interaction],C56^6864^
+4915,sodium oxybate,zaleplon,2,Critical,SODIUM OXYBATE/ZALEPLON [VA Drug Interaction],C56^7519^
+73,darifenacin,mibefradil,2,Significant,DARIFENACIN/MIBEFRADIL DIHYDROCHLORIDE [VA Drug Interaction],C56^6456^
+6996,tizanidine,norethisterone,2,Significant,NORETHINDRONE/TIZANIDINE [VA Drug Interaction],C56^4823^
+4555,azithromycin,tetrabenazine,2,Significant,AZITHROMYCIN/TETRABENAZINE [VA Drug Interaction],C56^6991^
+2056,dofetilide,ranolazine,2,Critical,DOFETILIDE/RANOLAZINE [VA Drug Interaction],C56.3033
+7504,methylthioninium chloride,almotriptan,2,Critical,ALMOTRIPTAN/METHYLENE BLUE [VA Drug Interaction],C56^7346^
+666,selegiline,sertraline,2,Critical,SELEGILINE/SERTRALINE [VA Drug Interaction],C23303368038675
+3062,saquinavir,gadoxetate,2,Significant,GADOXETATE/SAQUINAVIR [VA Drug Interaction],C56^4534^
+7129,toremifene,dronedarone,2,Significant,DRONEDARONE/TOREMIFENE CITRATE [VA Drug Interaction],C56^5377^
+2419,mirtazapine,rasagiline,2,Critical,MIRTAZAPINE/RASAGILINE [VA Drug Interaction],C56.3563
+7295,quetiapine,terfenadine,2,Significant,QUETIAPINE FUMARATE/TERFENADINE [VA Drug Interaction],C56^5978^
+3759,crizotinib,ritonavir,2,Significant,CRIZOTINIB/RITONAVIR [VA Drug Interaction],C56^5636^
+1385,bupropion,ritonavir,2,Critical,BUPROPION/RITONAVIR [VA Drug Interaction],C23305379134498
+1872,aprepitant,terfenadine,2,Critical,APREPITANT/TERFENADINE [VA Drug Interaction],C23307364182598
+6784,maraviroc,nelfinavir,2,Significant,MARAVIROC/NELFINAVIR MESYLATE [VA Drug Interaction],C56.3554
+6897,escitalopram,nortriptyline,2,Significant,ESCITALOPRAM OXALATE/NORTRIPTYLINE [VA Drug Interaction],C56^4346^
+6032,fosinopril,potassium hydrogencarbonate,2,Significant,FOSINOPRIL/POTASSIUM BICARBONATE [VA Drug Interaction],C23303315748230
+1265,ketoconazole,vinblastine,2,Critical,KETOCONAZOLE/VINBLASTINE [VA Drug Interaction],C23304908793994
+5378,aripiprazole,voriconazole,2,Significant,ARIPIPRAZOLE/VORICONAZOLE [VA Drug Interaction],C56^9082^
+7074,dronedarone,indinavir,2,Critical,DRONEDARONE/INDINAVIR SULFATE [VA Drug Interaction],C56^5136^
+2151,cisapride,ziprasidone,2,Significant,CISAPRIDE/ZIPRASIDONE [VA Drug Interaction],C56.3182
+5732,ibrutinib,saquinavir,2,Significant,IBRUTINIB/SAQUINAVIR [VA Drug Interaction],C56^9999^
+3169,colchicine,amprenavir,2,Significant,AMPRENAVIR/COLCHICINE [VA Drug Interaction],C56^4696^
+1126,mivacurium,neomycin,2,Significant,MIVACURIUM/NEOMYCIN [VA Drug Interaction],C23304506932305
+15506,Strong CYP2C9 Inducers,CYP2C9 Substrates,3,Potentially significant,Strong CYP2C9 Inducers - CYP2C9 Substrates,CYP2C9 inducers-substrates
+5026,pralatrexate,phenylbutazone,2,Significant,PHENYLBUTAZONE/PRALATREXATE [VA Drug Interaction],C56^7794^
+3734,citalopram,voriconazole,2,Critical,CITALOPRAM/VORICONAZOLE [VA Drug Interaction],C56^5607^
+3848,pazopanib,phenytoin,2,Significant,PAZOPANIB/PHENYTOIN [VA Drug Interaction],C56^5752^
+977,anisindione,sulfinpyrazone,2,Significant,ANISINDIONE/SULFINPYRAZONE [VA Drug Interaction],C23304001234235
+157,amiodarone,atazanavir,2,Significant,AMIODARONE/ATAZANAVIR SO4 [VA Drug Interaction],C23306876719806
+2479,ciprofloxacin,dexamethasone,2,Significant,CIPROFLOXACIN/DEXAMETHASONE [VA Drug Interaction],C56.3646
+5451,isoflurane,lisdexamfetamine,2,Significant,ISOFLURANE/LISDEXAMFETAMINE [VA Drug Interaction],C56^9216^
+6245,isosorbide dinitrate,sildenafil,2,Critical,ISOSORBIDE DINITRATE/SILDENAFIL CITRATE [VA Drug Interaction],C23304234642671
+6212,phenprocoumon,phytomenadione,2,Significant,PHENPROCOUMON/PHYTONADIONE [VA Drug Interaction],C23304110002528
+637,fosinopril,potassium gluconate,2,Significant,FOSINOPRIL/POTASSIUM GLUCONATE [VA Drug Interaction],C23303317249538
+7072,ziprasidone,fosphenytoin,2,Significant,FOSPHENYTOIN SODIUM/ZIPRASIDONE [VA Drug Interaction],C56^5123^
+3013,alfuzosin,fosamprenavir,2,Significant,ALFUZOSIN/FOSAMPRENAVIR [VA Drug Interaction],C56^4468^
+797,clonidine,protriptyline,2,Significant,CLONIDINE/PROTRIPTYLINE [VA Drug Interaction],C23303588951947
+6070,ciclosporin,sulfafurazole,2,Significant,CYCLOSPORINE/SULFISOXAZOLE [VA Drug Interaction],C23303455701213
+1369,saquinavir,triazolam,2,Critical,SAQUINAVIR/TRIAZOLAM [VA Drug Interaction],C23305325613450
+2709,methadone,sertraline,2,Significant,METHADONE/SERTRALINE [VA Drug Interaction],C56^3941^
+2898,glimepiride,levofloxacin,2,Significant,GLIMEPIRIDE/LEVOFLOXACIN [VA Drug Interaction],C56^4283^
+4610,enzalutamide,carbamazepine,2,Significant,CARBAMAZEPINE/ENZALUTAMIDE [VA Drug Interaction],C56^7059^
+3373,oxycodone,saquinavir,2,Significant,OXYCODONE/SAQUINAVIR [VA Drug Interaction],C56^5028^
+7047,ulipristal acetate,ethinylestradiol,2,Significant,ETHINYL ESTRADIOL/ULIPRISTAL ACETATE [VA Drug Interaction],C56^4992^
+6682,eszopiclone,nelfinavir,2,Significant,ESZOPICLONE/NELFINAVIR MESYLATE [VA Drug Interaction],C23307877974994
+5303,pramlintide,linaclotide,2,Critical,LINACLOTIDE/PRAMLINTIDE [VA Drug Interaction],C56^8770^
+9,atomoxetine,fluoxetine,2,Significant,ATOMOXETINE HCL/FLUOXETINE [VA Drug Interaction],C23306697905739
+6801,aliskiren,atorvastatin,2,Significant,ALISKIREN/ATORVASTATIN CALCIUM [VA Drug Interaction],C56^3710^
+1019,amiloride,potassium iodide,2,Significant,AMILORIDE/POTASSIUM IODIDE [VA Drug Interaction],C23304190526170
+3765,crizotinib,troleandomycin,2,Significant,CRIZOTINIB/TROLEANDOMYCIN [VA Drug Interaction],C56^5644^
+3873,buprenorphine,morphine,2,Significant,BUPRENORPHINE/MORPHINE [VA Drug Interaction],C56^5794^
+3300,ketorolac,mefenamic acid,2,Critical,KETOROLAC/MEFENAMIC ACID [VA Drug Interaction],C56^4909^
+1698,cisapride,fosamprenavir,2,Critical,CISAPRIDE/FOSAMPRENAVIR [VA Drug Interaction],C23306720752777
+3831,imatinib,phenobarbital,2,Significant,IMATINIB/PHENOBARBITAL [VA Drug Interaction],C56^5730^
+545,epinephrine,sotalol,2,Significant,EPINEPHRINE/SOTALOL [VA Drug Interaction],C23303183563553
+6532,citalopram,tramadol,2,Significant,CITALOPRAM/TRAMADOL HYDROCHLORIDE [VA Drug Interaction],C23306207204546
+3696,maprotiline,isocarboxazid,2,Critical,ISOCARBOXAZID/MAPROTILINE [VA Drug Interaction],C56^5542^
+6763,nelfinavir,omeprazole,2,Critical,NELFINAVIR MESYLATE/OMEPRAZOLE [VA Drug Interaction],C56.3366
+1254,cilostazol,erythromycin,2,Significant,CILOSTAZOL/ERYTHROMYCIN [VA Drug Interaction],C23304870425710
+450,aluminum carbonate,ciprofloxacin,2,Significant,ALUMINUM CARBONATE/CIPROFLOXACIN [VA Drug Interaction],C23303052603892
+89,methylergometrine,mibefradil,2,Critical,METHYLERGONOVINE/MIBEFRADIL DIHYDROCHLORIDE [VA Drug Interaction],C56^7006^
+3430,propafenone,isradipine,2,Significant,ISRADIPINE/PROPAFENONE [VA Drug Interaction],C56^5089^
+3921,crizotinib,alfentanil,2,Significant,ALFENTANIL/CRIZOTINIB [VA Drug Interaction],C56^5850^
+6133,norgestimate,rifampicin,2,Critical,NORGESTIMATE/RIFAMPIN [VA Drug Interaction],C23303737549604
+355,epinephrine,propranolol,2,Significant,EPINEPHRINE/PROPRANOLOL [VA Drug Interaction],C23302939445655
+2016,risperidone,simvastatin,2,Significant,RISPERIDONE/SIMVASTATIN [VA Drug Interaction],C23308071005393
+7142,toremifene,levomethadyl acetate,2,Significant,LEVOMETHADYL/TOREMIFENE CITRATE [VA Drug Interaction],C56^5390^
+3525,vandetanib,probucol,2,Significant,PROBUCOL/VANDETANIB [VA Drug Interaction],C56^5203^
+3605,metoclopramide,methdilazine,2,Critical,METHDILAZINE/METOCLOPRAMIDE [VA Drug Interaction],C56^5311^
+6910,sibutramine,naratriptan,2,Critical,NARATRIPTAN HYDROCHLORIDE/SIBUTRAMINE HYDROCHLORIDE [VA Drug Interaction],C56^4384^
+132,cilostazol,oleandomycin,2,Significant,CILOSTAZOL/OLEANDOMYCIN (AS TROLEANDOMYCIN) [VA Drug Interaction],C23305743618253
+3870,crizotinib,sparfloxacin,2,Significant,CRIZOTINIB/SPARFLOXACIN [VA Drug Interaction],C56^5791^
+4294,tolvaptan,nefazodone,2,Critical,NEFAZODONE/TOLVAPTAN [VA Drug Interaction],C56^6518^
+6075,fluvoxamine,terfenadine,2,Critical,FLUVOXAMINE MALEATE/TERFENADINE [VA Drug Interaction],C23303460276934
+5139,flecainide,clarithromycin,2,Significant,CLARITHROMYCIN/FLECAINIDE [VA Drug Interaction],C56^7957^
+5098,pasireotide,sparfloxacin,2,Critical,PASIREOTIDE/SPARFLOXACIN [VA Drug Interaction],C56^7892^
+2317,procarbazine,trimipramine,2,Critical,PROCARBAZINE/TRIMIPRAMINE [VA Drug Interaction],C56.3438
+3584,phenylephrine,Ioflupane I-123,2,Significant,IOFLUPANE I-123/PHENYLEPHRINE [VA Drug Interaction],C56^5288^
+5488,clozapine,altretamine,2,Significant,ALTRETAMINE/CLOZAPINE [VA Drug Interaction],C56^9270^
+6005,dicoumarol,piroxicam,2,Significant,DICUMAROL/PIROXICAM [VA Drug Interaction],C23303121944548
+5595,dolutegravir,dofetilide,2,Critical,DOFETILIDE/DOLUTEGRAVIR [VA Drug Interaction],C56^9602^
+5903,dronedarone,ciclosporin,2,Critical,CYCLOSPORINE/DRONEDARONE [VA Drug Interaction],C56^6439^
+3262,diazepam,fluconazole,2,Significant,DIAZEPAM/FLUCONAZOLE [VA Drug Interaction],C56^4863^
+4398,warfarin,gefitinib,2,Significant,GEFITINIB/WARFARIN [VA Drug Interaction],C56^6616^
+1800,alfuzosin,amprenavir,2,Significant,ALFUZOSIN/AMPRENAVIR [VA Drug Interaction],C23307082467464
+697,clozapine,temazepam,2,Significant,CLOZAPINE/TEMAZEPAM [VA Drug Interaction],C23303417549437
+4466,amiodarone,chlorpromazine,2,Critical,AMIODARONE/CHLORPROMAZINE [VA Drug Interaction],C56^6865^
+130,alprazolam,oleandomycin,2,Significant,ALPRAZOLAM/OLEANDOMYCIN (AS TROLEANDOMYCIN) [VA Drug Interaction],C23304836110176
+6745,ketoconazole,zolpidem,2,Significant,KETOCONAZOLE/ZOLPIDEM TARTRATE [VA Drug Interaction],C56.3178
+3940,methylprednisolone,telaprevir,2,Critical,METHYLPREDNISOLONE/TELAPREVIR [VA Drug Interaction],C56^5873^
+3385,telithromycin,verapamil,2,Significant,TELITHROMYCIN/VERAPAMIL [VA Drug Interaction],C56^5041^
+5877,acetylsalicylic acid,celecoxib,2,Significant,ASPIRIN/CELECOXIB [VA Drug Interaction],C56.3290
+5249,bedaquiline,pimozide,2,Critical,BEDAQUILINE/PIMOZIDE [VA Drug Interaction],C56^8112^
+2408,fentanyl,rasagiline,2,Critical,FENTANYL/RASAGILINE [VA Drug Interaction],C56.3547
+7509,procarbazine,naratriptan,2,Critical,NARATRIPTAN HYDROCHLORIDE/PROCARBAZINE [VA Drug Interaction],C56^7364^
+6295,gentamicin,suxamethonium,2,Significant,GENTAMICIN/SUCCINYLCHOLINE [VA Drug Interaction],C23304497959936
+3973,trazodone,telaprevir,2,Significant,TELAPREVIR/TRAZODONE [VA Drug Interaction],C56^5919^
+2458,linezolid,tranylcypromine,2,Critical,LINEZOLID/TRANYLCYPROMINE [VA Drug Interaction],C56.3613
+44,ritonavir,estropipate,2,Critical,ESTROPIPATE/RITONAVIR [VA Drug Interaction],C56^4237^
+284,dopamine,pargyline,2,Critical,DOPAMINE/PARGYLINE [VA Drug Interaction],C23302896044888
+1141,fluoxetine,mesoridazine,2,Significant,FLUOXETINE/MESORIDAZINE [VA Drug Interaction],C23304579593775
+2426,prednisone,ritonavir,2,Significant,PREDNISONE/RITONAVIR [VA Drug Interaction],C56.3570
+5373,aripiprazole,telaprevir,2,Significant,ARIPIPRAZOLE/TELAPREVIR [VA Drug Interaction],C56^9077^
+2927,exenatide,ofloxacin,2,Significant,EXENATIDE/OFLOXACIN [VA Drug Interaction],C56^4312^
+7390,tolterodine,saquinavir,2,Significant,SAQUINAVIR/TOLTERODINE TARTRATE [VA Drug Interaction],C56^6502^
+1159,buprenorphine,oxazepam,2,Significant,BUPRENORPHINE/OXAZEPAM [VA Drug Interaction],C23304625574758
+5195,cortisone,aripiprazole,2,Significant,ARIPIPRAZOLE/CORTISONE [VA Drug Interaction],C56^8030^
+1204,betamethasone,rifapentine,2,Significant,BETAMETHASONE/RIFAPENTINE [VA Drug Interaction],C23304758793924
+5032,ticagrelor,conivaptan,2,Critical,CONIVAPTAN/TICAGRELOR [VA Drug Interaction],C56^7800^
+1169,lamotrigine,norethynodrel,2,Significant,LAMOTRIGINE/NORETHYNODREL [VA Drug Interaction],C23304643115256
+1912,gatifloxacin,glimepiride,2,Significant,GATIFLOXACIN/GLIMEPIRIDE [VA Drug Interaction],C23307581864175
+4808,phenelzine,frovatriptan,2,Critical,FROVATRIPTAN/PHENELZINE [VA Drug Interaction],C56^7361^
+4921,dofetilide,probucol,2,Significant,DOFETILIDE/PROBUCOL [VA Drug Interaction],C56^7527^
+2252,amiodarone,ofloxacin,2,Critical,AMIODARONE/OFLOXACIN [VA Drug Interaction],C56.3329
+4599,enzalutamide,astemizole,2,Significant,ASTEMIZOLE/ENZALUTAMIDE [VA Drug Interaction],C56^7046^
+6193,dicoumarol,erythromycin,2,Critical,DICUMAROL/ERYTHROMYCIN [VA Drug Interaction],C23304042239446
+13955,magnesium salicylate,phenprocoumon,2,Critical,MAGNESIUM SALICYLATE/PHENPROCOUMON [VA Drug Interaction],C23304079428810
+7336,bortezomib,fosphenytoin,2,Significant,BORTEZOMIB/FOSPHENYTOIN SODIUM [VA Drug Interaction],C56^6311^
+5906,bosutinib,ciclosporin,2,Significant,BOSUTINIB/CYCLOSPORINE [VA Drug Interaction],C56^7152^
+5672,vortioxetine,frovatriptan,2,Significant,FROVATRIPTAN/VORTIOXETINE [VA Drug Interaction],C56^9892^
+4790,mifepristone,triazolam,2,Critical,MIFEPRISTONE/TRIAZOLAM [VA Drug Interaction],C56^7333^
+6679,norethisterone,topiramate,2,Significant,NORETHINDRONE/TOPIRAMATE [VA Drug Interaction],C23307746272780
+535,betaxolol,verapamil,2,Critical,BETAXOLOL/VERAPAMIL [VA Drug Interaction],C23303171688301
+4704,bosutinib,verapamil,2,Significant,BOSUTINIB/VERAPAMIL [VA Drug Interaction],C56^7173^
+2498,hydrocortisone,levofloxacin,2,Significant,HYDROCORTISONE/LEVOFLOXACIN [VA Drug Interaction],C56.3667
+3799,pazopanib,posaconazole,2,Significant,PAZOPANIB/POSACONAZOLE [VA Drug Interaction],C56^5690^
+5387,aripiprazole,boceprevir,2,Significant,ARIPIPRAZOLE/BOCEPREVIR [VA Drug Interaction],C56^9055^
+6602,duloxetine,tramadol,2,Significant,DULOXETINE/TRAMADOL HYDROCHLORIDE [VA Drug Interaction],C23307181605204
+4436,fosaprepitant,alfentanil,2,Significant,ALFENTANIL/FOSAPREPITANT [VA Drug Interaction],C56^6662^
+2652,dofetilide,droperidol,2,Critical,DOFETILIDE/DROPERIDOL [VA Drug Interaction],C56^3872^
+5568,clozapine,temsirolimus,2,Significant,CLOZAPINE/TEMSIROLIMUS [VA Drug Interaction],C56^9369^
+858,prazepam,ritonavir,2,Significant,PRAZEPAM/RITONAVIR [VA Drug Interaction],C23303724320549
+5758,simeprevir,posaconazole,2,Significant,POSACONAZOLE/SIMEPREVIR [VA Drug Interaction],C56^10030^
+6435,nelfinavir,sildenafil,2,Significant,NELFINAVIR MESYLATE/SILDENAFIL CITRATE [VA Drug Interaction],C23305291297357
+4426,posaconazole,oxycodone,2,Significant,OXYCODONE/POSACONAZOLE [VA Drug Interaction],C56^6652^
+7654,omeprazole,escitalopram,2,Significant,ESCITALOPRAM OXALATE/OMEPRAZOLE [VA Drug Interaction],C56^9089^
+7202,rivaroxaban,rifampicin,2,Significant,RIFAMPIN/RIVAROXABAN [VA Drug Interaction],C56^5521^
+3746,citalopram,iloperidone,2,Significant,CITALOPRAM/ILOPERIDONE [VA Drug Interaction],C56^5621^
+5538,clozapine,lomustine,2,Significant,CLOZAPINE/LOMUSTINE [VA Drug Interaction],C56^9331^
+2291,ofloxacin,tizanidine,2,Critical,OFLOXACIN/TIZANIDINE [VA Drug Interaction],C56.3391
+7176,toremifene,triflupromazine,2,Significant,TOREMIFENE CITRATE/TRIFLUPROMAZINE [VA Drug Interaction],C56^5424^
+4427,telaprevir,fentanyl,2,Significant,FENTANYL/TELAPREVIR [VA Drug Interaction],C56^6653^
+3556,telaprevir,etonogestrel,2,Significant,ETONOGESTREL/TELAPREVIR [VA Drug Interaction],C56^5245^
+5023,pralatrexate,oxaprozin,2,Significant,OXAPROZIN/PRALATREXATE [VA Drug Interaction],C56^7791^
+2509,methylprednisolone,ofloxacin,2,Significant,METHYLPREDNISOLONE/OFLOXACIN [VA Drug Interaction],C56.3679
+1262,fluconazole,vincristine,2,Critical,FLUCONAZOLE/VINCRISTINE [VA Drug Interaction],C23304902328647
+6373,rifampicin,prednisone,2,Significant,PREDNISONE/RIFAMPIN [VA Drug Interaction],C23304989714893
+3512,vandetanib,dofetilide,2,Significant,DOFETILIDE/VANDETANIB [VA Drug Interaction],C56^5188^
+6651,fosphenytoin,mexiletine,2,Significant,FOSPHENYTOIN SODIUM/MEXILETINE [VA Drug Interaction],C23307565135513
+2653,dofetilide,ethacrynic acid,2,Critical,DOFETILIDE/ETHACRYNIC ACID [VA Drug Interaction],C56^3873^
+2089,clarithromycin,eszopiclone,2,Significant,CLARITHROMYCIN/ESZOPICLONE [VA Drug Interaction],C56.3094
+7237,crizotinib,rifampicin,2,Significant,CRIZOTINIB/RIFAMPIN [VA Drug Interaction],C56^5708^
+7984,saquinavir,lithium,2,Significant,LITHIUM/SAQUINAVIR [VA Drug Interaction],C56^4527^
+5578,clozapine,vinblastine,2,Significant,CLOZAPINE/VINBLASTINE [VA Drug Interaction],C56^9383^
+3863,crizotinib,amiodarone,2,Significant,AMIODARONE/CRIZOTINIB [VA Drug Interaction],C56^5782^
+2772,sufentanil,tranylcypromine,2,Critical,SUFENTANIL/TRANYLCYPROMINE [VA Drug Interaction],C56^4074^
+4753,elvitegravir,darunavir,2,Critical,DARUNAVIR/ELVITEGRAVIR [VA Drug Interaction],C56^7281^
+3980,clobazam,diethylstilbestrol,2,Significant,CLOBAZAM/DIETHYLSTILBESTROL [VA Drug Interaction],C56^5928^
+1473,probenecid,zidovudine,2,Significant,PROBENECID/ZIDOVUDINE [VA Drug Interaction],C23305717732281
+4344,morphine,butorphanol,2,Significant,BUTORPHANOL/MORPHINE [VA Drug Interaction],C56^6585^
+1364,nefazodone,ritonavir,2,Critical,NEFAZODONE/RITONAVIR [VA Drug Interaction],C23305288719096
+979,carbamazepine,phenprocoumon,2,Critical,CARBAMAZEPINE/PHENPROCOUMON [VA Drug Interaction],C23304012150147
+3191,nilotinib,esomeprazole,2,Critical,ESOMEPRAZOLE/NILOTINIB [VA Drug Interaction],C56^4722^
+907,fluoxymesterone,warfarin,2,Significant,FLUOXYMESTERONE/WARFARIN [VA Drug Interaction],C23303847909999
+4464,amiodarone,azithromycin,2,Critical,AMIODARONE/AZITHROMYCIN [VA Drug Interaction],C56^6863^
+1555,eprosartan,indomethacin,2,Significant,EPROSARTAN/INDOMETHACIN [VA Drug Interaction],C23306057034064
+1209,doxepin,rifapentine,2,Significant,DOXEPIN/RIFAPENTINE [VA Drug Interaction],C23304767832783
+1110,amikacin,mivacurium,2,Significant,AMIKACIN/MIVACURIUM [VA Drug Interaction],C23304465517824
+4501,celecoxib,voriconazole,2,Significant,CELECOXIB/VORICONAZOLE [VA Drug Interaction],C56^6923^
+2238,etodolac,rofecoxib,2,Significant,ETODOLAC/ROFECOXIB [VA Drug Interaction],C56.3303
+7586,sulfadimidine,pralatrexate,2,Critical,PRALATREXATE/SULFAMETHAZINE [VA Drug Interaction],C56^7933^
+752,amoxapine,pargyline,2,Critical,AMOXAPINE/PARGYLINE [VA Drug Interaction],C23303543240830
+354,cimetidine,metoprolol,2,Significant,CIMETIDINE/METOPROLOL [VA Drug Interaction],C23302938959839
+7419,indinavir,alfentanil,2,Critical,ALFENTANIL/INDINAVIR SULFATE [VA Drug Interaction],C56^6630^
+4326,rifabutin,glipizide,2,Significant,GLIPIZIDE/RIFABUTIN [VA Drug Interaction],C56^6555^
+7326,ibutilide,nalidixic acid,2,Critical,IBUTILIDE FUMARATE/NALIDIXIC ACID [VA Drug Interaction],C56^6284^
+801,desflurane,labetalol,2,Significant,DESFLURANE/LABETALOL [VA Drug Interaction],C23303594509358
+1444,paroxetine,thioridazine,2,Critical,PAROXETINE/THIORIDAZINE [VA Drug Interaction],C23305580685534
+474,diflunisal,warfarin,2,Significant,DIFLUNISAL/WARFARIN [VA Drug Interaction],C23303089389293
+5055,ponatinib,boceprevir,2,Significant,BOCEPREVIR/PONATINIB [VA Drug Interaction],C56^7708^
+4956,levonorgestrel,fosamprenavir,2,Significant,FOSAMPRENAVIR/LEVONORGESTREL [VA Drug Interaction],C56^7633^
+5881,ciclosporin,somatropin,2,Critical,CYCLOSPORINE/SOMATROPIN [VA Drug Interaction],C56.3397
+7663,desflurane,levosalbutamol,2,Significant,DESFLURANE/LEVALBUTEROL [VA Drug Interaction],C56^9117^
+1537,repaglinide,rifabutin,2,Significant,REPAGLINIDE/RIFABUTIN [VA Drug Interaction],C23305925686085
+5291,dofetilide,nilotinib,2,Significant,DOFETILIDE/NILOTINIB [VA Drug Interaction],C56^8189^
+3269,estazolam,voriconazole,2,Significant,ESTAZOLAM/VORICONAZOLE [VA Drug Interaction],C56^4870^
+6052,bisoprolol,sulindac,2,Significant,BISOPROLOL FUMARATE/SULINDAC [VA Drug Interaction],C23303390604951
+2679,lopinavir,simvastatin,2,Critical,LOPINAVIR/SIMVASTATIN [VA Drug Interaction],C56^3905^
+1756,chlorpromazine,cisapride,2,Critical,CHLORPROMAZINE/CISAPRIDE [VA Drug Interaction],C23306947164793
+6228,ambenonium,desoxycortone,2,Significant,AMBENONIUM CHLORIDE/DESOXYCORTICOSTERONE [VA Drug Interaction],C23304173718726
+5783,cisapride,telaprevir,2,Critical,CISAPRIDE/TELAPREVIR [VA Drug Interaction],C56^10059^
+7461,bosutinib,fosphenytoin,2,Significant,BOSUTINIB/FOSPHENYTOIN SODIUM [VA Drug Interaction],C56^7188^
+261,amikacin,bumetanide,2,Significant,AMIKACIN/BUMETANIDE [VA Drug Interaction],C23302855227968
+4198,olanzapine,cabergoline,2,Significant,CABERGOLINE/OLANZAPINE [VA Drug Interaction],C56^6363^
+5401,desflurane,benzphetamine,2,Significant,BENZPHETAMINE/DESFLURANE [VA Drug Interaction],C56^9106^
+2281,ritonavir,sunitinib,2,Significant,RITONAVIR/SUNITINIB [VA Drug Interaction],C56.3380
+4117,eplerenone,voriconazole,2,Critical,EPLERENONE/VORICONAZOLE [VA Drug Interaction],C56^6172^
+5788,sofosbuvir,carbamazepine,2,Critical,CARBAMAZEPINE/SOFOSBUVIR [VA Drug Interaction],C56^10064^
+318,tobramycin,tubocurarine,2,Significant,TOBRAMYCIN/TUBOCURARINE [VA Drug Interaction],C23302918924611
+2775,tipranavir,flecainide,2,Critical,FLECAINIDE/TIPRANAVIR [VA Drug Interaction],C56^4078^
+1785,clarithromycin,efavirenz,2,Significant,CLARITHROMYCIN/EFAVIRENZ [VA Drug Interaction],C23307016997970
+4673,buprenorphine,dofetilide,2,Significant,BUPRENORPHINE/DOFETILIDE [VA Drug Interaction],C56^7136^
+5936,ciprofloxacin,theophylline,2,Critical,CIPROFLOXACIN/THEOPHYLLINE [VA Drug Interaction],C23302847040336
+4795,mirabegron,propafenone,2,Significant,MIRABEGRON/PROPAFENONE [VA Drug Interaction],C56^7338^
+3223,zoledronic acid,polythiazide,2,Significant,POLYTHIAZIDE/ZOLEDRONIC ACID [VA Drug Interaction],C56^4759^
+5453,isoflurane,metaraminol,2,Significant,ISOFLURANE/METARAMINOL [VA Drug Interaction],C56^9218^
+1380,bepridil,bumetanide,2,Critical,BEPRIDIL/BUMETANIDE [VA Drug Interaction],C23305368699653
+4349,mifepristone,clarithromycin,2,Significant,CLARITHROMYCIN/MIFEPRISTONE [VA Drug Interaction],C56^6228^
+6852,rasagiline,remifentanil,2,Critical,RASAGILINE/REMIFENTANIL HYDROCHLORIDE [VA Drug Interaction],C56^4069^
+1495,clonidine,mirtazapine,2,Significant,CLONIDINE/MIRTAZAPINE [VA Drug Interaction],C23305772076618
+7362,darifenacin,indinavir,2,Significant,DARIFENACIN/INDINAVIR SULFATE [VA Drug Interaction],C56^6455^
+6414,atorvastatin,saquinavir,2,Critical,ATORVASTATIN CALCIUM/SAQUINAVIR [VA Drug Interaction],C23305172500415
+1943,norelgestromin,secobarbital,2,Significant,NORELGESTROMIN/SECOBARBITAL [VA Drug Interaction],C23307719055913
+3599,metoclopramide,droperidol,2,Critical,DROPERIDOL/METOCLOPRAMIDE [VA Drug Interaction],C56^5303^
+3075,saquinavir,dronedarone,2,Critical,DRONEDARONE/SAQUINAVIR [VA Drug Interaction],C56^4549^
+5567,clozapine,temozolomide,2,Significant,CLOZAPINE/TEMOZOLOMIDE [VA Drug Interaction],C56^9368^
+7246,nilotinib,rifampicin,2,Significant,NILOTINIB/RIFAMPIN [VA Drug Interaction],C56^5747^
+3147,fluoxetine,halazepam,2,Significant,FLUOXETINE/HALAZEPAM [VA Drug Interaction],C56^4659^
+2327,carbamazepine,maraviroc,2,Significant,CARBAMAZEPINE/MARAVIROC [VA Drug Interaction],C56.3454
+171,atazanavir,simvastatin,2,Critical,ATAZANAVIR SO4/SIMVASTATIN [VA Drug Interaction],C56.3582
+5033,ticagrelor,posaconazole,2,Critical,POSACONAZOLE/TICAGRELOR [VA Drug Interaction],C56^7802^
+3149,pitavastatin,gemfibrozil,2,Significant,GEMFIBROZIL/PITAVASTATIN [VA Drug Interaction],C56^4662^
+140,atazanavir,tadalafil,2,Significant,ATAZANAVIR SO4/TADALAFIL [VA Drug Interaction],C23304710162045
+3304,ketorolac,naproxen,2,Critical,KETOROLAC/NAPROXEN [VA Drug Interaction],C56^4913^
+6526,efavirenz,levomethadyl acetate,2,Critical,EFAVIRENZ/LEVOMETHADYL [VA Drug Interaction],C23306143752627
+249,cimetidine,warfarin,2,Critical,CIMETIDINE/WARFARIN [VA Drug Interaction],C23302844919675
+6270,chlorotrianisene,fosphenytoin,2,Critical,CHLOROTRIANISENE/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23304356843397
+6112,cimetidine,fosphenytoin,2,Critical,CIMETIDINE/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23303692139922
+7405,posaconazole,tamsulosin,2,Critical,POSACONAZOLE/TAMSULOSIN HYDROCHLORIDE [VA Drug Interaction],C56^6569^
+2198,dexamethasone,thalidomide,2,Critical,DEXAMETHASONE/THALIDOMIDE [VA Drug Interaction],C56.3248
+6571,delavirdine,lovastatin,2,Critical,DELAVIRDINE MESYLATE/LOVASTATIN [VA Drug Interaction],C23306637544157
+6314,cisapride,fluvoxamine,2,Critical,CISAPRIDE/FLUVOXAMINE MALEATE [VA Drug Interaction],C23304569705088
+2321,amiodarone,ketoconazole,2,Critical,AMIODARONE/KETOCONAZOLE [VA Drug Interaction],C56.3443
+2316,procarbazine,protriptyline,2,Critical,PROCARBAZINE/PROTRIPTYLINE [VA Drug Interaction],C56.3437
+2999,romidepsin,voriconazole,2,Significant,ROMIDEPSIN/VORICONAZOLE [VA Drug Interaction],C56^4448^
+7387,tolterodine,nelfinavir,2,Significant,NELFINAVIR MESYLATE/TOLTERODINE TARTRATE [VA Drug Interaction],C56^6499^
+2839,phenoxybenzamine,tadalafil,2,Significant,PHENOXYBENZAMINE/TADALAFIL [VA Drug Interaction],C56^4191^
+5592,phenobarbital,apixaban,2,Significant,APIXABAN/PHENOBARBITAL [VA Drug Interaction],C56^9598^
+1971,duloxetine,linezolid,2,Critical,DULOXETINE/LINEZOLID [VA Drug Interaction],C23307848835256
+6474,atorvastatin,nefazodone,2,Critical,ATORVASTATIN CALCIUM/NEFAZODONE [VA Drug Interaction],C23305601390679
+6348,clopidogrel,warfarin,2,Significant,CLOPIDOGREL BISULFATE/WARFARIN [VA Drug Interaction],C23304737669731
+1417,itraconazole,saquinavir,2,Significant,ITRACONAZOLE/SAQUINAVIR [VA Drug Interaction],C23305495407097
+2357,carbamazepine,lapatinib,2,Significant,CARBAMAZEPINE/LAPATINIB [VA Drug Interaction],C56.3488
+7562,lomitapide,nelfinavir,2,Critical,LOMITAPIDE/NELFINAVIR MESYLATE [VA Drug Interaction],C56^7754^
+4357,mifepristone,telithromycin,2,Significant,MIFEPRISTONE/TELITHROMYCIN [VA Drug Interaction],C56^6239^
+5076,lomitapide,cobicistat,2,Critical,COBICISTAT/LOMITAPIDE [VA Drug Interaction],C56^7744^
+4181,fluphenazine,pergolide,2,Significant,FLUPHENAZINE/PERGOLIDE [VA Drug Interaction],C56^6342^
+1655,phenelzine,zolmitriptan,2,Critical,PHENELZINE/ZOLMITRIPTAN [VA Drug Interaction],C23306460032490
+6841,indinavir,delavirdine,2,Significant,DELAVIRDINE MESYLATE/INDINAVIR SULFATE [VA Drug Interaction],C56^4002^
+1957,clarithromycin,erlotinib,2,Significant,CLARITHROMYCIN/ERLOTINIB [VA Drug Interaction],C23307804582705
+1931,mestranol,secobarbital,2,Significant,MESTRANOL/SECOBARBITAL [VA Drug Interaction],C23307670169253
+4678,eplerenone,potassium iodide,2,Significant,EPLERENONE/POTASSIUM IODIDE [VA Drug Interaction],C56^7143^
+748,amitriptyline,selegiline,2,Critical,AMITRIPTYLINE/SELEGILINE [VA Drug Interaction],C23303539149808
+3247,potassium chloride,atropine,2,Significant,ATROPINE/POTASSIUM CHLORIDE [VA Drug Interaction],C56^4843^
+2667,dofetilide,troleandomycin,2,Critical,DOFETILIDE/TROLEANDOMYCIN [VA Drug Interaction],C56^3890^
+6612,aciclovir,fosphenytoin,2,Significant,ACYCLOVIR/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23307265811716
+2770,rasagiline,sufentanil,2,Critical,RASAGILINE/SUFENTANIL [VA Drug Interaction],C56^4070^
+7568,methotrexate,meclofenamic acid,2,Significant,MECLOFENAMATE/METHOTREXATE [VA Drug Interaction],C56^7784^
+5716,ibrutinib,carbamazepine,2,Significant,CARBAMAZEPINE/IBRUTINIB [VA Drug Interaction],C56^9978^
+6364,ciclosporin,fluvoxamine,2,Significant,CYCLOSPORINE/FLUVOXAMINE MALEATE [VA Drug Interaction],C23304887440722
+7623,canagliflozin,rifampicin,2,Significant,CANAGLIFLOZIN/RIFAMPIN [VA Drug Interaction],C56^8085^
+5828,clarithromycin,ciclosporin,2,Critical,CLARITHROMYCIN/CYCLOSPORINE [VA Drug Interaction],C23303473226066
+1791,pimozide,zafirlukast,2,Significant,PIMOZIDE/ZAFIRLUKAST [VA Drug Interaction],C23307059106953
+1832,erythromycin,gemifloxacin,2,Significant,ERYTHROMYCIN/GEMIFLOXACIN [VA Drug Interaction],C23307185917763
+4307,tolvaptan,fosamprenavir,2,Significant,FOSAMPRENAVIR/TOLVAPTAN [VA Drug Interaction],C56^6532^
+3688,rivaroxaban,voriconazole,2,Critical,RIVAROXABAN/VORICONAZOLE [VA Drug Interaction],C56^5529^
+2101,alfuzosin,nefazodone,2,Significant,ALFUZOSIN/NEFAZODONE [VA Drug Interaction],C56.3113
+384,sulindac,timolol,2,Significant,SULINDAC/TIMOLOL [VA Drug Interaction],C23302964240427
+1215,itraconazole,rifapentine,2,Critical,ITRACONAZOLE/RIFAPENTINE [VA Drug Interaction],C23304780258943
+1127,neomycin,pancuronium,2,Significant,NEOMYCIN/PANCURONIUM [VA Drug Interaction],C23304508264597
+1915,griseofulvin,norethynodrel,2,Significant,GRISEOFULVIN/NORETHYNODREL [VA Drug Interaction],C23307595454170
+3321,mesoridazine,quinine,2,Significant,MESORIDAZINE/QUININE [VA Drug Interaction],C56^4931^
+15,gatifloxacin,pioglitazone,2,Critical,GATIFLOXACIN/PIOGLITAZONE HCL [VA Drug Interaction],C23308143128526
+5407,desflurane,indacaterol,2,Significant,DESFLURANE/INDACATEROL [VA Drug Interaction],C56^9114^
+3888,everolimus,atazanavir,2,Significant,ATAZANAVIR/EVEROLIMUS [VA Drug Interaction],C56^5811^
+2876,sitagliptin,ofloxacin,2,Significant,OFLOXACIN/SITAGLIPTIN [VA Drug Interaction],C56^4251^
+2369,citalopram,trimipramine,2,Significant,CITALOPRAM/TRIMIPRAMINE [VA Drug Interaction],C56.3500
+6310,naratriptan,sumatriptan,2,Significant,NARATRIPTAN HYDROCHLORIDE/SUMATRIPTAN [VA Drug Interaction],C23304562428744
+3129,conivaptan,nefazodone,2,Critical,CONIVAPTAN/NEFAZODONE [VA Drug Interaction],C56^4629^
+3333,methadone,lopinavir,2,Significant,LOPINAVIR/METHADONE [VA Drug Interaction],C56^4954^
+5058,ponatinib,itraconazole,2,Significant,ITRACONAZOLE/PONATINIB [VA Drug Interaction],C56^7712^
+1309,celecoxib,fluconazole,2,Significant,CELECOXIB/FLUCONAZOLE [VA Drug Interaction],C23305039689960
+4410,lopinavir,oxycodone,2,Significant,LOPINAVIR/OXYCODONE [VA Drug Interaction],C56^6632^
+5200,enzalutamide,risperidone,2,Significant,ENZALUTAMIDE/RISPERIDONE [VA Drug Interaction],C56^8041^
+6397,methysergide,delavirdine,2,Critical,DELAVIRDINE MESYLATE/METHYSERGIDE [VA Drug Interaction],C23305119327177
+4565,methysergide,conivaptan,2,Critical,CONIVAPTAN/METHYSERGIDE [VA Drug Interaction],C56^7008^
+3348,oxycodone,fosaprepitant,2,Significant,FOSAPREPITANT/OXYCODONE [VA Drug Interaction],C56^4970^
+4668,artemether,ulipristal acetate,2,Significant,ARTEMETHER/ULIPRISTAL ACETATE [VA Drug Interaction],C56^7131^
+1950,thioridazine,ziprasidone,2,Critical,THIORIDAZINE/ZIPRASIDONE [VA Drug Interaction],C23307778549787
+5138,flecainide,azithromycin,2,Significant,AZITHROMYCIN/FLECAINIDE [VA Drug Interaction],C56^7956^
+5146,sodium oxybate,codeine,2,Critical,CODEINE/SODIUM OXYBATE [VA Drug Interaction],C56^7968^
+4010,colchicine,itraconazole,2,Significant,COLCHICINE/ITRACONAZOLE [VA Drug Interaction],C56^3960^
+1327,amprenavir,clozapine,2,Significant,AMPRENAVIR/CLOZAPINE [VA Drug Interaction],C23305146396818
+1108,mephentermine,tranylcypromine,2,Critical,MEPHENTERMINE/TRANYLCYPROMINE [VA Drug Interaction],C23304462799322
+5285,dofetilide,telithromycin,2,Significant,DOFETILIDE/TELITHROMYCIN [VA Drug Interaction],C56^8183^
+7485,elvitegravir,aluminium phosphate,2,Significant,ALUMINUM PHOSPHATE/ELVITEGRAVIR [VA Drug Interaction],C56^7253^
+4456,bivalirudin,eptifibatide,2,Significant,BIVALIRUDIN/EPTIFIBATIDE [VA Drug Interaction],C56^6697^
+2046,almotriptan,sertraline,2,Significant,ALMOTRIPTAN/SERTRALINE [VA Drug Interaction],C56.3018
+4542,clarithromycin,mesoridazine,2,Significant,CLARITHROMYCIN/MESORIDAZINE [VA Drug Interaction],C56^6976^
+7701,clozapine,gemcitabine,2,Significant,CLOZAPINE/GEMCITABINE HYDROCHLORIDE [VA Drug Interaction],C56^9317^
+85,alfentanil,mibefradil,2,Significant,ALFENTANIL/MIBEFRADIL DIHYDROCHLORIDE [VA Drug Interaction],C56^6648^
+5708,ibrutinib,erythromycin,2,Significant,ERYTHROMYCIN/IBRUTINIB [VA Drug Interaction],C56^9954^
+2077,ranolazine,saquinavir,2,Critical,RANOLAZINE/SAQUINAVIR [VA Drug Interaction],C56.3076
+2534,aliskiren,irbesartan,2,Significant,ALISKIREN/IRBESARTAN [VA Drug Interaction],C56^3713^
+7181,toremifene,clarithromycin,2,Significant,CLARITHROMYCIN/TOREMIFENE CITRATE [VA Drug Interaction],C56^5429^
+1753,amobarbital,estradiol,2,Significant,AMOBARBITAL/ESTRADIOL [VA Drug Interaction],C23306940488246
+3024,posaconazole,efavirenz,2,Significant,EFAVIRENZ/POSACONAZOLE [VA Drug Interaction],C56^4483^
+6242,butalbital,dicoumarol,2,Significant,BUTALBITAL/DICUMAROL [VA Drug Interaction],C23304221363609
+1430,amiodarone,mexiletine,2,Significant,AMIODARONE/MEXILETINE [VA Drug Interaction],C23305526283647
+2914,pramlintide,ciprofloxacin,2,Significant,CIPROFLOXACIN/PRAMLINTIDE [VA Drug Interaction],C56^4299^
+5315,fesoterodine,primidone,2,Significant,FESOTERODINE/PRIMIDONE [VA Drug Interaction],C56^8785^
+3214,zoledronic acid,ethacrynic acid,2,Significant,ETHACRYNIC ACID/ZOLEDRONIC ACID [VA Drug Interaction],C56^4748^
+5585,deferasirox,phenytoin,2,Significant,DEFERASIROX/PHENYTOIN [VA Drug Interaction],C56^9397^
+3127,ixabepilone,phenobarbital,2,Significant,IXABEPILONE/PHENOBARBITAL [VA Drug Interaction],C56^4626^
+6283,atorvastatin,ketoconazole,2,Critical,ATORVASTATIN CALCIUM/KETOCONAZOLE [VA Drug Interaction],C23304443168335
+1729,quazepam,sodium oxybate,2,Critical,QUAZEPAM/SODIUM OXYBATE [VA Drug Interaction],C23306829469946
+3843,nilotinib,primidone,2,Significant,NILOTINIB/PRIMIDONE [VA Drug Interaction],C56^5745^
+5083,pasireotide,vandetanib,2,Significant,PASIREOTIDE/VANDETANIB [VA Drug Interaction],C56^7875^
+5089,pasireotide,artemether,2,Critical,ARTEMETHER/PASIREOTIDE [VA Drug Interaction],C56^7882^
+1236,alprazolam,erythromycin,2,Significant,ALPRAZOLAM/ERYTHROMYCIN [VA Drug Interaction],C23304834567801
+1532,aminoglutethimide,tamoxifen,2,Significant,AMINOGLUTETHIMIDE/TAMOXIFEN [VA Drug Interaction],C23305908512953
+7551,norethisterone,atazanavir,2,Significant,ATAZANAVIR/NORETHINDRONE [VA Drug Interaction],C56^7642^
+7210,methylthioninium chloride,isocarboxazid,2,Critical,ISOCARBOXAZID/METHYLENE BLUE [VA Drug Interaction],C56^5569^
+437,acetohexamide,nadolol,2,Significant,ACETOHEXAMIDE/NADOLOL [VA Drug Interaction],C23303018109284
+7100,dexamfetamine,Ioflupane I-123,2,Significant,DEXTROAMPHETAMINE/IOFLUPANE I-123 [VA Drug Interaction],C56^5274^
+5621,linezolid,procaine,2,Critical,LINEZOLID/PROCAINE [VA Drug Interaction],C56^9825^
+1337,desipramine,ritonavir,2,Significant,DESIPRAMINE/RITONAVIR [VA Drug Interaction],C23305218636726
+6299,neomycin,rocuronium,2,Significant,NEOMYCIN/ROCURONIUM BROMIDE [VA Drug Interaction],C23304511351303
+2441,epinephrine,linezolid,2,Critical,EPINEPHRINE/LINEZOLID [VA Drug Interaction],C56.3593
+335,amiloride,captopril,2,Significant,AMILORIDE/CAPTOPRIL [VA Drug Interaction],C23302928495102
+4340,fentanyl,nalbuphine,2,Significant,FENTANYL/NALBUPHINE [VA Drug Interaction],C56^6581^
+883,fenfluramine,phenelzine,2,Critical,FENFLURAMINE/PHENELZINE [VA Drug Interaction],C23303805346210
+5770,simeprevir,dexamethasone,2,Significant,DEXAMETHASONE/SIMEPREVIR [VA Drug Interaction],C56^10042^
+338,metronidazole,warfarin,2,Critical,METRONIDAZOLE/WARFARIN [VA Drug Interaction],C23302930957426
+1988,ferrous sulfate,minocycline,2,Significant,FERROUS SULFATE/MINOCYCLINE [VA Drug Interaction],C23307922937971
+4696,bosutinib,ketoconazole,2,Significant,BOSUTINIB/KETOCONAZOLE [VA Drug Interaction],C56^7163^
+3987,ruxolitinib,clarithromycin,2,Significant,CLARITHROMYCIN/RUXOLITINIB [VA Drug Interaction],C56^5940^
+2593,amoxapine,tapentadol,2,Significant,AMOXAPINE/TAPENTADOL [VA Drug Interaction],C56^3792^
+2051,citalopram,frovatriptan,2,Significant,CITALOPRAM/FROVATRIPTAN [VA Drug Interaction],C56.3024
+5554,clozapine,pentostatin,2,Significant,CLOZAPINE/PENTOSTATIN [VA Drug Interaction],C56^9352^
+1734,cimetidine,quinidine,2,Significant,CIMETIDINE/QUINIDINE [VA Drug Interaction],C23306847188679
+5914,pentobarbital,ciclosporin,2,Significant,CYCLOSPORINE/PENTOBARBITAL [VA Drug Interaction],C56^7378^
+2721,tadalafil,itraconazole,2,Significant,ITRACONAZOLE/TADALAFIL [VA Drug Interaction],C56^3999^
+2818,valproic acid,ertapenem,2,Critical,ERTAPENEM/VALPROIC ACID [VA Drug Interaction],C56^4141^
+3436,ziprasidone,voriconazole,2,Significant,VORICONAZOLE/ZIPRASIDONE [VA Drug Interaction],C56^5095^
+6441,delavirdine,triazolam,2,Critical,DELAVIRDINE MESYLATE/TRIAZOLAM [VA Drug Interaction],C23305330574695
+4535,ticagrelor,tipranavir,2,Significant,TICAGRELOR/TIPRANAVIR [VA Drug Interaction],C56^6968^
+6683,eszopiclone,rifampicin,2,Significant,ESZOPICLONE/RIFAMPIN [VA Drug Interaction],C23307880466372
+477,etodolac,warfarin,2,Significant,ETODOLAC/WARFARIN [VA Drug Interaction],C23303091813065
+2696,posaconazole,simvastatin,2,Critical,POSACONAZOLE/SIMVASTATIN [VA Drug Interaction],C56^3924^
+492,anisindione,etodolac,2,Significant,ANISINDIONE/ETODOLAC [VA Drug Interaction],C23303108824166
+5536,clozapine,levamisole,2,Significant,CLOZAPINE/LEVAMISOLE [VA Drug Interaction],C56^9329^
+4251,saxagliptin,conivaptan,2,Critical,CONIVAPTAN/SAXAGLIPTIN [VA Drug Interaction],C56^6426^
+5212,prednisone,aripiprazole,2,Significant,ARIPIPRAZOLE/PREDNISONE [VA Drug Interaction],C56^8059^
+1547,clarithromycin,repaglinide,2,Significant,CLARITHROMYCIN/REPAGLINIDE [VA Drug Interaction],C23306027939584
+1031,betamethasone,neostigmine,2,Significant,BETAMETHASONE/NEOSTIGMINE [VA Drug Interaction],C23304208577067
+259,bumetanide,gentamicin,2,Significant,BUMETANIDE/GENTAMICIN [VA Drug Interaction],C23302854458876
+3793,nilotinib,voriconazole,2,Significant,NILOTINIB/VORICONAZOLE [VA Drug Interaction],C56^5681^
+2603,eltrombopag,rosuvastatin,2,Significant,ELTROMBOPAG/ROSUVASTATIN [VA Drug Interaction],C56^3806^
+1577,cyclobenzaprine,paroxetine,2,Significant,CYCLOBENZAPRINE/PAROXETINE [VA Drug Interaction],C23306149509504
+5960,carteolol,glibenclamide,2,Significant,CARTEOLOL/GLYBURIDE [VA Drug Interaction],C23302992242310
+5996,diclofenac,dicoumarol,2,Significant,DICLOFENAC/DICUMAROL [VA Drug Interaction],C23303115333652
+1176,fosamprenavir,quinidine,2,Significant,FOSAMPRENAVIR/QUINIDINE [VA Drug Interaction],C23304675099209
+5308,pramlintide,propantheline,2,Critical,PRAMLINTIDE/PROPANTHELINE [VA Drug Interaction],C56^8775^
+3494,vilazodone,sumatriptan,2,Significant,SUMATRIPTAN/VILAZODONE [VA Drug Interaction],C56^5167^
+3585,selegiline,Ioflupane I-123,2,Significant,IOFLUPANE I-123/SELEGILINE [VA Drug Interaction],C56^5289^
+6128,levonorgestrel,rifampicin,2,Critical,LEVONORGESTREL/RIFAMPIN [VA Drug Interaction],C23303732280499
+1801,alfuzosin,aprepitant,2,Significant,ALFUZOSIN/APREPITANT [VA Drug Interaction],C23307085071985
+7076,fluvoxamine,procarbazine,2,Critical,FLUVOXAMINE MALEATE/PROCARBAZINE [VA Drug Interaction],C56^5147^
+7631,bedaquiline,nelfinavir,2,Significant,BEDAQUILINE/NELFINAVIR MESYLATE [VA Drug Interaction],C56^8137^
+5046,cabozantinib,ketoconazole,2,Significant,CABOZANTINIB/KETOCONAZOLE [VA Drug Interaction],C56^7697^
+4941,estrone,fosamprenavir,2,Significant,ESTRONE/FOSAMPRENAVIR [VA Drug Interaction],C56^7606^
+5678,macitentan,conivaptan,2,Significant,CONIVAPTAN/MACITENTAN [VA Drug Interaction],C56^9899^
+14297,calcium acetate,levofloxacin,2,Significant,CALCIUM ACETATE/LEVOFLOXACIN [VA Drug Interaction],C23306449514672
+1097,fluconazole,simvastatin,2,Critical,FLUCONAZOLE/SIMVASTATIN [VA Drug Interaction],C23304437415649
+1280,cisapride,lidocaine,2,Critical,CISAPRIDE/LIDOCAINE [VA Drug Interaction],C23304961066001
+6420,cerivastatin,ritonavir,2,Significant,CERIVASTATIN SODIUM/RITONAVIR [VA Drug Interaction],C23305199084520
+3791,nilotinib,telaprevir,2,Significant,NILOTINIB/TELAPREVIR [VA Drug Interaction],C56^5679^
+894,clozapine,erythromycin,2,Significant,CLOZAPINE/ERYTHROMYCIN [VA Drug Interaction],C23303828533794
+2228,amiloride,losartan,2,Significant,AMILORIDE/LOSARTAN [VA Drug Interaction],C56.3285
+6306,metocurine,tobramycin,2,Significant,METOCURINE IODIDE/TOBRAMYCIN [VA Drug Interaction],C23304550775028
+15009,buprenorphine,oxymorphone,2,Significant,BUPRENORPHINE/OXYMORPHONE [VA Drug Interaction],C56^5844^
+1244,amitriptyline,cisapride,2,Critical,AMITRIPTYLINE/CISAPRIDE [VA Drug Interaction],C23304851819714
+3727,citalopram,fluconazole,2,Critical,CITALOPRAM/FLUCONAZOLE [VA Drug Interaction],C56^5599^
+2809,alprazolam,methadone,2,Significant,ALPRAZOLAM/METHADONE [VA Drug Interaction],C56^4132^
+5970,aluminium phosphate,tetracycline,2,Significant,ALUMINUM PHOSPHATE/TETRACYCLINE [VA Drug Interaction],C23303057619054
+4304,tolvaptan,darunavir,2,Significant,DARUNAVIR/TOLVAPTAN [VA Drug Interaction],C56^6529^
+4591,cobicistat,dasatinib,2,Significant,COBICISTAT/DASATINIB [VA Drug Interaction],C56^7038^
+5840,pethidine,risperidone,2,Significant,MEPERIDINE/RISPERIDONE [VA Drug Interaction],C23303712799252
+148,atazanavir,rabeprazole,2,Critical,ATAZANAVIR SO4/RABEPRAZOLE [VA Drug Interaction],C23306574458206
+7107,metoclopramide,quetiapine,2,Critical,METOCLOPRAMIDE/QUETIAPINE FUMARATE [VA Drug Interaction],C56^5322^
+6812,eltrombopag,aluminium phosphate,2,Significant,ALUMINUM PHOSPHATE/ELTROMBOPAG [VA Drug Interaction],C56^3789^
+3431,propafenone,methadone,2,Significant,METHADONE/PROPAFENONE [VA Drug Interaction],C56^5090^
+4126,bretylium,lomefloxacin,2,Critical,BRETYLIUM/LOMEFLOXACIN [VA Drug Interaction],C56^6265^
+4258,saxagliptin,telaprevir,2,Critical,SAXAGLIPTIN/TELAPREVIR [VA Drug Interaction],C56^6436^
+6371,rifampicin,methylprednisolone,2,Significant,METHYLPREDNISOLONE/RIFAMPIN [VA Drug Interaction],C23304986599693
+6861,atorvastatin,tipranavir,2,Significant,ATORVASTATIN CALCIUM/TIPRANAVIR [VA Drug Interaction],C56^4093^
+2427,pseudoephedrine,rasagiline,2,Critical,PSEUDOEPHEDRINE/RASAGILINE [VA Drug Interaction],C56.3572
+3845,pazopanib,carbamazepine,2,Significant,CARBAMAZEPINE/PAZOPANIB [VA Drug Interaction],C56^5748^
+443,chlorpropamide,metoprolol,2,Significant,CHLORPROPAMIDE/METOPROLOL [VA Drug Interaction],C23303021711418
+3713,vemurafenib,tizanidine,2,Significant,TIZANIDINE/VEMURAFENIB [VA Drug Interaction],C56^5564^
+910,furosemide,streptomycin,2,Significant,FUROSEMIDE/STREPTOMYCIN [VA Drug Interaction],C23303852282901
+903,fenfluramine,pargyline,2,Critical,FENFLURAMINE/PARGYLINE [VA Drug Interaction],C23303842025173
+5634,tranylcypromine,mepivacaine,2,Critical,MEPIVACAINE/TRANYLCYPROMINE [VA Drug Interaction],C56^9841^
+4865,temsirolimus,secobarbital,2,Significant,SECOBARBITAL/TEMSIROLIMUS [VA Drug Interaction],C56^7442^
+5932,vortioxetine,pethidine,2,Significant,MEPERIDINE/VORTIOXETINE [VA Drug Interaction],C56^9875^
+4093,axitinib,primidone,2,Significant,AXITINIB/PRIMIDONE [VA Drug Interaction],C56^6070^
+351,sulfinpyrazone,warfarin,2,Significant,SULFINPYRAZONE/WARFARIN [VA Drug Interaction],C23302936974671
+1871,aprepitant,pimozide,2,Critical,APREPITANT/PIMOZIDE [VA Drug Interaction],C23307362109709
+2952,milnacipran,clomipramine,2,Significant,CLOMIPRAMINE/MILNACIPRAN [VA Drug Interaction],C56^4355^
+6381,ergotamine,efavirenz,2,Critical,EFAVIRENZ/ERGOTAMINE TARTRATE [VA Drug Interaction],C23305075242244
+5620,isocarboxazid,procaine,2,Critical,ISOCARBOXAZID/PROCAINE [VA Drug Interaction],C56^9824^
+5856,ciclosporin,saquinavir,2,Significant,CYCLOSPORINE/SAQUINAVIR [VA Drug Interaction],C23305454911448
+4712,bosutinib,omeprazole,2,Critical,BOSUTINIB/OMEPRAZOLE [VA Drug Interaction],C56^7181^
+7132,toremifene,profenamine,2,Significant,ETHOPROPAZINE/TOREMIFENE CITRATE [VA Drug Interaction],C56^5380^
+591,enoxacin,ranitidine,2,Significant,ENOXACIN/RANITIDINE [VA Drug Interaction],C23303261077036
+785,phenelzine,trimipramine,2,Critical,PHENELZINE/TRIMIPRAMINE [VA Drug Interaction],C23303577259679
+549,betaxolol,indomethacin,2,Significant,BETAXOLOL/INDOMETHACIN [VA Drug Interaction],C23303188426741
+4154,sotalol,nalidixic acid,2,Critical,NALIDIXIC ACID/SOTALOL [VA Drug Interaction],C56^6307^
+373,penbutolol,piroxicam,2,Significant,PENBUTOLOL/PIROXICAM [VA Drug Interaction],C23302956171803
+6757,darunavir,methylergometrine,2,Critical,DARUNAVIR/METHYLERGONOVINE [VA Drug Interaction],C56.3263
+4255,saxagliptin,posaconazole,2,Critical,POSACONAZOLE/SAXAGLIPTIN [VA Drug Interaction],C56^6433^
+7670,enflurane,dexamfetamine,2,Significant,DEXTROAMPHETAMINE/ENFLURANE [VA Drug Interaction],C56^9138^
+837,amobarbital,warfarin,2,Critical,AMOBARBITAL/WARFARIN [VA Drug Interaction],C23303672637164
+7566,methotrexate,diclofenac,2,Significant,DICLOFENAC EPOLAMINE/METHOTREXATE [VA Drug Interaction],C56^7774^
+6008,dicoumarol,etodolac,2,Significant,DICUMAROL/ETODOLAC [VA Drug Interaction],C23303123754555
+2164,amiodarone,flecainide,2,Significant,AMIODARONE/FLECAINIDE [VA Drug Interaction],C56.3195
+7595,sodium oxybate,quetiapine,2,Critical,QUETIAPINE FUMARATE/SODIUM OXYBATE [VA Drug Interaction],C56^8005^
+5661,vortioxetine,fluoxetine,2,Significant,FLUOXETINE/VORTIOXETINE [VA Drug Interaction],C56^9879^
+6040,tranylcypromine,venlafaxine,2,Critical,TRANYLCYPROMINE/VENLAFAXINE HYDROCHLORIDE [VA Drug Interaction],C23303377905292
+1300,pimozide,itraconazole,2,Critical,ITRACONAZOLE/PIMOZIDE [VA Drug Interaction],C23305004933867
+3976,trazodone,conivaptan,2,Significant,CONIVAPTAN/TRAZODONE [VA Drug Interaction],C56^5923^
+4277,fesoterodine,conivaptan,2,Significant,CONIVAPTAN/FESOTERODINE [VA Drug Interaction],C56^6464^
+6118,fluoxetine,fosphenytoin,2,Significant,FLUOXETINE/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23303698831834
+1856,alfuzosin,itraconazole,2,Critical,ALFUZOSIN/ITRACONAZOLE [VA Drug Interaction],C23307292123999
+303,pargyline,phenylephrine,2,Critical,PARGYLINE/PHENYLEPHRINE [VA Drug Interaction],C23302907912039
+6829,linezolid,sibutramine,2,Critical,LINEZOLID/SIBUTRAMINE HYDROCHLORIDE [VA Drug Interaction],C56^3903^
+5167,sodium oxybate,methohexital,2,Critical,METHOHEXITAL/SODIUM OXYBATE [VA Drug Interaction],C56^7992^
+2854,posaconazole,vinblastine,2,Critical,POSACONAZOLE/VINBLASTINE [VA Drug Interaction],C56^4226^
+6917,desvenlafaxine,naratriptan,2,Significant,DESVENLAFAXINE/NARATRIPTAN HYDROCHLORIDE [VA Drug Interaction],C56^4428^
+4977,potassium iodide,benazepril,2,Significant,BENAZEPRIL/POTASSIUM IODIDE [VA Drug Interaction],C56^7665^
+6635,erythromycin,indinavir,2,Significant,ERYTHROMYCIN/INDINAVIR SULFATE [VA Drug Interaction],C23307472053571
+1075,carbamazepine,chlorotrianisene,2,Critical,CARBAMAZEPINE/CHLOROTRIANISENE [VA Drug Interaction],C23304335116613
+6721,fluvoxamine,frovatriptan,2,Significant,FLUVOXAMINE MALEATE/FROVATRIPTAN [VA Drug Interaction],C56.3058
+3678,rivaroxaban,prasugrel,2,Significant,PRASUGREL/RIVAROXABAN [VA Drug Interaction],C56^5510^
+6013,potassium hydrogencarbonate,spironolactone,2,Significant,POTASSIUM BICARBONATE/SPIRONOLACTONE [VA Drug Interaction],C23303131539902
+6085,amoxapine,fluvoxamine,2,Significant,AMOXAPINE/FLUVOXAMINE MALEATE [VA Drug Interaction],C23303520992751
+1304,moxifloxacin,quinidine,2,Critical,MOXIFLOXACIN/QUINIDINE [VA Drug Interaction],C23305014657170
+2874,sitagliptin,levofloxacin,2,Significant,LEVOFLOXACIN/SITAGLIPTIN [VA Drug Interaction],C56^4249^
+5038,cabozantinib,phenobarbital,2,Significant,CABOZANTINIB/PHENOBARBITAL [VA Drug Interaction],C56^7687^
+4243,trifluoperazine,cabergoline,2,Significant,CABERGOLINE/TRIFLUOPERAZINE [VA Drug Interaction],C56^6417^
+2066,erythromycin,ranolazine,2,Critical,ERYTHROMYCIN/RANOLAZINE [VA Drug Interaction],C56.3048
+6115,doxycycline,fosphenytoin,2,Significant,DOXYCYCLINE/FOSPHENYTOIN SODIUM [VA Drug Interaction],C23303695143656
+5191,budesonide,aripiprazole,2,Significant,ARIPIPRAZOLE/BUDESONIDE [VA Drug Interaction],C56^8021^
+6796,conivaptan,indinavir,2,Critical,CONIVAPTAN/INDINAVIR SULFATE [VA Drug Interaction],C56.3653
+870,acetaminophen,sulfinpyrazone,2,Significant,ACETAMINOPHEN/SULFINPYRAZONE [VA Drug Interaction],C23303775029507
+5623,procarbazine,procaine,2,Critical,PROCAINE/PROCARBAZINE [VA Drug Interaction],C56^9828^
+3811,crizotinib,phenobarbital,2,Significant,CRIZOTINIB/PHENOBARBITAL [VA Drug Interaction],C56^5704^
+3454,ziprasidone,methadone,2,Significant,METHADONE/ZIPRASIDONE [VA Drug Interaction],C56^5116^
+3601,metoclopramide,haloperidol,2,Critical,HALOPERIDOL/METOCLOPRAMIDE [VA Drug Interaction],C56^5306^
+3631,rilpivirine,lansoprazole,2,Critical,LANSOPRAZOLE/RILPIVIRINE [VA Drug Interaction],C56^5346^
+424,atenolol,tolazamide,2,Significant,ATENOLOL/TOLAZAMIDE [VA Drug Interaction],C23303009064559
+5815,ciclosporin,rifabutin,2,Critical,CYCLOSPORINE/RIFABUTIN [VA Drug Interaction],C23303241012475
+2098,amprenavir,norgestimate,2,Critical,AMPRENAVIR/NORGESTIMATE [VA Drug Interaction],C56.3109
+6619,ampicillin,ethinylestradiol,2,Significant,AMPICILLIN/ETHINYL ESTRADIOL [VA Drug Interaction],C23307314985005
+1101,simvastatin,verapamil,2,Critical,SIMVASTATIN/VERAPAMIL [VA Drug Interaction],C23304448779383
+1973,efavirenz,ritonavir,2,Significant,EFAVIRENZ/RITONAVIR [VA Drug Interaction],C23307855241099
+5742,simeprevir,ciprofloxacin,2,Significant,CIPROFLOXACIN/SIMEPREVIR [VA Drug Interaction],C56^10009^
+5943,theophylline,verapamil,2,Significant,THEOPHYLLINE/VERAPAMIL [VA Drug Interaction],C23303402434946
+631,ethacrynic acid,fosinopril,2,Significant,ETHACRYNIC ACID/FOSINOPRIL [VA Drug Interaction],C23303309415582
+3593,metoclopramide,acetophenazine,2,Critical,ACETOPHENAZINE/METOCLOPRAMIDE [VA Drug Interaction],C56^5297^
+4625,enzalutamide,linagliptin,2,Significant,ENZALUTAMIDE/LINAGLIPTIN [VA Drug Interaction],C56^7078^
+7516,sirolimus,methylphenobarbital,2,Significant,MEPHOBARBITAL/SIROLIMUS [VA Drug Interaction],C56^7404^
+52,estropipate,nelfinavir,2,Significant,ESTROPIPATE/NELFINAVIR MESYLATE [VA Drug Interaction],C56^7613^
+7428,amiodarone,dextropropoxyphene,2,Critical,AMIODARONE/PROPOXYPHENE [VA Drug Interaction],C56^6879^
+1588,lamotrigine,valproic acid,2,Significant,LAMOTRIGINE/VALPROIC ACID [VA Drug Interaction],C23306173493279
+6423,delavirdine,midazolam,2,Critical,DELAVIRDINE MESYLATE/MIDAZOLAM [VA Drug Interaction],C23305215352789
+4611,enzalutamide,efavirenz,2,Significant,EFAVIRENZ/ENZALUTAMIDE [VA Drug Interaction],C56^7060^
+2655,dofetilide,furosemide,2,Critical,DOFETILIDE/FUROSEMIDE [VA Drug Interaction],C56^3875^
+4188,loxapine,cabergoline,2,Significant,CABERGOLINE/LOXAPINE [VA Drug Interaction],C56^6351^
+5572,clozapine,thiotepa,2,Significant,CLOZAPINE/THIOTEPA [VA Drug Interaction],C56^9374^
+3589,ethotoin,felodipine,2,Significant,ETHOTOIN/FELODIPINE [VA Drug Interaction],C56^5293^
+818,levothyroxine sodium,sucralfate,2,Significant,LEVOTHYROXINE SODIUM/SUCRALFATE [VA Drug Interaction],C23303641070862
+4937,estradiol,saquinavir,2,Significant,ESTRADIOL/SAQUINAVIR [VA Drug Interaction],C56^7596^
+1994,duloxetine,furazolidone,2,Significant,DULOXETINE/FURAZOLIDONE [VA Drug Interaction],C23307947252513
+1192,butorphanol,sodium oxybate,2,Critical,BUTORPHANOL/SODIUM OXYBATE [VA Drug Interaction],C23304720493526
+2783,tadalafil,tipranavir,2,Significant,TADALAFIL/TIPRANAVIR [VA Drug Interaction],C56^4088^
+6044,bisoprolol,chlorpropamide,2,Significant,BISOPROLOL FUMARATE/CHLORPROPAMIDE [VA Drug Interaction],C23303382197458
+278,amikacin,piperacillin,2,Significant,AMIKACIN/PIPERACILLIN [VA Drug Interaction],C23302884198131
+128,ciclosporin,oleandomycin,2,Critical,CYCLOSPORINE/OLEANDOMYCIN (AS TROLEANDOMYCIN) [VA Drug Interaction],C23303830678759
+1454,magnesium oxide,minocycline,2,Significant,MAGNESIUM OXIDE/MINOCYCLINE [VA Drug Interaction],C23305607301486
+7091,telaprevir,norethisterone,2,Significant,NORETHINDRONE/TELAPREVIR [VA Drug Interaction],C56^5239^
+13737,anisindione,bismuth subsalicylate,2,Critical,ANISINDIONE/BISMUTH SUBSALICYLATE [VA Drug Interaction],C23303110105055
+7600,secbutabarbital,aripiprazole,2,Significant,ARIPIPRAZOLE/BUTABARBITAL [VA Drug Interaction],C56^8024^
+250,clofibrate,warfarin,2,Significant,CLOFIBRATE/WARFARIN [VA Drug Interaction],C23302847865021
+269,gentamicin,ticarcillin,2,Significant,GENTAMICIN/TICARCILLIN [VA Drug Interaction],C23302879893953
+936,cisapride,nefazodone,2,Critical,CISAPRIDE/NEFAZODONE [VA Drug Interaction],C23303914398617
+163,atazanavir,efavirenz,2,Significant,ATAZANAVIR SO4/EFAVIRENZ [VA Drug Interaction],C56.3134
+1251,cisapride,protriptyline,2,Critical,CISAPRIDE/PROTRIPTYLINE [VA Drug Interaction],C23304863960363
+2684,methadone,thioridazine,2,Critical,METHADONE/THIORIDAZINE [VA Drug Interaction],C56^3910^
+4131,disopyramide,ciprofloxacin,2,Significant,CIPROFLOXACIN/DISOPYRAMIDE [VA Drug Interaction],C56^6270^
+763,desipramine,selegiline,2,Critical,DESIPRAMINE/SELEGILINE [VA Drug Interaction],C23303555730127
+2725,imatinib,simvastatin,2,Significant,IMATINIB/SIMVASTATIN [VA Drug Interaction],C56^4008^
+789,cisapride,fluconazole,2,Critical,CISAPRIDE/FLUCONAZOLE [VA Drug Interaction],C23303581064632
+2752,hydrocodone,rasagiline,2,Critical,HYDROCODONE/RASAGILINE [VA Drug Interaction],C56^4036^
+5286,dofetilide,lomefloxacin,2,Significant,DOFETILIDE/LOMEFLOXACIN [VA Drug Interaction],C56^8184^
+7184,toremifene,ketoconazole,2,Significant,KETOCONAZOLE/TOREMIFENE CITRATE [VA Drug Interaction],C56^5432^
+2870,levofloxacin,tolazamide,2,Significant,LEVOFLOXACIN/TOLAZAMIDE [VA Drug Interaction],C56^4245^
+5154,sodium oxybate,etomidate,2,Critical,ETOMIDATE/SODIUM OXYBATE [VA Drug Interaction],C56^7977^
+7290,quetiapine,ibutilide,2,Significant,IBUTILIDE FUMARATE/QUETIAPINE FUMARATE [VA Drug Interaction],C56^5973^
+1221,norgestimate,rifapentine,2,Significant,NORGESTIMATE/RIFAPENTINE [VA Drug Interaction],C23304807718299
+541,piroxicam,sotalol,2,Significant,PIROXICAM/SOTALOL [VA Drug Interaction],C23303179821457
+5704,ibrutinib,crizotinib,2,Significant,CRIZOTINIB/IBRUTINIB [VA Drug Interaction],C56^9949^
+2392,cabergoline,clarithromycin,2,Critical,CABERGOLINE/CLARITHROMYCIN [VA Drug Interaction],C56.3524
+6377,cisapride,nelfinavir,2,Critical,CISAPRIDE/NELFINAVIR MESYLATE [VA Drug Interaction],C23305021672866
+6487,carbamazepine,indinavir,2,Significant,CARBAMAZEPINE/INDINAVIR SULFATE [VA Drug Interaction],C23305747148031
+2339,maraviroc,nevirapine,2,Significant,MARAVIROC/NEVIRAPINE [VA Drug Interaction],C56.3468
+1360,lovastatin,ritonavir,2,Critical,LOVASTATIN/RITONAVIR [VA Drug Interaction],C23305278809178
+2417,metoclopramide,paroxetine,2,Significant,METOCLOPRAMIDE/PAROXETINE [VA Drug Interaction],C56.3561
+1235,carbamazepine,trimipramine,2,Significant,CARBAMAZEPINE/TRIMIPRAMINE [VA Drug Interaction],C23304833010620
+3780,lapatinib,ketoconazole,2,Significant,KETOCONAZOLE/LAPATINIB [VA Drug Interaction],C56^5663^
+6090,potassium hydrogencarbonate,pseudoephedrine,2,Significant,POTASSIUM BICARBONATE/PSEUDOEPHEDRINE [VA Drug Interaction],C23303604829105
+463,doxycycline,magnesium hydroxide,2,Significant,DOXYCYCLINE/MAGNESIUM HYDROXIDE [VA Drug Interaction],C23303064529430
+3784,nilotinib,boceprevir,2,Significant,BOCEPREVIR/NILOTINIB [VA Drug Interaction],C56^5669^
+1345,fluoxetine,ritonavir,2,Critical,FLUOXETINE/RITONAVIR [VA Drug Interaction],C23305237393579
+60,lapatinib,mibefradil,2,Significant,LAPATINIB/MIBEFRADIL DIHYDROCHLORIDE [VA Drug Interaction],C56^5664^
+4432,atazanavir,alfentanil,2,Significant,ALFENTANIL/ATAZANAVIR [VA Drug Interaction],C56^6658^
+3298,ketorolac,ketoprofen,2,Critical,KETOPROFEN/KETOROLAC [VA Drug Interaction],C56^4906^
+3872,crizotinib,ziprasidone,2,Significant,CRIZOTINIB/ZIPRASIDONE [VA Drug Interaction],C56^5793^
+3515,vandetanib,haloperidol,2,Significant,HALOPERIDOL/VANDETANIB [VA Drug Interaction],C56^5192^
+3344,pioglitazone,gemfibrozil,2,Critical,GEMFIBROZIL/PIOGLITAZONE [VA Drug Interaction],C56^4966^
+3700,maprotiline,procarbazine,2,Critical,MAPROTILINE/PROCARBAZINE [VA Drug Interaction],C56^5546^
+6601,delavirdine,fosamprenavir,2,Critical,DELAVIRDINE MESYLATE/FOSAMPRENAVIR [VA Drug Interaction],C23307133119712
+4205,perphenazine,levodopa,2,Significant,LEVODOPA/PERPHENAZINE [VA Drug Interaction],C56^6371^
+7462,topotecan,amiodarone,2,Significant,AMIODARONE/TOPOTECAN HYDROCHLORIDE [VA Drug Interaction],C56^7193^
+3868,crizotinib,dronedarone,2,Significant,CRIZOTINIB/DRONEDARONE [VA Drug Interaction],C56^5787^
+2552,etravirine,fosamprenavir,2,Critical,ETRAVIRINE/FOSAMPRENAVIR [VA Drug Interaction],C56^3735^
+7242,imatinib,fosphenytoin,2,Significant,FOSPHENYTOIN SODIUM/IMATINIB [VA Drug Interaction],C56^5729^
+6304,metocurine,streptomycin,2,Significant,METOCURINE IODIDE/STREPTOMYCIN [VA Drug Interaction],C23304526867800
+987,erythromycin,phenprocoumon,2,Significant,ERYTHROMYCIN/PHENPROCOUMON [VA Drug Interaction],C23304061927703
+1572,ketoconazole,nortriptyline,2,Critical,KETOCONAZOLE/NORTRIPTYLINE [VA Drug Interaction],C23306115362986
+5714,ibrutinib,deferiprone,2,Significant,DEFERIPRONE/IBRUTINIB [VA Drug Interaction],C56^9962^
+4266,voriconazole,primidone,2,Critical,PRIMIDONE/VORICONAZOLE [VA Drug Interaction],C56^6447^
+6426,ergotamine,nelfinavir,2,Critical,ERGOTAMINE TARTRATE/NELFINAVIR MESYLATE [VA Drug Interaction],C23305231041654
+7192,toremifene,fosphenytoin,2,Significant,FOSPHENYTOIN SODIUM/TOREMIFENE CITRATE [VA Drug Interaction],C56^5440^
+1078,carbamazepine,estrone,2,Critical,CARBAMAZEPINE/ESTRONE [VA Drug Interaction],C23304342133427
+4850,tacrolimus,rifabutin,2,Significant,RIFABUTIN/TACROLIMUS [VA Drug Interaction],C56^7424^
+6540,ergotamine,voriconazole,2,Critical,ERGOTAMINE TARTRATE/VORICONAZOLE [VA Drug Interaction],C23306246812374
+6717,escitalopram,sumatriptan,2,Significant,ESCITALOPRAM OXALATE/SUMATRIPTAN [VA Drug Interaction],C56.3052
+15513,Strong CYP2A6 Inducers,CYP2A6 Substrates,3,Potentially significant,Strong CYP2A6 Inducers - CYP2A6 Substrates,CYP2A6 inducers-substrates
+7002,mycophenolic acid,norethisterone,2,Significant,MYCOPHENOLATE/NORETHINDRONE [VA Drug Interaction],C56^4829^
+1032,betamethasone,pyridostigmine,2,Significant,BETAMETHASONE/PYRIDOSTIGMINE [VA Drug Interaction],C23304209802083
+1610,dofetilide,disopyramide,2,Critical,DISOPYRAMIDE/DOFETILIDE [VA Drug Interaction],C23306284139185
+819,rifabutin,saquinavir,2,Significant,RIFABUTIN/SAQUINAVIR [VA Drug Interaction],C23303642856284
+4963,medroxyprogesterone,tipranavir,2,Significant,MEDROXYPROGESTERONE/TIPRANAVIR [VA Drug Interaction],C56^7641^
+2103,citalopram,pimozide,2,Critical,CITALOPRAM/PIMOZIDE [VA Drug Interaction],C56.3115
+2415,maraviroc,voriconazole,2,Significant,MARAVIROC/VORICONAZOLE [VA Drug Interaction],C56.3558
+3054,saquinavir,octreotide,2,Significant,OCTREOTIDE/SAQUINAVIR [VA Drug Interaction],C56^4523^
+5445,isoflurane,dobutamine,2,Significant,DOBUTAMINE/ISOFLURANE [VA Drug Interaction],C56^9207^
+5347,dabrafenib,ketoconazole,2,Significant,DABRAFENIB/KETOCONAZOLE [VA Drug Interaction],C56^8835^
+4133,disopyramide,levofloxacin,2,Significant,DISOPYRAMIDE/LEVOFLOXACIN [VA Drug Interaction],C56^6272^
+6434,methysergide,nelfinavir,2,Critical,METHYSERGIDE/NELFINAVIR MESYLATE [VA Drug Interaction],C23305283716226
+4864,temsirolimus,rifapentine,2,Significant,RIFAPENTINE/TEMSIROLIMUS [VA Drug Interaction],C56^7441^
+6697,nelfinavir,vardenafil,2,Significant,NELFINAVIR MESYLATE/VARDENAFIL [VA Drug Interaction],C23308160624325
+4708,bosutinib,nizatidine,2,Significant,BOSUTINIB/NIZATIDINE [VA Drug Interaction],C56^7177^
+117,cimetidine,choline theophyllinate,2,Critical,CIMETIDINE/OXTRIPHYLLINE [VA Drug Interaction],C23303533559991
+575,astemizole,ketoconazole,2,Critical,ASTEMIZOLE/KETOCONAZOLE [VA Drug Interaction],C23303237320944
+2375,desipramine,valproic acid,2,Significant,DESIPRAMINE/VALPROIC ACID [VA Drug Interaction],C56.3506
+15157,oxymorphone,nalbuphine,2,Significant,NALBUPHINE/OXYMORPHONE [VA Drug Interaction],C56^6590^
+5198,dexamethasone,risperidone,2,Significant,DEXAMETHASONE/RISPERIDONE [VA Drug Interaction],C56^8038^
+7941,lithium,quinethazone,2,Critical,LITHIUM/QUINETHAZONE [VA Drug Interaction],C23302891206284
+3770,dasatinib,ketoconazole,2,Significant,DASATINIB/KETOCONAZOLE [VA Drug Interaction],C56^5650^
+1202,amitriptyline,rifapentine,2,Significant,AMITRIPTYLINE/RIFAPENTINE [VA Drug Interaction],C23304755805276
+4578,cobicistat,romidepsin,2,Significant,COBICISTAT/ROMIDEPSIN [VA Drug Interaction],C56^7025^
+1154,buprenorphine,clonazepam,2,Significant,BUPRENORPHINE/CLONAZEPAM [VA Drug Interaction],C23304618364624
+3665,rivaroxaban,phenylbutazone,2,Significant,PHENYLBUTAZONE/RIVAROXABAN [VA Drug Interaction],C56^5487^
+4254,saxagliptin,nefazodone,2,Critical,NEFAZODONE/SAXAGLIPTIN [VA Drug Interaction],C56^6431^
+899,encainide,ritonavir,2,Significant,ENCAINIDE/RITONAVIR [VA Drug Interaction],C23303837496385
+931,clonidine,penbutolol,2,Significant,CLONIDINE/PENBUTOLOL [VA Drug Interaction],C23303908992902
+3238,telithromycin,nilotinib,2,Significant,NILOTINIB/TELITHROMYCIN [VA Drug Interaction],C56^4776^
+343,ibuprofen,warfarin,2,Significant,IBUPROFEN/WARFARIN [VA Drug Interaction],C23302933138150
+1411,ofloxacin,warfarin,2,Significant,OFLOXACIN/WARFARIN [VA Drug Interaction],C23305478811133
+1223,protriptyline,rifapentine,2,Significant,PROTRIPTYLINE/RIFAPENTINE [VA Drug Interaction],C23304812446553
+584,didanosine,enoxacin,2,Significant,DIDANOSINE/ENOXACIN [VA Drug Interaction],C23303252112768
+5546,clozapine,nilotinib,2,Significant,CLOZAPINE/NILOTINIB [VA Drug Interaction],C56^9342^
+2155,amitriptyline,ziprasidone,2,Significant,AMITRIPTYLINE/ZIPRASIDONE [VA Drug Interaction],C56.3186
+1640,glimepiride,voriconazole,2,Significant,GLIMEPIRIDE/VORICONAZOLE [VA Drug Interaction],C23306378918829
+1335,clarithromycin,lovastatin,2,Critical,CLARITHROMYCIN/LOVASTATIN [VA Drug Interaction],C23305210467252
+7182,toremifene,indinavir,2,Significant,INDINAVIR SULFATE/TOREMIFENE CITRATE [VA Drug Interaction],C56^5430^
+5522,clozapine,docetaxel,2,Significant,CLOZAPINE/DOCETAXEL [VA Drug Interaction],C56^9307^
+5164,sodium oxybate,mesoridazine,2,Critical,MESORIDAZINE/SODIUM OXYBATE [VA Drug Interaction],C56^7989^
+3893,everolimus,ketoconazole,2,Significant,EVEROLIMUS/KETOCONAZOLE [VA Drug Interaction],C56^5817^
+248,carteolol,verapamil,2,Critical,CARTEOLOL/VERAPAMIL [VA Drug Interaction],C23302844568234
+3914,buprenorphine,codeine,2,Significant,BUPRENORPHINE/CODEINE [VA Drug Interaction],C56^5842^
+1664,vardenafil,erythromycin,2,Critical,ERYTHROMYCIN/VARDENAFIL [VA Drug Interaction],C23306492392189
+4150,quinidine,nalidixic acid,2,Critical,NALIDIXIC ACID/QUINIDINE [VA Drug Interaction],C56^6303^
+7475,topotecan,quinidine,2,Significant,QUINIDINE/TOPOTECAN HYDROCHLORIDE [VA Drug Interaction],C56^7206^
+2527,ixabepilone,saquinavir,2,Significant,IXABEPILONE/SAQUINAVIR [VA Drug Interaction],C56^3702^
+6993,zoledronic acid,glycerol,2,Significant,GLYCERIN/ZOLEDRONIC ACID [VA Drug Interaction],C56^4750^
+1604,azithromycin,dofetilide,2,Significant,AZITHROMYCIN/DOFETILIDE [VA Drug Interaction],C23306272236555
+2174,haloperidol,ranolazine,2,Critical,HALOPERIDOL/RANOLAZINE [VA Drug Interaction],C56.3209
+4608,enzalutamide,warfarin,2,Significant,ENZALUTAMIDE/WARFARIN [VA Drug Interaction],C56^7057^
+7511,methylphenobarbital,ciclosporin,2,Significant,CYCLOSPORINE/MEPHOBARBITAL [VA Drug Interaction],C56^7376^
+5541,clozapine,mercaptopurine,2,Significant,CLOZAPINE/MERCAPTOPURINE [VA Drug Interaction],C56^9335^
+4155,bortezomib,carbamazepine,2,Significant,BORTEZOMIB/CARBAMAZEPINE [VA Drug Interaction],C56^6309^
+6029,aluminium phosphate,lomefloxacin,2,Significant,ALUMINUM PHOSPHATE/LOMEFLOXACIN [VA Drug Interaction],C23303270437723
+2070,frovatriptan,sertraline,2,Significant,FROVATRIPTAN/SERTRALINE [VA Drug Interaction],C56.3064
+4379,conivaptan,simvastatin,2,Critical,CONIVAPTAN/SIMVASTATIN [VA Drug Interaction],C56^6594^
+3162,colchicine,lopinavir,2,Significant,COLCHICINE/LOPINAVIR [VA Drug Interaction],C56^4686^
+4362,mifepristone,estradiol,2,Significant,ESTRADIOL/MIFEPRISTONE [VA Drug Interaction],C56^6246^
+4315,methotrexate,carbenicillin,2,Critical,CARBENICILLIN/METHOTREXATE [VA Drug Interaction],C56^6540^
+758,clomipramine,selegiline,2,Critical,CLOMIPRAMINE/SELEGILINE [VA Drug Interaction],C23303550858000
+1725,pentobarbital,sodium oxybate,2,Critical,PENTOBARBITAL/SODIUM OXYBATE [VA Drug Interaction],C23306818628624
+4845,tacrolimus,hexobarbital,2,Significant,HEXOBARBITAL/TACROLIMUS [VA Drug Interaction],C56^7418^
+4541,azithromycin,mesoridazine,2,Significant,AZITHROMYCIN/MESORIDAZINE [VA Drug Interaction],C56^6975^
+6782,indinavir,maraviroc,2,Significant,INDINAVIR SULFATE/MARAVIROC [VA Drug Interaction],C56.3551
+4815,tranylcypromine,frovatriptan,2,Critical,FROVATRIPTAN/TRANYLCYPROMINE [VA Drug Interaction],C56^7369^
+7180,toremifene,atazanavir,2,Significant,ATAZANAVIR/TOREMIFENE CITRATE [VA Drug Interaction],C56^5428^
+2219,darunavir,triazolam,2,Critical,DARUNAVIR/TRIAZOLAM [VA Drug Interaction],C56.3276
+4787,mifepristone,simvastatin,2,Critical,MIFEPRISTONE/SIMVASTATIN [VA Drug Interaction],C56^7330^
+7348,prochlorperazine,ropinirole,2,Significant,PROCHLORPERAZINE/ROPINIROLE HYDROCHLORIDE [VA Drug Interaction],C56^6386^
+174,atazanavir,rifabutin,2,Significant,ATAZANAVIR SO4/RIFABUTIN [VA Drug Interaction],C56.3643
+6610,linezolid,venlafaxine,2,Critical,LINEZOLID/VENLAFAXINE HYDROCHLORIDE [VA Drug Interaction],C23307252298266
+7305,topotecan,ritonavir,2,Significant,RITONAVIR/TOPOTECAN HYDROCHLORIDE [VA Drug Interaction],C56^6037^
+4771,cobicistat,ritonavir,2,Critical,COBICISTAT/RITONAVIR [VA Drug Interaction],C56^7305^
+5674,vortioxetine,sumatriptan,2,Significant,SUMATRIPTAN/VORTIOXETINE [VA Drug Interaction],C56^9895^
+963,anisindione,cholestyramine,2,Significant,ANISINDIONE/CHOLESTYRAMINE [VA Drug Interaction],C23303979992149
+7523,tofacitinib,indinavir,2,Significant,INDINAVIR SULFATE/TOFACITINIB [VA Drug Interaction],C56^7447^
+6267,rifampicin,trimipramine,2,Significant,RIFAMPIN/TRIMIPRAMINE [VA Drug Interaction],C23304321860180
+6323,nelfinavir,rifapentine,2,Critical,NELFINAVIR MESYLATE/RIFAPENTINE [VA Drug Interaction],C23304588223363
+7471,topotecan,erythromycin,2,Significant,ERYTHROMYCIN/TOPOTECAN HYDROCHLORIDE [VA Drug Interaction],C56^7202^
+78,tolvaptan,mibefradil,2,Critical,MIBEFRADIL DIHYDROCHLORIDE/TOLVAPTAN [VA Drug Interaction],C56^6517^
+402,phenelzine,pseudoephedrine,2,Critical,PHENELZINE/PSEUDOEPHEDRINE [VA Drug Interaction],C23302986506664
+4943,estrone,tipranavir,2,Significant,ESTRONE/TIPRANAVIR [VA Drug Interaction],C56^7609^
+1782,cisapride,trifluoperazine,2,Critical,CISAPRIDE/TRIFLUOPERAZINE [VA Drug Interaction],C23307010285106
+2217,darunavir,tadalafil,2,Significant,DARUNAVIR/TADALAFIL [VA Drug Interaction],C56.3274
+6248,aciclovir,rifampicin,2,Critical,ACYCLOVIR/RIFAMPIN [VA Drug Interaction],C23304245485389
+4697,bosutinib,ritonavir,2,Significant,BOSUTINIB/RITONAVIR [VA Drug Interaction],C56^7164^
+2685,methadone,zidovudine,2,Significant,METHADONE/ZIDOVUDINE [VA Drug Interaction],C56^3911^
+5666,vortioxetine,isocarboxazid,2,Critical,ISOCARBOXAZID/VORTIOXETINE [VA Drug Interaction],C56^9885^
+3151,pitavastatin,fenofibrate,2,Significant,FENOFIBRATE/PITAVASTATIN [VA Drug Interaction],C56^4666^
+4825,everolimus,secobarbital,2,Significant,EVEROLIMUS/SECOBARBITAL [VA Drug Interaction],C56^7393^
+1618,diltiazem,dofetilide,2,Significant,DILTIAZEM/DOFETILIDE [VA Drug Interaction],C23306300150717
+6558,vardenafil,delavirdine,2,Significant,DELAVIRDINE MESYLATE/VARDENAFIL [VA Drug Interaction],C23306502522247
+4439,fingolimod,carvedilol,2,Critical,CARVEDILOL/FINGOLIMOD [VA Drug Interaction],C56^6666^
+6915,sibutramine,citalopram,2,Critical,CITALOPRAM/SIBUTRAMINE HYDROCHLORIDE [VA Drug Interaction],C56^4390^
+4279,fesoterodine,posaconazole,2,Significant,FESOTERODINE/POSACONAZOLE [VA Drug Interaction],C56^6469^
+2335,itraconazole,maraviroc,2,Significant,ITRACONAZOLE/MARAVIROC [VA Drug Interaction],C56.3464
+640,furosemide,quinapril,2,Significant,FUROSEMIDE/QUINAPRIL [VA Drug Interaction],C23303320410834
+3702,potassium chloride,procyclidine,2,Significant,POTASSIUM CHLORIDE/PROCYCLIDINE [VA Drug Interaction],C56^5549^
+4762,cobicistat,amprenavir,2,Critical,AMPRENAVIR/COBICISTAT [VA Drug Interaction],C56^7293^
+6107,indinavir,midazolam,2,Critical,INDINAVIR SULFATE/MIDAZOLAM [VA Drug Interaction],C23303682525572
+7398,rifabutin,glibenclamide,2,Significant,GLYBURIDE/RIFABUTIN [VA Drug Interaction],C56^6554^
+3368,trazodone,telithromycin,2,Significant,TELITHROMYCIN/TRAZODONE [VA Drug Interaction],C56^5021^
+6603,erythromycin,halofantrine,2,Critical,ERYTHROMYCIN/HALOFANTRINE HYDROCHLORIDE [VA Drug Interaction],C23307188110779
+4785,mifepristone,pimozide,2,Critical,MIFEPRISTONE/PIMOZIDE [VA Drug Interaction],C56^7327^
+2731,ethotoin,fluorouracil,2,Significant,ETHOTOIN/FLUOROURACIL [VA Drug Interaction],C56^4015^
+1370,efavirenz,alprazolam,2,Critical,ALPRAZOLAM/EFAVIRENZ [VA Drug Interaction],C23305328870568
+2449,frovatriptan,linezolid,2,Critical,FROVATRIPTAN/LINEZOLID [VA Drug Interaction],C56.3603
+6177,thiamazole,phenprocoumon,2,Significant,METHIMAZOLE/PHENPROCOUMON [VA Drug Interaction],C23303951974063
+1448,cidofovir,tobramycin,2,Critical,CIDOFOVIR/TOBRAMYCIN [VA Drug Interaction],C23305587678880
+1485,ketoconazole,tacrolimus,2,Significant,KETOCONAZOLE/TACROLIMUS [VA Drug Interaction],C23305751645251
+5747,simeprevir,diltiazem,2,Significant,DILTIAZEM/SIMEPREVIR [VA Drug Interaction],C56^10015^
+4670,buprenorphine,bretylium,2,Significant,BRETYLIUM/BUPRENORPHINE [VA Drug Interaction],C56^7133^
+2516,prednisone,warfarin,2,Significant,PREDNISONE/WARFARIN [VA Drug Interaction],C56.3688
+5629,tranylcypromine,tetracaine,2,Critical,TETRACAINE/TRANYLCYPROMINE [VA Drug Interaction],C56^9835^
+5657,vortioxetine,fenfluramine,2,Critical,FENFLURAMINE/VORTIOXETINE [VA Drug Interaction],C56^9874^
+3109,quinine,sotalol,2,Significant,QUININE/SOTALOL [VA Drug Interaction],C56^4590^
+5325,apixaban,rivaroxaban,2,Significant,APIXABAN/RIVAROXABAN [VA Drug Interaction],C56^8803^
+3069,saquinavir,chloroquine,2,Significant,CHLOROQUINE/SAQUINAVIR [VA Drug Interaction],C56^4543^
+5793,sofosbuvir,rifabutin,2,Critical,RIFABUTIN/SOFOSBUVIR [VA Drug Interaction],C56^10070^
+1394,amprenavir,quinidine,2,Significant,AMPRENAVIR/QUINIDINE [VA Drug Interaction],C23305398389739
+5261,bedaquiline,atazanavir,2,Significant,ATAZANAVIR/BEDAQUILINE [VA Drug Interaction],C56^8127^
+822,indomethacin,trandolapril,2,Significant,INDOMETHACIN/TRANDOLAPRIL [VA Drug Interaction],C23303646119548
+7451,lumefantrine,fosphenytoin,2,Critical,FOSPHENYTOIN SODIUM/LUMEFANTRINE [VA Drug Interaction],C56^7115^
+3794,pazopanib,boceprevir,2,Significant,BOCEPREVIR/PAZOPANIB [VA Drug Interaction],C56^5682^
+1182,moxifloxacin,thioridazine,2,Critical,MOXIFLOXACIN/THIORIDAZINE [VA Drug Interaction],C23304693202907
+3038,saquinavir,budesonide,2,Significant,BUDESONIDE/SAQUINAVIR [VA Drug Interaction],C56^4506^
+6527,phenelzine,tramadol,2,Critical,PHENELZINE/TRAMADOL HYDROCHLORIDE [VA Drug Interaction],C23306181082232
+7745,simeprevir,rifampicin,2,Significant,RIFAMPIN/SIMEPREVIR [VA Drug Interaction],C56^10054^
+1733,sodium oxybate,triazolam,2,Critical,SODIUM OXYBATE/TRIAZOLAM [VA Drug Interaction],C23306842987307
+6537,ergotamine,itraconazole,2,Critical,ERGOTAMINE TARTRATE/ITRACONAZOLE [VA Drug Interaction],C23306228846124
+1263,itraconazole,vinblastine,2,Critical,ITRACONAZOLE/VINBLASTINE [VA Drug Interaction],C23304903777156
+3832,imatinib,primidone,2,Significant,IMATINIB/PRIMIDONE [VA Drug Interaction],C56^5731^
+4096,telaprevir,alprazolam,2,Significant,ALPRAZOLAM/TELAPREVIR [VA Drug Interaction],C56^6146^
+3114,pitavastatin,erythromycin,2,Critical,ERYTHROMYCIN/PITAVASTATIN [VA Drug Interaction],C56^4611^
+2499,hydrocortisone,moxifloxacin,2,Significant,HYDROCORTISONE/MOXIFLOXACIN [VA Drug Interaction],C56.3668
+5565,clozapine,sulfasalazine,2,Significant,CLOZAPINE/SULFASALAZINE [VA Drug Interaction],C56^9366^
+961,amobarbital,phenprocoumon,2,Critical,AMOBARBITAL/PHENPROCOUMON [VA Drug Interaction],C23303977758625
+6037,cimetidine,venlafaxine,2,Significant,CIMETIDINE/VENLAFAXINE HYDROCHLORIDE [VA Drug Interaction],C23303375158574
+7108,rilpivirine,algeldrate,2,Significant,ALUMINUM HYDROXIDE/RILPIVIRINE [VA Drug Interaction],C56^5333^
+6400,alprazolam,indinavir,2,Critical,ALPRAZOLAM/INDINAVIR SULFATE [VA Drug Interaction],C23305132775813
+2925,exenatide,levofloxacin,2,Significant,EXENATIDE/LEVOFLOXACIN [VA Drug Interaction],C56^4310^
+5467,sevoflurane,dobutamine,2,Significant,DOBUTAMINE/SEVOFLURANE [VA Drug Interaction],C56^9240^
+792,clomipramine,clonidine,2,Significant,CLOMIPRAMINE/CLONIDINE [VA Drug Interaction],C23303583886220
+937,anisindione,clofibrate,2,Critical,ANISINDIONE/CLOFIBRATE [VA Drug Interaction],C23303915478643
+2122,fosamprenavir,rifabutin,2,Significant,FOSAMPRENAVIR/RIFABUTIN [VA Drug Interaction],C56.3141
+7007,mycophenolic acid,omeprazole,2,Significant,MYCOPHENOLATE/OMEPRAZOLE [VA Drug Interaction],C56^4834^
+7667,enflurane,salbutamol,2,Significant,ALBUTEROL/ENFLURANE [VA Drug Interaction],C56^9133^
+5326,apixaban,ticagrelor,2,Significant,APIXABAN/TICAGRELOR [VA Drug Interaction],C56^8806^
+500,potassium chloride,spironolactone,2,Significant,POTASSIUM CHLORIDE/SPIRONOLACTONE [VA Drug Interaction],C23303133553007
+4992,potassium iodide,valsartan,2,Significant,POTASSIUM IODIDE/VALSARTAN [VA Drug Interaction],C56^7681^
+6563,ethinylestradiol,topiramate,2,Significant,ETHINYL ESTRADIOL/TOPIRAMATE [VA Drug Interaction],C23306582402232
+585,didanosine,lomefloxacin,2,Significant,DIDANOSINE/LOMEFLOXACIN [VA Drug Interaction],C23303252809225
+2791,telithromycin,triazolam,2,Significant,TELITHROMYCIN/TRIAZOLAM [VA Drug Interaction],C56^4102^
+5330,tamoxifen,abiraterone,2,Significant,ABIRATERONE/TAMOXIFEN [VA Drug Interaction],C56^8813^
+5424,enflurane,ephedrine,2,Significant,ENFLURANE/EPHEDRINE [VA Drug Interaction],C56^9142^
+3871,crizotinib,thioridazine,2,Significant,CRIZOTINIB/THIORIDAZINE [VA Drug Interaction],C56^5792^
+6333,fosamprenavir,rifampicin,2,Critical,FOSAMPRENAVIR/RIFAMPIN [VA Drug Interaction],C23304676536543
+5663,vortioxetine,quinidine,2,Significant,QUINIDINE/VORTIOXETINE [VA Drug Interaction],C56^9881^
+3366,trazodone,clarithromycin,2,Significant,CLARITHROMYCIN/TRAZODONE [VA Drug Interaction],C56^5019^
+7036,lurasidone,rifampicin,2,Critical,LURASIDONE HYDROCHLORIDE/RIFAMPIN [VA Drug Interaction],C56^4976^
+280,metoprolol,verapamil,2,Critical,METOPROLOL/VERAPAMIL [VA Drug Interaction],C23302894043237
+5464,isoflurane,vilanterol,2,Significant,ISOFLURANE/VILANTEROL [VA Drug Interaction],C56^9232^
+15509,Strong CYP2C8 Inhibitors,CYP2C8 Substrates,3,Potentially significant,Strong CYP2C8 Inhibitors - CYP2C8 Substrates,CYP2C8 inhibitors-substrates
+2744,fentanyl,isocarboxazid,2,Critical,FENTANYL/ISOCARBOXAZID [VA Drug Interaction],C56^4028^
+7948,lithium,mefenamic acid,2,Significant,LITHIUM/MEFENAMIC ACID [VA Drug Interaction],C23304380138257
+7644,tamoxifen,terbinafine,2,Significant,TAMOXIFEN/TERBINAFINE HYDROCHLORIDE [VA Drug Interaction],C56^8823^
+2609,isocarboxazid,tetrabenazine,2,Critical,ISOCARBOXAZID/TETRABENAZINE [VA Drug Interaction],C56^3816^
+3382,trazodone,saquinavir,2,Critical,SAQUINAVIR/TRAZODONE [VA Drug Interaction],C56^5037^
+5508,clozapine,chlorambucil,2,Significant,CHLORAMBUCIL/CLOZAPINE [VA Drug Interaction],C56^9293^
+4695,bosutinib,itraconazole,2,Significant,BOSUTINIB/ITRACONAZOLE [VA Drug Interaction],C56^7162^
+1626,celecoxib,warfarin,2,Significant,CELECOXIB/WARFARIN [VA Drug Interaction],C23306341393389
+1701,danazol,warfarin,2,Significant,DANAZOL/WARFARIN [VA Drug Interaction],C23306726871711
+361,indomethacin,propranolol,2,Significant,INDOMETHACIN/PROPRANOLOL [VA Drug Interaction],C23302949713161
+2177,aluminum carbonate,moxifloxacin,2,Significant,ALUMINUM CARBONATE/MOXIFLOXACIN [VA Drug Interaction],C56.3214
+2576,nefazodone,temsirolimus,2,Significant,NEFAZODONE/TEMSIROLIMUS [VA Drug Interaction],C56^3767^
+3704,vemurafenib,artemether,2,Significant,ARTEMETHER/VEMURAFENIB [VA Drug Interaction],C56^5551^
+86,oxycodone,mibefradil,2,Significant,MIBEFRADIL DIHYDROCHLORIDE/OXYCODONE [VA Drug Interaction],C56^6649^
+4449,fingolimod,amiodarone,2,Critical,AMIODARONE/FINGOLIMOD [VA Drug Interaction],C56^6677^
+2208,darunavir,lovastatin,2,Critical,DARUNAVIR/LOVASTATIN [VA Drug Interaction],C56.3262
+2003,darifenacin,imipramine,2,Significant,DARIFENACIN/IMIPRAMINE [VA Drug Interaction],C23308024977755
+7225,citalopram,toremifene,2,Significant,CITALOPRAM/TOREMIFENE CITRATE [VA Drug Interaction],C56^5624^
+4063,levofloxacin,dronedarone,2,Significant,DRONEDARONE/LEVOFLOXACIN [VA Drug Interaction],C56^6027^
+5916,secobarbital,ciclosporin,2,Significant,CYCLOSPORINE/SECOBARBITAL [VA Drug Interaction],C56^7380^
+569,azithromycin,terfenadine,2,Critical,AZITHROMYCIN/TERFENADINE [VA Drug Interaction],C23303232742708
+3503,aliskiren,itraconazole,2,Significant,ALISKIREN/ITRACONAZOLE [VA Drug Interaction],C56^5179^
+3986,clobazam,ulipristal acetate,2,Significant,CLOBAZAM/ULIPRISTAL ACETATE [VA Drug Interaction],C56^5938^
+2997,romidepsin,itraconazole,2,Significant,ITRACONAZOLE/ROMIDEPSIN [VA Drug Interaction],C56^4446^
+6225,ambenonium,betamethasone,2,Significant,AMBENONIUM CHLORIDE/BETAMETHASONE [VA Drug Interaction],C23304169918523
+4162,amiodarone,colchicine,2,Significant,AMIODARONE/COLCHICINE [VA Drug Interaction],C56^6318^
+5118,pralatrexate,sulfamerazine,2,Critical,PRALATREXATE/SULFAMERAZINE [VA Drug Interaction],C56^7931^
+6595,estradiol,methylphenobarbital,2,Significant,ESTRADIOL/MEPHOBARBITAL [VA Drug Interaction],C23306938322608
+994,itraconazole,phenprocoumon,2,Critical,ITRACONAZOLE/PHENPROCOUMON [VA Drug Interaction],C23304071795158
+4360,mifepristone,dienestrol,2,Significant,DIENESTROL/MIFEPRISTONE [VA Drug Interaction],C56^6244^
+6512,fosphenytoin,methadone,2,Significant,FOSPHENYTOIN SODIUM/METHADONE [VA Drug Interaction],C23306037607293
+5911,ciclosporin,butalbital,2,Significant,BUTALBITAL/CYCLOSPORINE [VA Drug Interaction],C56^7374^
+4299,tolvaptan,telithromycin,2,Critical,TELITHROMYCIN/TOLVAPTAN [VA Drug Interaction],C56^6524^
+4384,posaconazole,esomeprazole,2,Significant,ESOMEPRAZOLE/POSACONAZOLE [VA Drug Interaction],C56^6599^
+5298,pramlintide,darifenacin,2,Critical,DARIFENACIN/PRAMLINTIDE [VA Drug Interaction],C56^8762^
+5883,pethidine,rasagiline,2,Critical,MEPERIDINE/RASAGILINE [VA Drug Interaction],C56.3559
+3196,nilotinib,famotidine,2,Significant,FAMOTIDINE/NILOTINIB [VA Drug Interaction],C56^4728^
+104,ibrutinib,mibefradil,2,Significant,IBRUTINIB/MIBEFRADIL DIHYDROCHLORIDE [VA Drug Interaction],C56^9994^
+6963,docetaxel,indinavir,2,Significant,DOCETAXEL/INDINAVIR SULFATE [VA Drug Interaction],C56^4621^
+7149,toremifene,moxifloxacin,2,Significant,MOXIFLOXACIN/TOREMIFENE CITRATE [VA Drug Interaction],C56^5397^
+1540,dofetilide,prochlorperazine,2,Critical,DOFETILIDE/PROCHLORPERAZINE [VA Drug Interaction],C23305957904147
+1259,levonorgestrel,mephenytoin,2,Critical,LEVONORGESTREL/MEPHENYTOIN [VA Drug Interaction],C23304892217027
+6708,delavirdine,ranolazine,2,Critical,DELAVIRDINE MESYLATE/RANOLAZINE [VA Drug Interaction],C56.3030
+1778,cisapride,propafenone,2,Critical,CISAPRIDE/PROPAFENONE [VA Drug Interaction],C23307000429663
+3529,vandetanib,quinidine,2,Significant,QUINIDINE/VANDETANIB [VA Drug Interaction],C56^5207^
+3764,crizotinib,telithromycin,2,Significant,CRIZOTINIB/TELITHROMYCIN [VA Drug Interaction],C56^5643^
+3606,metoclopramide,molindone,2,Critical,METOCLOPRAMIDE/MOLINDONE [VA Drug Interaction],C56^5313^
+1343,famotidine,ketoconazole,2,Significant,FAMOTIDINE/KETOCONAZOLE [VA Drug Interaction],C23305234108804
+5304,pramlintide,mepenzolate,2,Critical,MEPENZOLATE/PRAMLINTIDE [VA Drug Interaction],C56^8771^
+7482,cobicistat,tolterodine,2,Significant,COBICISTAT/TOLTERODINE TARTRATE [VA Drug Interaction],C56^7243^
+5529,clozapine,fosaprepitant,2,Significant,CLOZAPINE/FOSAPREPITANT [VA Drug Interaction],C56^9315^
+6542,isocarboxazid,tramadol,2,Critical,ISOCARBOXAZID/TRAMADOL HYDROCHLORIDE [VA Drug Interaction],C23306347217872
+1513,ritonavir,warfarin,2,Significant,RITONAVIR/WARFARIN [VA Drug Interaction],C23305863903373
+3623,rilpivirine,aluminum carbonate,2,Significant,ALUMINUM CARBONATE/RILPIVIRINE [VA Drug Interaction],C56^5332^
+1271,quinidine,atenolol,2,Significant,ATENOLOL/QUINIDINE [VA Drug Interaction],C23304945125148
+4886,procarbazine,selegiline,2,Critical,PROCARBAZINE/SELEGILINE [VA Drug Interaction],C56^7478^
+6499,lamotrigine,rifampicin,2,Significant,LAMOTRIGINE/RIFAMPIN [VA Drug Interaction],C23305826241044
+4998,lomitapide,telithromycin,2,Critical,LOMITAPIDE/TELITHROMYCIN [VA Drug Interaction],C56^7759^
+6677,norethisterone,secobarbital,2,Significant,NORETHINDRONE/SECOBARBITAL [VA Drug Interaction],C23307741486976
+4424,posaconazole,fentanyl,2,Significant,FENTANYL/POSACONAZOLE [VA Drug Interaction],C56^6650^
+619,esmolol,felodipine,2,Significant,ESMOLOL/FELODIPINE [VA Drug Interaction],C23303299087174
+416,metoprolol,tolbutamide,2,Significant,METOPROLOL/TOLBUTAMIDE [VA Drug Interaction],C23303002433549
+4737,cobicistat,dienestrol,2,Significant,COBICISTAT/DIENESTROL [VA Drug Interaction],C56^7261^
+4923,azithromycin,bepridil,2,Critical,AZITHROMYCIN/BEPRIDIL [VA Drug Interaction],C56^7530^
+4598,enzalutamide,alfentanil,2,Significant,ALFENTANIL/ENZALUTAMIDE [VA Drug Interaction],C56^7045^
+4488,everolimus,erythromycin,2,Significant,ERYTHROMYCIN/EVEROLIMUS [VA Drug Interaction],C56^6889^
+15341,sodium oxybate,alphaprodine,2,Critical,ALPHAPRODINE/SODIUM OXYBATE [VA Drug Interaction],C56^7962^
+2368,citalopram,protriptyline,2,Significant,CITALOPRAM/PROTRIPTYLINE [VA Drug Interaction],C56.3499
+1181,mesoridazine,moxifloxacin,2,Critical,MESORIDAZINE/MOXIFLOXACIN [VA Drug Interaction],C23304691766970
+5638,nevirapine,ketoconazole,2,Significant,KETOCONAZOLE/NEVIRAPINE [VA Drug Interaction],C56^9845^
+4774,cobicistat,tipranavir,2,Critical,COBICISTAT/TIPRANAVIR [VA Drug Interaction],C56^7308^
+2487,conivaptan,ritonavir,2,Critical,CONIVAPTAN/RITONAVIR [VA Drug Interaction],C56.3656
+3015,silodosin,fosamprenavir,2,Significant,FOSAMPRENAVIR/SILODOSIN [VA Drug Interaction],C56^4472^
+4179,fluphenazine,entacapone,2,Significant,ENTACAPONE/FLUPHENAZINE [VA Drug Interaction],C56^6340^
+2822,amiodarone,gemifloxacin,2,Critical,AMIODARONE/GEMIFLOXACIN [VA Drug Interaction],C56^4164^
+3087,saquinavir,procainamide,2,Significant,PROCAINAMIDE/SAQUINAVIR [VA Drug Interaction],C56^4565^
+4539,azithromycin,bretylium,2,Significant,AZITHROMYCIN/BRETYLIUM [VA Drug Interaction],C56^6973^
+4100,telaprevir,buprenorphine,2,Significant,BUPRENORPHINE/TELAPREVIR [VA Drug Interaction],C56^6152^
+4434,fosamprenavir,alfentanil,2,Significant,ALFENTANIL/FOSAMPRENAVIR [VA Drug Interaction],C56^6660^
+2307,doxepin,ritonavir,2,Significant,DOXEPIN/RITONAVIR [VA Drug Interaction],C56.3423
+3552,telaprevir,medroxyprogesterone,2,Significant,MEDROXYPROGESTERONE/TELAPREVIR [VA Drug Interaction],C56^5241^
+4901,sodium oxybate,flurazepam,2,Critical,FLURAZEPAM/SODIUM OXYBATE [VA Drug Interaction],C56^7504^
+1419,itraconazole,ritonavir,2,Significant,ITRACONAZOLE/RITONAVIR [VA Drug Interaction],C23305498962298
+2292,propafenone,tizanidine,2,Critical,PROPAFENONE/TIZANIDINE [VA Drug Interaction],C56.3392
+468,methamphetamine,pargyline,2,Critical,METHAMPHETAMINE/PARGYLINE [VA Drug Interaction],C23303081109470
+5811,anisindione,acetylsalicylic acid,2,Significant,ANISINDIONE/ASPIRIN [VA Drug Interaction],C23303095500126

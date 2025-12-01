@@ -1,0 +1,40 @@
+l1,id
+Parasite,1
+Drug,2
+Glycoprotein,3
+Tumour-associated antigen,4
+Viral envelope protein,5
+CD molecules,6
+Glycolipid,7
+Antibody,8
+Nuclear hormone receptor,9
+Kinase,10
+Metabolite,11
+GPCR,12
+Ribosomal protein,13
+Virus,14
+Amino acid,15
+Transcription factor,16
+Reactive chemical species,17
+Inorganic material,18
+Unnatural amino acid,19
+Fungi,20
+Bacteria,21
+Cytokine,22
+Metal,23
+RNA,24
+DNA,25
+Cell membrane,26
+Polyprotein,27
+Adhesion,28
+Cytosolic other,29
+Enzyme,30
+Ion channel,31
+Membrane other,32
+Membrane receptor,33
+Nuclear other,34
+Secreted,35
+Structural,36
+Surface antigen,37
+Transporter,38
+Unclassified,39

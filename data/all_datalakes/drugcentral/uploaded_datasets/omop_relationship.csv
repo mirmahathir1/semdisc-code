@@ -1,0 +1,1001 @@
+id,struct_id,concept_id,relationship_name,concept_name,umls_cui,snomed_full_name,cui_semantic_type,snomed_conceptid
+136880,2253,21001907,indication,Löffler's syndrome,C0242459,Löffler's syndrome,T047,64936001.0
+143985,1402,21001992,contraindication,Peptic reflux disease,C0014869,Peptic reflux disease,T047,57643001.0
+168931,734,21001374,off-label use,Otitis Externa Eczema,,,,
+170105,270,21003119,contraindication,Skin irritation,C0152030,Skin irritation,T184,367466007.0
+152368,2274,21001054,contraindication,Parkinsonism,C0242422,Parkinsonism,T047,32798002.0
+170887,2742,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+168606,1549,21002267,contraindication,Renal tubular acidosis,C0001126,Renal tubular acidosis,T047,1776003.0
+157651,4271,21013586,contraindication,Colostomy,C0009410,Colostomy,T061,398740003.0
+168425,660,21001913,contraindication,Respiratory insufficiency,C0035229,Respiratory insufficiency,T046,409623005.0
+175074,4964,21013985,indication,CD30-positive peripheral T-cell lymphoma,C0079774,Peripheral T-cell lymphoma,T191,109977009.0
+160743,1903,21001395,contraindication,Tinnitus,C0040264,Tinnitus,T033,60862001.0
+155966,2620,21000578,contraindication,Goiter,C0018021,Goiter,T047,3716002.0
+146710,593,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+173086,5043,40249249,indication,Sucrase-isomaltase deficiency,C1283620,Sucrase-isomaltase deficiency,T047,78373000.0
+142645,802,21002320,indication,Urinary tract infectious disease,C0042029,Urinary tract infectious disease,T047,68566005.0
+160431,725,21001001,contraindication,Dependent drug abuse,C1510472,Dependent drug abuse,T048,6525002.0
+160204,2428,21001913,contraindication,Respiratory insufficiency,C0035229,Respiratory insufficiency,T046,409623005.0
+156157,1539,21000740,contraindication,Lactic acidosis,C0001125,Lactic acidosis,T047,91273001.0
+146118,1768,4342132,indication,Hodgkin's disease,C0019829,Hodgkin's disease,T191,118599009.0
+134277,3356,21000528,contraindication,Family history of malignant neoplasm of breast,C1261325,Family history of malignant neoplasm of breast,T033,429740004.0
+132815,1987,40249129,indication,Acute heart failure,C0264714,Acute heart failure,T047,56675007.0
+137842,2489,21001157,contraindication,Duchenne muscular dystrophy,C0013264,Duchenne muscular dystrophy,T047,76670001.0
+132496,4830,40249309,reduce risk,Cardiovascular event,C1320716,Cardiovascular event,T033,405617006.0
+142354,380,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+159467,1612,21001448,indication,Myocardial Reinfarction Prevention,,,,
+153185,4296,21013690,contraindication,Multiple organ failure,C0026766,Multiple organ failure,T046,57653000.0
+137725,439,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+149101,2097,21000863,contraindication,Blood coagulation disorder,C0005779,Blood coagulation disorder,T047,64779008.0
+146293,26,21000441,indication,Superficial basal cell carcinoma,C0862889,Superficial basal cell carcinoma,T191,403914000.0
+160770,2598,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+158727,722,21002104,contraindication,Paralytic ileus,C0030446,Paralytic ileus,T047,55525008.0
+139469,547,21000818,contraindication,Hemolytic anemia,C0002878,Hemolytic anemia,T047,61261009.0
+143955,2813,21000950,contraindication,Mania,C0338831,Mania,T048,231494001.0
+155831,329,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+171988,1663,21002048,contraindication,Gastrointestinal ulcer,C0237938,Gastrointestinal ulcer,T047,40845000.0
+169852,1358,21001653,indication,Peripheral arterial embolism,C0564750,Peripheral arterial embolism,T046,286959000.0
+147289,2100,21001714,contraindication,Bleeding,C0019080,Bleeding,T046,131148009.0
+159371,4168,21000897,contraindication,Neutropenic disorder,C0027947,Neutropenic disorder,T047,303011007.0
+137364,1059,21002213,contraindication,Disorder of gallbladder,C0016977,Disorder of gallbladder,T047,39621005.0
+172299,4196,21006763,indication,Vitamin Deficiency Prevention,,,,
+133031,2027,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+175253,4182,40249636,indication,Prevention of atherothrombotic events after an acute coronary syndrome,C0948089,Acute coronary syndrome,T047,394659003.0
+133962,1336,21002098,contraindication,Inflammatory bowel disease,C0021390,Inflammatory bowel disease,T047,24526004.0
+161408,4357,21011370,indication,Intra-Abdominal Candida Abscess,,,,
+134701,1962,21001507,contraindication,Heart valve disorder,C0018824,Heart valve disorder,T047,368009.0
+138546,2794,21001204,indication,Ocular hypertension,C0028840,Ocular hypertension,T047,4210003.0
+170340,2725,21001354,contraindication,Viral eye infection,C0015407,Viral eye infection,T047,312132001.0
+136511,3534,21001095,off-label use,Absence seizure,C0014553,Absence seizure,T047,79631006.0
+151020,4513,21002109,contraindication,Gastrointestinal obstruction,C0236124,Gastrointestinal obstruction,T046,126765001.0
+134212,2148,21001563,contraindication,Bradycardia,C0428977,Bradycardia,T046,48867003.0
+175669,5567,40249812,indication,Demodex blepharitis,C1274557,Demodectic blepharitis,T047,403152000.0
+162403,2179,21003247,contraindication,Severe diarrhea,C1443924,Severe diarrhea,T184,409587002.0
+151397,2415,21002114,contraindication,Constipation,C0009806,Constipation,T184,14760008.0
+156428,1767,21013458,off-label use,Cognitive Impairment following Traumatic Brain Injury,,,,
+140230,136,21001002,contraindication,Alcohol intoxication,C0001969,Alcohol intoxication,T048,25702006.0
+133458,2308,21013960,contraindication,Necrotizing vasculitis,C1318520,Necrotizing vasculitis,T047,11791001.0
+171939,2026,21003199,contraindication,Dyspnea,C0013404,Dyspnea,T184,267036007.0
+160597,868,21003068,contraindication,Sleep apnea,C0037315,Sleep apnea,T047,73430006.0
+149486,2056,21001564,contraindication,Sinus tachycardia,C0039239,Sinus tachycardia,T047,11092001.0
+144025,2172,21001211,contraindication,Glaucoma,C0017601,Glaucoma,T047,23986001.0
+173199,458,40249211,indication,Gastric spasm,C0581358,Gastric spasm,T184,196754001.0
+155938,546,21002879,indication,Streptococcus Osteomyelitis,,,,
+153169,2279,21003146,contraindication,Weight gain finding,C0043094,Weight gain finding,T033,8943002.0
+146866,2095,21000695,contraindication,Hyperammonemia,C0220994,Hyperammonemia,T046,9360008.0
+156413,4260,21003118,contraindication,Eruption of skin,C0015230,Eruption of skin,T047,271807003.0
+168346,593,21003300,contraindication,Hypoxia,C0242184,Hypoxia,T046,389086002.0
+136471,192,21011858,off-label use,Cat bite - wound,C0561644,Cat bite - wound,T037,283782004.0
+150865,158,21002195,contraindication,Hepatic coma,C0019147,Hepatic coma,T047,72836002.0
+149730,2422,21000703,contraindication,Hypertriglyceridemia,C0020557,Hypertriglyceridemia,T033,302870006.0
+173387,1127,21000672,indication,Rickets,C0035579,Rickets,T047,41345002.0
+144884,618,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+172098,1751,21000842,contraindication,Anemia,C0002871,Anemia,T047,271737000.0
+144800,2279,21001469,contraindication,Disorder of coronary artery,C1956346,Disorder of coronary artery,T047,414024009.0
+152702,1816,21001629,contraindication,Cerebrovascular accident,C0038454,Cerebrovascular accident,T047,230690007.0
+142374,439,21003071,contraindication,Fever greater than 100.4 Fahrenheit,C1959900,Fever greater than 100.4 Fahrenheit,T033,426000000.0
+141606,4261,21001640,contraindication,Arteriosclerosis obliterans,C0003851,Arteriosclerosis obliterans,T047,361133006.0
+158586,875,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+156789,4271,21004654,contraindication,Seizure due to Abrupt Benzodiazepine Withdrawal,,,,
+134410,475,21000609,contraindication,Hyperparathyroidism,C0020502,Hyperparathyroidism,T047,66999008.0
+151784,4510,21001204,contraindication,Ocular hypertension,C0028840,Ocular hypertension,T047,4210003.0
+174355,93,21000967,indication,Anxiety,C0003467,Anxiety,T041,48694002.0
+157528,404,21003302,contraindication,Central nervous system depression,C0151559,Central nervous system depression,T047,418072004.0
+164878,1164,21004428,contraindication,Sepsis syndrome,C0242966,Sepsis syndrome,T047,238150007.0
+156617,1024,21005429,indication,Seasonal allergic rhinitis,C0018621,Seasonal allergic rhinitis,T047,367498001.0
+138816,3487,21001386,contraindication,Fungal ear infection,C0729545,Fungal ear infection,T047,312148000.0
+161411,4459,21000252,indication,Primary genital syphilis,C0017418,Primary genital syphilis,T047,186847001.0
+171477,770,21002048,contraindication,Gastrointestinal ulcer,C0237938,Gastrointestinal ulcer,T047,40845000.0
+172217,4381,40249071,indication,Premature ejaculation,C0033038,Premature ejaculation,T048,44001008.0
+140322,2377,21004065,off-label use,Paucibacillary leprosy,C1562908,Paucibacillary leprosy,T047,416483009.0
+172911,4334,21002508,indication,Menopausal flushing,C0600142,Menopausal flushing,T184,198436008.0
+139847,1986,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+157856,2134,21001077,contraindication,Disorder of autonomic nervous system,C1145628,Disorder of autonomic nervous system,T047,15241006.0
+151005,4348,21000404,contraindication,Sarcoidosis,C0036202,Sarcoidosis,T047,31541009.0
+155395,349,21000635,indication,Severe adrenal insufficiency,C0151467,Severe adrenal insufficiency,T047,24867002.0
+166070,659,21001368,indication,Otitis externa,C0029878,Otitis externa,T047,3135009.0
+133535,1797,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+153957,1356,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+139528,1982,21000624,contraindication,Syndrome of inappropriate vasopressin secretion,C0021141,Syndrome of inappropriate vasopressin secretion,T046,55004003.0
+140053,2336,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+162999,1140,21001101,indication,Simple partial seizure,C0234974,Simple partial seizure,T047,117891000119100.0
+136860,2067,21001406,contraindication,Hearing loss,C1384666,Hearing loss,T033,15188001.0
+147144,1264,21003081,off-label use,Acute postoperative pain,C2215257,Acute postoperative pain,T184,107401000119105.0
+135335,1996,21003292,contraindication,Liver function tests abnormal,C0151766,Liver function tests abnormal,T033,166603001.0
+140232,144,21001058,indication,Arteriosclerotic Parkinsonism,,,,
+147631,1500,21001990,contraindication,Achalasia of esophagus,C0014848,Achalasia of esophagus,T047,45564002.0
+142051,2245,21002691,indication,Pruritus of genital organs,C0033777,Pruritus of genital organs,T184,267802000.0
+143409,633,21001860,indication,Asthma,C0004096,Asthma,T047,195967001.0
+164261,542,21000082,indication,Streptococcus pyogenes infection,C0554628,Streptococcus pyogenes infection,T047,302809008.0
+157649,4265,21002793,indication,Pseudomonas Aeruginosa Joint Infection,,,,
+156805,4348,21003351,contraindication,Poisoning by digitalis glycoside,C0274726,Poisoning by digitalis glycoside,T037,12876009.0
+175821,4310,40249847,indication,Idiopathic generalized epilepsy,C0270850,Idiopathic generalized epilepsy,T047,36803009.0
+165853,1768,21002084,indication,Crohn's disease,C0010346,Crohn's disease,T047,34000006.0
+155446,3667,21000756,contraindication,Hypokalemia,C0020621,Hypokalemia,T033,43339004.0
+154194,1240,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+136069,2534,21002292,contraindication,Kidney disease,C0022658,Kidney disease,T047,90708001.0
+140773,2152,21000897,contraindication,Neutropenic disorder,C0027947,Neutropenic disorder,T047,303011007.0
+166932,4261,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+150723,1779,21001860,contraindication,Asthma,C0004096,Asthma,T047,195967001.0
+167059,4337,21000842,contraindication,Anemia,C0002871,Anemia,T047,271737000.0
+161515,2041,21001768,indication,Sinusitis,C0037199,Sinusitis,T047,36971009.0
+167144,4647,21000179,contraindication,Herpes simplex dendritic keratitis,C0022570,Herpes simplex dendritic keratitis,T047,29943008.0
+134799,2811,21002180,contraindication,Cirrhosis of liver,C0023890,Cirrhosis of liver,T047,19943007.0
+136515,4206,21000404,contraindication,Sarcoidosis,C0036202,Sarcoidosis,T047,31541009.0
+164532,2798,21000165,indication,Varicella,C0008049,Varicella,T047,38907003.0
+172455,2128,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+171085,4127,21001206,off-label use,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+153396,576,21002597,indication,Infection due to Staphylococcus aureus,C1318973,Infection due to Staphylococcus aureus,T047,406602003.0
+160678,2331,21002310,contraindication,Bladder outflow obstruction,C0403654,Bladder outflow obstruction,T020,236645006.0
+137205,3333,21000624,off-label use,Syndrome of inappropriate vasopressin secretion,C0021141,Syndrome of inappropriate vasopressin secretion,T046,55004003.0
+140406,349,21000042,contraindication,Inactive tuberculosis,C0275966,Inactive tuberculosis,T047,11999007.0
+154593,1981,21001802,indication,Haemophilus Parainfluenzae Pneumonia,,,,
+142233,594,21001002,contraindication,Alcohol intoxication,C0001969,Alcohol intoxication,T048,25702006.0
+137269,1028,21002196,contraindication,Hepatic failure,C0085605,Hepatic failure,T047,59927004.0
+159425,2073,21000842,contraindication,Anemia,C0002871,Anemia,T047,271737000.0
+136232,2666,21000679,contraindication,Vitamin D deficiency,C0042870,Vitamin D deficiency,T047,34713006.0
+136876,2187,21002347,indication,Enterococcus Complicated UTI,,,,
+166676,4523,21000237,contraindication,Black water fever,C0005681,Black water fever,T047,56625005.0
+142506,874,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+135470,4253,21001158,contraindication,"Congenital myotonia, autosomal dominant form",C2936781,"Congenital myotonia, autosomal dominant form",T047,57938005.0
+137957,1388,21001374,off-label use,Otitis Externa Eczema,,,,
+169970,1704,21001053,contraindication,Reye's syndrome,C0035400,Reye's syndrome,T047,74351001.0
+160726,1790,21002894,indication,Infection of bone,C2242472,Infection of bone,T047,111253001.0
+139308,2245,21009332,contraindication,Exposure to varicella,C2732622,Exposure to varicella,T037,444453009.0
+170680,4411,21001130,contraindication,Brain damage,C0270611,Brain damage,T037,2470005.0
+134599,2356,21001433,off-label use,Hypertension due to Scleroderma,,,,
+164024,1967,21000267,indication,Acute gonococcal cervicitis,C0153195,Acute gonococcal cervicitis,T047,20943002.0
+160031,2048,21000422,contraindication,Thyroid Surgery,,,,
+138611,962,21001447,contraindication,Myocardial infarction,C0027051,Myocardial infarction,T047,22298006.0
+158016,391,21001146,contraindication,Peripheral nerve disease,C0031117,Peripheral nerve disease,T047,302226006.0
+132984,4809,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+147877,4293,21013838,contraindication,Osteolysis,C0302313,Osteolysis,T033,203522001.0
+162709,1243,21000026,contraindication,Pseudomembranous enterocolitis,C0014358,Pseudomembranous enterocolitis,T047,397683000.0
+172971,4967,21002805,indication,Rheumatoid arthritis,C0003873,Rheumatoid arthritis,T047,69896004.0
+168308,878,21001149,contraindication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+168448,143,21001447,contraindication,Myocardial infarction,C0027051,Myocardial infarction,T047,22298006.0
+168622,375,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+150980,408,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+152526,1569,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+159766,581,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+175556,5708,21001423,contraindication,Renal dialysis,C4551529,Renal dialysis,T061,265764009.0
+144175,367,21003292,contraindication,Liver function tests abnormal,C0151766,Liver function tests abnormal,T033,166603001.0
+139647,722,21002108,contraindication,Fecal impaction,C0015734,Fecal impaction,T033,44635007.0
+152195,2495,21000317,indication,Pityriasis versicolor,C0040262,Pityriasis versicolor,T047,56454009.0
+137080,2551,21003292,contraindication,Liver function tests abnormal,C0151766,Liver function tests abnormal,T033,166603001.0
+147471,2268,21000908,contraindication,Disease of blood AND/OR blood-forming organ,C0018939,Disease of blood AND/OR blood-forming organ,T047,191124002.0
+148938,1909,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+163034,564,21002894,indication,Infection of bone,C2242472,Infection of bone,T047,111253001.0
+135913,3188,21000530,contraindication,Malignant tumor of cervix,C0007847,Malignant tumor of cervix,T191,363354003.0
+145723,2176,21001521,contraindication,Partial atrioventricular block,C1621824,Partial atrioventricular block,T047,195039008.0
+154793,2134,21001714,contraindication,Bleeding,C0019080,Bleeding,T046,131148009.0
+166663,3294,21000948,indication,Schizophrenia,C0036341,Schizophrenia,T048,58214004.0
+162222,1962,21000533,contraindication,Malignant tumor of ovary,C1140680,Malignant tumor of ovary,T191,363443007.0
+137108,2006,21001806,indication,Staphylococcal pneumonia,C0032308,Staphylococcal pneumonia,T047,22754005.0
+136690,4293,21000951,contraindication,Hypomania,C0241934,Hypomania,T048,231496004.0
+147230,2715,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+157600,1899,21000863,contraindication,Blood coagulation disorder,C0005779,Blood coagulation disorder,T047,64779008.0
+170327,691,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+146871,2044,21001565,contraindication,Sinus bradycardia,C0085610,Sinus bradycardia,T046,49710005.0
+172058,886,21001473,contraindication,Myocardial ischemia,C0151744,Myocardial ischemia,T047,414795007.0
+174855,4942,40249565,indication,Thymic carcinoma,C4302369,Primary thymic carcinoma,T191,722670005.0
+136631,2813,21000951,contraindication,Hypomania,C0241934,Hypomania,T048,231496004.0
+155907,1967,21002274,indication,E. Coli Pyelonephritis,,,,
+135708,819,21002706,contraindication,Atrophoderma,C0151514,Atrophoderma,T047,399979006.0
+151500,2843,21002216,off-label use,Obstruction of bile duct,C0008370,Obstruction of bile duct,T047,30144000.0
+150203,780,21001157,off-label use,Duchenne muscular dystrophy,C0013264,Duchenne muscular dystrophy,T047,76670001.0
+139033,3274,21001704,contraindication,Esophageal varices,C0014867,Esophageal varices,T020,28670008.0
+162966,2544,21001715,contraindication,Acute hemorrhage,C0333276,Acute hemorrhage,T046,8573003.0
+164599,886,21003307,contraindication,Asthenia,C0004093,Asthenia,T184,13791008.0
+173247,5173,21000858,indication,von Willebrand disorder,C0042974,von Willebrand disorder,T047,128105004.0
+144939,1088,21001092,indication,Tonic-clonic epilepsy,C0014549,Tonic-clonic epilepsy,T047,352818000.0
+138314,1950,21013794,contraindication,Vitamin B deficiency,C0042850,Vitamin B deficiency,T047,47903000.0
+172298,2836,21007614,indication,Pyridoxine-Dependent Seizure,,,,
+162399,1386,21002213,contraindication,Disorder of gallbladder,C0016977,Disorder of gallbladder,T047,39621005.0
+169431,1386,21001126,contraindication,Lesion of brain,C0221505,Lesion of brain,T047,301766008.0
+164110,728,21000707,indication,Hyperlipidemia,C0020473,Hyperlipidemia,T047,55822004.0
+168112,2762,21001283,indication,Allergic conjunctivitis,C0009766,Allergic conjunctivitis,T047,473460002.0
+158318,3188,21000775,contraindication,Hepatic porphyria,C0162533,Hepatic porphyria,T047,55056006.0
+140070,1962,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+150046,1358,21011074,off-label use,Percutaneous coronary intervention,C1532338,Percutaneous coronary intervention,T061,415070008.0
+140810,4114,21000669,contraindication,Cobalamin deficiency,C0042847,Cobalamin deficiency,T047,190634004.0
+143289,4199,21002109,contraindication,Gastrointestinal obstruction,C0236124,Gastrointestinal obstruction,T046,126765001.0
+156134,2813,21013795,off-label use,Neuropathic pain,C0027796,Neuropathic pain,T184,247398009.0
+137343,2638,21001888,indication,Pleural Malignant Effusions,,,,
+159093,384,21001860,indication,Asthma,C0004096,Asthma,T047,195967001.0
+172508,4664,21000695,indication,Hyperammonemia,C0220994,Hyperammonemia,T046,9360008.0
+170516,2611,21000295,indication,Rectal Chlamydia Trachomatis Infection,,,,
+156748,1596,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+170356,2696,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+171832,52,21008952,contraindication,Hepatic encephalopathy,C0019151,Hepatic encephalopathy,T047,13920009.0
+142644,769,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+146222,2713,21002219,contraindication,Obstructive hyperbilirubinemia,C0022354,Obstructive hyperbilirubinemia,T047,59848001.0
+168400,1043,21002067,contraindication,Pyloric obstruction,C1541124,Pyloric obstruction,T047,244815007.0
+173454,5288,21001089,indication,Lennox-Gastaut syndrome,C0238111,Lennox-Gastaut syndrome,T047,230418006.0
+149136,1569,21002607,indication,Complicated Skin and Skin Structure Staphylococcus Aureus Infection,,,,
+139642,2179,21000810,contraindication,Glucose-6-phosphate dehydrogenase deficiency anemia,C0237987,Glucose-6-phosphate dehydrogenase deficiency anemia,T047,62403005.0
+154862,1690,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+143901,4510,21000579,contraindication,Thyrotoxicosis,C0040156,Thyrotoxicosis,T047,90739004.0
+158895,1301,21000636,contraindication,Adrenal cortical hypofunction,C0405580,Adrenal cortical hypofunction,T047,386584007.0
+162643,4213,21001860,indication,Asthma,C0004096,Asthma,T047,195967001.0
+146786,1950,21002349,indication,Staphylococcus Saprophyticus Urinary Tract Infection,,,,
+172499,4196,21000806,indication,Megaloblastic anemia due to folate deficiency,C0151482,Megaloblastic anemia due to folate deficiency,T047,85649008.0
+142987,4609,21002945,indication,"Klinefelter's syndrome, XXY",C0022735,"Klinefelter's syndrome, XXY",T019,405769009.0
+136066,2514,21000410,indication,Pneumocystis Carinii Pneumonia Prevention,,,,
+144862,3591,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+165057,4202,21002091,contraindication,Toxic megacolon,C0025162,Toxic megacolon,T047,28536002.0
+152046,871,21001469,contraindication,Disorder of coronary artery,C1956346,Disorder of coronary artery,T047,414024009.0
+151130,2132,21001914,contraindication,Decreased respiratory function,C0235063,Decreased respiratory function,T046,80954004.0
+140601,609,21000723,contraindication,Hypomagnesemia,C0151723,Hypomagnesemia,T033,190855004.0
+172818,2702,21001022,indication,Depressive disorder,C0011581,Depressive disorder,T048,35489007.0
+155363,2846,21013951,contraindication,Poor metabolizer due to cytochrome p450 CYP2C19 variant,C1827468,Poor metabolizer due to cytochrome p450 CYP2C19 variant,T047,424500005.0
+133958,1212,21000996,contraindication,Alcoholism,C0001973,Alcoholism,T048,7200002.0
+134447,920,21001775,indication,Nasal congestion,C0027424,Nasal congestion,T184,68235000.0
+148979,1342,21000007,contraindication,Sympathectomy,C0039038,Sympathectomy,T061,57071006.0
+136298,4348,21000726,contraindication,Hyperphosphatemia,C0085681,Hyperphosphatemia,T047,20165001.0
+164764,2770,21001029,contraindication,Hyperactive behavior,C0424295,Hyperactive behavior,T033,44548000.0
+138030,1572,21002473,contraindication,Bacterial vaginosis,C0085166,Bacterial vaginosis,T047,419760006.0
+161927,2017,21001103,indication,Localization-related epilepsy,C0014547,Localization-related epilepsy,T047,230381009.0
+154852,1539,21013547,contraindication,Pancreatitis,C0030305,Pancreatitis,T047,75694006.0
+167184,2811,21001153,contraindication,Neuromyopathy,C0027868,Neuromyopathy,T047,255522009.0
+161013,824,21000478,indication,Non-Hodgkin's lymphoma,C0024305,Non-Hodgkin's lymphoma,T191,118601006.0
+137679,4261,21007034,contraindication,Anemia due to enzyme deficiency,C0272053,Anemia due to enzyme deficiency,T047,111577008.0
+135274,1024,21000566,contraindication,Neoplasm of brain,C0006118,Neoplasm of brain,T191,126952004.0
+163677,198,21004032,indication,Pneumococcal pharyngitis,C0275761,Pneumococcal pharyngitis,T047,76651006.0
+138003,2068,21000624,contraindication,Syndrome of inappropriate vasopressin secretion,C0021141,Syndrome of inappropriate vasopressin secretion,T046,55004003.0
+146746,1344,21000842,contraindication,Anemia,C0002871,Anemia,T047,271737000.0
+140049,2346,21008766,contraindication,Non-specific intraventricular conduction delay,C3697597,Non-specific intraventricular conduction delay,T047,698252002.0
+175233,5499,21001149,indication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+158283,1996,21002174,contraindication,Hepatic necrosis,C0151798,Hepatic necrosis,T047,87248009.0
+168614,1676,21002048,contraindication,Gastrointestinal ulcer,C0237938,Gastrointestinal ulcer,T047,40845000.0
+171272,1082,21013526,contraindication,Diabetes with Vascular Disease Complication,,,,
+170110,302,21005419,contraindication,Chemotherapy-Induced Hyperuricemia,,,,
+148755,1667,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+159781,668,21001842,indication,Acute Moraxella catarrhalis bronchitis,C0339932,Acute Moraxella catarrhalis bronchitis,T047,195722003.0
+171527,228,21000756,contraindication,Hypokalemia,C0020621,Hypokalemia,T033,43339004.0
+152351,2150,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+144642,725,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+148117,205,21001211,contraindication,Glaucoma,C0017601,Glaucoma,T047,23986001.0
+140424,463,21001001,contraindication,Dependent drug abuse,C1510472,Dependent drug abuse,T048,6525002.0
+173033,2325,40249227,indication,Lower urinary tract infectious disease,C0268821,Lower urinary tract infectious disease,T047,4009004.0
+165744,2632,21001714,contraindication,Bleeding,C0019080,Bleeding,T046,131148009.0
+175495,4514,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+169426,2832,21000974,contraindication,Agoraphobia,C0001818,Agoraphobia,T048,70691001.0
+161477,1380,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+169743,2742,21013767,contraindication,Organophosphate poisoning,C0700359,Organophosphate poisoning,T037,8260003.0
+153400,585,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+159413,119,21003277,contraindication,Azotemia,C0242528,Azotemia,T047,445009001.0
+132859,4877,21000309,indication,Onychomycosis due to dermatophyte,C0040261,Onychomycosis due to dermatophyte,T047,402134005.0
+137342,2697,21002859,contraindication,Rhabdomyolysis,C0035410,Rhabdomyolysis,T046,240131006.0
+132487,5188,21000488,indication,Chronic myeloid leukemia,C0023473,Chronic myeloid leukemia,T191,92818009.0
+142738,912,21001594,contraindication,Disorder of cardiovascular system,C0007222,Disorder of cardiovascular system,T047,49601007.0
+139414,4513,21002108,contraindication,Fecal impaction,C0015734,Fecal impaction,T033,44635007.0
+151107,1967,21002531,indication,Prevotella Septic Abortion,,,,
+144257,439,21000968,indication,Severe anxiety (panic),C0231403,Severe anxiety (panic),T033,80583007.0
+158347,198,21004491,indication,Gastroenteritis due to Salmonella,,,,
+152282,2707,21001902,contraindication,Interstitial pneumonia,C0206061,Interstitial pneumonia,T047,64667001.0
+172403,347,21002335,indication,Complicated UTI with Pseudomonas Aeruginosa,,,,
+173767,5363,21004731,contraindication,Eye infection,C0015403,Eye infection,T047,128351009.0
+132826,1406,21001860,indication,Asthma,C0004096,Asthma,T047,195967001.0
+140868,2405,21001900,contraindication,Pulmonary edema,C0034063,Pulmonary edema,T047,19242006.0
+170876,610,21000907,contraindication,Thrombophilia,C0398623,Thrombophilia,T047,234467004.0
+157224,2464,21001565,contraindication,Sinus bradycardia,C0085610,Sinus bradycardia,T046,49710005.0
+149644,463,21002080,contraindication,Hiatal hernia,C3489393,Hiatal hernia,T190,84089009.0
+164022,1981,21001249,indication,Bacterial Corneal Ulcer Infection,,,,
+164518,818,21001679,contraindication,Thrombophlebitis,C0040046,Thrombophlebitis,T047,64156001.0
+144974,734,21001701,indication,Hemorrhoids,C0019112,Hemorrhoids,T020,70153002.0
+158442,2291,21001541,indication,Paroxysmal atrial flutter,C0741292,Paroxysmal atrial flutter,T046,427665004.0
+152698,1790,21002583,indication,Post-Operative Vaginal Cuff Peptostreptococcus Infection,,,,
+164853,3188,21000703,contraindication,Hypertriglyceridemia,C0020557,Hypertriglyceridemia,T033,302870006.0
+158096,1827,21002962,contraindication,Neonatal hyperbilirubinemia,C0857007,Neonatal hyperbilirubinemia,T047,281610001.0
+156195,802,21002102,off-label use,Enterocolitis,C0014356,Enterocolitis,T047,43752006.0
+143597,867,21002784,contraindication,Disorder of connective tissue,C0009782,Disorder of connective tissue,T047,105969002.0
+135866,2172,21013500,contraindication,Senile dementia,C0011268,Senile dementia,T048,15662003.0
+153905,859,21001702,contraindication,Bleeding hemorrhoids,C0265031,Bleeding hemorrhoids,T046,51551000.0
+149299,1779,21003376,contraindication,Anaphylaxis,C0002792,Anaphylaxis,T046,39579001.0
+156510,4278,21001914,contraindication,Decreased respiratory function,C0235063,Decreased respiratory function,T046,80954004.0
+150866,158,21013892,contraindication,Hypochloremic alkalosis,C0151476,Hypochloremic alkalosis,T046,70134007.0
+146509,1667,21001655,contraindication,Thromboembolic disorder,C0040038,Thromboembolic disorder,T047,371039008.0
+141669,4246,21001155,contraindication,"Neuromuscular block, function",C0700323,"Neuromuscular block, function",T047,55394004.0
+138870,1034,21000863,contraindication,Blood coagulation disorder,C0005779,Blood coagulation disorder,T047,64779008.0
+172637,449,21000878,contraindication,Thrombocytopenic disorder,C0040034,Thrombocytopenic disorder,T033,302215000.0
+160170,353,21002627,indication,Seborrheic dermatitis,C0036508,Seborrheic dermatitis,T047,50563003.0
+171023,2146,21002090,contraindication,Severe chronic ulcerative colitis,C0267387,Severe chronic ulcerative colitis,T047,14311001.0
+166856,294,21013551,contraindication,Operation on nose,C0188970,Operation on nose,T061,88733004.0
+161471,4061,21002775,contraindication,Systemic lupus erythematosus,C0024141,Systemic lupus erythematosus,T047,55464009.0
+147560,2543,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+170346,2713,21000530,contraindication,Malignant tumor of cervix,C0007847,Malignant tumor of cervix,T191,363354003.0
+168349,585,21013442,contraindication,Chronic idiopathic constipation,C0267509,Chronic idiopathic constipation,T047,82934008.0
+165608,1261,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+170034,59,21001566,contraindication,Prolonged QT interval,C0151878,Prolonged QT interval,T033,111975006.0
+139896,725,21002067,contraindication,Pyloric obstruction,C1541124,Pyloric obstruction,T047,244815007.0
+141168,195,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+139154,1427,21000950,contraindication,Mania,C0338831,Mania,T048,231494001.0
+148072,4265,21006068,indication,Synergy for Group B Streptococcal Septicemia,,,,
+132800,4904,21002827,indication,Ankylosing spondylitis,C0038013,Ankylosing spondylitis,T047,9631008.0
+144930,1056,21001876,contraindication,Severe chronic obstructive pulmonary disease,C0730607,Severe chronic obstructive pulmonary disease,T047,313299006.0
+142272,2708,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+137203,3317,21002296,contraindication,Impaired renal function disorder,C0341677,Impaired renal function disorder,T047,197663003.0
+143373,1336,21001766,indication,Rhinitis,C0035455,Rhinitis,T047,70076002.0
+135413,2446,21000462,contraindication,Secondary malignant neoplasm of cerebrum,C0555278,Secondary malignant neoplasm of cerebrum,T191,94248000.0
+136902,4411,21002109,contraindication,Gastrointestinal obstruction,C0236124,Gastrointestinal obstruction,T046,126765001.0
+165685,1349,21002630,indication,Atopic dermatitis,C0011615,Atopic dermatitis,T047,24079001.0
+167582,1967,21002597,indication,Infection due to Staphylococcus aureus,C1318973,Infection due to Staphylococcus aureus,T047,406602003.0
+155197,1231,21000803,indication,Iron deficiency anemia,C0162316,Iron deficiency anemia,T047,87522002.0
+149449,2657,21004212,indication,Subacute Stent Thrombosis Prevention,,,,
+134007,1426,21001804,indication,Pneumonia due to Streptococcus,C0155862,Pneumonia due to Streptococcus,T047,34020007.0
+157405,2798,21000184,indication,Herpes labialis,C0019345,Herpes labialis,T047,1475003.0
+171037,2239,21001161,contraindication,Disorder of muscle,C0026848,Disorder of muscle,T047,129565002.0
+145039,4411,21001992,contraindication,Peptic reflux disease,C0014869,Peptic reflux disease,T047,57643001.0
+133631,3174,21000756,contraindication,Hypokalemia,C0020621,Hypokalemia,T033,43339004.0
+165750,2727,21013403,indication,Follicular non-Hodgkin's lymphoma,C0024301,Follicular non-Hodgkin's lymphoma,T191,308121000.0
+141955,2115,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+173262,1991,21000325,indication,Candidiasis of skin,C0006846,Candidiasis of skin,T047,49883006.0
+154657,1334,21002225,contraindication,Acute pancreatitis,C0001339,Acute pancreatitis,T047,197456007.0
+171870,663,21001022,indication,Depressive disorder,C0011581,Depressive disorder,T048,35489007.0
+148889,1240,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+144321,4496,21013500,contraindication,Senile dementia,C0011268,Senile dementia,T048,15662003.0
+155399,419,21001204,contraindication,Ocular hypertension,C0028840,Ocular hypertension,T047,4210003.0
+172497,4384,21000807,indication,Megaloblastic anemia,C0002888,Megaloblastic anemia,T047,53165003.0
+169404,701,21003391,contraindication,Malignant hyperthermia,C0024591,Malignant hyperthermia,T047,405501007.0
+148807,4178,21013679,contraindication,Posterior reversible encephalopathy syndrome,C3160858,Posterior reversible encephalopathy syndrome,T047,450886002.0
+145782,2727,21002051,contraindication,Gastritis,C0017152,Gastritis,T047,4556007.0
+158138,2611,21001914,contraindication,Decreased respiratory function,C0235063,Decreased respiratory function,T046,80954004.0
+140581,1968,21000533,contraindication,Malignant tumor of ovary,C1140680,Malignant tumor of ovary,T191,363443007.0
+168953,82,21001738,indication,Common cold,C0009443,Common cold,T047,82272006.0
+143614,3609,21003023,contraindication,Surgical procedure,C0543467,Surgical procedure,T058,387713003.0
+149113,660,21002292,contraindication,Kidney disease,C0022658,Kidney disease,T047,90708001.0
+162053,818,21000512,contraindication,Malignant neoplasm of liver,C0345904,Malignant neoplasm of liver,T191,93870000.0
+153787,701,21000996,contraindication,Alcoholism,C0001973,Alcoholism,T048,7200002.0
+136900,4247,21003056,contraindication,Vertigo,C0042571,Vertigo,T184,399153001.0
+138087,2253,21002247,indication,Nephrotic syndrome,C0027726,Nephrotic syndrome,T047,52254009.0
+172127,465,21001677,contraindication,Telangiectasia disorder,C0039446,Telangiectasia disorder,T047,247479008.0
+167956,2428,21003053,indication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+165065,4200,21000763,contraindication,Hyperchloremia,C0085679,Hyperchloremia,T047,74450001.0
+164523,852,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+171354,1236,21000877,contraindication,Heparin-induced thrombocytopenia,C0272285,Heparin-induced thrombocytopenia,T047,73397007.0
+139860,2073,21000523,indication,Non-small cell lung cancer,C0007131,Non-small cell lung cancer,T191,254637007.0
+153760,1057,21002504,contraindication,Intermenstrual bleeding - irregular,C0025874,Intermenstrual bleeding - irregular,T046,64996003.0
+145742,2284,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+169682,1085,21003316,contraindication,Injury of head,C0018674,Injury of head,T037,82271004.0
+157915,4732,21002216,contraindication,Obstruction of bile duct,C0008370,Obstruction of bile duct,T047,30144000.0
+161635,4183,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+168686,4202,21013442,contraindication,Chronic idiopathic constipation,C0267509,Chronic idiopathic constipation,T047,82934008.0
+164474,1195,21001606,contraindication,Heart disease,C0018799,Heart disease,T047,56265001.0
+160028,2047,21000996,contraindication,Alcoholism,C0001973,Alcoholism,T048,7200002.0
+167322,198,21002434,indication,Inflammatory Disease of Female Pelvic Organs,,,,
+159122,1213,21013399,contraindication,Metabolic syndrome X,C0524620,Metabolic syndrome X,T047,237602007.0
+173185,804,21001022,indication,Depressive disorder,C0011581,Depressive disorder,T048,35489007.0
+163613,818,21000789,contraindication,Obesity,C0028754,Obesity,T047,414916001.0
+154497,1767,21000842,contraindication,Anemia,C0002871,Anemia,T047,271737000.0
+153159,2303,21002225,contraindication,Acute pancreatitis,C0001339,Acute pancreatitis,T047,197456007.0
+148723,3424,21000935,contraindication,Drug-induced psychosis,C0033937,Drug-induced psychosis,T048,191483003.0
+141893,594,21002475,contraindication,Endometriosis,C0014175,Endometriosis,T047,129103003.0
+133581,2492,21002159,indication,Infectious disease of abdomen,C1112209,Infectious disease of abdomen,T047,128070006.0
+165168,1763,21002051,contraindication,Gastritis,C0017152,Gastritis,T047,4556007.0
+175613,4666,40249786,indication,Diagnosis of renal failure,,,,
+149778,989,21000701,contraindication,Hypercholesterolemia,C0020443,Hypercholesterolemia,T047,13644009.0
+152520,4116,21001545,contraindication,Torsades de pointes,C0040479,Torsades de pointes,T047,31722008.0
+158331,2840,21009027,indication,Hypogonadal Osteoporosis in Males,,,,
+155179,2706,21003043,contraindication,Concentration Difficulty,,,,
+132539,2037,21002114,indication,Constipation,C0009806,Constipation,T184,14760008.0
+143460,1385,21000733,contraindication,Hypercalcemia,C0020437,Hypercalcemia,T047,66931009.0
+166238,1385,21000609,contraindication,Hyperparathyroidism,C0020502,Hyperparathyroidism,T047,66999008.0
+170739,880,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+132915,4839,40249098,indication,Hemorrhage,C0019080,Hemorrhage,T046,50960005.0
+162346,760,21000753,contraindication,Hyperkalemia,C0020461,Hyperkalemia,T033,14140009.0
+161786,527,21002348,indication,Staphylococcus Epidermidis Urinary Tract Infection,,,,
+151165,2489,21000576,contraindication,Surgical procedure on eye proper,C0395020,Surgical procedure on eye proper,T061,373353005.0
+163645,1386,21002067,contraindication,Pyloric obstruction,C1541124,Pyloric obstruction,T047,244815007.0
+143933,2633,21003181,contraindication,Shock,C0036974,Shock,T046,27942005.0
+167784,4245,21002821,indication,Arthritic Pain,,,,
+162929,1842,21001574,indication,Ventricular arrhythmia,C0085612,Ventricular arrhythmia,T046,44103008.0
+163478,2661,21002159,indication,Infectious disease of abdomen,C1112209,Infectious disease of abdomen,T047,128070006.0
+161944,621,21000842,contraindication,Anemia,C0002871,Anemia,T047,271737000.0
+148114,1768,21001661,off-label use,Polyarteritis nodosa,C0031036,Polyarteritis nodosa,T047,155441006.0
+150981,408,21001480,contraindication,Cor pulmonale,C0034072,Cor pulmonale,T047,83291003.0
+169918,1388,21001355,indication,Disorder of eye,C0015397,Disorder of eye,T047,371405004.0
+167093,2684,21001191,indication,Uveitis,C0042164,Uveitis,T047,128473001.0
+141805,1968,4343717,contraindication,Uterine leiomyoma,C0042133,Uterine leiomyoma,T191,95315005.0
+175618,1878,40249791,indication,Overdose of opiate,C0579142,Overdose of opiate,T037,242253008.0
+159471,1634,21001594,contraindication,Disorder of cardiovascular system,C0007222,Disorder of cardiovascular system,T047,49601007.0
+147578,859,21003321,contraindication,Open wound,C0332798,Open wound,T037,125643001.0
+152577,1085,21000566,contraindication,Neoplasm of brain,C0006118,Neoplasm of brain,T191,126952004.0
+150021,4072,21000755,contraindication,Familial hyperkalemic periodic paralysis,C0238357,Familial hyperkalemic periodic paralysis,T047,304737009.0
+159989,594,21001966,contraindication,Disturbance of salivary secretion,C0012765,Disturbance of salivary secretion,T046,78948009.0
+155709,1353,21003304,contraindication,Drug Induced CNS Depression,,,,
+158562,976,21002361,contraindication,Benign prostatic hyperplasia,C1739363,Benign prostatic hyperplasia,T047,266569009.0
+153979,2379,21008952,indication,Hepatic encephalopathy,C0019151,Hepatic encephalopathy,T047,13920009.0
+161523,2132,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+153013,3462,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+160131,4244,21013838,contraindication,Osteolysis,C0302313,Osteolysis,T033,203522001.0
+147985,1028,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+164569,1437,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+147163,1184,21001750,contraindication,Pharyngitis,C0031350,Pharyngitis,T047,405737000.0
+142567,2684,21001812,indication,Bacterial infection due to Serratia,C0085394,Bacterial infection due to Serratia,T047,71120004.0
+173736,5327,40249369,indication,Metastatic urothelial carcinoma,C4288754,Metastatic urothelial carcinoma,T191,458321000124102.0
+136994,2415,21002296,contraindication,Impaired renal function disorder,C0341677,Impaired renal function disorder,T047,197663003.0
+133274,886,21002035,contraindication,Peptic ulcer,C0030920,Peptic ulcer,T047,13200003.0
+151203,2044,21000533,indication,Malignant tumor of ovary,C1140680,Malignant tumor of ovary,T191,363443007.0
+166353,1704,21002753,contraindication,Chloasma,C0025218,Chloasma,T047,36209000.0
+167183,966,21002246,contraindication,Procedure on urinary system,C0545433,Procedure on urinary system,T058,118677009.0
+143308,525,21001924,indication,Lower respiratory tract infection,C0149725,Lower respiratory tract infection,T047,50417007.0
+167925,489,21001103,indication,Localization-related epilepsy,C0014547,Localization-related epilepsy,T047,230381009.0
+160577,2148,21002231,contraindication,Gastrointestinal hemorrhage,C0017181,Gastrointestinal hemorrhage,T046,74474003.0
+167460,4265,21002322,indication,Complicated Urinary Tract Infections,,,,
+161913,198,21002320,indication,Urinary tract infectious disease,C0042029,Urinary tract infectious disease,T047,68566005.0
+151965,2245,21002846,indication,Bursitis,C0006444,Bursitis,T047,84017003.0
+160925,2042,21013555,contraindication,Multiple pregnancy,C0032989,Multiple pregnancy,T046,16356006.0
+149458,85,21000185,off-label use,Disseminated Herpes Simplex Neonatal Infection,,,,
+151306,2326,21002048,contraindication,Gastrointestinal ulcer,C0237938,Gastrointestinal ulcer,T047,40845000.0
+135175,1388,21001125,indication,Cerebral edema,C0006114,Cerebral edema,T046,2032001.0
+141064,4296,21012216,contraindication,Theophylline Toxicity,,,,
+150887,2082,21002858,indication,Necrotizing Fasciitis Streptococcus Infection,,,,
+137044,1949,21002350,off-label use,Prevention of Bacterial Urinary Tract Infection,,,,
+156138,2834,21000846,contraindication,Hemophilia,C0684275,Hemophilia,T047,90935002.0
+159645,4528,21012151,indication,Mineral Deficiency Prevention,,,,
+137587,3972,21000378,indication,Infection by Onchocerca volvulus,C0029001,Infection by Onchocerca volvulus,T047,38539003.0
+175242,5000,40249629,indication,Cardiovascular disease,C0007222,Disorder of cardiovascular system,T047,49601007.0
+156762,254,21000192,contraindication,Chronic type B viral hepatitis,C0524909,Chronic type B viral hepatitis,T047,61977001.0
+156681,119,21002195,contraindication,Hepatic coma,C0019147,Hepatic coma,T047,72836002.0
+157567,4072,21000404,contraindication,Sarcoidosis,C0036202,Sarcoidosis,T047,31541009.0
+135946,533,21000026,contraindication,Pseudomembranous enterocolitis,C0014358,Pseudomembranous enterocolitis,T047,397683000.0
+138516,2303,21001517,contraindication,Complete atrioventricular block,C0151517,Complete atrioventricular block,T047,27885002.0
+152712,1883,21001206,contraindication,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+135930,454,21003017,indication,Sedation as Adjunct to Anesthesia,,,,
+140957,2497,21002361,contraindication,Benign prostatic hyperplasia,C1739363,Benign prostatic hyperplasia,T047,266569009.0
+174072,5421,40249399,indication,Anemia of renal disease,C0472713,Anemia of renal disease,T047,234348004.0
+137764,2392,21001070,contraindication,Extrapyramidal disease,C0015371,Extrapyramidal disease,T047,76349003.0
+168857,2738,21000803,contraindication,Iron deficiency anemia,C0162316,Iron deficiency anemia,T047,87522002.0
+160154,1587,21000716,contraindication,Gout,C0018099,Gout,T047,90560007.0
+153624,562,21001834,indication,Acute bacterial bronchitis,C0339933,Acute bacterial bronchitis,T047,233598009.0
+161161,2528,21000714,indication,Chronic gouty arthritis,C0268108,Chronic gouty arthritis,T047,68451005.0
+160067,1454,21002221,contraindication,Dysfunction of sphincter of Oddi,C0878588,Dysfunction of sphincter of Oddi,T047,430887001.0
+164582,2422,21003292,contraindication,Liver function tests abnormal,C0151766,Liver function tests abnormal,T033,166603001.0
+156070,1229,21008595,off-label use,Primary Prevention of Coronary Heart Disease,,,,
+141336,374,21002292,contraindication,Kidney disease,C0022658,Kidney disease,T047,90708001.0
+164580,2415,21013818,contraindication,Ultrarapid metabolizer due to cytochrome p450 CYP2D6 variant,C1827786,Ultrarapid metabolizer due to cytochrome p450 CYP2D6 variant,T047,422681000.0
+157918,129,21002095,contraindication,Vascular insufficiency of intestine,C2004435,Vascular insufficiency of intestine,T047,82196007.0
+134421,556,21013411,off-label use,Pyrexia of unknown origin,C0015970,Pyrexia of unknown origin,T184,7520000.0
+169255,1110,21000707,contraindication,Hyperlipidemia,C0020473,Hyperlipidemia,T047,55822004.0
+159856,2247,21001204,contraindication,Ocular hypertension,C0028840,Ocular hypertension,T047,4210003.0
+163706,3659,21001606,contraindication,Heart disease,C0018799,Heart disease,T047,56265001.0
+143574,180,21001020,off-label use,Posttraumatic stress disorder,C0038436,Posttraumatic stress disorder,T048,47505003.0
+149965,4380,21001206,contraindication,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+135637,502,21002534,off-label use,Incomplete miscarriage,C0000810,Incomplete miscarriage,T046,156072005.0
+132937,4826,40249092,indication,Acquired partial lipodystrophy,C0220989,Acquired partial lipodystrophy,T047,75659004.0
+174978,4192,40248966,indication,Wild-type transthyretin cardiac amyloidosis,C0268407,Senile cardiac amyloidosis,T047,16573007.0
+159915,2279,21003275,contraindication,Impaired glucose tolerance,C0271650,Impaired glucose tolerance,T047,9414007.0
+145952,2328,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+172337,4207,21003069,indication,Fever,C0015967,Fever,T033,386661006.0
+175323,4924,40249671,indication,Endometrial carcinoma progressing after chemotherapy,C0476089,Endometrial carcinoma,T191,254878006.0
+165511,349,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+157530,403,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+147857,1280,21000039,off-label use,Acute tuberculosis,C0275959,Acute tuberculosis,T047,25629007.0
+169531,1714,21000512,contraindication,Malignant neoplasm of liver,C0345904,Malignant neoplasm of liver,T191,93870000.0
+144085,1552,21013561,contraindication,Viral hepatitis type B,C0019163,Viral hepatitis type B,T047,66071002.0
+158120,475,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+163735,1579,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+159195,1210,21000733,contraindication,Hypercalcemia,C0020437,Hypercalcemia,T047,66931009.0
+148235,465,21002683,off-label use,Psoriasis,C0033860,Psoriasis,T047,9014002.0
+145953,2402,21001563,contraindication,Bradycardia,C0428977,Bradycardia,T046,48867003.0
+168929,734,21000802,indication,Autoimmune disease,C0004364,Autoimmune disease,T047,85828009.0
+174191,5438,40249438,indication,Ebola virus disease,C0282687,Ebola virus disease,T047,37109004.0
+158687,1003,21002196,contraindication,Hepatic failure,C0085605,Hepatic failure,T047,59927004.0
+163144,2834,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+170469,956,21003068,contraindication,Sleep apnea,C0037315,Sleep apnea,T047,73430006.0
+150108,647,40249007,indication,Hypercalcemia due to Primary Hyperparathyroidism,,,,
+137151,2481,21001388,contraindication,Inner Ear Disturbance,,,,
+141368,988,21002013,contraindication,Gastric ulcer,C0038358,Gastric ulcer,T047,397825006.0
+154551,2633,21001149,contraindication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+154463,2611,21002253,contraindication,Glomerulonephritis,C0017658,Glomerulonephritis,T047,36171008.0
+158641,659,21012350,contraindication,Transplantation of heart,C0018823,Transplantation of heart,T061,32413006.0
+165638,4505,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+135260,961,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+159611,2279,21002393,contraindication,Fibroadenosis of breast,C1305875,Fibroadenosis of breast,T047,23260002.0
+173434,318,21003276,indication,Hyperuricemia,C0740394,Hyperuricemia,T047,35885006.0
+156888,1277,21001538,indication,Paroxysmal supraventricular tachycardia,C0030590,Paroxysmal supraventricular tachycardia,T047,67198005.0
+159368,4199,21003351,contraindication,Poisoning by digitalis glycoside,C0274726,Poisoning by digitalis glycoside,T037,12876009.0
+134634,1546,21000613,indication,Acromegaly,C0001206,Acromegaly,T047,74107003.0
+173089,4923,21000523,indication,Non-small cell lung cancer,C0007131,Non-small cell lung cancer,T191,254637007.0
+148541,1786,21001517,contraindication,Complete atrioventricular block,C0151517,Complete atrioventricular block,T047,27885002.0
+166781,242,21001578,contraindication,Chronic heart failure,C0264716,Chronic heart failure,T047,48447003.0
+168960,192,21001385,indication,Infective otitis media,C0729586,Infective otitis media,T047,312218008.0
+166633,585,21001435,contraindication,Hypertensive urgency,C0745138,Hypertensive urgency,T047,443482000.0
+143740,2446,21003130,contraindication,Hyperbilirubinemia,C0020433,Hyperbilirubinemia,T047,14783006.0
+135876,760,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+160821,1959,21013525,contraindication,Major Surgery with Prolonged Post-Operative Immobilization,,,,
+167511,463,21002067,contraindication,Pyloric obstruction,C1541124,Pyloric obstruction,T047,244815007.0
+160282,2477,21002247,contraindication,Nephrotic syndrome,C0027726,Nephrotic syndrome,T047,52254009.0
+150079,4061,21001876,contraindication,Severe chronic obstructive pulmonary disease,C0730607,Severe chronic obstructive pulmonary disease,T047,313299006.0
+141612,1613,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+153996,925,21001815,indication,Legionella Pneumophila Pneumonia,,,,
+142145,563,21002804,indication,Infectious disorder of joint,C0157749,Infectious disorder of joint,T047,363162000.0
+154203,1164,21004377,contraindication,Hypovolemia,C0546884,Hypovolemia,T033,28560003.0
+158176,4451,21001204,contraindication,Ocular hypertension,C0028840,Ocular hypertension,T047,4210003.0
+148332,1579,21013484,contraindication,Cardiovascular event risk,C1273410,Cardiovascular event risk,T033,395112001.0
+164272,2448,21003338,contraindication,Traumatic injury,C3263723,Traumatic injury,T037,417746004.0
+167502,1893,21003246,contraindication,Diarrhea,C0011991,Diarrhea,T184,62315008.0
+153738,2475,21002249,indication,Edema due to Nephrotic Syndrome,,,,
+134923,2583,21002216,contraindication,Obstruction of bile duct,C0008370,Obstruction of bile duct,T047,30144000.0
+147460,1210,21000584,contraindication,Hypothyroidism,C0020676,Hypothyroidism,T047,40930008.0
+141138,1314,21003301,contraindication,Severe Hypoxemia,,,,
+137510,4122,21002673,contraindication,Erythroderma,C0011606,Erythroderma,T047,399992009.0
+170694,4510,21007034,contraindication,Anemia due to enzyme deficiency,C0272053,Anemia due to enzyme deficiency,T047,111577008.0
+138324,1996,21001015,contraindication,Bulimia nervosa,C2267227,Bulimia nervosa,T048,78004001.0
+146929,323,21001788,indication,Suppression of the Gag Reflex,,,,
+150410,1003,21000959,contraindication,Paranoid disorder,C1456784,Paranoid disorder,T048,191667009.0
+154580,1821,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+146893,865,21007636,contraindication,Gastrointestinal perforation,C0151664,Gastrointestinal perforation,T047,51875005.0
+155019,982,21001914,contraindication,Decreased respiratory function,C0235063,Decreased respiratory function,T046,80954004.0
+167881,4284,21003246,contraindication,Diarrhea,C0011991,Diarrhea,T184,62315008.0
+154129,4031,21000836,contraindication,Bone marrow depression,C0151773,Bone marrow depression,T047,307762000.0
+152084,466,21000733,contraindication,Hypercalcemia,C0020437,Hypercalcemia,T047,66931009.0
+160507,2133,21000996,contraindication,Alcoholism,C0001973,Alcoholism,T048,7200002.0
+142271,2708,21001582,indication,Peripheral Edema due to Chronic Heart Failure,,,,
+151105,156,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+144412,2415,21001206,contraindication,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+144128,4021,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+150177,4213,21002035,contraindication,Peptic ulcer,C0030920,Peptic ulcer,T047,13200003.0
+172463,566,21001739,indication,Acute maxillary sinusitis,C0155804,Acute maxillary sinusitis,T047,68272006.0
+152728,2825,21000474,off-label use,Primary cutaneous T-cell lymphoma,C0079773,Primary cutaneous T-cell lymphoma,T191,400122007.0
+161269,2726,21000874,indication,Acquired thrombocytopenia,C0154301,Acquired thrombocytopenia,T047,74576004.0
+161989,258,21007034,contraindication,Anemia due to enzyme deficiency,C0272053,Anemia due to enzyme deficiency,T047,111577008.0
+142555,666,21003126,contraindication,Peripheral edema,C0085649,Peripheral edema,T033,271809000.0
+157667,1967,21000296,indication,Chlamydia Cervicitis,,,,
+163899,4269,21000722,contraindication,Hypocupremia,C0268070,Hypocupremia,T047,19577007.0
+139612,349,21000385,contraindication,Infection by Strongyloides,C0038463,Infection by Strongyloides,T047,1214006.0
+147624,1490,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+157305,2633,21000778,contraindication,Variegate porphyria,C0162532,Variegate porphyria,T047,58275005.0
+159938,779,21001460,contraindication,Angina pectoris,C0002962,Angina pectoris,T033,194828000.0
+169760,1261,21000049,off-label use,Plague,C0032064,Plague,T047,58750007.0
+167198,2777,21001820,indication,Pneumonia due to Mycoplasma pneumoniae,C0032302,Pneumonia due to Mycoplasma pneumoniae,T047,46970008.0
+165778,1569,21003050,contraindication,Hallucinations,C0018524,Hallucinations,T048,7011001.0
+142712,4271,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+135654,563,21002792,indication,Bacteroides Joint Infection,,,,
+155015,1024,21001469,contraindication,Disorder of coronary artery,C1956346,Disorder of coronary artery,T047,414024009.0
+162870,404,21001001,contraindication,Dependent drug abuse,C1510472,Dependent drug abuse,T048,6525002.0
+167625,1569,21001806,indication,Staphylococcal pneumonia,C0032308,Staphylococcal pneumonia,T047,22754005.0
+149272,886,21001855,contraindication,Pulmonary emphysema,C0034067,Pulmonary emphysema,T047,87433001.0
+152187,621,21001563,contraindication,Bradycardia,C0428977,Bradycardia,T046,48867003.0
+145954,2402,21003036,contraindication,Drowsy,C0013144,Drowsy,T033,271782001.0
+173308,5212,40249134,indication,Sarcoma of soft tissue,C1261473,Sarcoma of soft tissue,T191,424952003.0
+144459,1809,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+165615,1225,21001855,indication,Pulmonary emphysema,C0034067,Pulmonary emphysema,T047,87433001.0
+164329,2134,21002279,contraindication,Kidney stone,C0022650,Kidney stone,T047,95570007.0
+153272,4519,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+145927,2245,21000423,indication,Diagnostic Test for Cushing's Syndrome,,,,
+134992,4566,21007610,indication,Cataplexy and narcolepsy,C0751362,Cataplexy and narcolepsy,T047,193042000.0
+143248,2424,21001435,contraindication,Hypertensive urgency,C0745138,Hypertensive urgency,T047,443482000.0
+164157,239,21003023,contraindication,Surgical procedure,C0543467,Surgical procedure,T058,387713003.0
+151330,2740,21001241,contraindication,Visual impairment,C3665347,Visual impairment,T033,397540003.0
+162378,2770,21003300,contraindication,Hypoxia,C0242184,Hypoxia,T046,389086002.0
+155851,463,21002310,contraindication,Bladder outflow obstruction,C0403654,Bladder outflow obstruction,T020,236645006.0
+175702,1569,21001371,indication,Otitis media caused by Pseudomonas aeruginosa,C0276077,Malignant otitis media,T047,16664009.0
+158511,4200,21001158,contraindication,"Congenital myotonia, autosomal dominant form",C2936781,"Congenital myotonia, autosomal dominant form",T047,57938005.0
+147127,2419,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+162858,276,21001796,indication,Pneumococcal pneumonia,C0155862,Pneumococcal pneumonia,T047,233607000.0
+158722,4411,21000580,contraindication,Hyperthyroidism,C0020550,Hyperthyroidism,T047,34486009.0
+136083,1018,21001916,contraindication,Disorder of lung,C0024115,Disorder of lung,T047,19829001.0
+142443,2831,21002089,contraindication,Ulcerative colitis,C0009324,Ulcerative colitis,T047,64766004.0
+156886,1310,21000746,contraindication,Dehydration,C0011175,Dehydration,T047,34095006.0
+148987,1402,21000579,contraindication,Thyrotoxicosis,C0040156,Thyrotoxicosis,T047,90739004.0
+157365,115,21001461,contraindication,Progressive Angina Pectoris,,,,
+148615,886,21000737,contraindication,Acidosis,C0001122,Acidosis,T046,51387008.0
+149390,30,21000777,contraindication,Erythropoietic protoporphyria,C0162568,Erythropoietic protoporphyria,T047,51022005.0
+169264,1059,21000732,contraindication,Hypocalcemia,C0020598,Hypocalcemia,T046,5291005.0
+135221,1827,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+154351,180,21001029,contraindication,Hyperactive behavior,C0424295,Hyperactive behavior,T033,44548000.0
+147898,1874,21001480,contraindication,Cor pulmonale,C0034072,Cor pulmonale,T047,83291003.0
+149645,484,21004068,contraindication,Secondary angle-closure glaucoma,C0271149,Secondary angle-closure glaucoma,T047,21571006.0
+150278,824,21002035,contraindication,Peptic ulcer,C0030920,Peptic ulcer,T047,13200003.0
+142003,802,21001768,indication,Sinusitis,C0037199,Sinusitis,T047,36971009.0
+134385,380,21001149,contraindication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+175874,2146,40249896,indication,Prevention of intraoperative miosis,,,,
+155284,1385,21003376,contraindication,Anaphylaxis,C0002792,Anaphylaxis,T046,39579001.0
+175381,5692,21000595,indication,Diabetes mellitus type 1,C0011854,Diabetes mellitus type 1,T047,46635009.0
+171472,734,21000584,contraindication,Hypothyroidism,C0020676,Hypothyroidism,T047,40930008.0
+141722,408,21002098,contraindication,Inflammatory bowel disease,C0021390,Inflammatory bowel disease,T047,24526004.0
+159029,1046,21002623,indication,Complicated Skin and Skin Structure Infection,,,,
+134780,2331,21002089,contraindication,Ulcerative colitis,C0009324,Ulcerative colitis,T047,64766004.0
+157958,2424,21001714,contraindication,Bleeding,C0019080,Bleeding,T046,131148009.0
+135831,380,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+141300,1407,21002775,contraindication,Systemic lupus erythematosus,C0024141,Systemic lupus erythematosus,T047,55464009.0
+149495,2048,21013452,contraindication,Aseptic necrosis of bone of jaw,C2711248,Aseptic necrosis of bone of jaw,T047,441809006.0
+152050,946,21003545,contraindication,NSAID-Induced Gastric Ulcer,,,,
+153010,3424,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+156412,4266,21001914,contraindication,Decreased respiratory function,C0235063,Decreased respiratory function,T046,80954004.0
+134952,2676,21000838,contraindication,Aplastic anemia,C0002874,Aplastic anemia,T047,306058006.0
+150733,1884,21001459,contraindication,Prinzmetal angina,C0002963,Prinzmetal angina,T047,87343002.0
+152963,1949,21002296,contraindication,Impaired renal function disorder,C0341677,Impaired renal function disorder,T047,197663003.0
+139377,434,21001914,contraindication,Decreased respiratory function,C0235063,Decreased respiratory function,T046,80954004.0
+154726,3064,21000846,contraindication,Hemophilia,C0684275,Hemophilia,T047,90935002.0
+175800,5416,40249826,indication,BardetBiedl syndrome,C0752166,BardetBiedl syndrome,T047,5619004.0
+137539,1497,21000075,off-label use,Atypical mycobacterial infection,C0026919,Atypical mycobacterial infection,T047,111812000.0
+136506,4072,21013838,contraindication,Osteolysis,C0302313,Osteolysis,T033,203522001.0
+172345,4207,21002811,indication,Osteoarthritis,C0029408,Osteoarthritis,T047,396275006.0
+166060,607,21002683,contraindication,Psoriasis,C0033860,Psoriasis,T047,9014002.0
+141918,1759,21002248,indication,Renal Disease with Edema,,,,
+155691,722,21001686,contraindication,Deep venous thrombosis,C0149871,Deep venous thrombosis,T047,128053003.0
+151490,2100,21000526,contraindication,Carcinoma of female breast,C3163805,Carcinoma of female breast,T191,447782002.0
+133440,2047,21000580,contraindication,Hyperthyroidism,C0020550,Hyperthyroidism,T047,34486009.0
+173467,5296,21013403,indication,Follicular non-Hodgkin's lymphoma,C0024301,Follicular non-Hodgkin's lymphoma,T191,308121000.0
+152942,4505,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+136101,4244,21000404,contraindication,Sarcoidosis,C0036202,Sarcoidosis,T047,31541009.0
+136664,1282,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+133552,1897,21013562,contraindication,Gastrointestinal hypomotility,C0948779,Gastrointestinal hypomotility,T047,421807004.0
+139271,200,21000848,contraindication,Hereditary factor VIII deficiency disease,C0019069,Hereditary factor VIII deficiency disease,T047,28293008.0
+169858,4283,21003302,contraindication,Central nervous system depression,C0151559,Central nervous system depression,T047,418072004.0
+168645,463,21013627,indication,Cluster Headache Prevention,,,,
+171552,878,21001469,contraindication,Disorder of coronary artery,C1956346,Disorder of coronary artery,T047,414024009.0
+172375,351,21002671,indication,Discoid lupus erythematosus,C0024138,Discoid lupus erythematosus,T047,200938002.0
+161981,2770,21003200,contraindication,Hypercapnia,C0020440,Hypercapnia,T184,29596007.0
+140184,725,21000039,contraindication,Acute tuberculosis,C0275959,Acute tuberculosis,T047,25629007.0
+140981,1043,21001679,contraindication,Thrombophlebitis,C0040046,Thrombophlebitis,T047,64156001.0
+165282,480,21003130,contraindication,Hyperbilirubinemia,C0020433,Hyperbilirubinemia,T047,14783006.0
+151883,2123,21001578,contraindication,Chronic heart failure,C0264716,Chronic heart failure,T047,48447003.0
+156737,4257,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+136827,1688,21001211,contraindication,Glaucoma,C0017601,Glaucoma,T047,23986001.0
+166489,4170,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+168729,1790,21002792,indication,Bacteroides Joint Infection,,,,
+164504,2403,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+171411,2823,21000526,indication,Carcinoma of female breast,C3163805,Carcinoma of female breast,T191,447782002.0
+168722,1759,21003276,contraindication,Hyperuricemia,C0740394,Hyperuricemia,T047,35885006.0
+142550,659,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+166412,3508,21002361,contraindication,Benign prostatic hyperplasia,C1739363,Benign prostatic hyperplasia,T047,266569009.0
+134422,559,21002326,indication,Bacterial urinary infection,C0729524,Bacterial urinary infection,T047,312124009.0
+143929,2095,21003194,contraindication,Apnea,C0003578,Apnea,T046,1023001.0
+170326,4606,21000636,contraindication,Adrenal cortical hypofunction,C0405580,Adrenal cortical hypofunction,T047,386584007.0
+158348,197,21000341,indication,Disseminated sporotrichosis,C0276725,Disseminated sporotrichosis,T047,91051003.0
+144284,2475,21002256,contraindication,Acute nephropathy,C0268734,Acute nephropathy,T047,58574008.0
+137509,2865,21012862,off-label use,"Bipolar affective disorder, current episode depression",C0005587,"Bipolar affective disorder, current episode depression",T048,191627008.0
+164834,1725,21000902,contraindication,Lymphocytopenia,C0024312,Lymphocytopenia,T047,48813009.0
+154575,1247,21000726,contraindication,Hyperphosphatemia,C0085681,Hyperphosphatemia,T047,20165001.0
+132986,2173,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+160411,1949,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+142371,441,21002246,contraindication,Procedure on urinary system,C0545433,Procedure on urinary system,T058,118677009.0
+134932,2590,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+155749,1999,21002296,contraindication,Impaired renal function disorder,C0341677,Impaired renal function disorder,T047,197663003.0
+175034,4933,40249589,indication,Still's disease,C1456792,Still's disease with juvenile onset and/or adult onset,T047,410794002.0
+145359,4266,21003237,contraindication,Incontinence of feces,C0015732,Incontinence of feces,T047,72042002.0
+157869,2291,21001149,contraindication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+161920,2031,21000649,indication,Primary Hypogonadism due to Bilateral Torsion,,,,
+172611,1207,21011711,off-label use,Local Anesthesia for Ophthalmologic Procedure,,,,
+152996,4061,21001706,contraindication,Orthostatic hypotension,C0020651,Orthostatic hypotension,T033,28651003.0
+148453,380,21000609,contraindication,Hyperparathyroidism,C0020502,Hyperparathyroidism,T047,66999008.0
+144444,4616,21000517,contraindication,Primary malignant neoplasm of gastrointestinal tract,C1306632,Primary malignant neoplasm of gastrointestinal tract,T191,363745004.0
+154956,1732,21000897,contraindication,Neutropenic disorder,C0027947,Neutropenic disorder,T047,303011007.0
+148084,4498,21001071,contraindication,Neuroleptic malignant syndrome,C0027849,Neuroleptic malignant syndrome,T047,15244003.0
+137275,1048,21007034,contraindication,Anemia due to enzyme deficiency,C0272053,Anemia due to enzyme deficiency,T047,111577008.0
+135472,4349,21001903,contraindication,Fibrosis of lung,C0034069,Fibrosis of lung,T047,51615001.0
+143314,547,21002456,indication,Proteus Endometritis,,,,
+138414,2132,21001855,contraindication,Pulmonary emphysema,C0034067,Pulmonary emphysema,T047,87433001.0
+140834,305,21000609,contraindication,Hyperparathyroidism,C0020502,Hyperparathyroidism,T047,66999008.0
+168732,1817,21000996,contraindication,Alcoholism,C0001973,Alcoholism,T048,7200002.0
+148770,200,21000192,contraindication,Chronic type B viral hepatitis,C0524909,Chronic type B viral hepatitis,T047,61977001.0
+137517,3944,4342132,off-label use,Hodgkin's disease,C0019829,Hodgkin's disease,T191,118599009.0
+149904,4343,21001868,contraindication,Acute exacerbation of asthma,C0347950,Acute exacerbation of asthma,T047,708038006.0
+134357,103,21000897,contraindication,Neutropenic disorder,C0027947,Neutropenic disorder,T047,303011007.0
+175348,5679,21001074,indication,Amyotrophic lateral sclerosis,C0002736,Amyotrophic lateral sclerosis,T047,86044005.0
+157997,1767,21001460,contraindication,Angina pectoris,C0002962,Angina pectoris,T033,194828000.0
+141172,734,21002166,indication,Proctitis,C0033246,Proctitis,T047,3951002.0
+162984,2725,21013739,contraindication,Oral infection,C0555971,Oral infection,T047,275393007.0
+134584,785,21001498,contraindication,Pericardial effusion,C0031039,Pericardial effusion,T047,373945007.0
+138337,589,21001035,indication,Streptococcal meningitis,C0154639,Streptococcal meningitis,T047,4510004.0
+139697,475,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+135251,886,21001578,contraindication,Chronic heart failure,C0264716,Chronic heart failure,T047,48447003.0
+165923,3658,21001775,indication,Nasal congestion,C0027424,Nasal congestion,T184,68235000.0
+140985,1048,21001934,indication,Preoperative Bowel Preparation,,,,
+159485,1826,21001601,contraindication,Left ventricular hypertrophy,C0149721,Left ventricular hypertrophy,T047,55827005.0
+137447,1329,21000723,contraindication,Hypomagnesemia,C0151723,Hypomagnesemia,T033,190855004.0
+148700,954,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+137282,1085,21002319,contraindication,Urethral stricture,C0041974,Urethral stricture,T190,76618002.0
+154484,1056,21003064,indication,Severe Insomnia,,,,
+156315,3356,21001686,contraindication,Deep venous thrombosis,C0149871,Deep venous thrombosis,T047,128053003.0
+149567,2245,21002775,indication,Systemic lupus erythematosus,C0024141,Systemic lupus erythematosus,T047,55464009.0
+143516,2777,21002526,indication,E. Coli Septic Abortion,,,,
+155075,610,21000528,contraindication,Family history of malignant neoplasm of breast,C1261325,Family history of malignant neoplasm of breast,T033,429740004.0
+169287,2113,21001578,contraindication,Chronic heart failure,C0264716,Chronic heart failure,T047,48447003.0
+151346,2834,21012149,indication,Mineral deficiency,C0687148,Mineral deficiency,T047,111379007.0
+135827,348,21002908,contraindication,Osteopenia,C0029453,Osteopenia,T046,312894000.0
+171823,4527,21000750,contraindication,Body fluid retention,C0268000,Body fluid retention,T046,43498006.0
+157816,734,21000180,contraindication,Herpes simplex keratitis,C0019357,Herpes simplex keratitis,T047,9389005.0
+148913,4302,21002116,off-label use,Irritable bowel syndrome,C0022104,Irritable bowel syndrome,T047,10743008.0
+153819,2589,21003446,contraindication,"Pregnancy, function",C0032961,"Pregnancy, function",T040,289908002.0
+155250,811,21001149,contraindication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+150877,200,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+172937,3096,40249192,indication,Cholestanol storage disease,C0238052,Cholestanol storage disease,T047,63246000.0
+138101,842,21002296,contraindication,Impaired renal function disorder,C0341677,Impaired renal function disorder,T047,197663003.0
+172241,247,21000229,indication,Vivax malaria,C0024537,Vivax malaria,T047,27052006.0
+146799,676,21003068,contraindication,Sleep apnea,C0037315,Sleep apnea,T047,73430006.0
+139503,158,21000701,contraindication,Hypercholesterolemia,C0020443,Hypercholesterolemia,T047,13644009.0
+137935,669,21002453,indication,Enterobacter Endometritis,,,,
+141382,4203,21000755,contraindication,Familial hyperkalemic periodic paralysis,C0238357,Familial hyperkalemic periodic paralysis,T047,304737009.0
+175028,4907,40249360,indication,Hormone refractory prostate cancer,C1328504,Hormone refractory prostate cancer,T191,427492003.0
+140631,1245,21001433,off-label use,Hypertension due to Scleroderma,,,,
+139599,269,21000836,contraindication,Bone marrow depression,C0151773,Bone marrow depression,T047,307762000.0
+156174,2331,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+170375,2284,21000948,indication,Schizophrenia,C0036341,Schizophrenia,T048,58214004.0
+139715,2245,21000873,indication,Idiopathic thrombocytopenic purpura,C0043117,Idiopathic thrombocytopenic purpura,T047,32273002.0
+134176,2680,21009390,contraindication,Hemodialysis with High-Flux Membrane,,,,
+170025,4621,21002213,contraindication,Disorder of gallbladder,C0016977,Disorder of gallbladder,T047,39621005.0
+142973,2727,21001882,indication,Aspiration pneumonitis,C1761609,Aspiration pneumonitis,T047,155597006.0
+163821,1647,21000413,contraindication,Acute infectious disease,C0275518,Acute infectious disease,T047,63171007.0
+156023,616,21001206,contraindication,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+132903,4867,21003262,contraindication,Oliguria,C0028961,Oliguria,T184,83128009.0
+167775,4200,21013622,contraindication,Hyporeninemic hypoaldosteronism,C0376185,Hyporeninemic hypoaldosteronism,T047,236464008.0
+146593,1613,21003033,contraindication,Coma,C0009421,Coma,T047,371632003.0
+165617,1231,21002638,contraindication,Phototoxicity,C1527358,Phototoxicity,T047,84326006.0
+142403,2337,21001566,contraindication,Prolonged QT interval,C0151878,Prolonged QT interval,T033,111975006.0
+156283,912,21000860,contraindication,Disseminated intravascular coagulation,C0012739,Disseminated intravascular coagulation,T047,67406007.0
+141371,973,21002377,contraindication,Oligozoospermia,C0868910,Oligozoospermia,T034,88311004.0
+157477,871,21001860,contraindication,Asthma,C0004096,Asthma,T047,195967001.0
+141348,463,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+170881,625,21001022,contraindication,Depressive disorder,C0011581,Depressive disorder,T048,35489007.0
+167343,1082,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+165377,547,21002125,indication,Clostridium Peritonitis,,,,
+151544,1700,21013490,indication,Administration of Local Anesthetic Nerve Block,,,,
+153156,2239,21000733,contraindication,Hypercalcemia,C0020437,Hypercalcemia,T047,66931009.0
+145279,1655,21000604,contraindication,Diabetes mellitus,C0011849,Diabetes mellitus,T047,73211009.0
+171386,1878,21001126,contraindication,Lesion of brain,C0221505,Lesion of brain,T047,301766008.0
+134815,2995,21001136,contraindication,CNS Trauma,,,,
+156342,2616,21000067,indication,Erythema nodosum leprosum,C0343467,Erythema nodosum leprosum,T047,240411003.0
+152798,2977,21000345,indication,Refractory Aspergillosis,,,,
+163002,1890,21012862,off-label use,"Bipolar affective disorder, current episode depression",C0005587,"Bipolar affective disorder, current episode depression",T048,191627008.0
+171654,1606,21000712,contraindication,Hypoalbuminemia,C0239981,Hypoalbuminemia,T033,119247004.0
+146806,700,21001022,contraindication,Depressive disorder,C0011581,Depressive disorder,T048,35489007.0
+150225,2755,21000697,contraindication,Deficiency of glucose-6-phosphate dehydrogenase,C2939465,Deficiency of glucose-6-phosphate dehydrogenase,T047,124134002.0
+160283,2620,21011008,contraindication,Smoking cessation assistance,C1692317,Smoking cessation assistance,T061,384742004.0
+164807,4476,21001675,contraindication,Peripheral vascular disease,C0085096,Peripheral vascular disease,T047,400047006.0
+160683,2389,21013399,contraindication,Metabolic syndrome X,C0524620,Metabolic syndrome X,T047,237602007.0
+160525,773,21000439,indication,Metastatic malignant melanoma,C0860594,Metastatic malignant melanoma,T191,443493003.0
+167820,348,21002706,contraindication,Atrophoderma,C0151514,Atrophoderma,T047,399979006.0
+164402,2245,21001284,indication,Blepharoconjunctivitis,C0005743,Blepharoconjunctivitis,T047,68659002.0
+132720,4978,21002827,indication,Ankylosing spondylitis,C0038013,Ankylosing spondylitis,T047,9631008.0
+155678,647,21000732,contraindication,Hypocalcemia,C0020598,Hypocalcemia,T046,5291005.0
+150640,1817,21004638,indication,Prevention of NSAID-Induced Gastric Ulcer,,,,
+164601,868,21001206,contraindication,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+140505,504,21003063,indication,Insomnia,C0917801,Insomnia,T184,193462001.0
+153182,4383,21000746,contraindication,Dehydration,C0011175,Dehydration,T047,34095006.0
+157315,2749,21000789,contraindication,Obesity,C0028754,Obesity,T047,414916001.0
+163352,1696,21008952,contraindication,Hepatic encephalopathy,C0019151,Hepatic encephalopathy,T047,13920009.0
+161973,2755,21001846,indication,Acute exacerbation of chronic bronchitis,C0856695,Acute exacerbation of chronic bronchitis,T047,425748003.0
+166271,129,21002109,contraindication,Gastrointestinal obstruction,C0236124,Gastrointestinal obstruction,T046,126765001.0
+134906,4213,21006266,contraindication,Varicella-zoster virus infection,C0586989,Varicella-zoster virus infection,T047,309465005.0
+166068,625,21002208,contraindication,Calculus in biliary tract,C0008350,Calculus in biliary tract,T047,266474003.0
+152794,1948,21001586,contraindication,Left heart failure,C0023212,Left heart failure,T047,85232009.0
+165301,1510,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+173444,5280,40249341,indication,Immune thrombocytopenia,C0272286,Immune thrombocytopenia,T047,2897005.0
+145232,1024,21001458,contraindication,Chronic myocardial ischemia,C0264694,Chronic myocardial ischemia,T047,413844008.0
+156269,2514,21001848,indication,Streptococcus Pneumoniae Chronic Bronchitis,,,,
+162790,2279,21001629,contraindication,Cerebrovascular accident,C0038454,Cerebrovascular accident,T047,230690007.0
+145190,1513,21000310,indication,Onychomycosis of toenails,C1274470,Onychomycosis of toenails,T047,403059006.0
+168919,678,21002463,indication,Anaerobic Endometritis,,,,
+134667,1751,21002089,contraindication,Ulcerative colitis,C0009324,Ulcerative colitis,T047,64766004.0
+163043,609,21002216,contraindication,Obstruction of bile duct,C0008370,Obstruction of bile duct,T047,30144000.0
+162606,1028,21001528,contraindication,Wolff-Parkinson-White pattern,C0043202,Wolff-Parkinson-White pattern,T047,74390002.0
+143045,2831,21002100,contraindication,Gastroenteritis,C0017160,Gastroenteritis,T047,25374005.0
+172283,4753,21013468,indication,Exposure to Americium Radiation,,,,
+159990,594,21001614,contraindication,Congenital long QT syndrome,C1141890,Congenital long QT syndrome,T047,442917000.0
+158612,4072,21001770,contraindication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+152887,1879,21000825,off-label use,Congenital hypoplastic anemia,C1260899,Congenital hypoplastic anemia,T019,88854002.0
+146130,2512,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+160167,358,21001706,contraindication,Orthostatic hypotension,C0020651,Orthostatic hypotension,T033,28651003.0
+162748,1845,21002296,contraindication,Impaired renal function disorder,C0341677,Impaired renal function disorder,T047,197663003.0
+165215,1300,21000633,contraindication,Primary adrenocortical insufficiency,C0001403,Primary adrenocortical insufficiency,T047,373662000.0
+146352,1349,21002686,indication,Plaque psoriasis,C0406317,Plaque psoriasis,T047,200965009.0
+157098,2082,21001891,indication,Gangrenous pneumonia,C0264515,Gangrenous pneumonia,T047,7063008.0
+146145,2611,21003300,contraindication,Hypoxia,C0242184,Hypoxia,T046,389086002.0
+154710,616,21001077,contraindication,Disorder of autonomic nervous system,C1145628,Disorder of autonomic nervous system,T047,15241006.0
+147277,976,21000878,contraindication,Thrombocytopenic disorder,C0040034,Thrombocytopenic disorder,T033,302215000.0
+135505,4524,21000755,contraindication,Familial hyperkalemic periodic paralysis,C0238357,Familial hyperkalemic periodic paralysis,T047,304737009.0
+138973,1230,21000950,contraindication,Mania,C0338831,Mania,T048,231494001.0
+151284,435,21000999,contraindication,Opioid dependence,C0524662,Opioid dependence,T048,75544000.0
+146421,3927,21003309,indication,Catabolic Process,,,,
+164398,2148,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+173108,5060,21002811,indication,Osteoarthritis,C0029408,Osteoarthritis,T047,396275006.0
+149434,2607,21001063,contraindication,Chorea,C0008489,Chorea,T047,271700006.0
+145740,2291,21001566,contraindication,Prolonged QT interval,C0151878,Prolonged QT interval,T033,111975006.0
+137402,1897,21002154,contraindication,Peritonitis,C0031154,Peritonitis,T047,48661000.0
+136142,2468,21000289,indication,Disseminated Gonococcal Infection,,,,
+171389,1897,21001860,contraindication,Asthma,C0004096,Asthma,T047,195967001.0
+146637,1059,21000701,contraindication,Hypercholesterolemia,C0020443,Hypercholesterolemia,T047,13644009.0
+162730,4253,21002292,contraindication,Kidney disease,C0022658,Kidney disease,T047,90708001.0
+141106,2763,21000580,contraindication,Hyperthyroidism,C0020550,Hyperthyroidism,T047,34486009.0
+170520,2561,21008953,indication,Infiltrating duct carcinoma of breast,C1134719,Infiltrating duct carcinoma of breast,T191,408643008.0
+167827,432,21001460,contraindication,Angina pectoris,C0002962,Angina pectoris,T033,194828000.0
+152718,2726,21013803,contraindication,Cerebral malaria,C0024534,Cerebral malaria,T047,53622003.0
+138640,2770,21004377,contraindication,Hypovolemia,C0546884,Hypovolemia,T033,28560003.0
+160438,734,21002683,indication,Psoriasis,C0033860,Psoriasis,T047,9014002.0
+164335,574,21001924,indication,Lower respiratory tract infection,C0149725,Lower respiratory tract infection,T047,50417007.0
+150535,1539,21013880,contraindication,HLA-B 5701 Positive Status,,,,
+135613,1209,21013500,contraindication,Senile dementia,C0011268,Senile dementia,T048,15662003.0
+169072,2274,21013767,contraindication,Organophosphate poisoning,C0700359,Organophosphate poisoning,T037,8260003.0
+156532,2990,21000846,contraindication,Hemophilia,C0684275,Hemophilia,T047,90935002.0
+135608,4183,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+164702,1057,21011007,contraindication,Smokes tobacco daily,C3266136,Smokes tobacco daily,T033,449868002.0
+175772,2255,40249558,indication,Peripheral neuropathic pain,C0458960,Peripheral neuropathic pain,T184,279981003.0
+143250,2420,21002231,contraindication,Gastrointestinal hemorrhage,C0017181,Gastrointestinal hemorrhage,T046,74474003.0
+148867,463,21001053,contraindication,Reye's syndrome,C0035400,Reye's syndrome,T047,74351001.0
+132656,5020,40249064,indication,Antiseptic preparation,C0443072,Antiseptic preparation,T121,261276004.0
+143826,1854,21000026,contraindication,Pseudomembranous enterocolitis,C0014358,Pseudomembranous enterocolitis,T047,397683000.0
+167650,4526,21002236,off-label use,Stress-Related GI Mucosal Bleeding Prevention,,,,
+145567,1976,21001461,contraindication,Progressive Angina Pectoris,,,,
+154369,2370,21000736,contraindication,Hyponatremia,C0020625,Hyponatremia,T033,89627008.0
+172169,4741,21000038,indication,Pulmonary tuberculosis,C0041327,Pulmonary tuberculosis,T047,154283005.0
+134151,3135,21006439,contraindication,Ornithine Carbamyltransferase Deficiency,C0268542,Ornithine carbamoyltransferase deficiency,T047,80908008.0
+172997,234,21001432,indication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+135658,568,21002035,contraindication,Peptic ulcer,C0030920,Peptic ulcer,T047,13200003.0
+151832,2459,21013874,indication,Liver cell carcinoma,C2239176,Liver cell carcinoma,T191,109841003.0
+146492,3333,21000301,indication,Yaws,C0043388,Yaws,T047,70647001.0
+170578,2633,21000587,contraindication,Myxedema,C0027145,Myxedema,T047,43153006.0
+166601,4296,21001563,contraindication,Bradycardia,C0428977,Bradycardia,T046,48867003.0
+171201,4138,21000325,off-label use,Candidiasis of skin,C0006846,Candidiasis of skin,T047,49883006.0
+142376,463,21003181,contraindication,Shock,C0036974,Shock,T046,27942005.0
+172471,1444,21001472,indication,Slow Progression of Coronary Artery Disease,,,,
+162774,2801,21012355,indication,Prevention of CMV Disease After Kidney-Pancreas Transplantation,,,,
+163930,1814,21001629,contraindication,Cerebrovascular accident,C0038454,Cerebrovascular accident,T047,230690007.0
+146411,2861,21002196,contraindication,Hepatic failure,C0085605,Hepatic failure,T047,59927004.0
+169806,1986,21003173,contraindication,Epistaxis,C0014591,Epistaxis,T046,12441001.0
+154137,3344,21000846,contraindication,Hemophilia,C0684275,Hemophilia,T047,90935002.0
+160260,509,21000716,contraindication,Gout,C0018099,Gout,T047,90560007.0
+151554,294,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+147819,2777,21002436,indication,Female genital tract infection,C1263758,Female genital tract infection,T047,125585007.0
+148115,1768,21002172,contraindication,Anastomosis of intestine,C0192711,Anastomosis of intestine,T061,235407009.0
+171371,4293,21001572,contraindication,Conduction disorder of the heart,C0264886,Conduction disorder of the heart,T047,44808001.0
+156112,666,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+132648,5016,21008593,indication,Familial hypercholesterolemia - heterozygous,C0342882,Familial hypercholesterolemia - heterozygous,T019,238079002.0
+158395,4124,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+161839,1981,21001924,indication,Lower respiratory tract infection,C0149725,Lower respiratory tract infection,T047,50417007.0
+138669,1314,21003227,contraindication,Acute vomiting,C0232597,Acute vomiting,T184,23971007.0
+136284,1300,21001578,contraindication,Chronic heart failure,C0264716,Chronic heart failure,T047,48447003.0
+134871,4439,21002114,contraindication,Constipation,C0009806,Constipation,T184,14760008.0
+133463,2392,21001562,contraindication,Sick sinus syndrome,C0037052,Sick sinus syndrome,T047,36083008.0
+132806,990,21000241,indication,African trypanosomiasis,C0041228,African trypanosomiasis,T047,27031003.0
+147642,2620,21001855,indication,Pulmonary emphysema,C0034067,Pulmonary emphysema,T047,87433001.0
+141928,1808,21001594,contraindication,Disorder of cardiovascular system,C0007222,Disorder of cardiovascular system,T047,49601007.0
+141706,1798,21000327,indication,Prevention of Disseminated Candidiasis,,,,
+137846,2607,21002394,contraindication,Gynecomastia,C0018418,Gynecomastia,T047,4754008.0
+146397,3188,21003293,contraindication,Nonspecific Abnormal Papanicolaou Smear of Cervix,,,,
+173310,5179,21002686,indication,Plaque psoriasis,C0406317,Plaque psoriasis,T047,200965009.0
+163234,4072,21013571,contraindication,Operation on stomach,C0192398,Operation on stomach,T061,16453004.0
+148947,513,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+153891,776,21005673,indication,Prevention of Thromboembolism with Chronic Atrial Fibrillation,,,,
+138506,2253,21001770,indication,Allergic rhinitis,C2607914,Allergic rhinitis,T047,61582004.0
+170407,2770,21001480,contraindication,Cor pulmonale,C0034072,Cor pulmonale,T047,83291003.0
+140938,463,21001517,contraindication,Complete atrioventricular block,C0151517,Complete atrioventricular block,T047,27885002.0
+155337,875,21002475,contraindication,Endometriosis,C0014175,Endometriosis,T047,129103003.0
+172506,1444,21000703,indication,Hypertriglyceridemia,C0020557,Hypertriglyceridemia,T033,302870006.0
+138270,2514,21000144,indication,Aerobic Gram-Negative Bacillary Infection,,,,
+140436,2497,21001299,indication,Infective blepharitis,C0729587,Infective blepharitis,T047,312219000.0
+168684,4213,21003181,contraindication,Shock,C0036974,Shock,T046,27942005.0
+174224,5401,40249453,indication,Human immunodeficiency virus I infection,C0276500,Human immunodeficiency virus I infection,T047,40780007.0
+136355,1385,21000737,contraindication,Acidosis,C0001122,Acidosis,T046,51387008.0
+172039,2245,21001261,contraindication,Vaccinia keratitis,C1301518,Vaccinia keratitis,T047,397552005.0
+166095,1230,21002232,contraindication,Upper gastrointestinal hemorrhage,C0041909,Upper gastrointestinal hemorrhage,T046,37372002.0
+140120,1208,21001252,indication,Punctate keratopathy,C0423234,Punctate keratopathy,T033,246936005.0
+146279,4664,21002310,contraindication,Bladder outflow obstruction,C0403654,Bladder outflow obstruction,T020,236645006.0
+142651,2727,21002686,indication,Plaque psoriasis,C0406317,Plaque psoriasis,T047,200965009.0
+146859,209,21001909,contraindication,Eosinophilic asthma,C1527407,Eosinophilic asthma,T047,367542003.0
+134852,4246,21001284,indication,Blepharoconjunctivitis,C0005743,Blepharoconjunctivitis,T047,68659002.0
+169909,1385,21012480,contraindication,Intestinal Angioedema,,,,
+139732,2326,21001563,contraindication,Bradycardia,C0428977,Bradycardia,T046,48867003.0
+143022,812,21001109,contraindication,Lowered convulsive threshold,C0234976,Lowered convulsive threshold,T033,19260006.0
+138062,348,21003410,indication,Transfusion reaction due to serum protein reaction,C0036830,Transfusion reaction due to serum protein reaction,T047,72284000.0
+160984,1575,21001919,indication,Bronchospasm,C0006266,Bronchospasm,T047,4386001.0
+135919,419,21013551,contraindication,Operation on nose,C0188970,Operation on nose,T061,88733004.0
+169895,3424,21001126,contraindication,Lesion of brain,C0221505,Lesion of brain,T047,301766008.0
+171403,2751,21000886,contraindication,Leukopenia,C0023530,Leukopenia,T047,84828003.0
+150924,4456,21001860,indication,Asthma,C0004096,Asthma,T047,195967001.0
+148107,1612,21000705,indication,Mixed hyperlipidemia,C0020474,Mixed hyperlipidemia,T047,267434003.0
+139101,1942,21001709,contraindication,Low blood pressure,C0020649,Low blood pressure,T033,45007003.0
+152447,2328,21010769,contraindication,Jaundice,C0022346,Jaundice,T046,18165001.0
+168079,2148,21000719,contraindication,Hemochromatosis,C0018995,Hemochromatosis,T047,399187006.0
+168992,817,21001469,contraindication,Disorder of coronary artery,C1956346,Disorder of coronary artery,T047,414024009.0
+158447,2279,21000775,contraindication,Hepatic porphyria,C0162533,Hepatic porphyria,T047,55056006.0
+144806,2405,21001578,contraindication,Chronic heart failure,C0264716,Chronic heart failure,T047,48447003.0
+171428,1189,21001589,contraindication,Decompensated cardiac failure,C0581377,Decompensated cardiac failure,T047,195111005.0
+145365,1583,21001128,contraindication,Intracerebral Mass,,,,
+156505,4293,21002899,indication,Postmenopausal osteoporosis,C0029458,Postmenopausal osteoporosis,T047,102447009.0
+165004,1454,21002319,contraindication,Urethral stricture,C0041974,Urethral stricture,T190,76618002.0
+153801,812,21002292,contraindication,Kidney disease,C0022658,Kidney disease,T047,90708001.0
+171504,1386,21001763,contraindication,Nasal polyp,C0027430,Nasal polyp,T190,52756005.0
+156129,2726,21002847,contraindication,Traumatic rupture of tendon,C0151937,Traumatic rupture of tendon,T037,415749005.0
+133533,1816,21001072,contraindication,Serotonin syndrome,C0699828,Serotonin syndrome,T037,371089000.0
+132687,5000,21000701,indication,Hypercholesterolemia,C0020443,Hypercholesterolemia,T047,13644009.0
+140755,1426,21002591,indication,Infection of skin AND/OR subcutaneous tissue,C0178299,Infection of skin AND/OR subcutaneous tissue,T047,19824006.0
+155665,1968,21002775,contraindication,Systemic lupus erythematosus,C0024141,Systemic lupus erythematosus,T047,55464009.0
+137888,1981,21001370,indication,Staphylococcus Aureus Otitis Externa,,,,
+133598,2715,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+164622,2847,21003207,contraindication,Respiratory tract hemorrhage,C0235560,Respiratory tract hemorrhage,T047,95431003.0
+163601,59,21001211,contraindication,Glaucoma,C0017601,Glaucoma,T047,23986001.0
+146664,4349,21002808,indication,Juvenile rheumatoid arthritis,C3495559,Juvenile rheumatoid arthritis,T047,410795001.0
+158984,1523,21001473,contraindication,Myocardial ischemia,C0151744,Myocardial ischemia,T047,414795007.0
+137525,1399,21002292,contraindication,Kidney disease,C0022658,Kidney disease,T047,90708001.0
+157606,1863,21002811,indication,Osteoarthritis,C0029408,Osteoarthritis,T047,396275006.0
+147180,2120,21007034,contraindication,Anemia due to enzyme deficiency,C0272053,Anemia due to enzyme deficiency,T047,111577008.0
+144579,2611,21002594,indication,Minor Bacterial Skin Infections,,,,
+156268,2543,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+161959,703,21001206,contraindication,Angle-closure glaucoma,C0017605,Angle-closure glaucoma,T047,392291006.0
+157862,2253,21006439,contraindication,Ornithine Carbamyltransferase Deficiency,C0268542,Ornithine carbamoyltransferase deficiency,T047,80908008.0
+159236,4350,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+172808,4905,21001177,indication,Exudative age-related macular degeneration,C0271084,Exudative age-related macular degeneration,T047,414173003.0
+172806,3572,40249140,indication,Sunscreen agent,C0038818,Sunscreen agent,T167,49663007.0
+136319,867,21003247,contraindication,Severe diarrhea,C1443924,Severe diarrhea,T184,409587002.0
+152265,701,21000505,contraindication,Pheochromocytoma,C0031511,Pheochromocytoma,T191,302835009.0
+162263,640,21002434,indication,Inflammatory Disease of Female Pelvic Organs,,,,
+167981,59,21001105,contraindication,Epilepsy,C0014544,Epilepsy,T047,84757009.0
+168691,4161,21001902,contraindication,Interstitial pneumonia,C0206061,Interstitial pneumonia,T047,64667001.0
+140045,2377,21000087,indication,Prevention of Meningococcal Meningitis,,,,
+155903,995,21001460,contraindication,Angina pectoris,C0002962,Angina pectoris,T033,194828000.0
+147977,1024,21001999,contraindication,Gastroesophageal reflux disease,C0017168,Gastroesophageal reflux disease,T047,235595009.0
+163865,1059,21003454,indication,Contraception,C0700589,Contraception,T061,13197004.0
+151413,864,21002202,contraindication,Disease of liver,C0023895,Disease of liver,T047,235856003.0
+140168,678,21000110,indication,Bacterial septicemia,C0684256,Bacterial septicemia,T047,10001005.0
+171165,968,4343717,contraindication,Uterine leiomyoma,C0042133,Uterine leiomyoma,T191,95315005.0
+171043,2228,21002361,off-label use,Benign prostatic hyperplasia,C1739363,Benign prostatic hyperplasia,T047,266569009.0
+150510,3344,21000697,contraindication,Deficiency of glucose-6-phosphate dehydrogenase,C2939465,Deficiency of glucose-6-phosphate dehydrogenase,T047,124134002.0
+160281,2489,21003328,contraindication,Burn injury,C0006434,Burn injury,T037,48333001.0
+147922,4129,21000733,contraindication,Hypercalcemia,C0020437,Hypercalcemia,T047,66931009.0
+138615,966,21002361,contraindication,Benign prostatic hyperplasia,C1739363,Benign prostatic hyperplasia,T047,266569009.0
+139007,4441,21003351,contraindication,Poisoning by digitalis glycoside,C0274726,Poisoning by digitalis glycoside,T037,12876009.0
+136210,4350,21013442,contraindication,Chronic idiopathic constipation,C0267509,Chronic idiopathic constipation,T047,82934008.0
+132741,4923,40249180,indication,Squamous cell carcinoma of lung,C0149782,Squamous cell carcinoma of lung,T191,254634000.0
+137473,2031,21000907,contraindication,Thrombophilia,C0398623,Thrombophilia,T047,234467004.0
+173401,2427,21002473,indication,Bacterial vaginosis,C0085166,Bacterial vaginosis,T047,419760006.0
+134861,4456,21004387,indication,Synovitis,C0039103,Synovitis,T047,416209007.0
+135386,2245,21013782,contraindication,Severe myopia,C0271183,Severe myopia,T047,34187009.0
+152253,2146,21000962,contraindication,Psychotic disorder,C0033975,Psychotic disorder,T048,69322001.0
+137403,1897,21001836,contraindication,Increased Bronchial Secretions,,,,
+169832,1210,21000657,indication,Deficiency of testosterone biosynthesis,C0342527,Deficiency of testosterone biosynthesis,T047,38825009.0
+147837,1217,21003118,indication,Eruption of skin,C0015230,Eruption of skin,T047,271807003.0
+168609,1714,21001679,contraindication,Thrombophlebitis,C0040046,Thrombophlebitis,T047,64156001.0
+156325,1519,21003333,indication,Burn Wound Infections,,,,
+153090,4266,21013975,contraindication,BK Polyomavirus Reactivation Nephropathy,,,,
+157547,968,21001686,contraindication,Deep venous thrombosis,C0149871,Deep venous thrombosis,T047,128053003.0
+150399,934,21001689,contraindication,Thrombotic thrombocytopenic purpura,C0034155,Thrombotic thrombocytopenic purpura,T047,78129009.0
+152254,2146,21001450,contraindication,Myocardial infarction in recovery phase,C1633725,Myocardial infarction in recovery phase,T201,418044006.0
+160692,2342,21002510,indication,Atrophic vaginitis,C0221392,Atrophic vaginitis,T047,52441000.0
+171199,4201,21000763,contraindication,Hyperchloremia,C0085679,Hyperchloremia,T047,74450001.0
+155934,470,21002766,contraindication,Denuded skin,C1626417,Denuded skin,T033,418242004.0
+162951,499,21000580,contraindication,Hyperthyroidism,C0020550,Hyperthyroidism,T047,34486009.0
+153430,2684,21000772,indication,Synergy for P. Aeruginosa Infection in Cystic Fibrosis,,,,
+133884,1962,4343717,contraindication,Uterine leiomyoma,C0042133,Uterine leiomyoma,T191,95315005.0
+161359,2803,21001129,contraindication,Organic mental disorder,C0029227,Organic mental disorder,T048,111479008.0
+156419,1587,21000600,off-label use,Diabetic retinopathy,C0011884,Diabetic retinopathy,T047,4855003.0
+170282,2525,21013757,contraindication,Slow acetylator due to N-acetyltransferase enzyme variant,C1827377,Slow acetylator due to N-acetyltransferase enzyme variant,T047,425079005.0
+148065,1218,21003452,contraindication,Breastfeeding (mother),C1623040,Breastfeeding (mother),T033,413712001.0
+138619,925,21001804,indication,Pneumonia due to Streptococcus,C0155862,Pneumonia due to Streptococcus,T047,34020007.0
+172174,1770,40249053,indication,Exfoliative Erythroderma,,,,
+137820,1862,21000962,contraindication,Psychotic disorder,C0033975,Psychotic disorder,T048,69322001.0
+160350,586,21001991,contraindication,Esophagitis,C0014868,Esophagitis,T047,16761005.0
+154055,1481,21003277,contraindication,Azotemia,C0242528,Azotemia,T047,445009001.0
+159337,1967,21009033,indication,Synergy for Nosocomial Pneumonia due to Pseudomonas Aeruginosa,,,,
+175358,530,40249687,indication,Infection of biliary tract,C0920156,Infection of biliary tract,T047,846685008.0
+154686,2029,21003053,contraindication,Seizure disorder,C0014544,Seizure disorder,T047,128613002.0
+142568,2684,21002882,indication,E. Coli Osteomyelitis,,,,
+138588,2366,21003338,contraindication,Traumatic injury,C3263723,Traumatic injury,T037,417746004.0
+141344,419,21002084,indication,Crohn's disease,C0010346,Crohn's disease,T047,34000006.0
+135895,2827,21000892,contraindication,Severe Granulocytopenia,,,,
+154966,2271,21001149,contraindication,Myasthenia gravis,C0026896,Myasthenia gravis,T047,91637004.0
+156288,868,21002013,contraindication,Gastric ulcer,C0038358,Gastric ulcer,T047,397825006.0
+160128,3521,21000505,contraindication,Pheochromocytoma,C0031511,Pheochromocytoma,T191,302835009.0
+171726,4439,21000725,contraindication,Hypophosphatemia,C0085682,Hypophosphatemia,T046,4996001.0
+171102,1500,21001432,contraindication,Hypertensive disorder,C0020538,Hypertensive disorder,T047,38341003.0
+134523,1064,21000640,indication,Female hypogonadism syndrome,C0271578,Female hypogonadism syndrome,T047,16041008.0
+153074,2146,21001871,contraindication,Exacerbation of asthma,C0349790,Exacerbation of asthma,T033,281239006.0
+157254,1201,21006272,contraindication,Measles,C0025007,Measles,T047,14189004.0
+150542,1711,21000523,off-label use,Non-small cell lung cancer,C0007131,Non-small cell lung cancer,T191,254637007.0
+137760,2326,21001086,contraindication,Spastic paralysis,C0085621,Spastic paralysis,T046,78403003.0
+148366,229,21000863,contraindication,Blood coagulation disorder,C0005779,Blood coagulation disorder,T047,64779008.0
+162724,4265,21013579,contraindication,Bacterial infection of eye,C0015404,Bacterial infection of eye,T047,128984004.0
+150937,1768,21002677,indication,Granuloma annulare,C0085074,Granuloma annulare,T047,65508009.0
+148356,198,21000094,indication,Sepsis due to Staphylococcus aureus,C2887088,Sepsis due to Staphylococcus aureus,T047,448417001.0
+162567,4264,21001401,contraindication,Irritation of ear,C0423576,Irritation of ear,T033,162360008.0
+144137,3424,21002231,contraindication,Gastrointestinal hemorrhage,C0017181,Gastrointestinal hemorrhage,T046,74474003.0
+175047,4922,40249595,indication,Sepsis caused by Serratia,C2887097,Sepsis caused by Serratia,T047,449084002.0
+134227,2286,21005429,indication,Seasonal allergic rhinitis,C0018621,Seasonal allergic rhinitis,T047,367498001.0
+151959,2187,21002124,indication,Bacteroides Peritonitis,,,,
+165210,441,21002361,contraindication,Benign prostatic hyperplasia,C1739363,Benign prostatic hyperplasia,T047,266569009.0
+134698,1967,21002625,indication,Skin and Skin Structure Morganella Morganii Infection,,,,
+154740,1386,21002104,contraindication,Paralytic ileus,C0030446,Paralytic ileus,T047,55525008.0

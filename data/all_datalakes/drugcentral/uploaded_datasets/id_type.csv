@@ -1,0 +1,22 @@
+id,type,description,url
+33,VANDF,Veterans Health Administration National Drug File,
+34,NDFRT,National Drug File,
+35,NDDF,FDB MedKnowledge (formerly NDDF Plus),
+36,RXNORM,RxNorm Vocabulary,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=
+37,MMSL,Multum MediSource Lexicon,
+38,SNOMEDCT_US,US Edition of SNOMED CT,http://browser.ihtsdotools.org/?perspective=full&edition=us-edition&release=v20160901&server=https://browser-aws-1.ihtsdotools.org/api/snomed&langRefset=900000000000509007&conceptId1=
+25,DRUGBANK_ID,DrugBank ID,http://www.drugbank.ca/drugs/
+26,MESH_DESCRIPTOR_UI,Medical Subject Headings (MeSH) Descriptor Unique ID,http://www.ncbi.nlm.nih.gov/mesh/?term=
+27,MESH_SUPPLEMENTAL_RECORD_UI,Medical Subject Headings (MeSH) Supplemental Record Unique ID,http://www.ncbi.nlm.nih.gov/mesh/?term=
+28,SECONDARY_CAS_RN,Secondary assigned CAS Registry Number,http://chem.sis.nlm.nih.gov/chemidplus/rn/
+29,KEGG_DRUG,KEGG DRUG Database ID,http://www.kegg.jp/entry/
+31,INN_ID,Sequential number assigned by World Health Organization's International Nonproprietary Name (INN) Programme,https://mednet-communities.net/inn/db/ViewINN.aspx?i=
+32,UNII,FDA Unique Ingredient Identifier Code,http://chem.sis.nlm.nih.gov/chemidplus/unii/
+22,PDB_CHEM_ID,PDB Chemical Components Dictionary id,http://www.rcsb.org/pdb/ligand/ligandsummary.do?hetId=
+23,CHEBI,Chemical Entities of Biological Interest,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=
+20,PUBCHEM_CID,PubChem Compound Id,https://pubchem.ncbi.nlm.nih.gov/compound/
+19,IUPHAR_LIGAND_ID,IUPHAR/BPS Guide to PHARMACOLOGY Ligand Id,http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=
+18,ChEMBL_ID,ChEMBL DB Compound ID,https://www.ebi.ac.uk/chembl/compound/inspect/
+10,NUI,Veterans Health Administration National Drug File - Reference Terminology,
+12,UMLSCUI,Unified Medical Language System (UMLS) Concept Unique Identifier,
+14,VUID,Veterans Health Administration National Drug File,

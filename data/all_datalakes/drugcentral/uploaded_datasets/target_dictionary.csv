@@ -1,0 +1,1001 @@
+id,name,target_class,protein_components,protein_type,tdl
+2968,cGMP-dependent protein kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+3650,Uridine 5'-monophosphate synthase,Enzyme,1,SINGLE PROTEIN,Tclin
+2251,Myosin-IIIb,Kinase,1,SINGLE PROTEIN,Tdark
+2001,"Carnitine O-palmitoyltransferase 1, muscle isoform",Enzyme,1,SINGLE PROTEIN,
+317,"Glutamate receptor ionotropic, NMDA 2D",Ion channel,1,SINGLE PROTEIN,Tclin
+2744,Muscle-type nicotinic acetylcholine receptor,Ion channel,5,PROTEIN COMPLEX GROUP,Tclin|Tclin|Tclin|Tclin|Tclin
+1982,Hydroxycarboxylic acid receptor 2,GPCR,1,SINGLE PROTEIN,
+2480,Peptidyl-prolyl cis-trans isomerase FKBP5,Enzyme,1,SINGLE PROTEIN,Tchem
+564,ATP-sensitive inward rectifier potassium channel 8,Ion channel,1,SINGLE PROTEIN,Tbio
+382,Tyrosine-protein kinase ABL1,Kinase,1,SINGLE PROTEIN,Tclin
+2220,Mitogen-activated protein kinase kinase kinase kinase 3,Kinase,1,SINGLE PROTEIN,Tchem
+2910,Somatostatin receptor,GPCR,5,PROTEIN FAMILY,
+3896,Metabotropic glutamate receptor 2,GPCR,1,SINGLE PROTEIN,
+2330,Serine/threonine-protein kinase/endoribonuclease IRE1,Kinase,1,SINGLE PROTEIN,Tchem
+5296,RAF proto-oncogene serine/threonine-protein kinase,Kinase,1,SINGLE PROTEIN,Tclin
+3474,Penicillin-binding protein,Enzyme,6,PROTEIN FAMILY,
+1887,Somatostatin receptor type 5,GPCR,1,SINGLE PROTEIN,
+3430,Lactase-phlorizin hydrolase,Enzyme,1,SINGLE PROTEIN,Tbio
+5154,Peptidyl-prolyl cis-trans isomerase A,Enzyme,1,SINGLE PROTEIN,Tclin
+2510,Prostatic acid phosphatase,Enzyme,1,SINGLE PROTEIN,Tchem
+326,Adenosine deaminase,Enzyme,1,SINGLE PROTEIN,Tclin
+2495,Multidrug and toxin extrusion protein 2,Transporter,1,SINGLE PROTEIN,Tchem
+2327,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Kinase,1,SINGLE PROTEIN,Tchem
+5348,Amine oxidase [flavin-containing] A,Enzyme,1,SINGLE PROTEIN,Tclin
+5991,Cholinesterase,Enzyme,1,SINGLE PROTEIN,
+275,Amidase; Nicotinamidase; Nicotinamidase/pyrazinamidase; Pyrazinamidase; Pyrazinamidase/nicotinamidase; Pyrazinamidase/nicotinamidase PncA,Enzyme,1,SINGLE PROTEIN,
+988,Androgen receptor,Transcription factor,1,SINGLE PROTEIN,
+797,Abelson tyrosine-protein kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+3892,Metabotropic glutamate receptor 5,GPCR,1,SINGLE PROTEIN,
+1361,Probable arabinosyltransferase A,Enzyme,1,SINGLE PROTEIN,
+809,"Nitric oxide synthase, brain",Enzyme,1,SINGLE PROTEIN,Tchem
+838,Free fatty acid receptor 1,GPCR,1,SINGLE PROTEIN,Tchem
+282,Inosine-5'-monophosphate dehydrogenase 1,Enzyme,1,SINGLE PROTEIN,Tclin
+144,Sodium-dependent dopamine transporter,Transporter,1,SINGLE PROTEIN,Tclin
+2212,Leukocyte tyrosine kinase receptor,Kinase,1,SINGLE PROTEIN,Tclin
+419,Uncharacterized oxidoreductase CzcO-like,Enzyme,1,SINGLE PROTEIN,
+496,Pancreatic alpha-amylase,Enzyme,1,SINGLE PROTEIN,Tclin
+5236,DNA gyrase subunit B,Enzyme,1,SINGLE PROTEIN,
+4927,Gamma-aminobutyric acid type B receptor subunit 1,GPCR,1,SINGLE PROTEIN,
+2724,Neuronal acetylcholine receptor; alpha2/beta2,Ion channel,2,PROTEIN COMPLEX,
+5373,C-C chemokine receptor type 1,GPCR,1,SINGLE PROTEIN,Tchem
+2370,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta,Kinase,1,SINGLE PROTEIN,Tchem
+3915,Transient receptor potential cation channel subfamily M member 4,Ion channel,1,SINGLE PROTEIN,
+5399,Cyclin-dependent kinase 7,Kinase,1,SINGLE PROTEIN,Tchem
+64,Sodium channel subunit beta-3,Ion channel,1,SINGLE PROTEIN,Tbio
+33,Dipeptidyl peptidase 4,Enzyme,1,SINGLE PROTEIN,
+736,Ephrin type-A receptor 8,Kinase,1,SINGLE PROTEIN,Tchem
+5958,Dihydroorotate dehydrogenase,Enzyme,1,SINGLE PROTEIN,
+195,DNA gyrase subunit A,Enzyme,1,SINGLE PROTEIN,
+2059,Sodium/glucose cotransporter 1,Transporter,1,SINGLE PROTEIN,Tclin
+2381,Vesicular acetylcholine transporter,Transporter,1,SINGLE PROTEIN,
+575,Histone deacetylase 5,Enzyme,1,SINGLE PROTEIN,Tclin
+3986,Potassium voltage-gated channel subfamily A member 7,Ion channel,1,SINGLE PROTEIN,
+3701,Interleukin-1 receptor antagonist protein,Unclassified,1,SINGLE PROTEIN,Tchem
+2156,Neuronal acetylcholine receptor subunit alpha-2,Ion channel,1,SINGLE PROTEIN,
+1204,Glutamate receptor 2,Ion channel,1,SINGLE PROTEIN,
+2911,Protein kinase C (PKC),Kinase,8,PROTEIN FAMILY,
+2127,Abhydrolase domain-containing protein 16A,Enzyme,1,SINGLE PROTEIN,Tchem
+116,Muscarinic acetylcholine receptor M4,GPCR,1,SINGLE PROTEIN,Tclin
+359,"Deoxyguanosine kinase, mitochondrial",Kinase,1,SINGLE PROTEIN,Tbio
+5439,Capsid protein,Unclassified,1,SINGLE PROTEIN,
+6767,Glucocorticoid receptor,Unclassified,1,SINGLE PROTEIN,
+1123,Bifunctional dihydrofolate reductase-thymidylate synthase,Enzyme,1,SINGLE PROTEIN,
+2344,Microtubule-associated serine/threonine-protein kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+1731,Type-1B angiotensin II receptor,GPCR,1,SINGLE PROTEIN,
+679,Tyrosine-protein kinase JAK1,Kinase,1,SINGLE PROTEIN,Tclin
+1849,Melatonin receptor type 1B,GPCR,1,SINGLE PROTEIN,
+3601,Phospholipase A2 group 1B,Enzyme,1,SINGLE PROTEIN,
+3184,Corticotropin-releasing factor receptor 1,GPCR,1,SINGLE PROTEIN,Tclin
+6976,Transient receptor potential cation channel subfamily V member 5,Ion channel,1,SINGLE PROTEIN,Tchem
+1745,Muscarinic acetylcholine receptor M1,GPCR,1,SINGLE PROTEIN,
+2692,"Cob(I)yrinic acid a,c-diamide adenosyltransferase, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tbio
+3846,Lutropin-choriogonadotropic hormone receptor,GPCR,1,SINGLE PROTEIN,
+2102,Dihydrofolate reductase,Enzyme,1,SINGLE PROTEIN,
+2873,Muscarinic acetylcholine receptor,GPCR,5,PROTEIN FAMILY,
+1708,Beta-lactamase 1,Enzyme,1,SINGLE PROTEIN,
+4153,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,Enzyme,1,SINGLE PROTEIN,
+5999,Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha,Kinase,1,SINGLE PROTEIN,Tbio
+167,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+2024,Protein-tyrosine kinase 6,Kinase,1,SINGLE PROTEIN,Tchem
+2112,"Glutamate receptor ionotropic, kainate 4",Ion channel,1,SINGLE PROTEIN,
+421,ADP/ATP translocase 2,Enzyme,1,SINGLE PROTEIN,Tbio
+392,Vasopressin V2 receptor,GPCR,1,SINGLE PROTEIN,Tclin
+3962,Potassium channel subfamily T member 1,Ion channel,1,SINGLE PROTEIN,
+5309,Lipoprotein lipase,Enzyme,1,SINGLE PROTEIN,Tchem
+5339,Vascular endothelial growth factor receptor 1,Kinase,1,SINGLE PROTEIN,Tclin
+4252,Survival motor neuron protein,Unclassified,1,SINGLE PROTEIN,Tbio
+395,Peroxisome proliferator-activated receptor gamma,Nuclear hormone receptor,1,SINGLE PROTEIN,Tclin
+2782,GABA-A receptor,Ion channel,13,PROTEIN COMPLEX GROUP,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+5292,Estrogen receptor,Nuclear other,1,SINGLE PROTEIN,Tclin
+2568,G-protein coupled receptor 55,GPCR,1,SINGLE PROTEIN,Tclin
+3816,Sodium channel protein type 9 subunit alpha,Ion channel,1,SINGLE PROTEIN,
+1805,Type-2 angiotensin II receptor,GPCR,1,SINGLE PROTEIN,
+2404,Tyrosine-protein phosphatase non-receptor type 11,Enzyme,1,SINGLE PROTEIN,Tchem
+3226,Parathyroid hormone 2 receptor,GPCR,1,SINGLE PROTEIN,Tchem
+5133,"1,3-Beta-D-glucan-UDP glucosyltransferase",Enzyme,1,SINGLE PROTEIN,
+428,"25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tchem
+1895,Neuronal acetylcholine receptor subunit alpha-7,Ion channel,1,SINGLE PROTEIN,
+2393,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+2490,Aminopeptidase N,Enzyme,1,SINGLE PROTEIN,
+3865,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,Enzyme,1,SINGLE PROTEIN,
+2433,Farnesyl diphosphate synthase,Enzyme,1,SINGLE PROTEIN,
+2703,Solute carrier organic anion transporter family member 1A2,Transporter,1,SINGLE PROTEIN,Tbio
+860,P2Y purinoceptor 2,GPCR,1,SINGLE PROTEIN,Tclin
+1712,Mitogen-activated protein kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+1960,Voltage-dependent L-type calcium channel subunit alpha-1S,Ion channel,1,SINGLE PROTEIN,
+499,Tubulin alpha chain,Structural,1,SINGLE PROTEIN,
+6975,Transient receptor potential cation channel subfamily V member 4,Ion channel,1,SINGLE PROTEIN,Tchem
+907,Voltage-dependent L-type calcium channel subunit alpha-1F,Ion channel,1,SINGLE PROTEIN,Tclin
+5512,Bromodomain-containing protein 9,Unclassified,1,SINGLE PROTEIN,Tchem
+865,Mitogen-activated protein kinase 14,Kinase,1,SINGLE PROTEIN,Tchem
+2012,Estrogen receptor beta,Transcription factor,1,SINGLE PROTEIN,
+5543,Receptor-interacting serine/threonine-protein kinase 3,Kinase,1,SINGLE PROTEIN,Tchem
+94,Potassium voltage-gated channel subfamily H member 2,Ion channel,1,SINGLE PROTEIN,Tclin
+1746,Carbonic anhydrase 13,Enzyme,1,SINGLE PROTEIN,
+2199,Activin receptor type-2A,Kinase,1,SINGLE PROTEIN,Tbio
+540,Proto-oncogene tyrosine-protein kinase receptor Ret,Kinase,1,SINGLE PROTEIN,Tclin
+775,Serine/threonine-protein kinase 10,Kinase,1,SINGLE PROTEIN,Tchem
+1755,Squalene synthase,Enzyme,1,SINGLE PROTEIN,
+2799,Neuronal acetylcholine receptor; alpha2/beta2,Ion channel,2,PROTEIN COMPLEX,Tchem|Tclin
+5450,"Glutamate receptor ionotropic, NMDA 2A",Ion channel,1,SINGLE PROTEIN,Tclin
+2105,Glutamate receptor 3,Ion channel,1,SINGLE PROTEIN,
+3584,Aminopeptidase N,Enzyme,1,SINGLE PROTEIN,
+3947,Potassium voltage-gated channel subfamily A member 4,Ion channel,1,SINGLE PROTEIN,
+385,Type-1 angiotensin II receptor,GPCR,1,SINGLE PROTEIN,Tclin
+3610,Folylpoly-gamma-glutamate synthetase,Enzyme,1,SINGLE PROTEIN,
+365,Nicotinamide phosphoribosyltransferase,Enzyme,1,SINGLE PROTEIN,Tchem
+3603,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Enzyme,1,SINGLE PROTEIN,
+1930,KiSS-1 receptor,GPCR,1,SINGLE PROTEIN,Tchem
+252,Neuronal acetylcholine receptor subunit alpha-7,Ion channel,1,SINGLE PROTEIN,Tchem
+7091,Cyclic GMP-AMP synthase,Unclassified,1,SINGLE PROTEIN,Tchem
+3866,Alpha-galactosidase C,Enzyme,1,SINGLE PROTEIN,
+44,Sodium/glucose cotransporter 4,Transporter,1,SINGLE PROTEIN,Tdark
+6262,"Carbamate kinase, EC 2.7.2.2",Unclassified,1,SINGLE PROTEIN,
+4006,Heat-stable enterotoxin receptor,Enzyme,1,SINGLE PROTEIN,
+4554,Dihydroorotate dehydrogenase,Enzyme,1,SINGLE PROTEIN,
+306,Gamma-aminobutyric acid receptor subunit alpha-4,Ion channel,1,SINGLE PROTEIN,Tclin
+4145,Purine nucleoside phosphorylase,Enzyme,1,SINGLE PROTEIN,
+4,calcium,Inorganic material,0,,
+2512,Solute carrier family 23 member 2,Transporter,1,SINGLE PROTEIN,Tbio
+633,Alcohol dehydrogenase [NADP(+)],Enzyme,1,SINGLE PROTEIN,Tchem
+2150,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+4562,Phosphatidylinositol 3-kinase catalytic subunit type 3,Kinase,1,SINGLE PROTEIN,Tchem
+712,Tyrosine-protein kinase JAK2,Kinase,1,SINGLE PROTEIN,Tclin
+376,Prothrombin,Enzyme,1,SINGLE PROTEIN,Tclin
+425,"Steroid 17-alpha-hydroxylase/17,20 lyase",Enzyme,1,SINGLE PROTEIN,Tclin
+3838,"Cytochrome P450 11B2, mitochondrial",Enzyme,1,SINGLE PROTEIN,
+1961,High affinity choline transporter 1,Transporter,1,SINGLE PROTEIN,
+478,"Pencillin binding protein 2a; Penicillin binding protein 2'; Penicillin binding protein, PBP2; Penicillin-binding protein 2; Penicillin-binding protein 2'; Peptidase",Enzyme,1,SINGLE PROTEIN,
+2342,Mitogen-activated protein kinase kinase kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+2634,High voltage-activated calcium channel beta subunit CavB2,Ion channel,1,SINGLE PROTEIN,
+2876,Estrogen receptor,Nuclear hormone receptor,2,PROTEIN FAMILY,Tclin|Tclin
+324,Ribonucleoside-diphosphate reductase subunit M2,Enzyme,1,SINGLE PROTEIN,Tclin
+812,Steroid hormone receptor ERR2,Nuclear hormone receptor,1,SINGLE PROTEIN,Tchem
+1604,TGF-beta receptor type-2,Kinase,1,SINGLE PROTEIN,Tchem
+660,Calcium/calmodulin-dependent protein kinase type 1,Kinase,1,SINGLE PROTEIN,Tchem
+3592,Holo-[acyl-carrieir-protein] synthase,Enzyme,1,SINGLE PROTEIN,
+3504,Nuclear receptor subfamily 2 group E member 1,Nuclear hormone receptor,1,SINGLE PROTEIN,Tbio
+3827,M18 aspartyl aminopeptidase,Enzyme,1,SINGLE PROTEIN,
+5148,Prostaglandin E2 receptor EP4 subtype,GPCR,1,SINGLE PROTEIN,Tclin
+6026,Adenosine receptor A1,GPCR,1,SINGLE PROTEIN,
+1750,Beta-2 adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+572,Lysosomal Pro-X carboxypeptidase,Enzyme,1,SINGLE PROTEIN,Tchem
+2345,Serine/threonine-protein kinase 38,Kinase,1,SINGLE PROTEIN,Tbio
+2461,Dual specificity mitogen-activated protein kinase kinase 5,Kinase,1,SINGLE PROTEIN,Tchem
+263,fMet-Leu-Phe receptor,GPCR,1,SINGLE PROTEIN,Tchem
+1507,Ribonuclease pancreatic,Enzyme,1,SINGLE PROTEIN,
+2366,Cyclin-dependent kinase-like 5,Kinase,1,SINGLE PROTEIN,Tchem
+291,Cholinesterase,Enzyme,1,SINGLE PROTEIN,Tclin
+2819,Acetylcholine receptor; alpha1/beta1/delta/gamma,Ion channel,4,PROTEIN COMPLEX,Tclin|Tclin|Tclin|Tclin
+2418,Cytosol aminopeptidase,Enzyme,1,SINGLE PROTEIN,
+6024,Jak1 protein,Unclassified,1,SINGLE PROTEIN,
+723,"Myosin light chain kinase 2, skeletal/cardiac muscle",Kinase,1,SINGLE PROTEIN,Tbio
+2523,Melanocyte-stimulating hormone receptor,GPCR,1,SINGLE PROTEIN,Tclin
+5375,Melanocortin receptor 3,GPCR,1,SINGLE PROTEIN,
+3518,Tubulin beta,Tumour-associated antigen,9,PROTEIN COMPLEX GROUP,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+2525,Interleukin-1 receptor type 1,Membrane receptor,1,SINGLE PROTEIN,Tclin
+5534,Inositol hexakisphosphate kinase 2,Kinase,1,SINGLE PROTEIN,Tbio
+2615,TyR1,GPCR,1,SINGLE PROTEIN,
+2576,Protein cereblon,Cytosolic other,1,SINGLE PROTEIN,Tclin
+2075,Non-lysosomal glucosylceramidase,Enzyme,1,SINGLE PROTEIN,
+3678,Caspase-7,Enzyme,1,SINGLE PROTEIN,Tchem
+2171,Casein kinase I isoform alpha-like,Kinase,1,SINGLE PROTEIN,Tdark
+391,Vasopressin V1b receptor,GPCR,1,SINGLE PROTEIN,Tclin
+171,5-hydroxytryptamine receptor 3A,Ion channel,1,SINGLE PROTEIN,Tclin
+5141,Poly [ADP-ribose] polymerase 1,Unclassified,1,SINGLE PROTEIN,Tclin
+2079,Solute carrier family 22 member 20,Transporter,1,SINGLE PROTEIN,
+2169,Protein-tyrosine kinase 2-beta,Kinase,1,SINGLE PROTEIN,Tclin
+4228,T-cell surface glycoprotein CD4,Membrane receptor,1,SINGLE PROTEIN,Tclin
+966,Activin receptor type-1,Kinase,1,SINGLE PROTEIN,Tchem
+2728,Neuronal acetylcholine receptor; alpha4/beta4,Ion channel,2,PROTEIN COMPLEX,
+439,Potassium voltage-gated channel subfamily A member 3,Ion channel,1,SINGLE PROTEIN,Tclin
+1126,Excitatory amino acid transporter 1,Transporter,1,SINGLE PROTEIN,Tchem
+5478,Vitamin K epoxide reductase complex subunit 1,Unclassified,1,SINGLE PROTEIN,
+2845,Cyclooxygenase,Enzyme,2,PROTEIN FAMILY,
+5259,Beta-3 adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+6156,Myosin-7,Enzyme,1,SINGLE PROTEIN,Tclin
+292,Interleukin-2,Cytokine,1,SINGLE PROTEIN,Tchem
+123,Canalicular multispecific organic anion transporter 1,Transporter,1,SINGLE PROTEIN,Tbio
+2270,Mitogen-activated protein kinase 4,Kinase,1,SINGLE PROTEIN,Tbio
+5138,GTPase KRas,Enzyme,1,SINGLE PROTEIN,Tchem
+378,Melatonin receptor type 1A,GPCR,1,SINGLE PROTEIN,Tclin
+4138,Glucagon-like peptide 2 receptor,GPCR,1,SINGLE PROTEIN,
+477,Squalene monooxygenase,Enzyme,1,SINGLE PROTEIN,Tchem
+841,Phospholipase A2,Enzyme,1,SINGLE PROTEIN,Tchem
+2840,Melatonin receptor,GPCR,2,PROTEIN FAMILY,Tclin|Tclin
+5331,"Solute carrier family 2, facilitated glucose transporter member 4",Transporter,1,SINGLE PROTEIN,
+5430,Asc-type amino acid transporter 1,Unclassified,1,SINGLE PROTEIN,
+3934,5-hydroxytryptamine receptor 1B,GPCR,1,SINGLE PROTEIN,
+4567,Lysyl oxidase homolog 4,Enzyme,1,SINGLE PROTEIN,Tbio
+5302,Matrix protein 2,Unclassified,1,SINGLE PROTEIN,
+799,Mitogen-activated protein kinase 11,Kinase,1,SINGLE PROTEIN,Tchem
+892,Cyclin-dependent kinase 16,Kinase,1,SINGLE PROTEIN,Tchem
+4520,Calmodulin-1,Cytosolic other,1,SINGLE PROTEIN,Tclin
+187,Voltage-dependent L-type calcium channel subunit alpha-1C,Ion channel,1,SINGLE PROTEIN,Tclin
+2604,Neuronal acetylcholine receptor subunit alpha-4,Ion channel,1,SINGLE PROTEIN,
+5992,Bifunctional epoxide hydrolase 2 [Includes: Cytosolic epoxide hydrolase 2,Enzyme,1,SINGLE PROTEIN,
+3985,Matrilysin,Enzyme,1,SINGLE PROTEIN,
+3485,"Heat shock protein 75 kDa, mitochondrial",Unclassified,1,SINGLE PROTEIN,Tchem
+2133,Serine/threonine-protein kinase 3,Kinase,1,SINGLE PROTEIN,Tchem
+3967,Growth hormone secretagogue receptor type 1,GPCR,1,SINGLE PROTEIN,
+3570,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",Enzyme,1,SINGLE PROTEIN,
+5459,BDNF/NT-3 growth factors receptor,Kinase,1,SINGLE PROTEIN,Tclin
+4091,Potassium voltage-gated channel subfamily KQT member 1,Ion channel,1,SINGLE PROTEIN,
+217,ATP-binding cassette sub-family C member 9,Ion channel,1,SINGLE PROTEIN,Tclin
+431,"Serine hydroxymethyltransferase, cytosolic",Enzyme,1,SINGLE PROTEIN,Tbio
+2442,Epoxide hydrolase; Epoxide hydrolase EphB,Enzyme,1,SINGLE PROTEIN,
+2569,B2 bradykinin receptor,GPCR,1,SINGLE PROTEIN,
+2859,Cerebral cortex alpha adrenergic receptor,GPCR,2,PROTEIN FAMILY,
+1026,Gamma-butyrobetaine dioxygenase,Enzyme,1,SINGLE PROTEIN,Tchem
+95,Cytochrome P450 3A4,Enzyme,1,SINGLE PROTEIN,Tclin
+211,ATP-binding cassette sub-family C member 11,Transporter,1,SINGLE PROTEIN,Tbio
+2402,Histamine H4 receptor,GPCR,1,SINGLE PROTEIN,
+890,Ephrin type-B receptor 1,Kinase,1,SINGLE PROTEIN,Tchem
+5364,Transcriptional enhancer factor TEF-1,Transcription factor,1,SINGLE PROTEIN,Tbio
+2905,Monoamine oxidase,Enzyme,2,PROTEIN FAMILY,
+5986,cAMP-dependent protein kinase catalytic subunit gamma,Kinase,1,SINGLE PROTEIN,Tchem
+3335,Chloride channel protein ClC-Kb,Ion channel,1,SINGLE PROTEIN,Tbio
+2034,D(1A) dopamine receptor,GPCR,1,SINGLE PROTEIN,
+1901,Amine oxidase [flavin-containing] A,Enzyme,1,SINGLE PROTEIN,
+214,Large neutral amino acids transporter small subunit 1,Transporter,1,SINGLE PROTEIN,Tbio
+330,Carbonic anhydrase 12,Enzyme,1,SINGLE PROTEIN,Tclin
+5545,Endothelial lipase,Enzyme,1,SINGLE PROTEIN,Tchem
+793,Serine/threonine-protein kinase 16,Kinase,1,SINGLE PROTEIN,Tchem
+2559,5'-nucleotidase,Enzyme,1,SINGLE PROTEIN,
+2280,Tyrosine-protein kinase Fes/Fps,Kinase,1,SINGLE PROTEIN,Tclin
+2437,Thymidylate synthase,Enzyme,1,SINGLE PROTEIN,
+36,Heat-stable enterotoxin receptor,Enzyme,1,SINGLE PROTEIN,Tclin
+5482,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+451,Phosphoserine aminotransferase,Enzyme,1,SINGLE PROTEIN,Tbio
+5489,NS5B protein,Unclassified,1,SINGLE PROTEIN,
+3594,ATP phosphoribosyltransferase,Enzyme,1,SINGLE PROTEIN,
+267,Prostacyclin synthase,Enzyme,1,SINGLE PROTEIN,Tbio
+5240,Type IV secretion-like conjugative transfer relaxase protein TraI,Unclassified,1,SINGLE PROTEIN,
+1690,G-protein coupled receptor family C group 6 member A,GPCR,1,SINGLE PROTEIN,Tbio
+1996,Metabotropic glutamate receptor 6,GPCR,1,SINGLE PROTEIN,
+3450,Caspase-2,Enzyme,1,SINGLE PROTEIN,Tchem
+2779,Glutamate NMDA receptor,Ion channel,7,PROTEIN COMPLEX GROUP,
+2628,"Leucine--tRNA ligase, cytoplasmic",Enzyme,1,SINGLE PROTEIN,
+5434,Polyphenol oxidase 1,Enzyme,1,SINGLE PROTEIN,
+515,Argininosuccinate synthase,Enzyme,1,SINGLE PROTEIN,Tbio
+130,5-hydroxytryptamine receptor 1B,GPCR,1,SINGLE PROTEIN,Tclin
+2229,Dual specificity mitogen-activated protein kinase kinase 4,Kinase,1,SINGLE PROTEIN,Tchem
+3548,Ceramide glucosyltransferase,Enzyme,1,SINGLE PROTEIN,
+5402,C-C chemokine receptor type 5,GPCR,1,SINGLE PROTEIN,Tclin
+3660,Triglycerides,Metabolite,0,,
+2483,Proteasome subunit beta type-2,Enzyme,1,SINGLE PROTEIN,Tclin
+2277,Receptor-interacting serine/threonine-protein kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+857,Vitamin K-dependent protein C,Enzyme,1,SINGLE PROTEIN,Tchem
+4379,Penicillin-binding protein 1B,Enzyme,1,SINGLE PROTEIN,
+2686,Glucagon-like peptide 2 receptor,GPCR,1,SINGLE PROTEIN,Tclin
+126,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,Ion channel,1,SINGLE PROTEIN,Tchem
+847,ALK tyrosine kinase receptor,Kinase,1,SINGLE PROTEIN,Tclin
+5469,Nonstructural protein 5A,Unclassified,1,SINGLE PROTEIN,
+1994,Trifunctional purine biosynthetic protein adenosine-3,Enzyme,1,SINGLE PROTEIN,Tclin
+3271,Cation channel sperm-associated protein 2,Ion channel,1,SINGLE PROTEIN,Tchem
+2787,GABA A receptor alpha-6/beta-2/gamma-2,Ion channel,3,PROTEIN COMPLEX,
+3828,Glutamate racemase,Enzyme,1,SINGLE PROTEIN,
+226,D-alanyl-D-alanine carboxypeptidase; D-alanyl-D-alanine carboxypeptidase penicillin-binding protein 6,Enzyme,1,SINGLE PROTEIN,
+2230,Dual specificity mitogen-activated protein kinase kinase 6,Kinase,1,SINGLE PROTEIN,Tchem
+5641,Interleukin-17F,Cytokine,1,SINGLE PROTEIN,Tclin
+3438,MBT domain-containing protein 1,Unclassified,1,SINGLE PROTEIN,Tdark
+1815,Type-1 angiotensin II receptor,GPCR,1,SINGLE PROTEIN,
+2190,Serine/threonine-protein kinase Nek7,Kinase,1,SINGLE PROTEIN,Tbio
+2488,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+81,Translocator protein,Transporter,1,SINGLE PROTEIN,Tchem
+597,Cyclin-dependent kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+3847,Carbonic anhydrase,Enzyme,1,SINGLE PROTEIN,
+690,Carbonic anhydrase 6,Enzyme,1,SINGLE PROTEIN,Tclin
+1791,Acetylcholinesterase,Enzyme,1,SINGLE PROTEIN,
+3830,Neprilysin,Enzyme,1,SINGLE PROTEIN,
+699,Poly [ADP-ribose] polymerase 1,Enzyme,1,SINGLE PROTEIN,Tclin
+170,Alpha-1D adrenergic receptor,GPCR,1,SINGLE PROTEIN,Tclin
+5466,Stimulator of interferon genes protein,Unclassified,1,SINGLE PROTEIN,
+6268,"7,8-dihydro-8-oxoguanine triphosphatase",Enzyme,1,SINGLE PROTEIN,Tchem
+5260,Protein translocase subunit SecA 1,Unclassified,1,SINGLE PROTEIN,
+4055,Potassium voltage-gated channel subfamily D member 3,Ion channel,1,SINGLE PROTEIN,
+372,Interleukin-6,Cytokine,1,SINGLE PROTEIN,Tclin
+1899,Peroxisome proliferator-activated receptor alpha,Transcription factor,1,SINGLE PROTEIN,
+2777,GABA-A receptor; anion channel,Ion channel,6,PROTEIN COMPLEX GROUP,
+21,H3N2 subtype,Virus,0,,
+3869,Female germline-specific tumor suppressor gld-1,Unclassified,1,SINGLE PROTEIN,
+565,"Troponin C, slow skeletal and cardiac muscles",Cytosolic other,1,SINGLE PROTEIN,Tclin
+501,Sex hormone-binding globulin,Secreted,1,SINGLE PROTEIN,Tchem
+870,Dual specificity protein kinase CLK1,Kinase,1,SINGLE PROTEIN,Tchem
+1816,Amine oxidase [flavin-containing] B,Enzyme,1,SINGLE PROTEIN,
+1744,Muscarinic acetylcholine receptor M2,GPCR,1,SINGLE PROTEIN,
+4077,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,Ion channel,1,SINGLE PROTEIN,
+2567,D-amino-acid oxidase,Enzyme,1,SINGLE PROTEIN,Tchem
+26,Trichophyton mentagrophytes,Fungi,0,,
+1776,Thymidine kinase,Kinase,1,SINGLE PROTEIN,
+72,Thymidine kinase,Kinase,1,SINGLE PROTEIN,
+438,Potassium voltage-gated channel subfamily A member 10,Ion channel,1,SINGLE PROTEIN,Tclin
+3613,Folate transporter 1,Transporter,1,SINGLE PROTEIN,Tchem
+2448,Serine/threonine-protein kinase 32A,Kinase,1,SINGLE PROTEIN,Tdark
+6007,"4-aminobutyrate aminotransferase, mitochondrial",Enzyme,1,SINGLE PROTEIN,
+2023,Serine/threonine-protein kinase ULK3,Kinase,1,SINGLE PROTEIN,
+704,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",Kinase,1,SINGLE PROTEIN,Tclin
+361,Hydroxycarboxylic acid receptor 2,GPCR,1,SINGLE PROTEIN,Tclin
+3633,Ectonucleoside triphosphate diphosphohydrolase 2,Enzyme,1,SINGLE PROTEIN,
+97,Multidrug resistance protein 1,Transporter,1,SINGLE PROTEIN,Tchem
+5012,High affinity immunoglobulin gamma Fc receptor I,Membrane receptor,1,SINGLE PROTEIN,Tchem
+2333,G protein-coupled receptor kinase 7,Kinase,1,SINGLE PROTEIN,Tchem
+2702,Thiopurine S-methyltransferase,Enzyme,1,SINGLE PROTEIN,Tchem
+2336,Homeodomain-interacting protein kinase 4,Kinase,1,SINGLE PROTEIN,Tchem
+2302,"Sucrase-isomaltase, intestinal",Enzyme,1,SINGLE PROTEIN,Tchem
+4047,Transient receptor potential cation channel subfamily A member 1,Ion channel,1,SINGLE PROTEIN,
+701,"Tyrosine--tRNA ligase, cytoplasmic",Enzyme,1,SINGLE PROTEIN,Tchem
+2747,Bacterial urease,Enzyme,3,PROTEIN COMPLEX,
+4511,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",Enzyme,1,SINGLE PROTEIN,Tchem
+2889,Alcohol dehydrogenase,Enzyme,2,PROTEIN FAMILY,
+3889,Core protein,Unclassified,1,SINGLE PROTEIN,
+1642,Regulatory protein E2,Unclassified,1,SINGLE PROTEIN,
+2479,Smoothened homolog,GPCR,1,SINGLE PROTEIN,
+2785,"Glutamate receptor ionotropic, AMPA",Ion channel,4,PROTEIN COMPLEX GROUP,
+3856,Equilibrative nucleoside transporter 2,Transporter,1,SINGLE PROTEIN,
+5426,Taste receptor type 2 member 50,GPCR,1,SINGLE PROTEIN,Tbio
+25,Staphylococcus aureus subsp. aureus,Bacteria,0,,
+3270,Cation channel sperm-associated protein 1,Ion channel,1,SINGLE PROTEIN,Tchem
+5335,Sodium channel protein type 4 subunit alpha,Ion channel,1,SINGLE PROTEIN,
+2761,"Amiloride-sensitive sodium channel, ENaC",Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+5291,Genome polyprotein [Cleaved into: P1; Capsid protein VP0,Unclassified,1,SINGLE PROTEIN,
+2441,"Epoxide hydrolase EphE; Hydrolase, alpha/beta hydrolase fold family",Enzyme,1,SINGLE PROTEIN,
+4564,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",Enzyme,1,SINGLE PROTEIN,Tchem
+73,Thymidine kinase,Kinase,1,SINGLE PROTEIN,
+5640,Interferon alpha/beta receptor 1,Membrane receptor,1,SINGLE PROTEIN,Tclin
+5338,Platelet-derived growth factor receptor alpha,Kinase,1,SINGLE PROTEIN,Tclin
+5346,Beta-adrenergic receptor kinase 1,Kinase,1,SINGLE PROTEIN,
+874,Serine/threonine-protein kinase 38-like,Kinase,1,SINGLE PROTEIN,Tchem
+2746,Glycine receptor (alpha-1/beta),Ion channel,2,PROTEIN COMPLEX,Tclin|Tclin
+3459,Sialidase 3,Enzyme,1,SINGLE PROTEIN,Tbio
+2871,MAP kinase p38,Kinase,4,PROTEIN FAMILY,Tchem|Tchem|Tchem|Tchem
+2631,Pyruvate:ferredoxin oxidoreductase,Enzyme,1,SINGLE PROTEIN,
+5320,Proto-oncogene tyrosine-protein kinase ROS,Kinase,1,SINGLE PROTEIN,Tclin
+2833,NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor),Kinase,2,PROTEIN COMPLEX,Tbio|Tclin
+738,"Glutamate receptor ionotropic, kainate 2",Ion channel,1,SINGLE PROTEIN,Tclin
+3418,"NAD-dependent protein deacylase sirtuin-5, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tbio
+2435,Lysine-specific demethylase 4E,Enzyme,1,SINGLE PROTEIN,Tchem
+1795,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+6973,Mitochondrial pyruvate carrier 2,Transporter,1,SINGLE PROTEIN,Tbio
+2295,Xanthine dehydrogenase/oxidase,Enzyme,1,SINGLE PROTEIN,
+3683,Lysine-specific histone demethylase 1B,Enzyme,1,SINGLE PROTEIN,Tbio
+1997,Muscarinic acetylcholine receptor M4,GPCR,1,SINGLE PROTEIN,
+1840,5-hydroxytryptamine receptor 2C,GPCR,1,SINGLE PROTEIN,
+4249,GABA-A receptor alpha-6/beta-3/delta,Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+3730,Poly [ADP-ribose] polymerase 14,Enzyme,1,SINGLE PROTEIN,
+2732,GABA-A receptor alpha-2/beta-3/gamma-2,Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+3843,Neprilysin,Enzyme,1,SINGLE PROTEIN,
+112,Histamine H4 receptor,GPCR,1,SINGLE PROTEIN,Tchem
+2398,Efflux transporter; SugE,Transporter,1,SINGLE PROTEIN,
+2003,Progesterone receptor,Transcription factor,1,SINGLE PROTEIN,
+2397,Endochitinase,Enzyme,1,SINGLE PROTEIN,
+3530,Purine nucleoside phosphorylase,Enzyme,1,SINGLE PROTEIN,
+2749,Topoisomerase IV,Enzyme,2,PROTEIN COMPLEX,
+465,Retinol-binding protein 4,Secreted,1,SINGLE PROTEIN,Tchem
+2514,Solute carrier family 22 member 3,Transporter,1,SINGLE PROTEIN,Tchem
+189,DNA topoisomerase 2-alpha,Enzyme,1,SINGLE PROTEIN,Tclin
+5647,Cation-independent mannose-6-phosphate receptor,Membrane receptor,1,SINGLE PROTEIN,Tclin
+2768,Cyclin-dependent kinase 5/CDK5 activator 1,Kinase,2,PROTEIN COMPLEX,Tchem|Tchem
+2122,Lysosomal alpha-glucosidase,Enzyme,1,SINGLE PROTEIN,
+313,Amine oxidase [flavin-containing] A,Enzyme,1,SINGLE PROTEIN,Tclin
+2621,Oxoeicosanoid receptor 1,GPCR,1,SINGLE PROTEIN,Tchem
+2751,Tubulin,Structural,7,PROTEIN COMPLEX GROUP,
+2826,Protein farnesyltransferase,Enzyme,2,PROTEIN COMPLEX,
+3574,D-alanylalanine synthetase,Enzyme,1,SINGLE PROTEIN,
+4140,Transmembrane domain-containing protein TMIGD3,Unclassified,1,SINGLE PROTEIN,
+5503,Eyes absent homolog 3,Enzyme,1,SINGLE PROTEIN,Tbio
+6054,Cysteine proteinase falcipain 2a,Enzyme,1,SINGLE PROTEIN,
+5486,Transient receptor potential cation channel subfamily A member 1,Ion channel,1,SINGLE PROTEIN,
+6771,Dual specificity mitogen-activated protein kinase kinase 4,Unclassified,1,SINGLE PROTEIN,
+49,Sodium/nucleoside cotransporter 1,Transporter,1,SINGLE PROTEIN,Tbio
+5400,Cyclin-dependent kinase 9,Kinase,1,SINGLE PROTEIN,Tchem
+4158,Calmodulin,Cytosolic other,1,SINGLE PROTEIN,
+1885,Somatostatin receptor type 3,GPCR,1,SINGLE PROTEIN,
+2714,Retinol-binding protein 1,Cytosolic other,1,SINGLE PROTEIN,Tbio
+2005,Angiotensin-converting enzyme 2,Enzyme,1,SINGLE PROTEIN,
+1736,Dihydrofolate reductase,Enzyme,1,SINGLE PROTEIN,
+1733,Alpha-2B adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+2051,Muscarinic acetylcholine receptor M2,GPCR,1,SINGLE PROTEIN,
+2519,ATP-dependent molecular chaperone HSP82,Cytosolic other,1,SINGLE PROTEIN,
+5990,Bifunctional purine biosynthesis protein PURH,Enzyme,1,SINGLE PROTEIN,Tchem
+2361,Serine/threonine-protein kinase PLK2,Kinase,1,SINGLE PROTEIN,Tchem
+7077,Lysine-specific demethylase 4A,Unclassified,1,SINGLE PROTEIN,Tchem
+4101,Nuclear receptor subfamily 1 group I member 2,Nuclear hormone receptor,1,SINGLE PROTEIN,
+2262,Dual specificity testis-specific protein kinase 1,Kinase,1,SINGLE PROTEIN,Tbio
+5340,Atrial natriuretic peptide receptor 1,Enzyme,1,SINGLE PROTEIN,
+2883,Estrogen receptor,Transcription factor,2,PROTEIN FAMILY,
+2356,Serine/threonine-protein kinase ULK2,Kinase,1,SINGLE PROTEIN,Tchem
+3569,Squalene monooxygenase,Enzyme,1,SINGLE PROTEIN,
+6059,5'-AMP-activated protein kinase subunit gamma-2,Kinase,1,SINGLE PROTEIN,Tchem
+1916,Retinoic acid receptor gamma,Transcription factor,1,SINGLE PROTEIN,
+6031,Envelope glycoprotein gp160 [Cleaved into: Surface protein gp120,Unclassified,1,SINGLE PROTEIN,
+4552,ELAV-like protein 1,Unclassified,1,SINGLE PROTEIN,Tchem
+3971,Transient receptor potential cation channel subfamily V member 1,Ion channel,1,SINGLE PROTEIN,
+274,Cyclopropane mycolic acid synthase 1,Enzyme,1,SINGLE PROTEIN,
+210,Multidrug resistance-associated protein 5,Transporter,1,SINGLE PROTEIN,Tchem
+2822,Acetylcholine receptor,Ion channel,4,PROTEIN COMPLEX,
+901,STE20-like serine/threonine-protein kinase,Kinase,1,SINGLE PROTEIN,Tchem
+4113,Succinate receptor 1,GPCR,1,SINGLE PROTEIN,
+552,Hypoxanthine-guanine phosphoribosyltransferase,Enzyme,1,SINGLE PROTEIN,Tchem
+237,Progesterone receptor,Nuclear hormone receptor,1,SINGLE PROTEIN,Tclin
+6032,Uncharacterized protein FLJ45252,Unclassified,1,SINGLE PROTEIN,Tchem
+244,Aromatic-L-amino-acid decarboxylase,Enzyme,1,SINGLE PROTEIN,Tclin
+2846,Serotonin (5-HT) receptor,GPCR,14,PROTEIN FAMILY,
+2931,GABA A receptor alpha-5/beta-2/gamma-2,Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+3481,Protein-tyrosine phosphatase 1C,Enzyme,1,SINGLE PROTEIN,Tchem
+2907,Phosphodiesterase 1,Enzyme,3,PROTEIN FAMILY,
+779,Renin,Enzyme,1,SINGLE PROTEIN,
+739,"Glutamate receptor ionotropic, kainate 3",Ion channel,1,SINGLE PROTEIN,Tclin
+5497,Phosphodiesterase,Enzyme,1,SINGLE PROTEIN,
+1399,Prolyl 4-hydroxylase subunit alpha-1,Enzyme,1,SINGLE PROTEIN,Tbio
+3559,Thymidine kinase,Kinase,1,SINGLE PROTEIN,
+2120,Sonic hedgehog protein,Enzyme,1,SINGLE PROTEIN,
+3452,Sorbitol dehydrogenase,Enzyme,1,SINGLE PROTEIN,Tchem
+5344,Proteasome subunit beta type-1,Enzyme,1,SINGLE PROTEIN,Tclin
+1965,Vasopressin V2 receptor,GPCR,1,SINGLE PROTEIN,
+5490,Prolyl 3-hydroxylase OGFOD1,Unclassified,1,SINGLE PROTEIN,Tbio
+3546,Trehalase,Enzyme,1,SINGLE PROTEIN,
+2434,Low affinity sodium-glucose cotransporter,Transporter,1,SINGLE PROTEIN,Tchem
+2098,Carbapenem-hydrolizing beta-lactamase SFC-1,Enzyme,1,SINGLE PROTEIN,
+885,"Nitric oxide synthase, endothelial",Enzyme,1,SINGLE PROTEIN,Tchem
+1904,Histidine-rich protein PFHRP-II,Cytosolic other,1,SINGLE PROTEIN,
+554,Plasminogen activator inhibitor 1,Secreted,1,SINGLE PROTEIN,Tchem
+891,Calcium/calmodulin-dependent protein kinase type 1D,Kinase,1,SINGLE PROTEIN,Tchem
+3513,Interleukin-23,Cytokine,2,PROTEIN COMPLEX,Tclin|Tclin
+3250,Taste receptor type 2 member 14,GPCR,1,SINGLE PROTEIN,Tbio
+2618,Ace-orthologous acetylcholinesterase; Acetylcholinesterase,Enzyme,1,SINGLE PROTEIN,
+2125,C-X-C chemokine receptor type 4,GPCR,1,SINGLE PROTEIN,
+3690,aspargine,Amino acid,0,,
+2737,GABA-A receptor alpha-1/beta-2/gamma-3,Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+2878,Phosphodiesterase 6,Enzyme,6,PROTEIN FAMILY,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+853,Ephrin type-A receptor 3,Kinase,1,SINGLE PROTEIN,Tchem
+6034,Serine/threonine-protein kinase/endoribonuclease IRE2,Kinase,1,SINGLE PROTEIN,Tbio
+485,UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2,Enzyme,1,SINGLE PROTEIN,
+1292,Endolysin,Enzyme,1,SINGLE PROTEIN,
+4119,Gonadotropin-releasing hormone receptor,GPCR,1,SINGLE PROTEIN,
+553,Toll-like receptor 7,Membrane receptor,1,SINGLE PROTEIN,Tclin
+435,Oxytocin-neurophysin 1,Secreted,1,SINGLE PROTEIN,Tbio
+2020,cGMP-gated cation channel alpha-1,Ion channel,1,SINGLE PROTEIN,
+2430,AP-2 complex subunit sigma,Unclassified,1,SINGLE PROTEIN,
+2126,Sn1-specific diacylglycerol lipase beta,Enzyme,1,SINGLE PROTEIN,Tchem
+804,Matrix metalloproteinase-9,Enzyme,1,SINGLE PROTEIN,Tchem
+430,Vitamin D 25-hydroxylase,Enzyme,1,SINGLE PROTEIN,Tbio
+548,Equilibrative nucleoside transporter 1,Transporter,1,SINGLE PROTEIN,Tclin
+469,Retinaldehyde-binding protein 1,Transporter,1,SINGLE PROTEIN,Tbio
+5417,Taste receptor type 2 member 40,GPCR,1,SINGLE PROTEIN,Tbio
+256,DNA gyrase subunit B,Enzyme,1,SINGLE PROTEIN,
+1938,Adenosine receptor A3,GPCR,1,SINGLE PROTEIN,
+490,Phenylalanine--tRNA ligase beta subunit,Enzyme,1,SINGLE PROTEIN,
+5237,Thiamine transporter ThiT,Transporter,1,SINGLE PROTEIN,
+2507,Beta-lactamase TEM,Enzyme,1,SINGLE PROTEIN,
+1775,Transporter,Transporter,1,SINGLE PROTEIN,
+2214,Serine/threonine-protein kinase PAK 6,Kinase,1,SINGLE PROTEIN,Tchem
+3602,Human papillomavirus regulatory protein E2,Unclassified,1,SINGLE PROTEIN,
+2450,Protein kinase C iota type,Kinase,1,SINGLE PROTEIN,Tbio
+7080,Proteasome subunit beta type-6,Unclassified,1,SINGLE PROTEIN,Tbio
+1306,Methionine synthase,Enzyme,1,SINGLE PROTEIN,Tbio
+3980,Nuclear receptor subfamily 2 group C member 2,Nuclear other,1,SINGLE PROTEIN,
+3726,Toxin B,Enzyme,1,SINGLE PROTEIN,
+2721,Transitional endoplasmic reticulum ATPase,Enzyme,1,SINGLE PROTEIN,Tchem
+6275,"Farnesyl pyrophosphate synthase, EC 2.5.1.1, EC 2.5.1.10",Unclassified,1,SINGLE PROTEIN,
+3386,Neuronal acetylcholine receptor subunit alpha-6,Ion channel,1,SINGLE PROTEIN,Tchem
+795,Small conductance calcium-activated potassium channel protein 3,Ion channel,1,SINGLE PROTEIN,Tchem
+5261,Potassium channel subfamily K member 3,Ion channel,1,SINGLE PROTEIN,Tclin
+3840,Bifunctional protein GlmU,Enzyme,1,SINGLE PROTEIN,
+5151,Prostaglandin E2 receptor EP2 subtype,GPCR,1,SINGLE PROTEIN,Tclin
+1952,Solute carrier family 22 member 6,Transporter,1,SINGLE PROTEIN,
+2893,Adrenergic receptor beta,GPCR,3,PROTEIN FAMILY,
+1966,Histamine H3 receptor,GPCR,1,SINGLE PROTEIN,
+6273,NEDD8-activating enzyme E1 regulatory subunit,Enzyme,1,SINGLE PROTEIN,Tchem
+2786,GABA A receptor alpha-3/beta-2/gamma-2,Ion channel,3,PROTEIN COMPLEX,
+334,Plasminogen,Enzyme,1,SINGLE PROTEIN,Tclin
+2874,Voltage-gated L-type calcium channel,Ion channel,3,PROTEIN FAMILY,
+3456,Envelope glycoprotein,Membrane other,12,PROTEIN FAMILY,
+669,Fibroblast growth factor receptor 3,Kinase,1,SINGLE PROTEIN,Tclin
+566,Myeloperoxidase,Enzyme,1,SINGLE PROTEIN,Tchem
+757,Calcium/calmodulin-dependent protein kinase type II subunit beta,Kinase,1,SINGLE PROTEIN,Tchem
+1919,Aminopeptidase B,Enzyme,1,SINGLE PROTEIN,
+2727,Neuronal acetylcholine receptor; alpha4/beta2,Ion channel,2,PROTEIN COMPLEX,
+2759,GABA-A receptor; anion channel,Ion channel,16,PROTEIN COMPLEX GROUP,
+2440,Quinolone resistance protein NorA,Transporter,1,SINGLE PROTEIN,
+2593,Dihydrofolate reductase,Enzyme,1,SINGLE PROTEIN,
+4011,Prostaglandin D2 receptor 2,GPCR,1,SINGLE PROTEIN,
+4539,Lysyl oxidase homolog 3,Enzyme,1,SINGLE PROTEIN,Tbio
+580,P2X purinoceptor 1,Ion channel,1,SINGLE PROTEIN,Tchem
+1820,S-adenosylmethionine decarboxylase proenzyme,Enzyme,1,SINGLE PROTEIN,
+2372,Phosphatidylinositol 4-kinase beta,Kinase,1,SINGLE PROTEIN,Tchem
+3910,Interleukin-4 receptor subunit alpha,Membrane receptor,1,SINGLE PROTEIN,Tclin
+3652,uric acid,Metabolite,0,,
+445,Potassium voltage-gated channel subfamily A member 5,Ion channel,1,SINGLE PROTEIN,Tclin
+1475,"Glycogen phosphorylase, liver form",Enzyme,1,SINGLE PROTEIN,Tchem
+1438,Phospholipase D1,Enzyme,1,SINGLE PROTEIN,Tchem
+5440,Macrophage-stimulating protein receptor,Kinase,1,SINGLE PROTEIN,Tchem
+680,Arachidonate 15-lipoxygenase,Enzyme,1,SINGLE PROTEIN,Tchem
+342,Gonadotropin-releasing hormone receptor,GPCR,1,SINGLE PROTEIN,Tclin
+2794,GABA A receptor alpha-3/beta-2/gamma-3,Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+1417,Penicillin-binding protein 1A,Enzyme,1,SINGLE PROTEIN,
+2501,Penicillin-binding protein 2,Enzyme,1,SINGLE PROTEIN,
+393,Thromboxane A2 receptor,GPCR,1,SINGLE PROTEIN,Tclin
+2241,Serine/threonine-protein kinase MRCK alpha,Kinase,1,SINGLE PROTEIN,Tchem
+1583,Lysine--tRNA ligase,Enzyme,1,SINGLE PROTEIN,Tchem
+475,Flavin reductase (NADPH),Enzyme,1,SINGLE PROTEIN,Tbio
+1868,Alpha-2A adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+2167,Serine/threonine-protein kinase 25,Kinase,1,SINGLE PROTEIN,Tbio
+1751,Sodium-dependent serotonin transporter,Transporter,1,SINGLE PROTEIN,
+3647,Myeloid cell surface antigen CD33,Surface antigen,1,SINGLE PROTEIN,Tclin
+5356,Peptidyl-prolyl cis-trans isomerase FKBP1A,Enzyme,1,SINGLE PROTEIN,
+2926,"Hepatitis C virus serine protease, NS3/NS4A",Enzyme,2,PROTEIN COMPLEX,
+466,Retinol-binding protein 2,Cytosolic other,1,SINGLE PROTEIN,Tbio
+1774,Butyrylcholinesterase; Protein Bche,Enzyme,1,SINGLE PROTEIN,
+2612,Serine/threonine-protein kinase PknB,Kinase,1,SINGLE PROTEIN,
+403,Gag-Pol polyprotein,Polyprotein,1,SINGLE PROTEIN,
+2289,Pteridine reductase 1,Enzyme,1,SINGLE PROTEIN,
+5978,"Cytochrome c1, heme protein, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tchem
+5756,Oxytocin receptor,GPCR,1,SINGLE PROTEIN,
+2694,Squalene monooxygenase,Enzyme,1,SINGLE PROTEIN,
+2741,Tubulin,Structural,3,PROTEIN COMPLEX GROUP,
+3519,Creatine transporter,Transporter,1,SINGLE PROTEIN,
+3876,2'-deoxynucleoside 5'-phosphate N-hydrolase 1,Enzyme,1,SINGLE PROTEIN,
+3663,hyaluronic acid,Metabolite,0,,
+24,Enterococcus faecalis ATCC 29212,Bacteria,0,,
+6023,Uncharacterized aarF domain-containing protein kinase 5,Kinase,1,SINGLE PROTEIN,Tdark
+4915,Short transient receptor potential channel 3,Ion channel,1,SINGLE PROTEIN,Tchem
+297,Ribosyldihydronicotinamide dehydrogenase [quinone],Enzyme,1,SINGLE PROTEIN,Tchem
+1837,4-hydroxyphenylpyruvate dioxygenase,Enzyme,1,SINGLE PROTEIN,
+3492,JAK1/JAK2/TYK2,Kinase,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+2347,Serine/threonine-protein kinase OSR1,Kinase,1,SINGLE PROTEIN,Tbio
+6046,Serine/threonine-protein kinase LMTK3,Kinase,1,SINGLE PROTEIN,Tchem
+2623,Serine/threonine-protein kinase Nek6,Kinase,1,SINGLE PROTEIN,Tbio
+2820,Neuronal acetylcholine receptor; alpha3/alpha6/beta2/beta3,Ion channel,4,PROTEIN COMPLEX,Tchem|Tchem|Tclin|Tclin
+117,Muscarinic acetylcholine receptor M5,GPCR,1,SINGLE PROTEIN,Tclin
+2841,Melatonin receptor,GPCR,3,PROTEIN FAMILY,
+3408,Glycine Receptor,Ion channel,5,PROTEIN FAMILY,Tchem|Tchem|Tclin|Tclin
+2614,Lysine-specific histone demethylase 1A,Enzyme,1,SINGLE PROTEIN,Tchem
+6271,Transcription factor p65,Transcription factor,1,SINGLE PROTEIN,Tchem
+876,Mitogen-activated protein kinase kinase kinase 4,Kinase,1,SINGLE PROTEIN,Tbio
+5315,Tyrosine-protein kinase Lyn,Kinase,1,SINGLE PROTEIN,Tclin
+913,Carbonyl reductase [NADPH] 1,Enzyme,1,SINGLE PROTEIN,Tchem
+5264,"Glutamate receptor ionotropic, NMDA 2D",Ion channel,1,SINGLE PROTEIN,Tclin
+2163,Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha,Kinase,1,SINGLE PROTEIN,Tbio
+2216,NUAK family SNF1-like kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+4517,Luciferin 4-monooxygenase,Enzyme,1,SINGLE PROTEIN,
+5404,Cytoplasmic tyrosine-protein kinase BMX,Kinase,1,SINGLE PROTEIN,Tchem
+1346,Ryanodine receptor 3,Ion channel,1,SINGLE PROTEIN,Tclin
+5473,Tyrosine-protein kinase JAK2,Kinase,1,SINGLE PROTEIN,
+4146,Glutamate racemase,Enzyme,1,SINGLE PROTEIN,
+948,Amiloride-sensitive amine oxidase [copper-containing],Enzyme,1,SINGLE PROTEIN,Tchem
+3573,Hypoxia-inducible factor 1-alpha inhibitor,Enzyme,1,SINGLE PROTEIN,Tbio
+4548,Acid ceramidase,Enzyme,1,SINGLE PROTEIN,Tchem
+908,Calcium/calmodulin-dependent protein kinase kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+768,Peptidyl-prolyl cis-trans isomerase FKBP4,Enzyme,1,SINGLE PROTEIN,Tchem
+2096,Potassium voltage-gated channel subfamily KQT member 1,Ion channel,1,SINGLE PROTEIN,
+2560,3-oxoacyl-acyl-carrier protein reductase,Enzyme,1,SINGLE PROTEIN,
+2257,AarF domain-containing protein kinase 4,Kinase,1,SINGLE PROTEIN,Tbio
+5413,Isoleucine--tRNA ligase,Enzyme,1,SINGLE PROTEIN,
+2187,Maternal embryonic leucine zipper kinase,Kinase,1,SINGLE PROTEIN,Tchem
+3496,Cytochrome P450 3A,Enzyme,4,PROTEIN FAMILY,Tclin|Tclin|Tclin|Tclin
+5527,Taste receptor type 2 member 7,GPCR,1,SINGLE PROTEIN,Tbio
+142,Sodium channel protein type 9 subunit alpha,Ion channel,1,SINGLE PROTEIN,Tclin
+621,Thromboxane-A synthase,Enzyme,1,SINGLE PROTEIN,Tchem
+700,Thymidine phosphorylase,Enzyme,1,SINGLE PROTEIN,Tclin
+6050,dCTP pyrophosphatase 1,Unclassified,1,SINGLE PROTEIN,Tchem
+6972,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+422,ADP/ATP translocase 1,Transporter,1,SINGLE PROTEIN,Tbio
+2627,Transcription factor ETV6,Transcription factor,1,SINGLE PROTEIN,Tbio
+4110,Interleukin-5 receptor subunit alpha,Membrane receptor,1,SINGLE PROTEIN,Tclin
+2536,Genome polyprotein,Polyprotein,1,SINGLE PROTEIN,
+2097,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+3480,Penicillin-binding protein,Enzyme,6,PROTEIN FAMILY,
+2575,Phenylethanolamine N-methyltransferase,Enzyme,1,SINGLE PROTEIN,Tchem
+6770,Sterol regulatory element-binding protein 1,Unclassified,1,SINGLE PROTEIN,Tchem
+614,"Myosin light chain kinase, smooth muscle",Kinase,1,SINGLE PROTEIN,Tchem
+2535,Type-1 angiotensin II receptor,GPCR,1,SINGLE PROTEIN,
+2923,Bacterial DNA-directed RNA polymerase,Enzyme,4,PROTEIN COMPLEX,
+1851,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+2013,Estrogen receptor,Transcription factor,1,SINGLE PROTEIN,
+5297,Receptor tyrosine-protein kinase erbB-2,Kinase,1,SINGLE PROTEIN,Tclin
+904,P2Y purinoceptor 11,GPCR,1,SINGLE PROTEIN,Tbio
+2043,MAP kinase-activated protein kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+5360,Serine/threonine-protein kinase B-raf,Kinase,1,SINGLE PROTEIN,
+1730,Pol polyprotein,Enzyme,1,SINGLE PROTEIN,
+2758,GABA-A receptor,Ion channel,3,PROTEIN COMPLEX GROUP,
+2832,JAK3/JAK1,Kinase,2,PROTEIN COMPLEX,Tclin|Tclin
+2392,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+2134,Ribosomal protein S6 kinase alpha-6,Kinase,1,SINGLE PROTEIN,Tchem
+2325,Serine/threonine-protein kinase Chk2,Kinase,1,SINGLE PROTEIN,Tchem
+5531,Taste receptor type 2 member 1,GPCR,1,SINGLE PROTEIN,Tbio
+7097,SAFB-like transcription modulator,Unclassified,1,SINGLE PROTEIN,Tbio
+2378,Cathepsin S,Enzyme,1,SINGLE PROTEIN,Tchem
+2395,Renin-1,Enzyme,1,SINGLE PROTEIN,
+202,Estrogen receptor,Nuclear hormone receptor,1,SINGLE PROTEIN,Tclin
+661,Liver carboxylesterase 1,Enzyme,1,SINGLE PROTEIN,Tchem
+1927,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+5518,G-protein coupled receptor 84,GPCR,1,SINGLE PROTEIN,Tchem
+2081,BDNF/NT-3 growth factors receptor,Kinase,1,SINGLE PROTEIN,Tclin
+3716,Ubiquitin carboxyl-terminal hydrolase 1,Enzyme,1,SINGLE PROTEIN,Tchem
+1871,Tubulin beta-2B chain,Structural,1,SINGLE PROTEIN,
+2168,Mitogen-activated protein kinase kinase kinase MLT,Kinase,1,SINGLE PROTEIN,Tchem
+1179,Glycine receptor subunit alpha-3,Ion channel,1,SINGLE PROTEIN,Tchem
+303,Potassium voltage-gated channel subfamily KQT member 3,Ion channel,1,SINGLE PROTEIN,Tclin
+5255,Genome polyprotein,Unclassified,1,SINGLE PROTEIN,
+3632,Nucleoside triphosphate diphosphohydrolase 3,Enzyme,1,SINGLE PROTEIN,
+835,Protein S100-B,Cytosolic other,1,SINGLE PROTEIN,Tchem
+4234,von Willebrand factor,Unclassified,1,SINGLE PROTEIN,Tclin
+2531,30S ribosomal protein S9,Ribosomal protein,1,SINGLE PROTEIN,
+4115,Free fatty acid receptor 2,GPCR,1,SINGLE PROTEIN,
+2715,Dopamine beta-hydroxylase,Enzyme,1,SINGLE PROTEIN,Tchem
+444,"Adrenodoxin, mitochondrial",Unclassified,1,SINGLE PROTEIN,Tbio
+2380,Beta-lactamase GES-13,Enzyme,1,SINGLE PROTEIN,
+2387,Class D beta-lactamase,Unclassified,1,SINGLE PROTEIN,
+730,Cathepsin D,Enzyme,1,SINGLE PROTEIN,Tchem
+2717,"Superoxide dismutase [Mn], mitochondrial",Enzyme,1,SINGLE PROTEIN,Tbio
+5513,Histamine H3 receptor,GPCR,1,SINGLE PROTEIN,
+4112,Somatostatin receptor type 5,GPCR,1,SINGLE PROTEIN,
+4523,Sphingomyelin phosphodiesterase,Enzyme,1,SINGLE PROTEIN,Tbio
+3064,B1 bradykinin receptor,GPCR,1,SINGLE PROTEIN,Tchem
+1812,HD2 type histone deacetylase HDA106; Histone deacetylase 2b; Uncharacterized protein,Enzyme,1,SINGLE PROTEIN,
+5448,NS3 protease,Unclassified,1,SINGLE PROTEIN,
+1734,Alpha-1D adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+1510,DNA-directed RNA polymerase subunit beta,Enzyme,1,SINGLE PROTEIN,
+5546,Cholesterol 24-hydroxylase,Enzyme,1,SINGLE PROTEIN,Tbio
+1790,Thymidylate synthase,Enzyme,1,SINGLE PROTEIN,
+5420,Taste receptor type 2 member 31,GPCR,1,SINGLE PROTEIN,Tchem
+3890,ATP synthase subunit c,Enzyme,1,SINGLE PROTEIN,
+4371,Growth/differentiation factor 8,Cytokine,1,SINGLE PROTEIN,Tclin
+3407,Genome polyprotein,Polyprotein,1,SINGLE PROTEIN,
+810,Histone deacetylase 9,Enzyme,1,SINGLE PROTEIN,Tclin
+1792,Angiotensin-converting enzyme,Enzyme,1,SINGLE PROTEIN,
+1888,Protease,Enzyme,1,SINGLE PROTEIN,
+2208,RAC-gamma serine/threonine-protein kinase,Kinase,1,SINGLE PROTEIN,Tchem
+2807,Kir3.1/Kir3.2,Ion channel,2,PROTEIN COMPLEX,Tbio|Tchem
+494,Prostaglandin E2 receptor EP4 subtype,GPCR,1,SINGLE PROTEIN,Tclin
+5312,Beta-2 adrenergic receptor,GPCR,1,SINGLE PROTEIN,Tclin
+2916,Histone deacetylase,Enzyme,11,PROTEIN FAMILY,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+3578,Glutathione reductase,Enzyme,1,SINGLE PROTEIN,
+183,Mineralocorticoid receptor,Nuclear hormone receptor,1,SINGLE PROTEIN,Tclin
+3579,Dopamine transporter,Transporter,1,SINGLE PROTEIN,
+2194,Interleukin-1 receptor-associated kinase 3,Kinase,1,SINGLE PROTEIN,Tchem
+1701,Glucagon receptor,GPCR,1,SINGLE PROTEIN,Tclin
+5352,Peroxisome proliferator-activated receptor alpha,Nuclear hormone receptor,1,SINGLE PROTEIN,
+3543,Amine oxidase [flavin-containing],Enzyme,1,SINGLE PROTEIN,
+1209,Metabotropic glutamate receptor 3,GPCR,1,SINGLE PROTEIN,Tchem
+118,Aldehyde oxidase,Enzyme,1,SINGLE PROTEIN,Tbio
+316,"Glutamate receptor ionotropic, NMDA 2C",Ion channel,1,SINGLE PROTEIN,Tclin
+3877,ORF 73,Unclassified,1,SINGLE PROTEIN,
+2922,DNA gyrase,Enzyme,2,PROTEIN COMPLEX,
+335,Muscarinic acetylcholine receptor,GPCR,1,SINGLE PROTEIN,
+2868,Tubulin,Structural,3,PROTEIN FAMILY,
+215,Voltage-dependent calcium channel subunit alpha-2/delta-1,Ion channel,1,SINGLE PROTEIN,Tclin
+5332,Insulin-degrading enzyme,Enzyme,1,SINGLE PROTEIN,Tchem
+2881,Angiotensin II receptor (AT-1) type-1,GPCR,2,PROTEIN FAMILY,
+5350,Mineralocorticoid receptor,Nuclear hormone receptor,1,SINGLE PROTEIN,
+2940,T-cell surface glycoprotein CD3,Surface antigen,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+1761,"Dihydroorotate dehydrogenase (quinone), mitochondrial",Enzyme,1,SINGLE PROTEIN,
+5452,Receptor-interacting serine/threonine-protein kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+201,Glycine receptor subunit alpha-2,Ion channel,1,SINGLE PROTEIN,Tchem
+58,Cannabinoid receptor 1,GPCR,1,SINGLE PROTEIN,Tclin
+4373,Nectin-4,Tumour-associated antigen,1,SINGLE PROTEIN,Tclin
+310,Peptidoglycan synthase FtsI,Enzyme,1,SINGLE PROTEIN,
+5313,Glycine receptor subunit alpha-1,Ion channel,1,SINGLE PROTEIN,
+753,Membrane primary amine oxidase,Enzyme,1,SINGLE PROTEIN,Tchem
+2643,Sodium channel protein,Ion channel,1,SINGLE PROTEIN,
+5451,Protein tyrosine phosphatase type IVA 2,Enzyme,1,SINGLE PROTEIN,Tchem
+369,Caspase-1,Enzyme,1,SINGLE PROTEIN,Tchem
+3627,"Oligo-1,6-glucosidase",Enzyme,1,SINGLE PROTEIN,
+2413,Lysosomal alpha-glucosidase,Enzyme,1,SINGLE PROTEIN,
+5285,Tyrosine-protein kinase ABL1,Kinase,1,SINGLE PROTEIN,Tclin
+3879,Aldose reductase-related protein 1,Enzyme,1,SINGLE PROTEIN,
+1981,Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,Enzyme,1,SINGLE PROTEIN,
+2729,Potassium-transporting ATPase,Enzyme,2,PROTEIN COMPLEX,
+2818,Serotonin 3 (5-HT3) receptor,Ion channel,5,PROTEIN COMPLEX,Tchem|Tchem|Tchem|Tchem|Tclin
+3959,Transient receptor potential cation channel subfamily M member 7,Ion channel,1,SINGLE PROTEIN,
+716,Glutamate receptor 4,Ion channel,1,SINGLE PROTEIN,Tclin
+2195,Serine/threonine-protein kinase RIO3,Kinase,1,SINGLE PROTEIN,Tchem
+2142,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Kinase,1,SINGLE PROTEIN,Tclin
+2237,"Myosin light chain kinase, smooth muscle",Kinase,1,SINGLE PROTEIN,
+5980,4-hydroxy-tetrahydrodipicolinate synthase,Unclassified,1,SINGLE PROTEIN,
+5750,rocuronium,Drug,0,,
+2803,Neuronal acetylcholine receptor; alpha4/beta4,Ion channel,2,PROTEIN COMPLEX,Tclin|Tclin
+1692,Potassium channel subfamily K member 18,Ion channel,1,SINGLE PROTEIN,Tclin
+2363,Uncharacterized serine/threonine-protein kinase SBK3,Kinase,1,SINGLE PROTEIN,Tdark
+928,Proteasome subunit beta type-8,Enzyme,1,SINGLE PROTEIN,Tclin
+5326,Mast/stem cell growth factor receptor Kit,Kinase,1,SINGLE PROTEIN,Tclin
+2792,Sodium/potassium-transporting ATPase,Transporter,8,PROTEIN COMPLEX GROUP,Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin|Tclin
+2606,Voltage-dependent L-type calcium channel subunit alpha-1C,Ion channel,1,SINGLE PROTEIN,
+2460,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,Kinase,1,SINGLE PROTEIN,Tbio
+2499,Vasoactive intestinal polypeptide receptor 1,GPCR,1,SINGLE PROTEIN,Tbio
+623,Death-associated protein kinase 3,Kinase,1,SINGLE PROTEIN,Tchem
+3572,Cell division protein kinase 5,Kinase,1,SINGLE PROTEIN,
+2752,Potassium-transporting ATPase,Transporter,2,PROTEIN COMPLEX,Tclin|Tclin
+2138,Glucose-6-phosphate 1-dehydrogenase,Enzyme,1,SINGLE PROTEIN,
+2076,Prostaglandin G/H synthase 1,Enzyme,1,SINGLE PROTEIN,
+3291,Short transient receptor potential channel 5,Ion channel,1,SINGLE PROTEIN,Tchem
+269,Voltage-dependent T-type calcium channel subunit alpha-1H,Ion channel,1,SINGLE PROTEIN,Tclin
+7095,Proteasome subunit beta type-7,Unclassified,1,SINGLE PROTEIN,Tbio
+2316,Mitogen-activated protein kinase kinase kinase kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+3993,Parathyroid hormone 2 receptor,GPCR,1,SINGLE PROTEIN,
+2285,Alpha carbonic anhydrase,Enzyme,1,SINGLE PROTEIN,
+505,Extracellular calcium-sensing receptor,GPCR,1,SINGLE PROTEIN,Tclin
+6270,"Fibroblast growth factor receptor 4, FGFR-4, EC 2.7.10.1",Unclassified,1,SINGLE PROTEIN,
+7090,Poly [ADP-ribose] polymerase 8,Unclassified,1,SINGLE PROTEIN,Tbio
+2385,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+4550,ELAV-like protein 3,Unclassified,1,SINGLE PROTEIN,Tbio
+1253,Inhibitor of nuclear factor kappa-B kinase subunit beta,Kinase,1,SINGLE PROTEIN,Tchem
+2103,Hormone-sensitive lipase,Enzyme,1,SINGLE PROTEIN,
+3580,Dopamine transporter,Transporter,1,SINGLE PROTEIN,
+416,Envelope glycoprotein,Viral envelope protein,1,SINGLE PROTEIN,
+6053,Beta-lactamase,Unclassified,1,SINGLE PROTEIN,
+2607,P2X purinoceptor 4,Ion channel,1,SINGLE PROTEIN,Tchem
+458,Endothelin B receptor,GPCR,1,SINGLE PROTEIN,Tclin
+2365,Tankyrase-2,Enzyme,1,SINGLE PROTEIN,Tchem
+1841,D(2) dopamine receptor,GPCR,1,SINGLE PROTEIN,
+512,"Aspartate aminotransferase, cytoplasmic",Enzyme,1,SINGLE PROTEIN,Tbio
+5491,CDGSH iron-sulfur domain-containing protein 2,Unclassified,1,SINGLE PROTEIN,Tbio
+2802,Neuronal acetylcholine receptor; alpha3/beta2,Ion channel,2,PROTEIN COMPLEX,Tclin|Tclin
+1779,Neuronal acetylcholine receptor subunit alpha-4,Ion channel,1,SINGLE PROTEIN,
+4358,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+1782,Thymidylate synthase,Enzyme,1,SINGLE PROTEIN,
+2449,Serine/threonine-protein kinase Nek3,Kinase,1,SINGLE PROTEIN,Tbio
+4384,"Peptidoglycan D,D-transpeptidase FtsI",Enzyme,1,SINGLE PROTEIN,
+4544,Alpha-2A adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+2852,Dopamine receptor,GPCR,5,PROTEIN FAMILY,
+3004,Interleukin-6 receptor,Membrane receptor,2,PROTEIN COMPLEX,Tclin|Tclin
+1985,Membrane primary amine oxidase,Enzyme,1,SINGLE PROTEIN,
+5755,Melanocortin receptor 4,GPCR,1,SINGLE PROTEIN,
+5385,Vascular endothelial growth factor receptor 2,Kinase,1,SINGLE PROTEIN,
+4109,DNA terminase complex,Enzyme,3,PROTEIN COMPLEX,Tclin
+2622,D-alanine--D-alanine ligase,Enzyme,1,SINGLE PROTEIN,
+1724,SMR1-alpha2,Unclassified,1,SINGLE PROTEIN,
+5378,Bifunctional epoxide hydrolase 2,Enzyme,1,SINGLE PROTEIN,Tchem
+627,Vitamin K-dependent gamma-carboxylase,Enzyme,1,SINGLE PROTEIN,Tclin
+1976,Fatty-acid amide hydrolase 1,Enzyme,1,SINGLE PROTEIN,
+866,Neutrophil collagenase,Enzyme,1,SINGLE PROTEIN,Tclin
+319,Carbonic anhydrase 9,Enzyme,1,SINGLE PROTEIN,Tclin
+5957,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+2409,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+843,Voltage-dependent N-type calcium channel subunit alpha-1B,Ion channel,1,SINGLE PROTEIN,Tclin
+2094,Carbonic anhydrase,Enzyme,1,SINGLE PROTEIN,
+1630,Tyrosine 3-monooxygenase,Enzyme,1,SINGLE PROTEIN,Tclin
+6565,Gag polyprotein,Enzyme,1,SINGLE PROTEIN,
+2915,Cannabinoid receptor,GPCR,2,PROTEIN FAMILY,
+2870,Trypsin,Enzyme,3,PROTEIN FAMILY,Tchem|Tchem|Tclin
+520,Glutamate receptor 2,Ion channel,1,SINGLE PROTEIN,Tclin
+129,Beta-3 adrenergic receptor,GPCR,1,SINGLE PROTEIN,Tclin
+4134,Beta-1 adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+1944,Cyclin-dependent kinase 9,Kinase,1,SINGLE PROTEIN,
+5507,Deoxyhypusine hydroxylase,Enzyme,1,SINGLE PROTEIN,Tbio
+1811,Cannabinoid receptor 1,GPCR,1,SINGLE PROTEIN,
+881,Chymotrypsinogen B,Enzyme,1,SINGLE PROTEIN,Tchem
+2687,Kelch-like ECH-associated protein 1,Cytosolic other,1,SINGLE PROTEIN,Tclin
+2601,Lycopene cyclase,Enzyme,1,SINGLE PROTEIN,
+2351,STE20/SPS1-related proline-alanine-rich protein kinase,Kinase,1,SINGLE PROTEIN,Tbio
+2538,Muscarinic acetylcholine receptor,GPCR,1,SINGLE PROTEIN,
+2411,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+3614,Phosphodiesterase 2A,Enzyme,1,SINGLE PROTEIN,
+2111,"Aldehyde dehydrogenase, mitochondrial",Enzyme,1,SINGLE PROTEIN,
+2722,Protein S100-P,Cytosolic other,1,SINGLE PROTEIN,Tbio
+3599,Protein kinase Pfmrk,Unclassified,1,SINGLE PROTEIN,
+5972,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,Enzyme,1,SINGLE PROTEIN,
+4236,Interleukin-3 receptor,Membrane receptor,2,PROTEIN COMPLEX,Tclin
+1366,Nuclear factor NF-kappa-B p105 subunit,Cytosolic other,1,SINGLE PROTEIN,Tclin
+7075,Monocarboxylate transporter 4,Transporter,1,SINGLE PROTEIN,Tchem
+2383,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,Ion channel,1,SINGLE PROTEIN,
+673,"Cytochrome P450 11B2, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tchem
+2482,Proteasome subunit beta type-1,Enzyme,1,SINGLE PROTEIN,Tclin
+4914,Coagulation factor IX,Enzyme,1,SINGLE PROTEIN,Tchem
+4135,Voltage-gated sodium channel Nav1.5 cardiac isoform,Unclassified,1,SINGLE PROTEIN,
+2403,Histamine H4 receptor,GPCR,1,SINGLE PROTEIN,
+152,"Glutathione reductase, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tclin
+1842,Sodium-dependent serotonin transporter,Transporter,1,SINGLE PROTEIN,
+449,Pyridoxal kinase,Kinase,1,SINGLE PROTEIN,Tbio
+631,Coagulation factor X,Enzyme,1,SINGLE PROTEIN,Tclin
+2711,Adenosylhomocysteinase,Enzyme,1,SINGLE PROTEIN,Tchem
+2733,GABA-A receptor alpha-3/beta-3/gamma-2,Ion channel,3,PROTEIN COMPLEX,Tclin|Tclin|Tclin
+1809,Muscarinic acetylcholine receptor M2,GPCR,1,SINGLE PROTEIN,
+2083,Ephrin type-B receptor 2,Kinase,1,SINGLE PROTEIN,Tchem
+1954,5-hydroxytryptamine receptor 2A,GPCR,1,SINGLE PROTEIN,
+3195,Follicle-stimulating hormone receptor,GPCR,1,SINGLE PROTEIN,Tclin
+207,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Enzyme,1,SINGLE PROTEIN,Tclin
+2444,Macrophage-stimulating protein receptor,Kinase,1,SINGLE PROTEIN,
+711,cAMP-dependent protein kinase catalytic subunit beta,Kinase,1,SINGLE PROTEIN,Tchem
+1422,Proton-coupled folate transporter,Transporter,1,SINGLE PROTEIN,Tchem
+455,Thiamine-triphosphatase,Enzyme,1,SINGLE PROTEIN,Tbio
+4360,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+2284,Ribosomal protein S6 kinase alpha-4,Kinase,1,SINGLE PROTEIN,Tchem
+1998,Histamine N-methyltransferase,Enzyme,1,SINGLE PROTEIN,
+2574,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+2166,Wee1-like protein kinase,Kinase,1,SINGLE PROTEIN,Tchem
+1850,Androgen receptor,Transcription factor,1,SINGLE PROTEIN,
+1817,Amine oxidase [flavin-containing] A,Enzyme,1,SINGLE PROTEIN,
+1803,Beta-1 adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+3873,Adenylate cyclase type 1,Enzyme,1,SINGLE PROTEIN,
+1685,Transient receptor potential cation channel subfamily M member 2,Ion channel,1,SINGLE PROTEIN,Tchem
+453,Transketolase,Enzyme,1,SINGLE PROTEIN,Tchem
+2148,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+4143,Carbonate dehydratase,Enzyme,1,SINGLE PROTEIN,
+5299,Myeloperoxidase,Enzyme,1,SINGLE PROTEIN,Tchem
+816,Mitogen-activated protein kinase 3,Kinase,1,SINGLE PROTEIN,Tchem
+2534,Cytochrome P450 1B1,Enzyme,1,SINGLE PROTEIN,Tchem
+3596,"Indoleamine 2,3-dioxygenase 1",Enzyme,1,SINGLE PROTEIN,
+1740,Mu-type opioid receptor,GPCR,1,SINGLE PROTEIN,
+2265,D(3) dopamine receptor,GPCR,1,SINGLE PROTEIN,
+268,Cytochrome P450 2C9,Enzyme,1,SINGLE PROTEIN,Tchem
+2118,Beta-lactamase SHV-1,Enzyme,1,SINGLE PROTEIN,
+2890,Tyrosine-protein kinase ABL,Kinase,2,PROTEIN FAMILY,Tchem|Tclin
+2597,5-lipoxygenase,Enzyme,1,SINGLE PROTEIN,
+1777,5-hydroxytryptamine receptor 7,GPCR,1,SINGLE PROTEIN,
+5754,Pancreatic triacylglycerol lipase,Enzyme,1,SINGLE PROTEIN,
+2000,Alpha-1B adrenergic receptor,GPCR,1,SINGLE PROTEIN,
+6016,Integrin-linked protein kinase,Kinase,1,SINGLE PROTEIN,Tchem
+386,Purine nucleoside phosphorylase,Enzyme,1,SINGLE PROTEIN,Tclin
+2240,Mitogen-activated protein kinase kinase kinase 11,Kinase,1,SINGLE PROTEIN,Tchem
+5474,Tyrosine-protein kinase JAK3,Kinase,1,SINGLE PROTEIN,
+1828,Dihydrofolate reductase,Enzyme,1,SINGLE PROTEIN,
+318,"4-aminobutyrate aminotransferase, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tclin
+2548,Met repressor,Unclassified,1,SINGLE PROTEIN,
+609,Insulin-like growth factor 1 receptor,Kinase,1,SINGLE PROTEIN,Tclin
+688,Chymotrypsin-like elastase family member 1,Enzyme,1,SINGLE PROTEIN,Tchem
+5457,Transcriptional enhancer factor TEF-3,Transcription factor,1,SINGLE PROTEIN,Tbio
+2801,Neuronal acetylcholine receptor; alpha3/beta4,Ion channel,2,PROTEIN COMPLEX,Tclin|Tclin
+5277,Bromodomain-containing protein 4,Unclassified,1,SINGLE PROTEIN,Tchem
+236,Voltage-dependent L-type calcium channel subunit alpha-1D,Ion channel,1,SINGLE PROTEIN,Tclin
+4527,Protein-lysine 6-oxidase,Enzyme,1,SINGLE PROTEIN,Tbio
+2386,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+693,"cGMP-dependent 3',5'-cyclic phosphodiesterase",Enzyme,1,SINGLE PROTEIN,Tclin
+1924,Prostaglandin E2 receptor EP3 subtype,GPCR,1,SINGLE PROTEIN,
+2,iron,Inorganic material,0,,
+2554,Dihydrofolate reductase,Enzyme,1,SINGLE PROTEIN,
+2292,Dihydropteroate synthase,Enzyme,1,SINGLE PROTEIN,
+1859,Prostaglandin G/H synthase 2,Enzyme,1,SINGLE PROTEIN,
+1223,Glutathione S-transferase kappa 1,Enzyme,1,SINGLE PROTEIN,Tchem
+4246,L-asparagine,Amino acid,0,,
+31,Ryanodine receptor 2,Ion channel,1,SINGLE PROTEIN,
+5278,Transient receptor potential cation channel subfamily A member 1,Ion channel,1,SINGLE PROTEIN,Tclin
+4923,Transient receptor potential cation channel subfamily M member 3,Ion channel,1,SINGLE PROTEIN,Tchem
+121,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",Enzyme,1,SINGLE PROTEIN,Tclin
+903,MAP kinase-interacting serine/threonine-protein kinase 2,Kinase,1,SINGLE PROTEIN,Tchem
+1059,Chloride channel protein ClC-Ka,Ion channel,1,SINGLE PROTEIN,Tbio
+6040,Poly(ADP-ribose) glycohydrolase,Enzyme,1,SINGLE PROTEIN,Tchem
+4240,30S ribosomal protein,Ribosomal protein,0,PROTEIN COMPLEX,
+5985,Multifunctional protein ADE2,Enzyme,1,SINGLE PROTEIN,Tchem
+3677,Sodium- and chloride-dependent GABA transporter 3,Transporter,1,SINGLE PROTEIN,Tbio
+1675,Transient receptor potential cation channel subfamily V member 3,Ion channel,1,SINGLE PROTEIN,Tchem
+868,Tyrosine-protein kinase FRK,Kinase,1,SINGLE PROTEIN,Tchem
+5354,Leukotriene A-4 hydrolase,Enzyme,1,SINGLE PROTEIN,
+5458,Transcriptional enhancer factor TEF-4,Transcription factor,1,SINGLE PROTEIN,Tbio
+549,Trypsin-1,Enzyme,1,SINGLE PROTEIN,Tclin
+1780,5-hydroxytryptamine receptor 1D,GPCR,1,SINGLE PROTEIN,
+1443,Pyruvate dehydrogenase [NADP(+)],Enzyme,1,SINGLE PROTEIN,
+233,Dehydrogenase/reductase SDR family member 9,Enzyme,1,SINGLE PROTEIN,Tbio
+143,Prostaglandin E2 receptor EP1 subtype,GPCR,1,SINGLE PROTEIN,Tclin
+1772,Acetylcholine receptor subunit delta,Ion channel,1,SINGLE PROTEIN,
+6038,Adenosine deaminase,Enzyme,1,SINGLE PROTEIN,
+3534,Dual specificity protein phosphatase 6,Enzyme,1,SINGLE PROTEIN,
+1932,Tyrosine-protein phosphatase 1,Enzyme,1,SINGLE PROTEIN,
+1364,Synaptic vesicle glycoprotein 2A,Transporter,1,SINGLE PROTEIN,Tclin
+1763,5-hydroxytryptamine receptor 2A,GPCR,1,SINGLE PROTEIN,
+2252,Serine/threonine-protein kinase Nek5,Kinase,1,SINGLE PROTEIN,Tdark
+4573,Platelet glycoprotein VI,Unclassified,1,SINGLE PROTEIN,Tbio
+2244,"Muscle, skeletal receptor tyrosine-protein kinase",Kinase,1,SINGLE PROTEIN,Tchem
+3442,Dihydrofolate reductase,Enzyme,1,SINGLE PROTEIN,
+769,"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform",Kinase,1,SINGLE PROTEIN,Tchem
+2250,Myosin-IIIa,Kinase,1,SINGLE PROTEIN,Tbio
+3411,CDK2/Cyclin A,Kinase,2,PROTEIN COMPLEX,Tchem|Tchem
+2026,Progesterone receptor,Transcription factor,1,SINGLE PROTEIN,
+2469,Trace amine-associated receptor 1,GPCR,1,SINGLE PROTEIN,
+672,Focal adhesion kinase 1,Kinase,1,SINGLE PROTEIN,Tclin
+1537,Sodium- and chloride-dependent glycine transporter 1,Transporter,1,SINGLE PROTEIN,Tchem
+2007,Butyrylcholinesterase,Enzyme,1,SINGLE PROTEIN,
+2092,Transporter,Transporter,1,SINGLE PROTEIN,
+945,ATP-binding cassette sub-family A member 1,Transporter,1,SINGLE PROTEIN,Tclin
+2725,Neuronal acetylcholine receptor; alpha3/beta2,Ion channel,2,PROTEIN COMPLEX,
+2917,Histone deacetylase 1/3/5/8,Enzyme,4,PROTEIN FAMILY,Tclin|Tclin|Tclin|Tclin
+525,Apoptosis regulator Bcl-2,Cytosolic other,1,SINGLE PROTEIN,Tclin
+3885,Pancreatic alpha-amylase,Enzyme,1,SINGLE PROTEIN,
+3731,Poly [ADP-ribose] polymerase 15,Enzyme,1,SINGLE PROTEIN,
+364,Nicotinate-nucleotide pyrophosphorylase [carboxylating],Enzyme,1,SINGLE PROTEIN,Tbio
+2503,Disintegrin and metalloproteinase domain-containing protein 9,Enzyme,1,SINGLE PROTEIN,Tchem
+5403,C-C chemokine receptor type 8,GPCR,1,SINGLE PROTEIN,Tchem
+2632,Gastric triacylglycerol lipase,Enzyme,1,SINGLE PROTEIN,Tclin
+7073,"Nucleoside diphosphate kinase, mitochondrial",Unclassified,1,SINGLE PROTEIN,Tbio
+5975,Heme oxygenase 1,Enzyme,1,SINGLE PROTEIN,
+4235,Calcitonin gene-related peptide 1,GPCR,1,SINGLE PROTEIN,Tclin
+3413,Urease,Enzyme,1,SINGLE PROTEIN,
+526,Inosine-5'-monophosphate dehydrogenase 2,Enzyme,1,SINGLE PROTEIN,Tclin
+2405,Carbonic anhydrase,Enzyme,1,SINGLE PROTEIN,
+5973,Protein Tat,Unclassified,1,SINGLE PROTEIN,
+5245,DNA gyrase subunit B,Enzyme,1,SINGLE PROTEIN,
+2323,Cyclin-dependent kinase-like 2,Kinase,1,SINGLE PROTEIN,Tbio
+743,"Arachidonate 12-lipoxygenase, 12S-type",Enzyme,1,SINGLE PROTEIN,Tchem
+197,Probable arabinosyltransferase B,Enzyme,1,SINGLE PROTEIN,
+5145,Beta-3 adrenergic receptor,GPCR,1,SINGLE PROTEIN,Tclin
+5751,vecuronium,Drug,0,,
+380,Nuclear receptor ROR-alpha,Nuclear hormone receptor,1,SINGLE PROTEIN,Tchem
+530,Protein P,Polyprotein,1,SINGLE PROTEIN,
+785,Dipeptidyl peptidase 4,Enzyme,1,SINGLE PROTEIN,
+278,Bifunctional dihydrofolate reductase-thymidylate synthase,Enzyme,1,SINGLE PROTEIN,
+956,Acetylcholine-binding protein,Unclassified,1,SINGLE PROTEIN,
+4538,Puromycin-sensitive aminopeptidase,Enzyme,1,SINGLE PROTEIN,Tchem
+5310,Urokinase-type plasminogen activator,Enzyme,1,SINGLE PROTEIN,
+1955,Cannabinoid receptor 1,GPCR,1,SINGLE PROTEIN,
+370,Glutathione S-transferase class-mu 26 kDa isozyme,Enzyme,1,SINGLE PROTEIN,
+2061,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+745,Tyrosine-protein kinase Lyn,Kinase,1,SINGLE PROTEIN,Tclin
+4364,"5-aminolevulinate synthase, nonspecific, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tclin
+1983,Dipeptidase 1,Enzyme,1,SINGLE PROTEIN,
+460,Retinol dehydrogenase 12,Enzyme,1,SINGLE PROTEIN,Tbio
+3471,Aldo-keto reductase family 1 member C4,Enzyme,1,SINGLE PROTEIN,Tbio
+2642,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",Enzyme,1,SINGLE PROTEIN,Tclin
+821,Nischarin,Membrane receptor,1,SINGLE PROTEIN,Tclin
+2272,Mitogen-activated protein kinase 15,Kinase,1,SINGLE PROTEIN,Tchem
+5275,Lysine-specific histone demethylase 1A,Enzyme,1,SINGLE PROTEIN,Tchem
+6157,Lymphocyte activation gene 3 protein,Tumour-associated antigen,1,SINGLE PROTEIN,Tclin
+4032,Multidrug and toxin extrusion protein 2,Unclassified,1,SINGLE PROTEIN,
+3821,Sodium- and chloride-dependent GABA transporter 3,Transporter,1,SINGLE PROTEIN,
+2842,Opioid receptor,GPCR,4,PROTEIN FAMILY,
+470,Cytochrome P450 2C19,Enzyme,1,SINGLE PROTEIN,Tchem
+2492,"Indoleamine 2,3-dioxygenase 2",Enzyme,1,SINGLE PROTEIN,
+349,"Carnitine O-palmitoyltransferase 2, mitochondrial",Enzyme,1,SINGLE PROTEIN,Tchem
+4370,Growth/differentiation factor 11,Cytokine,1,SINGLE PROTEIN,Tclin
+2938,Carbonic anhydrase,Enzyme,1,SINGLE PROTEIN,
+2465,Dual serine/threonine and tyrosine protein kinase,Kinase,1,SINGLE PROTEIN,Tbio
+412,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha",Enzyme,1,SINGLE PROTEIN,Tclin
+5964,Isopentenyl-diphosphate Delta-isomerase 1,Enzyme,1,SINGLE PROTEIN,
+2375,Bone morphogenetic protein receptor type-1B,Kinase,1,SINGLE PROTEIN,Tbio
+1987,"Glutamate receptor ionotropic, kainate 1",Ion channel,1,SINGLE PROTEIN,
+3435,Glyceraldehyde-3-phosphate dehydrogenase liver,Enzyme,1,SINGLE PROTEIN,Tchem
+2886,Glycogen synthase kinase-3,Kinase,2,PROTEIN FAMILY,Tclin|Tclin
+70,DNA polymerase catalytic subunit,Enzyme,1,SINGLE PROTEIN,
+381,Platelet-derived growth factor receptor beta,Kinase,1,SINGLE PROTEIN,Tclin
+1973,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+5329,Fibroblast growth factor receptor 1,Kinase,1,SINGLE PROTEIN,Tclin
+3102,G-protein coupled receptor 39,GPCR,1,SINGLE PROTEIN,Tchem
+5357,Amine oxidase [flavin-containing] B,Enzyme,1,SINGLE PROTEIN,Tclin
+6018,Structural maintenance of chromosomes protein 1A,Unclassified,1,SINGLE PROTEIN,Tchem
+4393,Replicase polyprotein 1ab,Enzyme,1,SINGLE PROTEIN,
+1959,Adenosine receptor A1,GPCR,1,SINGLE PROTEIN,
+1668,Potassium voltage-gated channel subfamily H member 1,Ion channel,1,SINGLE PROTEIN,Tclin
+2410,Neuraminidase,Enzyme,1,SINGLE PROTEIN,
+3862,Beta-hexosaminidase subunit beta,Enzyme,1,SINGLE PROTEIN,
+2769,Cyclin-dependent kinase 1/cyclin B,Kinase,4,PROTEIN COMPLEX,Tbio|Tbio|Tchem|Tchem
+3527,Nicotinic acetylcholine receptor alpha8 subunit,Ion channel,1,SINGLE PROTEIN,
+1127,Excitatory amino acid transporter 2,Transporter,1,SINGLE PROTEIN,Tchem
+2058,Corticosteroid 11-beta-dehydrogenase isozyme 1,Enzyme,1,SINGLE PROTEIN,
+783,G-protein coupled receptor 35,GPCR,1,SINGLE PROTEIN,
+5508,Alpha-ketoglutarate-dependent dioxygenase FTO,Unclassified,1,SINGLE PROTEIN,Tbio
+900,Arachidonate 5-lipoxygenase-activating protein,Cytosolic other,1,SINGLE PROTEIN,Tchem
+394,Gamma-aminobutyric acid receptor subunit beta,Ion channel,1,SINGLE PROTEIN,
+2123,Glycogen debranching enzyme,Enzyme,1,SINGLE PROTEIN,
+2637,NS5B protein,Enzyme,1,SINGLE PROTEIN,
+2540,Programmed cell death protein 4,Nuclear other,1,SINGLE PROTEIN,Tchem
+5753,Replicase polyprotein 1a,Unclassified,1,SINGLE PROTEIN,
+1860,Histamine H1 receptor,GPCR,1,SINGLE PROTEIN,
+2307,Histone deacetylase 11,Enzyme,1,SINGLE PROTEIN,Tclin
+3630,Glutamate-gated chloride channel,Ion channel,1,SINGLE PROTEIN,
+3595,Alpha-chymotrypsin,Enzyme,1,SINGLE PROTEIN,
+3691,SLAM family member 7,Membrane receptor,1,SINGLE PROTEIN,Tclin
+1706,Cytochrome P450 2E1,Enzyme,1,SINGLE PROTEIN,Tbio
+2317,Misshapen-like kinase 1,Kinase,1,SINGLE PROTEIN,Tchem
+366,Trace amine-associated receptor 1,GPCR,1,SINGLE PROTEIN,Tclin
+2781,DNA gyrase,Enzyme,2,PROTEIN COMPLEX,
+1529,Solute carrier family 22 member 11,Transporter,1,SINGLE PROTEIN,Tclin
+6011,Eyes absent homolog 3,Enzyme,1,SINGLE PROTEIN,
+3489,Cholecystokinin A receptor,GPCR,1,SINGLE PROTEIN,
+3642,Lanosterol 14-alpha demethylase,Enzyme,1,SINGLE PROTEIN,
+724,Sterol O-acyltransferase 1,Enzyme,1,SINGLE PROTEIN,Tchem
+2233,Cyclin-dependent kinase 11B,Kinase,1,SINGLE PROTEIN,Tbio
+3815,tRNA 2'-phosphotransferase,Unclassified,1,SINGLE PROTEIN,
+265,Bile salt export pump,Transporter,1,SINGLE PROTEIN,Tchem
+5444,Tyrosine-protein kinase receptor TYRO3,Kinase,1,SINGLE PROTEIN,Tchem
+3593,Histamine H2 receptor,GPCR,1,SINGLE PROTEIN,
+4401,ERBB2/ERBB3,Kinase,2,PROTEIN FAMILY,Tclin|Tclin
+1874,Cellular retinoic acid-binding protein 2,Cytosolic other,1,SINGLE PROTEIN,
+2183,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,Kinase,1,SINGLE PROTEIN,Tchem
+2192,Eukaryotic translation initiation factor 2-alpha kinase 4,Kinase,1,SINGLE PROTEIN,Tchem
+571,Caspase-3,Enzyme,1,SINGLE PROTEIN,Tchem
+2108,Prostaglandin F2-alpha receptor,GPCR,1,SINGLE PROTEIN,
+1963,Beta-lactamase,Enzyme,1,SINGLE PROTEIN,
+5130,Complement C3,Unclassified,1,SINGLE PROTEIN,Tbio
+5511,Olfactory receptor 51E2,GPCR,1,SINGLE PROTEIN,Tbio

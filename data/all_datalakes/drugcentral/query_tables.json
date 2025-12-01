@@ -1,0 +1,104 @@
+[
+    {
+        "query": [
+            {
+                "semantic_type": "Gene Symbol",
+                "examples": [
+                    "IL23A",
+                    "SCN5A",
+                    "GABRA1|GABRG2|GABRB2",
+                    "GART",
+                    "FCGR1A"
+                ],
+                "table": "act_table_full",
+                "column": "gene"
+            },
+            {
+                "semantic_type": "Activity Measurement Value",
+                "examples": [
+                    "11.0",
+                    "5.17",
+                    "5.7",
+                    "6.42",
+                    "8.15"
+                ],
+                "table": "act_table_full",
+                "column": "act_value"
+            },
+            {
+                "semantic_type": "Activity Data Source",
+                "examples": [
+                    "SCIENTIFIC LITERATURE",
+                    "CHEMBL",
+                    "CHEMBL",
+                    "CHEMBL",
+                    "DRUG LABEL"
+                ],
+                "table": "act_table_full",
+                "column": "act_source"
+            },
+            {
+                "semantic_type": "Type of Action",
+                "examples": [
+                    "INHIBITOR",
+                    "BLOCKER",
+                    "POSITIVE ALLOSTERIC MODULATOR",
+                    "INHIBITOR",
+                    "BINDING AGENT"
+                ],
+                "table": "act_table_full",
+                "column": "action_type"
+            },
+            {
+                "semantic_type": "Reference Type Description",
+                "examples": [
+                    "PATENT",
+                    "BOOK",
+                    "BOOK",
+                    "BOOK",
+                    "DRUG LABEL"
+                ],
+                "table": "ref_type",
+                "column": "type"
+            }
+        ],
+        "path": [
+            "act_table_full",
+            "data_source",
+            "property_type",
+            "property",
+            "ref_type"
+        ],
+        "join_order": [
+            {
+                "parent": "act_table_full",
+                "child": "data_source",
+                "parent_column": "act_source",
+                "child_column": "source_name",
+                "join_type": "semantichash"
+            },
+            {
+                "parent": "data_source",
+                "child": "property_type",
+                "parent_column": "src_id",
+                "child_column": "id",
+                "join_type": "natural"
+            },
+            {
+                "parent": "property_type",
+                "child": "property",
+                "parent_column": "id",
+                "child_column": "property_type_id",
+                "join_type": "natural"
+            },
+            {
+                "parent": "property",
+                "child": "ref_type",
+                "parent_column": "property_type_id",
+                "child_column": "id",
+                "join_type": "natural"
+            }
+        ],
+        "query_id": "Query 243"
+    }
+]

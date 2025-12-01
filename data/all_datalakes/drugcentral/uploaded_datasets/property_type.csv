@@ -1,0 +1,10 @@
+id,category,name,symbol,units
+1,ADME,Bioavailability,BA,%
+2,ADME,Biopharmaceutical Drug Disposition Classification System,BDDCS,
+3,ADME,Clearance,CL,mL/min/kg
+4,ADME,Fraction excreted unchanged in urine,EoM,%
+5,ADME,Fraction unbound in plasma,fu,%
+6,ADME,Half-life,t_half,hours
+7,ADME,Maximum Recommended Therapeutic Daily Dose,MRTD,µM/kg/day
+8,ADME,Volume of distribution,Vd,L/kg
+9,ADME,Water solubility,S,mg/mL
